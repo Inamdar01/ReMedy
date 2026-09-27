@@ -1,0 +1,13 @@
+disease,total_relationships,unique_drugs,unique_proteins_genes,total_biological_entities,connectivity_score
+schizophrenia,1952,52,890,914,942
+anxiety disorder,1588,235,481,483,716
+bipolar disorder,1142,57,497,497,554
+epilepsy,1146,335,193,193,528
+major depressive disorder,618,25,278,278,303
+stroke disorder,394,121,58,61,179
+Parkinson disease,610,72,104,177,176
+Alzheimer disease,466,64,101,151,165
+migraine disorder,152,63,9,9,72
+multiple sclerosis,146,15,45,45,60
+dementia (disease),138,31,17,17,48
+attention deficit-hyperactivity disorder,98,19,24,27,43

@@ -1,0 +1,1040 @@
+disease,drug_id,drug_name,drug_source
+schizophrenia,DB09128,Brexpiprazole,DrugBank
+schizophrenia,DB13676,Mosapramine,DrugBank
+schizophrenia,DB12710,Perazine,DrugBank
+schizophrenia,DB06016,Cariprazine,DrugBank
+schizophrenia,DB01618,Molindone,DrugBank
+schizophrenia,DB00726,Trimipramine,DrugBank
+schizophrenia,DB01065,Melatonin,DrugBank
+schizophrenia,DB00150,Tryptophan,DrugBank
+schizophrenia,DB13719,Trolnitrate,DrugBank
+schizophrenia,DB00623,Fluphenazine,DrugBank
+schizophrenia,DB06216,Asenapine,DrugBank
+schizophrenia,DB00165,Pyridoxine,DrugBank
+schizophrenia,DB01247,Isocarboxazid,DrugBank
+schizophrenia,DB00420,Promazine,DrugBank
+schizophrenia,DB00850,Perphenazine,DrugBank
+schizophrenia,DB00433,Prochlorperazine,DrugBank
+schizophrenia,DB00933,Mesoridazine,DrugBank
+schizophrenia,DB01624,Zuclopenthixol,DrugBank
+schizophrenia,DB00358,Mefloquine,DrugBank
+schizophrenia,DB00502,Haloperidol,DrugBank
+schizophrenia,DB00486,Nabilone,DrugBank
+schizophrenia,DB00780,Phenelzine,DrugBank
+schizophrenia,DB00477,Chlorpromazine,DrugBank
+schizophrenia,DB00458,Imipramine,DrugBank
+schizophrenia,DB01151,Desipramine,DrugBank
+schizophrenia,DB00344,Protriptyline,DrugBank
+schizophrenia,DB08815,Lurasidone,DrugBank
+schizophrenia,DB01623,Thiothixene,DrugBank
+schizophrenia,DB06077,Lumateperone,DrugBank
+schizophrenia,DB00875,Flupentixol,DrugBank
+schizophrenia,DB01273,Varenicline,DrugBank
+schizophrenia,DB00408,Loxapine,DrugBank
+schizophrenia,DB00470,Dronabinol,DrugBank
+schizophrenia,DB04842,Fluspirilene,DrugBank
+schizophrenia,DB00391,Sulpiride,DrugBank
+schizophrenia,DB00752,Tranylcypromine,DrugBank
+schizophrenia,DB13403,Oxypertine,DrugBank
+schizophrenia,DB08922,Perospirone,DrugBank
+schizophrenia,DB00246,Ziprasidone,DrugBank
+schizophrenia,DB01267,Paliperidone,DrugBank
+schizophrenia,DB00543,Amoxapine,DrugBank
+schizophrenia,DB04946,Iloperidone,DrugBank
+schizophrenia,DB09223,Blonanserin,DrugBank
+schizophrenia,DB00334,Olanzapine,DrugBank
+schizophrenia,DB01238,Aripiprazole,DrugBank
+schizophrenia,DB14185,Aripiprazole lauroxil,DrugBank
+schizophrenia,DB00831,Trifluoperazine,DrugBank
+schizophrenia,DB00181,Baclofen,DrugBank
+schizophrenia,DB01239,Chlorprothixene,DrugBank
+schizophrenia,DB01224,Quetiapine,DrugBank
+schizophrenia,DB06144,Sertindole,DrugBank
+schizophrenia,DB00734,Risperidone,DrugBank
+anxiety disorder,DB00313,Valproic acid,DrugBank
+anxiety disorder,DB13956,Estradiol valerate,DrugBank
+anxiety disorder,DB00273,Topiramate,DrugBank
+anxiety disorder,DB01438,Phenazopyridine,DrugBank
+anxiety disorder,DB01086,Benzocaine,DrugBank
+anxiety disorder,DB00874,Guaifenesin,DrugBank
+anxiety disorder,DB00882,Clomifene,DrugBank
+anxiety disorder,DB00562,Benzthiazide,DrugBank
+anxiety disorder,DB11181,Homatropine,DrugBank
+anxiety disorder,DB00570,Vinblastine,DrugBank
+anxiety disorder,DB01275,Hydralazine,DrugBank
+anxiety disorder,DB00754,Ethotoin,DrugBank
+anxiety disorder,DB00231,Temazepam,DrugBank
+anxiety disorder,DB00186,Lorazepam,DrugBank
+anxiety disorder,DB00555,Lamotrigine,DrugBank
+anxiety disorder,DB00425,Zolpidem,DrugBank
+anxiety disorder,DB00367,Levonorgestrel,DrugBank
+anxiety disorder,DB01104,Sertraline,DrugBank
+anxiety disorder,DB09322,Zinc sulfate,DrugBank
+anxiety disorder,DB00593,Ethosuximide,DrugBank
+anxiety disorder,DB05246,Methsuximide,DrugBank
+anxiety disorder,DB00310,Chlorthalidone,DrugBank
+anxiety disorder,DB01353,Butobarbital,DrugBank
+anxiety disorder,DB00241,Butalbital,DrugBank
+anxiety disorder,DB00804,Dicyclomine,DrugBank
+anxiety disorder,DB06715,Potassium Iodide,DrugBank
+anxiety disorder,DB00312,Pentobarbital,DrugBank
+anxiety disorder,DB00418,Secobarbital,DrugBank
+anxiety disorder,DB00318,Codeine,DrugBank
+anxiety disorder,DB00726,Trimipramine,DrugBank
+anxiety disorder,DB01325,Quinethazone,DrugBank
+anxiety disorder,DB00436,Bendroflumethiazide,DrugBank
+anxiety disorder,DB01065,Melatonin,DrugBank
+anxiety disorder,DB00150,Tryptophan,DrugBank
+anxiety disorder,DB00540,Nortriptyline,DrugBank
+anxiety disorder,DB01357,Mestranol,DrugBank
+anxiety disorder,DB01171,Moclobemide,DrugBank
+anxiety disorder,DB00603,Medroxyprogesterone acetate,DrugBank
+anxiety disorder,DB13719,Trolnitrate,DrugBank
+anxiety disorder,DB01059,Norfloxacin,DrugBank
+anxiety disorder,DB00771,Clidinium,DrugBank
+anxiety disorder,DB00742,Mannitol,DrugBank
+anxiety disorder,DB00745,Modafinil,DrugBank
+anxiety disorder,DB00909,Zonisamide,DrugBank
+anxiety disorder,DB00260,Cycloserine,DrugBank
+anxiety disorder,DB00717,Norethisterone,DrugBank
+anxiety disorder,DB01395,Drospirenone,DrugBank
+anxiety disorder,DB00765,Metyrosine,DrugBank
+anxiety disorder,DB00612,Bisoprolol,DrugBank
+anxiety disorder,DB09123,Dienogest,DrugBank
+anxiety disorder,DB09248,Mebanazine,DrugBank
+anxiety disorder,DB00165,Pyridoxine,DrugBank
+anxiety disorder,DB00195,Betaxolol,DrugBank
+anxiety disorder,DB06789,Hydroxyprogesterone caproate,DrugBank
+anxiety disorder,DB03783,Phenacetin,DrugBank
+anxiety disorder,DB00715,Paroxetine,DrugBank
+anxiety disorder,DB09244,Pirlindole,DrugBank
+anxiety disorder,DB00842,Oxazepam,DrugBank
+anxiety disorder,DB00996,Gabapentin,DrugBank
+anxiety disorder,DB00847,Cysteamine,DrugBank
+anxiety disorder,DB00484,Brimonidine,DrugBank
+anxiety disorder,DB00215,Citalopram,DrugBank
+anxiety disorder,DB01235,Levodopa,DrugBank
+anxiety disorder,DB00880,Chlorothiazide,DrugBank
+anxiety disorder,DB00999,Hydrochlorothiazide,DrugBank
+anxiety disorder,DB00277,Theophylline,DrugBank
+anxiety disorder,DB04844,Tetrabenazine,DrugBank
+anxiety disorder,DB00475,Chlordiazepoxide,DrugBank
+anxiety disorder,DB00201,Caffeine,DrugBank
+anxiety disorder,DB04836,Amineptine,DrugBank
+anxiety disorder,DB09304,Setiptiline,DrugBank
+anxiety disorder,DB00396,Progesterone,DrugBank
+anxiety disorder,DB00977,Ethinylestradiol,DrugBank
+anxiety disorder,DB01351,Amobarbital,DrugBank
+anxiety disorder,DB00252,Phenytoin,DrugBank
+anxiety disorder,DB00295,Morphine,DrugBank
+anxiety disorder,DB00133,Serine,DrugBank
+anxiety disorder,DB00968,Methyldopa,DrugBank
+anxiety disorder,DB12789,Dinoprost,DrugBank
+anxiety disorder,DB00459,Acitretin,DrugBank
+anxiety disorder,DB00472,Fluoxetine,DrugBank
+anxiety disorder,DB00450,Droperidol,DrugBank
+anxiety disorder,DB00176,Fluvoxamine,DrugBank
+anxiety disorder,DB09481,Magnesium carbonate,DrugBank
+anxiety disorder,DB00294,Etonogestrel,DrugBank
+anxiety disorder,DB00304,Desogestrel,DrugBank
+anxiety disorder,DB04818,Iproniazid,DrugBank
+anxiety disorder,DB01577,Metamfetamine,DrugBank
+anxiety disorder,DB00358,Mefloquine,DrugBank
+anxiety disorder,DB06713,Norelgestromin,DrugBank
+anxiety disorder,DB00328,Indomethacin,DrugBank
+anxiety disorder,DB00655,Estrone,DrugBank
+anxiety disorder,DB00571,Propranolol,DrugBank
+anxiety disorder,DB00264,Metoprolol,DrugBank
+anxiety disorder,DB00486,Nabilone,DrugBank
+anxiety disorder,DB00780,Phenelzine,DrugBank
+anxiety disorder,DB00747,Scopolamine,DrugBank
+anxiety disorder,DB09072,Sodium oxybate,DrugBank
+anxiety disorder,DB00206,Reserpine,DrugBank
+anxiety disorder,DB00458,Imipramine,DrugBank
+anxiety disorder,DB00321,Amitriptyline,DrugBank
+anxiety disorder,DB01151,Desipramine,DrugBank
+anxiety disorder,DB00783,Estradiol,DrugBank
+anxiety disorder,DB01174,Phenobarbital,DrugBank
+anxiety disorder,DB00651,Dyphylline,DrugBank
+anxiety disorder,DB08872,Gabapentin enacarbil,DrugBank
+anxiety disorder,DB00982,Isotretinoin,DrugBank
+anxiety disorder,DB00647,Dextropropoxyphene,DrugBank
+anxiety disorder,DB00829,Diazepam,DrugBank
+anxiety disorder,DB00344,Protriptyline,DrugBank
+anxiety disorder,DB00813,Fentanyl,DrugBank
+anxiety disorder,DB01198,Zopiclone,DrugBank
+anxiety disorder,DB01203,Nadolol,DrugBank
+anxiety disorder,DB00575,Clonidine,DrugBank
+anxiety disorder,DB01359,Penbutolol,DrugBank
+anxiety disorder,DB01193,Acebutolol,DrugBank
+anxiety disorder,DB00598,Labetalol,DrugBank
+anxiety disorder,DB01589,Quazepam,DrugBank
+anxiety disorder,DB01233,Metoclopramide,DrugBank
+anxiety disorder,DB09016,Butriptyline,DrugBank
+anxiety disorder,DB09247,Iproclozide,DrugBank
+anxiety disorder,DB00957,Norgestimate,DrugBank
+anxiety disorder,DB01156,Bupropion,DrugBank
+anxiety disorder,DB01324,Polythiazide,DrugBank
+anxiety disorder,DB11823,Esketamine,DrugBank
+anxiety disorder,DB01229,Paclitaxel,DrugBank
+anxiety disorder,DB11256,Levomefolic acid,DrugBank
+anxiety disorder,DB12930,Opipramol,DrugBank
+anxiety disorder,DB13954,Estradiol cypionate,DrugBank
+anxiety disorder,DB01242,Clomipramine,DrugBank
+anxiety disorder,DB00755,Tretinoin,DrugBank
+anxiety disorder,DB00182,Amphetamine,DrugBank
+anxiety disorder,DB01215,Estazolam,DrugBank
+anxiety disorder,DB01364,Ephedrine,DrugBank
+anxiety disorder,DB00564,Carbamazepine,DrugBank
+anxiety disorder,DB00823,Ethynodiol diacetate,DrugBank
+anxiety disorder,DB01588,Prazepam,DrugBank
+anxiety disorder,DB09245,Toloxatone,DrugBank
+anxiety disorder,DB01545,Ethyl loflazepate,DrugBank
+anxiety disorder,DB00335,Atenolol,DrugBank
+anxiety disorder,DB01018,Guanfacine,DrugBank
+anxiety disorder,DB00404,Alprazolam,DrugBank
+anxiety disorder,DB00897,Triazolam,DrugBank
+anxiety disorder,DB00190,Carbidopa,DrugBank
+anxiety disorder,DB00776,Oxcarbazepine,DrugBank
+anxiety disorder,DB00398,Sorafenib,DrugBank
+anxiety disorder,DB00193,Tramadol,DrugBank
+anxiety disorder,DB00373,Timolol,DrugBank
+anxiety disorder,DB00949,Felbamate,DrugBank
+anxiety disorder,DB01273,Varenicline,DrugBank
+anxiety disorder,DB08998,Demexiptiline,DrugBank
+anxiety disorder,DB13411,Lofepramine,DrugBank
+anxiety disorder,DB00300,Tenofovir disoproxil,DrugBank
+anxiety disorder,DB00470,Dronabinol,DrugBank
+anxiety disorder,DB00980,Ramelteon,DrugBank
+anxiety disorder,DB09254,Caroxazone,DrugBank
+anxiety disorder,DB00690,Flurazepam,DrugBank
+anxiety disorder,DB01155,Gemifloxacin,DrugBank
+anxiety disorder,DB01142,Doxepin,DrugBank
+anxiety disorder,DB00704,Naltrexone,DrugBank
+anxiety disorder,DB01656,Roflumilast,DrugBank
+anxiety disorder,DB01068,Clonazepam,DrugBank
+anxiety disorder,DB00220,Nelfinavir,DrugBank
+anxiety disorder,DB00471,Montelukast,DrugBank
+anxiety disorder,DB00625,Efavirenz,DrugBank
+anxiety disorder,DB00962,Zaleplon,DrugBank
+anxiety disorder,DB00230,Pregabalin,DrugBank
+anxiety disorder,DB14126,Tenofovir,DrugBank
+anxiety disorder,DB01392,Yohimbine,DrugBank
+anxiety disorder,DB00879,Emtricitabine,DrugBank
+anxiety disorder,DB14491,Ferrous fumarate,DrugBank
+anxiety disorder,DB00543,Amoxapine,DrugBank
+anxiety disorder,DB00402,Eszopiclone,DrugBank
+anxiety disorder,DB00960,Pindolol,DrugBank
+anxiety disorder,DB00774,Hydroflumethiazide,DrugBank
+anxiety disorder,DB00232,Methyclothiazide,DrugBank
+anxiety disorder,DB01021,Trichlormethiazide,DrugBank
+anxiety disorder,DB01045,Rifampicin,DrugBank
+anxiety disorder,DB11315,Methscopolamine,DrugBank
+anxiety disorder,DB00494,Entacapone,DrugBank
+anxiety disorder,DB00383,Oxyphencyclimine,DrugBank
+anxiety disorder,DB00237,Butabarbital,DrugBank
+anxiety disorder,DB00794,Primidone,DrugBank
+anxiety disorder,DB00302,Tranexamic acid,DrugBank
+anxiety disorder,DB00906,Tiagabine,DrugBank
+anxiety disorder,DB13526,Pentaerithrityl,DrugBank
+anxiety disorder,DB00849,Methylphenobarbital,DrugBank
+anxiety disorder,DB00422,Methylphenidate,DrugBank
+anxiety disorder,DB00696,Ergotamine,DrugBank
+anxiety disorder,DB06413,Armodafinil,DrugBank
+anxiety disorder,DB00744,Zileuton,DrugBank
+anxiety disorder,DB00549,Zafirlukast,DrugBank
+anxiety disorder,DB06201,Rufinamide,DrugBank
+anxiety disorder,DB01202,Levetiracetam,DrugBank
+anxiety disorder,DB00934,Maprotiline,DrugBank
+anxiety disorder,DB00424,Hyoscyamine,DrugBank
+anxiety disorder,DB08918,Levomilnacipran,DrugBank
+anxiety disorder,DB00285,Venlafaxine,DrugBank
+anxiety disorder,DB06700,Desvenlafaxine,DrugBank
+anxiety disorder,DB09128,Brexpiprazole,DrugBank
+anxiety disorder,DB00370,Mirtazapine,DrugBank
+anxiety disorder,DB12184,Gepirone,DrugBank
+anxiety disorder,DB01149,Nefazodone,DrugBank
+anxiety disorder,DB00234,Reboxetine,DrugBank
+anxiety disorder,DB01221,Ketamine,DrugBank
+anxiety disorder,DB01247,Isocarboxazid,DrugBank
+anxiety disorder,DB09068,Vortioxetine,DrugBank
+anxiety disorder,DB06148,Mianserin,DrugBank
+anxiety disorder,DB00656,Trazodone,DrugBank
+anxiety disorder,DB06684,Vilazodone,DrugBank
+anxiety disorder,DB00752,Tranylcypromine,DrugBank
+anxiety disorder,DB01037,Selegiline,DrugBank
+anxiety disorder,DB06594,Agomelatine,DrugBank
+anxiety disorder,DB00334,Olanzapine,DrugBank
+anxiety disorder,DB01175,Escitalopram,DrugBank
+anxiety disorder,DB00476,Duloxetine,DrugBank
+anxiety disorder,DB09167,Dosulepin,DrugBank
+anxiety disorder,DB00490,Buspirone,DrugBank
+anxiety disorder,DB11160,Phenyltoloxamine,DrugBank
+anxiety disorder,DB06691,Mepyramine,DrugBank
+anxiety disorder,DB01620,Pheniramine,DrugBank
+anxiety disorder,DB01173,Orphenadrine,DrugBank
+anxiety disorder,DB00140,Riboflavin,DrugBank
+anxiety disorder,DB01205,Flumazenil,DrugBank
+anxiety disorder,DB08797,Salicylamide,DrugBank
+anxiety disorder,DB00388,Phenylephrine,DrugBank
+anxiety disorder,DB06706,Isometheptene,DrugBank
+anxiety disorder,DB11126,Calcium gluconate,DrugBank
+anxiety disorder,DB01397,Magnesium salicylate,DrugBank
+anxiety disorder,DB01050,Ibuprofen,DrugBank
+anxiety disorder,DB00397,Phenylpropanolamine,DrugBank
+anxiety disorder,DB01114,Chlorpheniramine,DrugBank
+anxiety disorder,DB01551,Dihydrocodeine,DrugBank
+anxiety disorder,DB06767,Ammonium chloride,DrugBank
+anxiety disorder,DB09014,Captodiame,DrugBank
+bipolar disorder,DB00313,Valproic acid,DrugBank
+bipolar disorder,DB14507,Lithium citrate,DrugBank
+bipolar disorder,DB00555,Lamotrigine,DrugBank
+bipolar disorder,DB01149,Nefazodone,DrugBank
+bipolar disorder,DB01104,Sertraline,DrugBank
+bipolar disorder,DB00715,Paroxetine,DrugBank
+bipolar disorder,DB00215,Citalopram,DrugBank
+bipolar disorder,DB00252,Phenytoin,DrugBank
+bipolar disorder,DB14509,Lithium carbonate,DrugBank
+bipolar disorder,DB00472,Fluoxetine,DrugBank
+bipolar disorder,DB00176,Fluvoxamine,DrugBank
+bipolar disorder,DB01174,Phenobarbital,DrugBank
+bipolar disorder,DB08815,Lurasidone,DrugBank
+bipolar disorder,DB01156,Bupropion,DrugBank
+bipolar disorder,DB00564,Carbamazepine,DrugBank
+bipolar disorder,DB01142,Doxepin,DrugBank
+bipolar disorder,DB00246,Ziprasidone,DrugBank
+bipolar disorder,DB01267,Paliperidone,DrugBank
+bipolar disorder,DB00334,Olanzapine,DrugBank
+bipolar disorder,DB01175,Escitalopram,DrugBank
+bipolar disorder,DB00794,Primidone,DrugBank
+bipolar disorder,DB01224,Quetiapine,DrugBank
+bipolar disorder,DB00734,Risperidone,DrugBank
+bipolar disorder,DB00285,Venlafaxine,DrugBank
+bipolar disorder,DB06700,Desvenlafaxine,DrugBank
+bipolar disorder,DB00289,Atomoxetine,DrugBank
+bipolar disorder,DB00726,Trimipramine,DrugBank
+bipolar disorder,DB13719,Trolnitrate,DrugBank
+bipolar disorder,DB01255,Lisdexamfetamine,DrugBank
+bipolar disorder,DB01247,Isocarboxazid,DrugBank
+bipolar disorder,DB00158,Folic acid,DrugBank
+bipolar disorder,DB01577,Metamfetamine,DrugBank
+bipolar disorder,DB00780,Phenelzine,DrugBank
+bipolar disorder,DB01576,Dextroamphetamine,DrugBank
+bipolar disorder,DB00458,Imipramine,DrugBank
+bipolar disorder,DB01151,Desipramine,DrugBank
+bipolar disorder,DB00344,Protriptyline,DrugBank
+bipolar disorder,DB06701,Dexmethylphenidate,DrugBank
+bipolar disorder,DB00182,Amphetamine,DrugBank
+bipolar disorder,DB01273,Varenicline,DrugBank
+bipolar disorder,DB00408,Loxapine,DrugBank
+bipolar disorder,DB00470,Dronabinol,DrugBank
+bipolar disorder,DB06684,Vilazodone,DrugBank
+bipolar disorder,DB00865,Benzphetamine,DrugBank
+bipolar disorder,DB00752,Tranylcypromine,DrugBank
+bipolar disorder,DB01037,Selegiline,DrugBank
+bipolar disorder,DB00543,Amoxapine,DrugBank
+bipolar disorder,DB01367,Rasagiline,DrugBank
+bipolar disorder,DB01377,Magnesium oxide,DrugBank
+bipolar disorder,DB00237,Butabarbital,DrugBank
+bipolar disorder,DB00476,Duloxetine,DrugBank
+bipolar disorder,DB00422,Methylphenidate,DrugBank
+bipolar disorder,DB00159,Icosapent,DrugBank
+bipolar disorder,DB00934,Maprotiline,DrugBank
+bipolar disorder,DB06016,Cariprazine,DrugBank
+bipolar disorder,DB06216,Asenapine,DrugBank
+bipolar disorder,DB01238,Aripiprazole,DrugBank
+epilepsy,DB00904,Ondansetron,DrugBank
+epilepsy,DB00313,Valproic acid,DrugBank
+epilepsy,DB13956,Estradiol valerate,DrugBank
+epilepsy,DB00822,Disulfiram,DrugBank
+epilepsy,DB00760,Meropenem,DrugBank
+epilepsy,DB11148,Butamben,DrugBank
+epilepsy,DB09085,Tetracaine,DrugBank
+epilepsy,DB01086,Benzocaine,DrugBank
+epilepsy,DB00285,Venlafaxine,DrugBank
+epilepsy,DB06700,Desvenlafaxine,DrugBank
+epilepsy,DB01320,Fosphenytoin,DrugBank
+epilepsy,DB00874,Guaifenesin,DrugBank
+epilepsy,DB04896,Milnacipran,DrugBank
+epilepsy,DB11160,Phenyltoloxamine,DrugBank
+epilepsy,DB06691,Mepyramine,DrugBank
+epilepsy,DB00562,Benzthiazide,DrugBank
+epilepsy,DB11061,Povidone,DrugBank
+epilepsy,DB14478,Povidone K30,DrugBank
+epilepsy,DB00937,Diethylpropion,DrugBank
+epilepsy,DB00852,Pseudoephedrine,DrugBank
+epilepsy,DB11359,Guaiacol,DrugBank
+epilepsy,DB00938,Salmeterol,DrugBank
+epilepsy,DB14123,Racementhol,DrugBank
+epilepsy,DB01413,Cefepime,DrugBank
+epilepsy,DB11181,Homatropine,DrugBank
+epilepsy,DB01275,Hydralazine,DrugBank
+epilepsy,DB00832,Phensuximide,DrugBank
+epilepsy,DB00835,Brompheniramine,DrugBank
+epilepsy,DB01620,Pheniramine,DrugBank
+epilepsy,DB00537,Ciprofloxacin,DrugBank
+epilepsy,DB00370,Mirtazapine,DrugBank
+epilepsy,DB00527,Cinchocaine,DrugBank
+epilepsy,DB00186,Lorazepam,DrugBank
+epilepsy,DB00555,Lamotrigine,DrugBank
+epilepsy,DB12710,Perazine,DrugBank
+epilepsy,DB01246,Alimemazine,DrugBank
+epilepsy,DB14512,Mometasone furoate,DrugBank
+epilepsy,DB01149,Nefazodone,DrugBank
+epilepsy,DB00289,Atomoxetine,DrugBank
+epilepsy,DB01173,Orphenadrine,DrugBank
+epilepsy,DB00140,Riboflavin,DrugBank
+epilepsy,DB00959,Methylprednisolone,DrugBank
+epilepsy,DB01165,Ofloxacin,DrugBank
+epilepsy,DB01597,Cilastatin,DrugBank
+epilepsy,DB08936,Chlorcyclizine,DrugBank
+epilepsy,DB01176,Cyclizine,DrugBank
+epilepsy,DB00604,Cisapride,DrugBank
+epilepsy,DB00588,Fluticasone propionate,DrugBank
+epilepsy,DB00725,Homatropine methylbromide,DrugBank
+epilepsy,DB00367,Levonorgestrel,DrugBank
+epilepsy,DB01104,Sertraline,DrugBank
+epilepsy,DB01205,Flumazenil,DrugBank
+epilepsy,DB00395,Carisoprodol,DrugBank
+epilepsy,DB09472,Sodium sulfate,DrugBank
+epilepsy,DB05246,Methsuximide,DrugBank
+epilepsy,DB00310,Chlorthalidone,DrugBank
+epilepsy,DB00241,Butalbital,DrugBank
+epilepsy,DB13160,Alphaprodine,DrugBank
+epilepsy,DB08988,Ethoheptazine,DrugBank
+epilepsy,DB00854,Levorphanol,DrugBank
+epilepsy,DB06715,Potassium Iodide,DrugBank
+epilepsy,DB00915,Amantadine,DrugBank
+epilepsy,DB00333,Methadone,DrugBank
+epilepsy,DB00599,Thiopental,DrugBank
+epilepsy,DB00312,Pentobarbital,DrugBank
+epilepsy,DB00418,Secobarbital,DrugBank
+epilepsy,DB00318,Codeine,DrugBank
+epilepsy,DB01185,Fluoxymesterone,DrugBank
+epilepsy,DB00497,Oxycodone,DrugBank
+epilepsy,DB01192,Oxymorphone,DrugBank
+epilepsy,DB09449,"Sodium phosphate, monobasic",DrugBank
+epilepsy,DB05382,Iodine,DrugBank
+epilepsy,DB01625,Isopropamide,DrugBank
+epilepsy,DB00761,Potassium chloride,DrugBank
+epilepsy,DB01618,Molindone,DrugBank
+epilepsy,DB00726,Trimipramine,DrugBank
+epilepsy,DB00983,Formoterol,DrugBank
+epilepsy,DB01325,Quinethazone,DrugBank
+epilepsy,DB00750,Prilocaine,DrugBank
+epilepsy,DB00540,Nortriptyline,DrugBank
+epilepsy,DB00603,Medroxyprogesterone acetate,DrugBank
+epilepsy,DB13719,Trolnitrate,DrugBank
+epilepsy,DB01059,Norfloxacin,DrugBank
+epilepsy,DB00623,Fluphenazine,DrugBank
+epilepsy,DB00557,Hydroxyzine,DrugBank
+epilepsy,DB00260,Cycloserine,DrugBank
+epilepsy,DB00717,Norethisterone,DrugBank
+epilepsy,DB01019,Bethanechol,DrugBank
+epilepsy,DB01395,Drospirenone,DrugBank
+epilepsy,DB01057,Echothiophate,DrugBank
+epilepsy,DB09123,Dienogest,DrugBank
+epilepsy,DB06216,Asenapine,DrugBank
+epilepsy,DB01204,Mitoxantrone,DrugBank
+epilepsy,DB08797,Salicylamide,DrugBank
+epilepsy,DB01598,Imipenem,DrugBank
+epilepsy,DB01260,Desonide,DrugBank
+epilepsy,DB06789,Hydroxyprogesterone caproate,DrugBank
+epilepsy,DB01121,Phenacemide,DrugBank
+epilepsy,DB03783,Phenacetin,DrugBank
+epilepsy,DB00715,Paroxetine,DrugBank
+epilepsy,DB01255,Lisdexamfetamine,DrugBank
+epilepsy,DB09020,Bisacodyl,DrugBank
+epilepsy,DB00332,Ipratropium,DrugBank
+epilepsy,DB01403,Methotrimeprazine,DrugBank
+epilepsy,DB01253,Ergometrine,DrugBank
+epilepsy,DB00759,Tetracycline,DrugBank
+epilepsy,DB00505,Tridihexethyl,DrugBank
+epilepsy,DB00847,Cysteamine,DrugBank
+epilepsy,DB00974,Edetic acid,DrugBank
+epilepsy,DB00091,Cyclosporine,DrugBank
+epilepsy,DB00215,Citalopram,DrugBank
+epilepsy,DB01400,Neostigmine,DrugBank
+epilepsy,DB01235,Levodopa,DrugBank
+epilepsy,DB00819,Acetazolamide,DrugBank
+epilepsy,DB01247,Isocarboxazid,DrugBank
+epilepsy,DB00388,Phenylephrine,DrugBank
+epilepsy,DB00645,Dyclonine,DrugBank
+epilepsy,DB00816,Orciprenaline,DrugBank
+epilepsy,DB00880,Chlorothiazide,DrugBank
+epilepsy,DB00999,Hydrochlorothiazide,DrugBank
+epilepsy,DB00431,Lindane,DrugBank
+epilepsy,DB00277,Theophylline,DrugBank
+epilepsy,DB00420,Promazine,DrugBank
+epilepsy,DB00850,Perphenazine,DrugBank
+epilepsy,DB00433,Prochlorperazine,DrugBank
+epilepsy,DB00475,Chlordiazepoxide,DrugBank
+epilepsy,DB00624,Testosterone,DrugBank
+epilepsy,DB13943,Testosterone cypionate,DrugBank
+epilepsy,DB06710,Methyltestosterone,DrugBank
+epilepsy,DB00205,Pyrimethamine,DrugBank
+epilepsy,DB00201,Caffeine,DrugBank
+epilepsy,DB00363,Clozapine,DrugBank
+epilepsy,DB00396,Progesterone,DrugBank
+epilepsy,DB00977,Ethinylestradiol,DrugBank
+epilepsy,DB00371,Meprobamate,DrugBank
+epilepsy,DB00981,Physostigmine,DrugBank
+epilepsy,DB01351,Amobarbital,DrugBank
+epilepsy,DB00454,Meperidine,DrugBank
+epilepsy,DB00252,Phenytoin,DrugBank
+epilepsy,DB00295,Morphine,DrugBank
+epilepsy,DB00269,Chlorotrianisene,DrugBank
+epilepsy,DB00255,Diethylstilbestrol,DrugBank
+epilepsy,DB00133,Serine,DrugBank
+epilepsy,DB00933,Mesoridazine,DrugBank
+epilepsy,DB01268,Sunitinib,DrugBank
+epilepsy,DB01058,Praziquantel,DrugBank
+epilepsy,DB12789,Dinoprost,DrugBank
+epilepsy,DB01008,Busulfan,DrugBank
+epilepsy,DB06709,Methacholine,DrugBank
+epilepsy,DB00472,Fluoxetine,DrugBank
+epilepsy,DB00176,Fluvoxamine,DrugBank
+epilepsy,DB00583,Levocarnitine,DrugBank
+epilepsy,DB00294,Etonogestrel,DrugBank
+epilepsy,DB00304,Desogestrel,DrugBank
+epilepsy,DB00608,Chloroquine,DrugBank
+epilepsy,DB01577,Metamfetamine,DrugBank
+epilepsy,DB00358,Mefloquine,DrugBank
+epilepsy,DB00473,Hexylcaine,DrugBank
+epilepsy,DB00423,Methocarbamol,DrugBank
+epilepsy,DB06713,Norelgestromin,DrugBank
+epilepsy,DB00328,Indomethacin,DrugBank
+epilepsy,DB00655,Estrone,DrugBank
+epilepsy,DB00635,Prednisone,DrugBank
+epilepsy,DB13799,Ethadione,DrugBank
+epilepsy,DB00502,Haloperidol,DrugBank
+epilepsy,DB01222,Budesonide,DrugBank
+epilepsy,DB00780,Phenelzine,DrugBank
+epilepsy,DB01576,Dextroamphetamine,DrugBank
+epilepsy,DB00668,Epinephrine,DrugBank
+epilepsy,DB00747,Scopolamine,DrugBank
+epilepsy,DB06637,Dalfampridine,DrugBank
+epilepsy,DB06706,Isometheptene,DrugBank
+epilepsy,DB09072,Sodium oxybate,DrugBank
+epilepsy,DB00126,Ascorbic acid,DrugBank
+epilepsy,DB00206,Reserpine,DrugBank
+epilepsy,DB00477,Chlorpromazine,DrugBank
+epilepsy,DB00679,Thioridazine,DrugBank
+epilepsy,DB00458,Imipramine,DrugBank
+epilepsy,DB00321,Amitriptyline,DrugBank
+epilepsy,DB01151,Desipramine,DrugBank
+epilepsy,DB00907,Cocaine,DrugBank
+epilepsy,DB01041,Thalidomide,DrugBank
+epilepsy,DB00783,Estradiol,DrugBank
+epilepsy,DB00860,Prednisolone,DrugBank
+epilepsy,DB00741,Hydrocortisone,DrugBank
+epilepsy,DB00532,Mephenytoin,DrugBank
+epilepsy,DB00463,Metharbital,DrugBank
+epilepsy,DB01174,Phenobarbital,DrugBank
+epilepsy,DB01380,Cortisone acetate,DrugBank
+epilepsy,DB14539,Hydrocortisone acetate,DrugBank
+epilepsy,DB01234,Dexamethasone,DrugBank
+epilepsy,DB00748,Carbinoxamine,DrugBank
+epilepsy,DB00427,Triprolidine,DrugBank
+epilepsy,DB00647,Dextropropoxyphene,DrugBank
+epilepsy,DB00327,Hydromorphone,DrugBank
+epilepsy,DB01183,Naloxone,DrugBank
+epilepsy,DB00916,Metronidazole,DrugBank
+epilepsy,DB00529,Foscarnet,DrugBank
+epilepsy,DB00829,Diazepam,DrugBank
+epilepsy,DB00344,Protriptyline,DrugBank
+epilepsy,DB06701,Dexmethylphenidate,DrugBank
+epilepsy,DB06774,Capsaicin,DrugBank
+epilepsy,DB13396,Neocitrullamon,DrugBank
+epilepsy,DB00779,Nalidixic acid,DrugBank
+epilepsy,DB00297,Bupivacaine,DrugBank
+epilepsy,DB00443,Betamethasone,DrugBank
+epilepsy,DB08815,Lurasidone,DrugBank
+epilepsy,DB01233,Metoclopramide,DrugBank
+epilepsy,DB00917,Dinoprostone,DrugBank
+epilepsy,DB00777,Propiomazine,DrugBank
+epilepsy,DB00652,Pentazocine,DrugBank
+epilepsy,DB00674,Galantamine,DrugBank
+epilepsy,DB00957,Norgestimate,DrugBank
+epilepsy,DB01156,Bupropion,DrugBank
+epilepsy,DB01324,Polythiazide,DrugBank
+epilepsy,DB13139,Levosalbutamol,DrugBank
+epilepsy,DB08604,Triclosan,DrugBank
+epilepsy,DB01623,Thiothixene,DrugBank
+epilepsy,DB00382,Tacrine,DrugBank
+epilepsy,DB00379,Mexiletine,DrugBank
+epilepsy,DB11256,Levomefolic acid,DrugBank
+epilepsy,DB13944,Testosterone enanthate,DrugBank
+epilepsy,DB06213,Regadenoson,DrugBank
+epilepsy,DB13954,Estradiol cypionate,DrugBank
+epilepsy,DB05039,Indacaterol,DrugBank
+epilepsy,DB00561,Doxapram,DrugBank
+epilepsy,DB00291,Chlorambucil,DrugBank
+epilepsy,DB08842,Acetylcarnitine,DrugBank
+epilepsy,DB01242,Clomipramine,DrugBank
+epilepsy,DB00182,Amphetamine,DrugBank
+epilepsy,DB01196,Estramustine,DrugBank
+epilepsy,DB01364,Ephedrine,DrugBank
+epilepsy,DB11126,Calcium gluconate,DrugBank
+epilepsy,DB00564,Carbamazepine,DrugBank
+epilepsy,DB00190,Carbidopa,DrugBank
+epilepsy,DB01236,Sevoflurane,DrugBank
+epilepsy,DB01063,Acetophenazine,DrugBank
+epilepsy,DB00193,Tramadol,DrugBank
+epilepsy,DB06812,Povidone-iodine,DrugBank
+epilepsy,DB13679,Dexchlorpheniramine,DrugBank
+epilepsy,DB00949,Felbamate,DrugBank
+epilepsy,DB09287,Polyethylene glycol,DrugBank
+epilepsy,DB11077,Polyethylene glycol 400,DrugBank
+epilepsy,DB11161,Polyethylene glycol 300,DrugBank
+epilepsy,DB11236,Polyethylene glycol 3500,DrugBank
+epilepsy,DB01299,Sulfadoxine,DrugBank
+epilepsy,DB00871,Terbutaline,DrugBank
+epilepsy,DB01012,Cinacalcet,DrugBank
+epilepsy,DB00788,Naproxen,DrugBank
+epilepsy,DB00694,Daunorubicin,DrugBank
+epilepsy,DB00818,Propofol,DrugBank
+epilepsy,DB01100,Pimozide,DrugBank
+epilepsy,DB00844,Nalbuphine,DrugBank
+epilepsy,DB00300,Tenofovir disoproxil,DrugBank
+epilepsy,DB00408,Loxapine,DrugBank
+epilepsy,DB00470,Dronabinol,DrugBank
+epilepsy,DB00911,Tinidazole,DrugBank
+epilepsy,DB01397,Magnesium salicylate,DrugBank
+epilepsy,DB01001,Salbutamol,DrugBank
+epilepsy,DB01155,Gemifloxacin,DrugBank
+epilepsy,DB01406,Danazol,DrugBank
+epilepsy,DB00820,Tadalafil,DrugBank
+epilepsy,DB01142,Doxepin,DrugBank
+epilepsy,DB00704,Naltrexone,DrugBank
+epilepsy,DB00601,Linezolid,DrugBank
+epilepsy,DB06684,Vilazodone,DrugBank
+epilepsy,DB01050,Ibuprofen,DrugBank
+epilepsy,DB00752,Tranylcypromine,DrugBank
+epilepsy,DB00625,Efavirenz,DrugBank
+epilepsy,DB00262,Carmustine,DrugBank
+epilepsy,DB00303,Ertapenem,DrugBank
+epilepsy,DB04575,Quinestrol,DrugBank
+epilepsy,DB00218,Moxifloxacin,DrugBank
+epilepsy,DB00474,Methohexital,DrugBank
+epilepsy,DB01294,Bismuth subsalicylate,DrugBank
+epilepsy,DB00397,Phenylpropanolamine,DrugBank
+epilepsy,DB14126,Tenofovir,DrugBank
+epilepsy,DB00246,Ziprasidone,DrugBank
+epilepsy,DB00508,Triflupromazine,DrugBank
+epilepsy,DB01267,Paliperidone,DrugBank
+epilepsy,DB00879,Emtricitabine,DrugBank
+epilepsy,DB00626,Bacitracin,DrugBank
+epilepsy,DB00543,Amoxapine,DrugBank
+epilepsy,DB00558,Zanamivir,DrugBank
+epilepsy,DB00228,Enflurane,DrugBank
+epilepsy,DB00281,Lidocaine,DrugBank
+epilepsy,DB01367,Rasagiline,DrugBank
+epilepsy,DB00774,Hydroflumethiazide,DrugBank
+epilepsy,DB00232,Methyclothiazide,DrugBank
+epilepsy,DB00830,Phenmetrazine,DrugBank
+epilepsy,DB00478,Rimantadine,DrugBank
+epilepsy,DB04946,Iloperidone,DrugBank
+epilepsy,DB01021,Trichlormethiazide,DrugBank
+epilepsy,DB00334,Olanzapine,DrugBank
+epilepsy,DB01114,Chlorpheniramine,DrugBank
+epilepsy,DB00405,Dexbrompheniramine,DrugBank
+epilepsy,DB00494,Entacapone,DrugBank
+epilepsy,DB01377,Magnesium oxide,DrugBank
+epilepsy,DB01238,Aripiprazole,DrugBank
+epilepsy,DB01175,Escitalopram,DrugBank
+epilepsy,DB06174,Noscapine,DrugBank
+epilepsy,DB00347,Trimethadione,DrugBank
+epilepsy,DB00514,Dextromethorphan,DrugBank
+epilepsy,DB00237,Butabarbital,DrugBank
+epilepsy,DB00794,Primidone,DrugBank
+epilepsy,DB00956,Hydrocodone,DrugBank
+epilepsy,DB01551,Dihydrocodeine,DrugBank
+epilepsy,DB00620,Triamcinolone,DrugBank
+epilepsy,DB00989,Rivastigmine,DrugBank
+epilepsy,DB06767,Ammonium chloride,DrugBank
+epilepsy,DB01280,Nelarabine,DrugBank
+epilepsy,DB00843,Donepezil,DrugBank
+epilepsy,DB09543,Methyl salicylate,DrugBank
+epilepsy,DB01237,Bromodiphenhydramine,DrugBank
+epilepsy,DB00831,Trifluoperazine,DrugBank
+epilepsy,DB00476,Duloxetine,DrugBank
+epilepsy,DB13526,Pentaerithrityl,DrugBank
+epilepsy,DB00617,Paramethadione,DrugBank
+epilepsy,DB00849,Methylphenobarbital,DrugBank
+epilepsy,DB00181,Baclofen,DrugBank
+epilepsy,DB01239,Chlorprothixene,DrugBank
+epilepsy,DB00422,Methylphenidate,DrugBank
+epilepsy,DB00353,Methylergometrine,DrugBank
+epilepsy,DB00696,Ergotamine,DrugBank
+epilepsy,DB01224,Quetiapine,DrugBank
+epilepsy,DB00592,Piperazine,DrugBank
+epilepsy,DB03255,Phenol,DrugBank
+epilepsy,DB11085,Resorcinol,DrugBank
+epilepsy,DB01105,Sibutramine,DrugBank
+epilepsy,DB00734,Risperidone,DrugBank
+epilepsy,DB00864,Tacrolimus,DrugBank
+epilepsy,DB00669,Sumatriptan,DrugBank
+epilepsy,DB09269,Phenylacetic acid,DrugBank
+epilepsy,DB00934,Maprotiline,DrugBank
+epilepsy,DB01137,Levofloxacin,DrugBank
+major depressive disorder,DB08918,Levomilnacipran,DrugBank
+major depressive disorder,DB00285,Venlafaxine,DrugBank
+major depressive disorder,DB06700,Desvenlafaxine,DrugBank
+major depressive disorder,DB09128,Brexpiprazole,DrugBank
+major depressive disorder,DB00370,Mirtazapine,DrugBank
+major depressive disorder,DB12184,Gepirone,DrugBank
+major depressive disorder,DB01149,Nefazodone,DrugBank
+major depressive disorder,DB00234,Reboxetine,DrugBank
+major depressive disorder,DB01221,Ketamine,DrugBank
+major depressive disorder,DB00715,Paroxetine,DrugBank
+major depressive disorder,DB00215,Citalopram,DrugBank
+major depressive disorder,DB01247,Isocarboxazid,DrugBank
+major depressive disorder,DB00472,Fluoxetine,DrugBank
+major depressive disorder,DB09068,Vortioxetine,DrugBank
+major depressive disorder,DB01156,Bupropion,DrugBank
+major depressive disorder,DB06148,Mianserin,DrugBank
+major depressive disorder,DB00656,Trazodone,DrugBank
+major depressive disorder,DB06684,Vilazodone,DrugBank
+major depressive disorder,DB00752,Tranylcypromine,DrugBank
+major depressive disorder,DB01037,Selegiline,DrugBank
+major depressive disorder,DB06594,Agomelatine,DrugBank
+major depressive disorder,DB00334,Olanzapine,DrugBank
+major depressive disorder,DB01175,Escitalopram,DrugBank
+major depressive disorder,DB00476,Duloxetine,DrugBank
+major depressive disorder,DB09167,Dosulepin,DrugBank
+stroke disorder,DB13956,Estradiol valerate,DrugBank
+stroke disorder,DB01095,Fluvastatin,DrugBank
+stroke disorder,DB00222,Glimepiride,DrugBank
+stroke disorder,DB00852,Pseudoephedrine,DrugBank
+stroke disorder,DB00381,Amlodipine,DrugBank
+stroke disorder,DB00178,Ramipril,DrugBank
+stroke disorder,DB13178,Inositol,DrugBank
+stroke disorder,DB00883,Isosorbide dinitrate,DrugBank
+stroke disorder,DB01275,Hydralazine,DrugBank
+stroke disorder,DB00370,Mirtazapine,DrugBank
+stroke disorder,DB00481,Raloxifene,DrugBank
+stroke disorder,DB01149,Nefazodone,DrugBank
+stroke disorder,DB00289,Atomoxetine,DrugBank
+stroke disorder,DB00175,Pravastatin,DrugBank
+stroke disorder,DB00641,Simvastatin,DrugBank
+stroke disorder,DB00367,Levonorgestrel,DrugBank
+stroke disorder,DB03754,Tromethamine,DrugBank
+stroke disorder,DB01185,Fluoxymesterone,DrugBank
+stroke disorder,DB00227,Lovastatin,DrugBank
+stroke disorder,DB00465,Ketorolac,DrugBank
+stroke disorder,DB00726,Trimipramine,DrugBank
+stroke disorder,DB00540,Nortriptyline,DrugBank
+stroke disorder,DB01357,Mestranol,DrugBank
+stroke disorder,DB00814,Meloxicam,DrugBank
+stroke disorder,DB00603,Medroxyprogesterone acetate,DrugBank
+stroke disorder,DB13719,Trolnitrate,DrugBank
+stroke disorder,DB00717,Norethisterone,DrugBank
+stroke disorder,DB01221,Ketamine,DrugBank
+stroke disorder,DB01395,Drospirenone,DrugBank
+stroke disorder,DB09123,Dienogest,DrugBank
+stroke disorder,DB00331,Metformin,DrugBank
+stroke disorder,DB06216,Asenapine,DrugBank
+stroke disorder,DB08949,Inositol nicotinate,DrugBank
+stroke disorder,DB09030,Vorapaxar,DrugBank
+stroke disorder,DB01255,Lisdexamfetamine,DrugBank
+stroke disorder,DB01253,Ergometrine,DrugBank
+stroke disorder,DB00787,Acyclovir,DrugBank
+stroke disorder,DB00929,Misoprostol,DrugBank
+stroke disorder,DB00880,Chlorothiazide,DrugBank
+stroke disorder,DB00999,Hydrochlorothiazide,DrugBank
+stroke disorder,DB00475,Chlordiazepoxide,DrugBank
+stroke disorder,DB00624,Testosterone,DrugBank
+stroke disorder,DB13943,Testosterone cypionate,DrugBank
+stroke disorder,DB06710,Methyltestosterone,DrugBank
+stroke disorder,DB00363,Clozapine,DrugBank
+stroke disorder,DB00396,Progesterone,DrugBank
+stroke disorder,DB00977,Ethinylestradiol,DrugBank
+stroke disorder,DB00371,Meprobamate,DrugBank
+stroke disorder,DB00269,Chlorotrianisene,DrugBank
+stroke disorder,DB00255,Diethylstilbestrol,DrugBank
+stroke disorder,DB00472,Fluoxetine,DrugBank
+stroke disorder,DB00294,Etonogestrel,DrugBank
+stroke disorder,DB00304,Desogestrel,DrugBank
+stroke disorder,DB00007,Leuprolide,DrugBank
+stroke disorder,DB01577,Metamfetamine,DrugBank
+stroke disorder,DB00877,Sirolimus,DrugBank
+stroke disorder,DB06713,Norelgestromin,DrugBank
+stroke disorder,DB00655,Estrone,DrugBank
+stroke disorder,DB01576,Dextroamphetamine,DrugBank
+stroke disorder,DB00206,Reserpine,DrugBank
+stroke disorder,DB00458,Imipramine,DrugBank
+stroke disorder,DB01151,Desipramine,DrugBank
+stroke disorder,DB00783,Estradiol,DrugBank
+stroke disorder,DB06701,Dexmethylphenidate,DrugBank
+stroke disorder,DB06774,Capsaicin,DrugBank
+stroke disorder,DB00350,Minoxidil,DrugBank
+stroke disorder,DB08815,Lurasidone,DrugBank
+stroke disorder,DB00554,Piroxicam,DrugBank
+stroke disorder,DB00957,Norgestimate,DrugBank
+stroke disorder,DB11256,Levomefolic acid,DrugBank
+stroke disorder,DB13944,Testosterone enanthate,DrugBank
+stroke disorder,DB13954,Estradiol cypionate,DrugBank
+stroke disorder,DB00561,Doxapram,DrugBank
+stroke disorder,DB00182,Amphetamine,DrugBank
+stroke disorder,DB01364,Ephedrine,DrugBank
+stroke disorder,DB00823,Ethynodiol diacetate,DrugBank
+stroke disorder,DB00573,Fenoprofen,DrugBank
+stroke disorder,DB01098,Rosuvastatin,DrugBank
+stroke disorder,DB01200,Bromocriptine,DrugBank
+stroke disorder,DB00862,Vardenafil,DrugBank
+stroke disorder,DB00788,Naproxen,DrugBank
+stroke disorder,DB01143,Amifostine,DrugBank
+stroke disorder,DB00530,Erlotinib,DrugBank
+stroke disorder,DB00820,Tadalafil,DrugBank
+stroke disorder,DB00482,Celecoxib,DrugBank
+stroke disorder,DB06287,Temsirolimus,DrugBank
+stroke disorder,DB00998,Frovatriptan,DrugBank
+stroke disorder,DB01050,Ibuprofen,DrugBank
+stroke disorder,DB00918,Almotriptan,DrugBank
+stroke disorder,DB00586,Diclofenac,DrugBank
+stroke disorder,DB04575,Quinestrol,DrugBank
+stroke disorder,DB06209,Prasugrel,DrugBank
+stroke disorder,DB01079,Tegaserod,DrugBank
+stroke disorder,DB00966,Telmisartan,DrugBank
+stroke disorder,DB00775,Tirofiban,DrugBank
+stroke disorder,DB04854,Febuxostat,DrugBank
+stroke disorder,DB00953,Rizatriptan,DrugBank
+stroke disorder,DB00216,Eletriptan,DrugBank
+stroke disorder,DB14491,Ferrous fumarate,DrugBank
+stroke disorder,DB00203,Sildenafil,DrugBank
+stroke disorder,DB00315,Zolmitriptan,DrugBank
+stroke disorder,DB00001,Lepirudin,DrugBank
+stroke disorder,DB01076,Atorvastatin,DrugBank
+stroke disorder,DB00334,Olanzapine,DrugBank
+stroke disorder,DB12612,Ozanimod,DrugBank
+stroke disorder,DB00237,Butabarbital,DrugBank
+stroke disorder,DB00412,Rosiglitazone,DrugBank
+stroke disorder,DB00952,Naratriptan,DrugBank
+stroke disorder,DB00302,Tranexamic acid,DrugBank
+stroke disorder,DB00181,Baclofen,DrugBank
+stroke disorder,DB00422,Methylphenidate,DrugBank
+stroke disorder,DB00353,Methylergometrine,DrugBank
+stroke disorder,DB01105,Sibutramine,DrugBank
+stroke disorder,DB00734,Risperidone,DrugBank
+stroke disorder,DB00675,Tamoxifen,DrugBank
+stroke disorder,DB00669,Sumatriptan,DrugBank
+stroke disorder,DB00448,Lansoprazole,DrugBank
+stroke disorder,DB00934,Maprotiline,DrugBank
+stroke disorder,DB12243,Edaravone,DrugBank
+stroke disorder,DB12749,Butylphthalide,DrugBank
+stroke disorder,DB00009,Alteplase,DrugBank
+Parkinson disease,DB05271,Rotigotine,DrugBank
+Parkinson disease,DB11632,Opicapone,DrugBank
+Parkinson disease,DB00268,Ropinirole,DrugBank
+Parkinson disease,DB00245,Benzatropine,DrugBank
+Parkinson disease,DB00942,Cycrimine,DrugBank
+Parkinson disease,DB00387,Procyclidine,DrugBank
+Parkinson disease,DB00915,Amantadine,DrugBank
+Parkinson disease,DB05316,Pimavanserin,DrugBank
+Parkinson disease,DB01019,Bethanechol,DrugBank
+Parkinson disease,DB01235,Levodopa,DrugBank
+Parkinson disease,DB00714,Apomorphine,DrugBank
+Parkinson disease,DB00810,Biperiden,DrugBank
+Parkinson disease,DB00190,Carbidopa,DrugBank
+Parkinson disease,DB01200,Bromocriptine,DrugBank
+Parkinson disease,DB06262,Droxidopa,DrugBank
+Parkinson disease,DB11757,Istradefylline,DrugBank
+Parkinson disease,DB01037,Selegiline,DrugBank
+Parkinson disease,DB00376,Trihexyphenidyl,DrugBank
+Parkinson disease,DB01367,Rasagiline,DrugBank
+Parkinson disease,DB00323,Tolcapone,DrugBank
+Parkinson disease,DB06654,Safinamide,DrugBank
+Parkinson disease,DB00494,Entacapone,DrugBank
+Parkinson disease,DB00413,Pramipexole,DrugBank
+Parkinson disease,DB12710,Perazine,DrugBank
+Parkinson disease,DB01246,Alimemazine,DrugBank
+Parkinson disease,DB01173,Orphenadrine,DrugBank
+Parkinson disease,DB01122,Ambenonium,DrugBank
+Parkinson disease,DB01625,Isopropamide,DrugBank
+Parkinson disease,DB01618,Molindone,DrugBank
+Parkinson disease,DB00750,Prilocaine,DrugBank
+Parkinson disease,DB13313,Melevodopa,DrugBank
+Parkinson disease,DB02703,Fusidic acid,DrugBank
+Parkinson disease,DB00623,Fluphenazine,DrugBank
+Parkinson disease,DB01057,Echothiophate,DrugBank
+Parkinson disease,DB00765,Metyrosine,DrugBank
+Parkinson disease,DB01186,Pergolide,DrugBank
+Parkinson disease,DB01403,Methotrimeprazine,DrugBank
+Parkinson disease,DB01172,Kanamycin,DrugBank
+Parkinson disease,DB00880,Chlorothiazide,DrugBank
+Parkinson disease,DB00999,Hydrochlorothiazide,DrugBank
+Parkinson disease,DB04844,Tetrabenazine,DrugBank
+Parkinson disease,DB00420,Promazine,DrugBank
+Parkinson disease,DB00850,Perphenazine,DrugBank
+Parkinson disease,DB00433,Prochlorperazine,DrugBank
+Parkinson disease,DB01082,Streptomycin,DrugBank
+Parkinson disease,DB00981,Physostigmine,DrugBank
+Parkinson disease,DB00955,Netilmicin,DrugBank
+Parkinson disease,DB00968,Methyldopa,DrugBank
+Parkinson disease,DB00328,Indomethacin,DrugBank
+Parkinson disease,DB00502,Haloperidol,DrugBank
+Parkinson disease,DB00668,Epinephrine,DrugBank
+Parkinson disease,DB00477,Chlorpromazine,DrugBank
+Parkinson disease,DB00321,Amitriptyline,DrugBank
+Parkinson disease,DB00340,Metixene,DrugBank
+Parkinson disease,DB00297,Bupivacaine,DrugBank
+Parkinson disease,DB00479,Amikacin,DrugBank
+Parkinson disease,DB08987,Etidocaine,DrugBank
+Parkinson disease,DB01233,Metoclopramide,DrugBank
+Parkinson disease,DB00777,Propiomazine,DrugBank
+Parkinson disease,DB12478,Piribedil,DrugBank
+Parkinson disease,DB01623,Thiothixene,DrugBank
+Parkinson disease,DB00684,Tobramycin,DrugBank
+Parkinson disease,DB00382,Tacrine,DrugBank
+Parkinson disease,DB01063,Acetophenazine,DrugBank
+Parkinson disease,DB09009,Articaine,DrugBank
+Parkinson disease,DB01100,Pimozide,DrugBank
+Parkinson disease,DB00508,Triflupromazine,DrugBank
+Parkinson disease,DB01267,Paliperidone,DrugBank
+Parkinson disease,DB00281,Lidocaine,DrugBank
+Parkinson disease,DB00989,Rivastigmine,DrugBank
+Parkinson disease,DB01239,Chlorprothixene,DrugBank
+Parkinson disease,DB00734,Risperidone,DrugBank
+Alzheimer disease,DB11160,Phenyltoloxamine,DrugBank
+Alzheimer disease,DB01620,Pheniramine,DrugBank
+Alzheimer disease,DB01173,Orphenadrine,DrugBank
+Alzheimer disease,DB00175,Pravastatin,DrugBank
+Alzheimer disease,DB00395,Carisoprodol,DrugBank
+Alzheimer disease,DB04272,Citric acid,DrugBank
+Alzheimer disease,DB00241,Butalbital,DrugBank
+Alzheimer disease,DB00318,Codeine,DrugBank
+Alzheimer disease,DB00497,Oxycodone,DrugBank
+Alzheimer disease,DB13719,Trolnitrate,DrugBank
+Alzheimer disease,DB08797,Salicylamide,DrugBank
+Alzheimer disease,DB03783,Phenacetin,DrugBank
+Alzheimer disease,DB00388,Phenylephrine,DrugBank
+Alzheimer disease,DB00975,Dipyridamole,DrugBank
+Alzheimer disease,DB00201,Caffeine,DrugBank
+Alzheimer disease,DB00371,Meprobamate,DrugBank
+Alzheimer disease,DB00423,Methocarbamol,DrugBank
+Alzheimer disease,DB01174,Phenobarbital,DrugBank
+Alzheimer disease,DB00647,Dextropropoxyphene,DrugBank
+Alzheimer disease,DB00652,Pentazocine,DrugBank
+Alzheimer disease,DB11126,Calcium gluconate,DrugBank
+Alzheimer disease,DB00397,Phenylpropanolamine,DrugBank
+Alzheimer disease,DB01114,Chlorpheniramine,DrugBank
+Alzheimer disease,DB00956,Hydrocodone,DrugBank
+Alzheimer disease,DB01551,Dihydrocodeine,DrugBank
+Alzheimer disease,DB11275,Epicriptine,DrugBank
+Alzheimer disease,DB12710,Perazine,DrugBank
+Alzheimer disease,DB01246,Alimemazine,DrugBank
+Alzheimer disease,DB01625,Isopropamide,DrugBank
+Alzheimer disease,DB01618,Molindone,DrugBank
+Alzheimer disease,DB00623,Fluphenazine,DrugBank
+Alzheimer disease,DB13247,Pramiracetam,DrugBank
+Alzheimer disease,DB01403,Methotrimeprazine,DrugBank
+Alzheimer disease,DB00420,Promazine,DrugBank
+Alzheimer disease,DB00850,Perphenazine,DrugBank
+Alzheimer disease,DB00433,Prochlorperazine,DrugBank
+Alzheimer disease,DB00363,Clozapine,DrugBank
+Alzheimer disease,DB00472,Fluoxetine,DrugBank
+Alzheimer disease,DB00502,Haloperidol,DrugBank
+Alzheimer disease,DB00477,Chlorpromazine,DrugBank
+Alzheimer disease,DB00679,Thioridazine,DrugBank
+Alzheimer disease,DB00321,Amitriptyline,DrugBank
+Alzheimer disease,DB00777,Propiomazine,DrugBank
+Alzheimer disease,DB01623,Thiothixene,DrugBank
+Alzheimer disease,DB08842,Acetylcarnitine,DrugBank
+Alzheimer disease,DB01063,Acetophenazine,DrugBank
+Alzheimer disease,DB01100,Pimozide,DrugBank
+Alzheimer disease,DB00408,Loxapine,DrugBank
+Alzheimer disease,DB00246,Ziprasidone,DrugBank
+Alzheimer disease,DB00508,Triflupromazine,DrugBank
+Alzheimer disease,DB01267,Paliperidone,DrugBank
+Alzheimer disease,DB04946,Iloperidone,DrugBank
+Alzheimer disease,DB00334,Olanzapine,DrugBank
+Alzheimer disease,DB01238,Aripiprazole,DrugBank
+Alzheimer disease,DB00831,Trifluoperazine,DrugBank
+Alzheimer disease,DB01239,Chlorprothixene,DrugBank
+Alzheimer disease,DB01224,Quetiapine,DrugBank
+Alzheimer disease,DB00734,Risperidone,DrugBank
+Alzheimer disease,DB06216,Asenapine,DrugBank
+Alzheimer disease,DB13668,Ipidacrine,DrugBank
+Alzheimer disease,DB00674,Galantamine,DrugBank
+Alzheimer disease,DB00382,Tacrine,DrugBank
+Alzheimer disease,DB00989,Rivastigmine,DrugBank
+Alzheimer disease,DB00843,Donepezil,DrugBank
+migraine disorder,DB13956,Estradiol valerate,DrugBank
+migraine disorder,DB00367,Levonorgestrel,DrugBank
+migraine disorder,DB00241,Butalbital,DrugBank
+migraine disorder,DB01185,Fluoxymesterone,DrugBank
+migraine disorder,DB01357,Mestranol,DrugBank
+migraine disorder,DB00603,Medroxyprogesterone acetate,DrugBank
+migraine disorder,DB00717,Norethisterone,DrugBank
+migraine disorder,DB01395,Drospirenone,DrugBank
+migraine disorder,DB09123,Dienogest,DrugBank
+migraine disorder,DB06789,Hydroxyprogesterone caproate,DrugBank
+migraine disorder,DB01435,Antipyrine,DrugBank
+migraine disorder,DB00475,Chlordiazepoxide,DrugBank
+migraine disorder,DB00624,Testosterone,DrugBank
+migraine disorder,DB13943,Testosterone cypionate,DrugBank
+migraine disorder,DB06710,Methyltestosterone,DrugBank
+migraine disorder,DB00201,Caffeine,DrugBank
+migraine disorder,DB00396,Progesterone,DrugBank
+migraine disorder,DB00977,Ethinylestradiol,DrugBank
+migraine disorder,DB00371,Meprobamate,DrugBank
+migraine disorder,DB00269,Chlorotrianisene,DrugBank
+migraine disorder,DB00255,Diethylstilbestrol,DrugBank
+migraine disorder,DB00294,Etonogestrel,DrugBank
+migraine disorder,DB00304,Desogestrel,DrugBank
+migraine disorder,DB06713,Norelgestromin,DrugBank
+migraine disorder,DB00655,Estrone,DrugBank
+migraine disorder,DB00320,Dihydroergotamine,DrugBank
+migraine disorder,DB06706,Isometheptene,DrugBank
+migraine disorder,DB00945,Acetylsalicylic acid,DrugBank
+migraine disorder,DB00783,Estradiol,DrugBank
+migraine disorder,DB01174,Phenobarbital,DrugBank
+migraine disorder,DB11732,Lasmiditan,DrugBank
+migraine disorder,DB00813,Fentanyl,DrugBank
+migraine disorder,DB00611,Butorphanol,DrugBank
+migraine disorder,DB00957,Norgestimate,DrugBank
+migraine disorder,DB11256,Levomefolic acid,DrugBank
+migraine disorder,DB13944,Testosterone enanthate,DrugBank
+migraine disorder,DB13954,Estradiol cypionate,DrugBank
+migraine disorder,DB01196,Estramustine,DrugBank
+migraine disorder,DB00823,Ethynodiol diacetate,DrugBank
+migraine disorder,DB00867,Ritodrine,DrugBank
+migraine disorder,DB13463,Oxetorone,DrugBank
+migraine disorder,DB00788,Naproxen,DrugBank
+migraine disorder,DB00589,Lisuride,DrugBank
+migraine disorder,DB01406,Danazol,DrugBank
+migraine disorder,DB14041,Fremanezumab,DrugBank
+migraine disorder,DB14040,Eptinezumab,DrugBank
+migraine disorder,DB00533,Rofecoxib,DrugBank
+migraine disorder,DB00998,Frovatriptan,DrugBank
+migraine disorder,DB14039,Erenumab,DrugBank
+migraine disorder,DB14042,Galcanezumab,DrugBank
+migraine disorder,DB00918,Almotriptan,DrugBank
+migraine disorder,DB04575,Quinestrol,DrugBank
+migraine disorder,DB00953,Rizatriptan,DrugBank
+migraine disorder,DB00216,Eletriptan,DrugBank
+migraine disorder,DB14491,Ferrous fumarate,DrugBank
+migraine disorder,DB00315,Zolmitriptan,DrugBank
+migraine disorder,DB15328,Ubrogepant,DrugBank
+migraine disorder,DB12457,Rimegepant,DrugBank
+migraine disorder,DB00952,Naratriptan,DrugBank
+migraine disorder,DB00302,Tranexamic acid,DrugBank
+migraine disorder,DB00696,Ergotamine,DrugBank
+migraine disorder,DB00669,Sumatriptan,DrugBank
+migraine disorder,DB00316,Acetaminophen,DrugBank
+multiple sclerosis,DB00959,Methylprednisolone,DrugBank
+multiple sclerosis,DB00635,Prednisone,DrugBank
+multiple sclerosis,DB06637,Dalfampridine,DrugBank
+multiple sclerosis,DB00126,Ascorbic acid,DrugBank
+multiple sclerosis,DB00860,Prednisolone,DrugBank
+multiple sclerosis,DB00741,Hydrocortisone,DrugBank
+multiple sclerosis,DB01380,Cortisone acetate,DrugBank
+multiple sclerosis,DB14539,Hydrocortisone acetate,DrugBank
+multiple sclerosis,DB01234,Dexamethasone,DrugBank
+multiple sclerosis,DB11248,Zinc gluconate,DrugBank
+multiple sclerosis,DB00443,Betamethasone,DrugBank
+multiple sclerosis,DB00108,Natalizumab,DrugBank
+multiple sclerosis,DB08880,Teriflunomide,DrugBank
+multiple sclerosis,DB12612,Ozanimod,DrugBank
+multiple sclerosis,DB00620,Triamcinolone,DrugBank

@@ -1,0 +1,7 @@
+drugbank_id,drug_name,chembl_id,chembl_pref_name,mapping_status,mapping_reason
+DB00783,Estradiol,,,unresolved,manual_review
+DB08949,Inositol nicotinate,,,unresolved,manual_review
+DB11077,Polyethylene glycol 400,,,unresolved,manual_review
+DB11161,Polyethylene glycol 300,,,unresolved,manual_review
+DB12749,Butylphthalide,,,unresolved,manual_review
+DB13396,Neocitrullamon,,,unresolved,not_found

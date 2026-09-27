@@ -1,0 +1,13 @@
+disease,primekg_name,drug_relationships,unique_drugs
+epilepsy,epilepsy,674,335
+anxiety disorder,anxiety disorder,494,235
+stroke disorder,stroke disorder,242,121
+Parkinson disease,Parkinson disease,144,72
+Alzheimer disease,Alzheimer disease,128,64
+migraine disorder,migraine disorder,126,63
+bipolar disorder,bipolar disorder,138,57
+schizophrenia,schizophrenia,104,52
+dementia (disease),dementia (disease),62,31
+major depressive disorder,major depressive disorder,50,25
+attention deficit-hyperactivity disorder,attention deficit-hyperactivity disorder,38,19
+multiple sclerosis,multiple sclerosis,30,15

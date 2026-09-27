@@ -1,0 +1,244 @@
+drugbank_id,drug_name,chembl_id,chembl_pref_name,molecule_type,max_phase,first_approval,original_status
+DB00245,Benzatropine,CHEMBL438151,,Small molecule,,,ambiguous
+DB00245,Benzatropine,CHEMBL116590,,Small molecule,,,ambiguous
+DB00245,Benzatropine,CHEMBL1201203,BENZTROPINE,Small molecule,4.0,1954,ambiguous
+DB00245,Benzatropine,CHEMBL1200383,BENZTROPINE MESYLATE,Small molecule,4.0,1954,ambiguous
+DB00340,Metixene,CHEMBL1201342,METHIXENE,Small molecule,4.0,1982,ambiguous
+DB00340,Metixene,CHEMBL2359044,,Small molecule,,,ambiguous
+DB00340,Metixene,CHEMBL1200426,METHIXENE HYDROCHLORIDE,Small molecule,4.0,1982,ambiguous
+DB00353,Methylergometrine,CHEMBL1201356,METHYLERGONOVINE,Small molecule,4.0,1946,ambiguous
+DB00353,Methylergometrine,CHEMBL1200843,METHYLERGONOVINE MALEATE,Small molecule,4.0,1946,ambiguous
+DB00353,Methylergometrine,CHEMBL4798104,,Unknown,,,ambiguous
+DB00527,Cinchocaine,CHEMBL1086,DIBUCAINE,Small molecule,4.0,1982,ambiguous
+DB00527,Cinchocaine,CHEMBL1200612,DIBUCAINE HYDROCHLORIDE,Small molecule,4.0,1982,ambiguous
+DB00647,Dextropropoxyphene,CHEMBL1213351,PROPOXYPHENE,Small molecule,4.0,1957,ambiguous
+DB00647,Dextropropoxyphene,CHEMBL3989716,PROPOXYPHENE NAPSYLATE,Small molecule,4.0,1971,ambiguous
+DB00647,Dextropropoxyphene,CHEMBL1237104,PROPOXYPHENE HYDROCHLORIDE,Small molecule,4.0,1957,ambiguous
+DB00717,Norethisterone,CHEMBL3187229,,Small molecule,,,ambiguous
+DB00717,Norethisterone,CHEMBL5425549,,,,,ambiguous
+DB00717,Norethisterone,CHEMBL1162,NORETHINDRONE,Small molecule,4.0,1962,ambiguous
+DB00717,Norethisterone,CHEMBL1201146,NORETHINDRONE ACETATE,Small molecule,4.0,1973,ambiguous
+DB00783,Estradiol,CHEMBL1511,ESTRADIOL VALERATE,Small molecule,4.0,1982,ambiguous
+DB00783,Estradiol,CHEMBL1697794,ESTRADIOL UNDECYLATE,Small molecule,2.0,,ambiguous
+DB00783,Estradiol,CHEMBL1200430,ESTRADIOL ACETATE,Small molecule,4.0,2003,ambiguous
+DB00783,Estradiol,CHEMBL1697791,ESTRADIOL DIPROPIONATE,Small molecule,-1.0,,ambiguous
+DB00783,Estradiol,CHEMBL2074591,,Small molecule,,,ambiguous
+DB00783,Estradiol,CHEMBL1162492,ESTRADIOL DISULFATE,Small molecule,,,ambiguous
+DB00783,Estradiol,CHEMBL1200973,ESTRADIOL CYPIONATE,Small molecule,4.0,1979,ambiguous
+DB00783,Estradiol,CHEMBL1697724,ESTRADIOL 17B GLUCURONIDE,Small molecule,,,ambiguous
+DB00783,Estradiol,CHEMBL1697792,ESTRADIOL ENANTHATE,Small molecule,-1.0,,ambiguous
+DB00783,Estradiol,CHEMBL1697793,ESTRADIOL MUSTARD,Small molecule,,,ambiguous
+DB00783,Estradiol,CHEMBL1628102,Estradiol Cr complex,Small molecule,,,ambiguous
+DB00783,Estradiol,CHEMBL1628111,,Small molecule,,,ambiguous
+DB00783,Estradiol,CHEMBL2074585,ESTRADIOL GLUCURONIDE SULFATE,Small molecule,,,ambiguous
+DB00783,Estradiol,CHEMBL430289,,Small molecule,,,ambiguous
+DB00783,Estradiol,CHEMBL282575,ESTRADIOL BENZOATE,Small molecule,2.0,,ambiguous
+DB00783,Estradiol,CHEMBL2068102,ESTRADIOL DIMER,Small molecule,,,ambiguous
+DB00783,Estradiol,CHEMBL3138724,,Small molecule,,,ambiguous
+DB00783,Estradiol,CHEMBL3349337,,Small molecule,,,ambiguous
+DB00783,Estradiol,CHEMBL4784878,,Unknown,,,ambiguous
+DB00783,Estradiol,CHEMBL4787734,,Unknown,,,ambiguous
+DB00816,Orciprenaline,CHEMBL1628446,,Small molecule,,,ambiguous
+DB00816,Orciprenaline,CHEMBL776,METAPROTERENOL,Small molecule,4.0,1973,ambiguous
+DB00816,Orciprenaline,CHEMBL1568057,METAPROTERENOL SULFATE,Small molecule,4.0,1973,ambiguous
+DB00816,Orciprenaline,CHEMBL2164775,,Small molecule,,,ambiguous
+DB00849,Methylphenobarbital,CHEMBL45029,MEPHOBARBITAL,Small molecule,4.0,,ambiguous
+DB00849,Methylphenobarbital,CHEMBL253331,(R)-METHYLPHENOBARBITAL,Small molecule,,,ambiguous
+DB00849,Methylphenobarbital,CHEMBL399103,(S)-METHYLPHENOBARBITAL,Small molecule,,,ambiguous
+DB00882,Clomifene,CHEMBL2355051,CLOMIPHENE,Small molecule,4.0,1967,ambiguous
+DB00882,Clomifene,CHEMBL3185958,CLOMIPHENE CITRATE,Small molecule,4.0,1967,ambiguous
+DB00882,Clomifene,CHEMBL167779,ZUCLOMIPHENE,Small molecule,2.0,,ambiguous
+DB00882,Clomifene,CHEMBL6318,IDOXIFENE,Small molecule,2.0,,ambiguous
+DB00882,Clomifene,CHEMBL487,DROLOXIFENE,Small molecule,3.0,,ambiguous
+DB00882,Clomifene,CHEMBL489,AFIMOXIFENE,Small molecule,3.0,,ambiguous
+DB00882,Clomifene,CHEMBL32227,ZINDOXIFENE,Small molecule,2.0,,ambiguous
+DB00882,Clomifene,CHEMBL68055,ACOLBIFENE,Small molecule,3.0,,ambiguous
+DB00882,Clomifene,CHEMBL2104447,TRIOXIFENE MESYLATE,Small molecule,-1.0,,ambiguous
+DB00882,Clomifene,CHEMBL2105786,DROLOXIFENE CITRATE,Small molecule,-1.0,,ambiguous
+DB00882,Clomifene,CHEMBL2106615,BAZEDOXIFENE ACETATE,Small molecule,4.0,2009,ambiguous
+DB00882,Clomifene,CHEMBL4594228,NITROMIFENE,Small molecule,2.0,,ambiguous
+DB00882,Clomifene,CHEMBL46740,BAZEDOXIFENE,Small molecule,4.0,2009,ambiguous
+DB00882,Clomifene,CHEMBL301327,LEVORMELOXIFENE,Small molecule,2.0,,ambiguous
+DB00882,Clomifene,CHEMBL307697,SIVIFENE,Small molecule,2.0,,ambiguous
+DB00882,Clomifene,CHEMBL154126,ORMELOXIFENE,Small molecule,2.0,,ambiguous
+DB00882,Clomifene,CHEMBL226267,ARZOXIFENE,Small molecule,3.0,,ambiguous
+DB00882,Clomifene,CHEMBL1655,TOREMIFENE,Small molecule,4.0,1996,ambiguous
+DB00882,Clomifene,CHEMBL2074961,MIPROXIFENE,Small molecule,2.0,,ambiguous
+DB00882,Clomifene,CHEMBL2105273,PANOMIFENE,Small molecule,2.0,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL2429949,ACETYLSALICYLIC-LYSINE,Small molecule,,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL25,ASPIRIN,Small molecule,4.0,1950,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL3765165,,Small molecule,,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL4095266,,Small molecule,,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL591665,SODIUM ASCORBATE,Small molecule,4.0,2006,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL1697753,ASPIRIN DL-LYSINE,Small molecule,3.0,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL4298189,ELADOCAGENE EXUPARVOVEC,Gene,4.0,2022,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL4594347,CLERVONAFUSP ALFA,Protein,2.0,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL174035,DEHYDROASCORBIC ACID,Small molecule,,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL460785,DUVOGLUSTAT HYDROCHLORIDE,Small molecule,2.0,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL1200559,LACTIC ACID,Small molecule,4.0,2006,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL1201544,IRON DEXTRAN,Unknown,3.0,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL1215869,PHYTANIC ACID,Small molecule,,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL1615775,OXIDRONIC ACID,Small molecule,2.0,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL1697824,BUCLOXIC ACID,Small molecule,2.0,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL1794737,,Small molecule,,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL2104791,IOSUMETIC ACID,Small molecule,2.0,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL2104817,IOSERIC ACID,Small molecule,2.0,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL2105001,IOPROCEMIC ACID,Small molecule,2.0,,ambiguous
+DB00945,Acetylsalicylic acid,CHEMBL2105012,IOPRONIC ACID,Small molecule,2.0,,ambiguous
+DB00977,Ethinylestradiol,CHEMBL2074825,,Small molecule,,,ambiguous
+DB00977,Ethinylestradiol,CHEMBL1614648,,Small molecule,,,ambiguous
+DB00977,Ethinylestradiol,CHEMBL1078369,,Small molecule,,,ambiguous
+DB00977,Ethinylestradiol,CHEMBL1614647,,Small molecule,,,ambiguous
+DB00977,Ethinylestradiol,CHEMBL691,ETHINYL ESTRADIOL,Small molecule,4.0,1982,ambiguous
+DB00977,Ethinylestradiol,CHEMBL135,ESTRADIOL,Small molecule,4.0,1975,ambiguous
+DB01001,Salbutamol,CHEMBL714,ALBUTEROL,Small molecule,4.0,1981,ambiguous
+DB01001,Salbutamol,CHEMBL1002,LEVOSALBUTAMOL,Small molecule,4.0,1999,ambiguous
+DB01001,Salbutamol,CHEMBL1201026,,Small molecule,,,ambiguous
+DB01001,Salbutamol,CHEMBL1437301,,Small molecule,,,ambiguous
+DB01001,Salbutamol,CHEMBL1441059,ALBUTEROL SULFATE,Small molecule,4.0,1982,ambiguous
+DB01001,Salbutamol,CHEMBL1201061,LEVALBUTEROL HYDROCHLORIDE,Small molecule,4.0,1999,ambiguous
+DB01001,Salbutamol,CHEMBL3989589,LEVALBUTEROL SULFATE,Small molecule,-1.0,,ambiguous
+DB01001,Salbutamol,CHEMBL3989693,LEVALBUTEROL TARTRATE,Small molecule,4.0,2005,ambiguous
+DB01001,Salbutamol,CHEMBL69073,(S)-ALBUTEROL,Small molecule,,,ambiguous
+DB01045,Rifampicin,CHEMBL374478,RIFAMPIN,Small molecule,4.0,1971,ambiguous
+DB01045,Rifampicin,CHEMBL4111819,,Small molecule,,,ambiguous
+DB01246,Alimemazine,CHEMBL829,METHYLPROMAZINE,Small molecule,4.0,1982,ambiguous
+DB01246,Alimemazine,CHEMBL3989885,TRIMEPRAZINE TARTRATE,Small molecule,4.0,1982,ambiguous
+DB01246,Alimemazine,CHEMBL4785767,,Unknown,,,ambiguous
+DB01246,Alimemazine,CHEMBL1713082,,Small molecule,,,ambiguous
+DB01253,Ergometrine,CHEMBL119443,ERGONOVINE,Small molecule,3.0,,ambiguous
+DB01253,Ergometrine,CHEMBL1213135,ERGONOVINE MALEATE,Small molecule,3.0,,ambiguous
+DB01397,Magnesium salicylate,CHEMBL3989810,MAGNESIUM SALICYLATE,Small molecule,-1.0,,ambiguous
+DB01397,Magnesium salicylate,CHEMBL2104095,CHOLINE SALICYLATE,Small molecule,4.0,,ambiguous
+DB01397,Magnesium salicylate,CHEMBL447868,SODIUM SALICYLATE,Small molecule,1.0,,ambiguous
+DB01397,Magnesium salicylate,CHEMBL108545,METHYL SALICYLATE,Small molecule,4.0,2008,ambiguous
+DB01397,Magnesium salicylate,CHEMBL1200572,MAGNESIUM OXIDE,Small molecule,4.0,1982,ambiguous
+DB01397,Magnesium salicylate,CHEMBL1200718,MAGNESIUM HYDROXIDE,Small molecule,4.0,2000,ambiguous
+DB01397,Magnesium salicylate,CHEMBL1200736,MAGNESIUM CARBONATE,Small molecule,4.0,1990,ambiguous
+DB01397,Magnesium salicylate,CHEMBL3707281,MAGNESIUM LACTATE,Small molecule,-1.0,,ambiguous
+DB01397,Magnesium salicylate,CHEMBL3989857,MAGNESIUM SULFATE,Small molecule,4.0,1981,ambiguous
+DB01397,Magnesium salicylate,CHEMBL5314366,ESOMEPRAZOLE MAGNESIUM,Small molecule,4.0,2001,ambiguous
+DB01397,Magnesium salicylate,CHEMBL1567328,OMEPRAZOLE MAGNESIUM,Small molecule,4.0,2003,ambiguous
+DB01397,Magnesium salicylate,CHEMBL2096633,MAGNESIUM TRISILICATE,Small molecule,4.0,1983,ambiguous
+DB01397,Magnesium salicylate,CHEMBL3185229,MAGNESIUM CHLORIDE,Small molecule,4.0,1982,ambiguous
+DB01397,Magnesium salicylate,CHEMBL3707303,MAGNESIUM PIDOLATE,Small molecule,2.0,,ambiguous
+DB01397,Magnesium salicylate,CHEMBL3989480,MAGNESIUM CITRATE,Small molecule,4.0,,ambiguous
+DB01397,Magnesium salicylate,CHEMBL173562,,Small molecule,,,ambiguous
+DB01397,Magnesium salicylate,CHEMBL1339216,PHENYL SALICYLATE,Small molecule,-1.0,,ambiguous
+DB01397,Magnesium salicylate,CHEMBL2104788,IMIDAZOLE SALICYLATE,Small molecule,2.0,,ambiguous
+DB01397,Magnesium salicylate,CHEMBL2106755,MAGNESIUM SALICYLATE,Small molecule,-1.0,,ambiguous
+DB01397,Magnesium salicylate,CHEMBL2109133,MAGNESIUM SILICATE,Unknown,2.0,,ambiguous
+DB01403,Methotrimeprazine,CHEMBL1725730,LEVOMEPROMAZINE MALEATE,Small molecule,-1.0,,ambiguous
+DB01403,Methotrimeprazine,CHEMBL1764,LEVOMEPROMAZINE,Small molecule,4.0,1982,ambiguous
+DB01403,Methotrimeprazine,CHEMBL2104973,LEVOMEPROMAZINE HYDROCHLORIDE,Small molecule,-1.0,,ambiguous
+DB01577,Metamfetamine,CHEMBL1201201,METHAMPHETAMINE,Small molecule,4.0,1943,ambiguous
+DB01577,Metamfetamine,CHEMBL1200952,METHAMPHETAMINE HYDROCHLORIDE,Small molecule,4.0,1943,ambiguous
+DB06691,Mepyramine,CHEMBL511,PYRILAMINE,Small molecule,4.0,1973,ambiguous
+DB06691,Mepyramine,CHEMBL1201006,PYRILAMINE MALEATE,Small molecule,4.0,1973,ambiguous
+DB08949,Inositol nicotinate,CHEMBL1094982,INOSITOL NIACINATE,Small molecule,2.0,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL1222251,INOSITOL,Small molecule,3.0,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL379845,METHYL NICOTINATE,Small molecule,-1.0,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL468154,SCYLLITOL,Small molecule,2.0,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL1231671,,Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL1950780,,Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL1161015,"INOSITOL (1,4,5) (PHOSPHATE)3",Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL3945401,,Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL3959608,,Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL4303439,,Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL209744,BENZYL NICOTINATE,Small molecule,-1.0,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL1161456,,Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL1161531,,Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL3976780,,Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL46273,,Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL369479,,Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL467977,,Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL1161536,,Small molecule,,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL2106016,ATRINOSITOL,Small molecule,2.0,,ambiguous
+DB08949,Inositol nicotinate,CHEMBL2251611,ETHYL NICOTINATE,Small molecule,,,ambiguous
+DB09167,Dosulepin,CHEMBL1711280,DOTHIEPIN HYDROCHLORIDE,Small molecule,4.0,,ambiguous
+DB09167,Dosulepin,CHEMBL1492500,DOTHIEPIN,Small molecule,4.0,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL1201478,POLYETHYLENE GLYCOL,Small molecule,3.0,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL1201479,POLYETHYLENE GLYCOL 3350,Small molecule,4.0,1984,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL2108780,POLYETHYLENE GLYCOL 4000,Small molecule,3.0,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL3707314,METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA,Protein,4.0,2007,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL2107976,POLYETHYLENE GLYCOL 1540,Small molecule,-1.0,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL2107938,POLYETHYLENE GLYCOL 6000,Small molecule,-1.0,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL2108855,ALUMINUM CHLOROHYDREX POLYETHYLENE GLYCOL,Small molecule,-1.0,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL2107946,POLYETHYLENE GLYCOL MONOMETHYL ETHER,Small molecule,-1.0,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL2108857,ALUMINUM DICHLOROHYDREX POLYETHYLENE GLYCOL,Small molecule,-1.0,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL2108859,ALUMINUM SESQUICHLOROHYDREX POLYETHYLENE GLYCOL,Small molecule,-1.0,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL2107930,POLYETHYLENE EXCIPIENT,Small molecule,-1.0,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL4850963,,Unknown,,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL286398,PROPYLENE GLYCOL,Small molecule,3.0,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL457299,ETHYLENE GLYCOL,Small molecule,,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL2268841,ETHYLENE GLYCOL DIOCTANOATE,Small molecule,,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL4876784,,Unknown,,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL2108782,POLYPROPYLENE GLYCOL,Small molecule,3.0,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL3652526,,Small molecule,,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL3693140,,Small molecule,,,ambiguous
+DB11077,Polyethylene glycol 400,CHEMBL5791054,,,,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL1201478,POLYETHYLENE GLYCOL,Small molecule,3.0,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL1201479,POLYETHYLENE GLYCOL 3350,Small molecule,4.0,1984,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL2108780,POLYETHYLENE GLYCOL 4000,Small molecule,3.0,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL3707314,METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA,Protein,4.0,2007,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL2107976,POLYETHYLENE GLYCOL 1540,Small molecule,-1.0,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL2107938,POLYETHYLENE GLYCOL 6000,Small molecule,-1.0,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL2108855,ALUMINUM CHLOROHYDREX POLYETHYLENE GLYCOL,Small molecule,-1.0,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL2107946,POLYETHYLENE GLYCOL MONOMETHYL ETHER,Small molecule,-1.0,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL2108857,ALUMINUM DICHLOROHYDREX POLYETHYLENE GLYCOL,Small molecule,-1.0,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL2108859,ALUMINUM SESQUICHLOROHYDREX POLYETHYLENE GLYCOL,Small molecule,-1.0,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL2107930,POLYETHYLENE EXCIPIENT,Small molecule,-1.0,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL286398,PROPYLENE GLYCOL,Small molecule,3.0,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL457299,ETHYLENE GLYCOL,Small molecule,,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL2268841,ETHYLENE GLYCOL DIOCTANOATE,Small molecule,,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL2108782,POLYPROPYLENE GLYCOL,Small molecule,3.0,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL3654060,,Small molecule,,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL3667349,,Small molecule,,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL3693045,,Small molecule,,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL5803106,,,,,ambiguous
+DB11161,Polyethylene glycol 300,CHEMBL5974896,,,,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL1201478,POLYETHYLENE GLYCOL,Small molecule,3.0,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL1201479,POLYETHYLENE GLYCOL 3350,Small molecule,4.0,1984,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2108780,POLYETHYLENE GLYCOL 4000,Small molecule,3.0,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL3707314,METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA,Protein,4.0,2007,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2107976,POLYETHYLENE GLYCOL 1540,Small molecule,-1.0,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2107938,POLYETHYLENE GLYCOL 6000,Small molecule,-1.0,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2108855,ALUMINUM CHLOROHYDREX POLYETHYLENE GLYCOL,Small molecule,-1.0,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2107946,POLYETHYLENE GLYCOL MONOMETHYL ETHER,Small molecule,-1.0,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2108857,ALUMINUM DICHLOROHYDREX POLYETHYLENE GLYCOL,Small molecule,-1.0,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2108859,ALUMINUM SESQUICHLOROHYDREX POLYETHYLENE GLYCOL,Small molecule,-1.0,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL600951,,Small molecule,,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2107930,POLYETHYLENE EXCIPIENT,Small molecule,-1.0,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL286398,PROPYLENE GLYCOL,Small molecule,3.0,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL457299,ETHYLENE GLYCOL,Small molecule,,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2268841,ETHYLENE GLYCOL DIOCTANOATE,Small molecule,,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2108782,POLYPROPYLENE GLYCOL,Small molecule,3.0,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2104293,HEXYLENE GLYCOL,Small molecule,-1.0,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2268557,DIETHYLENE GLYCOL DIOCTANOATE,Small molecule,,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2268573,ETHYLENE GLYCOL DIPENTANOATE,Small molecule,,,ambiguous
+DB11236,Polyethylene glycol 3500,CHEMBL2268854,DIETHYLENE GLYCOL DIISOBUTANOATE,Small molecule,,,ambiguous
+DB12478,Piribedil,CHEMBL1371770,PIRIBEDIL,Small molecule,3.0,,ambiguous
+DB12478,Piribedil,CHEMBL1865834,,Small molecule,,,ambiguous
+DB12478,Piribedil,CHEMBL1256997,PIRIBEDIL,Small molecule,,,ambiguous
+DB12478,Piribedil,CHEMBL1468572,,Small molecule,,,ambiguous
+DB12478,Piribedil,CHEMBL4594075,,Unknown,,,ambiguous
+DB12749,Butylphthalide,CHEMBL248594,RAC-3-N-BUTYLPHTHALIDE,Small molecule,3.0,,ambiguous
+DB12749,Butylphthalide,CHEMBL249818,,Small molecule,,,ambiguous
+DB12749,Butylphthalide,CHEMBL250205,(3S)-BUTYLPHTHALIDE,Small molecule,,,ambiguous
+DB12749,Butylphthalide,CHEMBL2324315,,Small molecule,,,ambiguous
+DB12749,Butylphthalide,CHEMBL2324314,,Small molecule,,,ambiguous
+DB12749,Butylphthalide,CHEMBL2347887,,Small molecule,,,ambiguous
+DB13396,Neocitrullamon,,,,,,not_found
+DB14478,Povidone K30,CHEMBL2108139,POVIDONE,Unknown,4.0,,ambiguous
+DB14478,Povidone K30,CHEMBL1201724,POVIDONE-IODINE,Unknown,4.0,1985,ambiguous
+DB14478,Povidone K30,CHEMBL5424182,,,,,ambiguous
+DB14478,Povidone K30,CHEMBL2108529,POVIDONE I 131,Unknown,-1.0,,ambiguous
+DB14478,Povidone K30,CHEMBL2108533,POVIDONE I 125,Unknown,-1.0,,ambiguous
+DB14478,Povidone K30,CHEMBL3919211,,Small molecule,,,ambiguous
+DB14478,Povidone K30,CHEMBL4864153,,Unknown,,,ambiguous
+DB14478,Povidone K30,CHEMBL5575103,,,,,ambiguous
+DB14478,Povidone K30,CHEMBL5285305,,,,,ambiguous
+DB14478,Povidone K30,CHEMBL5631496,,,,,ambiguous
+DB14478,Povidone K30,CHEMBL6165074,,,,,ambiguous
+DB14478,Povidone K30,CHEMBL375244,,Small molecule,,,ambiguous
+DB14478,Povidone K30,CHEMBL1384,KANAMYCIN,Small molecule,4.0,1973,ambiguous

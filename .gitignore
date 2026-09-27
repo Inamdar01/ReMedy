@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large raw datasets
+data/raw/primekg/primekg.csv
+data/raw/chembl/evidence/
+data/raw/chembl/chembl_activities_raw.csv
+data/raw/chembl/chembl_failed_drugs.csv
+
+# Temporary test outputs
+data/interim/chembl_target_evidence_test.csv
+data/interim/chembl_target_evidence_test_v2.csv
