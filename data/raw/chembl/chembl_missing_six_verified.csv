@@ -1,0 +1,7 @@
+﻿drugbank_id,chembl_id,drugbank_name,chembl_name,mapping_method
+DB01036,CHEMBL1382,Tolterodine,Tolterodine,verified_cross_reference
+DB01049,CHEMBL2311030,Ergoloid mesylate,Dihydroergotoxine Mesylate,verified_cross_reference
+DB01230,CHEMBL1177,Pemoline,Pemoline,verified_cross_reference
+DB11273,CHEMBL2365712,Dihydroergocornine,Dihydroergocornine,verified_cross_reference
+DB12131,CHEMBL71752,Vinpocetine,Vinpocetine,verified_cross_reference
+DB13522,CHEMBL3707390,Mebicar,Mebicar,verified_cross_reference

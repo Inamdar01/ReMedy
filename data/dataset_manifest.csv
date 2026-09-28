@@ -1,0 +1,5 @@
+source,version,release_date,download_date,file,licence,url,sha256,local_path,notes
+Reactome,V97,2026-06-30,2026-09-28,UniProt2Reactome_All_Levels.txt,CC0,https://reactome.org/download/current/UniProt2Reactome_All_Levels.txt,d2347cb04d1432f170ee0319283bd6314282909341488e9c33dc85aef663c68a,data\raw\reactome\UniProt2Reactome_All_Levels.txt,Reactome bulk data for ReMedy
+Reactome,V97,2026-06-30,2026-09-28,ReactomePathways.txt,CC0,https://reactome.org/download/current/ReactomePathways.txt,f6d7a2bf89b5bcfe0250a0bc7f51bff94641447911712b8ff129f5b55e52df3a,data\raw\reactome\ReactomePathways.txt,Reactome bulk data for ReMedy
+Reactome,V97,2026-06-30,2026-09-28,ReactomePathwaysRelation.txt,CC0,https://reactome.org/download/current/ReactomePathwaysRelation.txt,fd49a624d80c14eb37ae57a02e141d574d5ede3f60022bb99edbd909448a3f1e,data\raw\reactome\ReactomePathwaysRelation.txt,Reactome bulk data for ReMedy
+Reactome,V97,2026-06-30,2026-09-28,HumanDiseasePathways.txt,CC0,https://reactome.org/download/current/HumanDiseasePathways.txt,c044494679237839b0b0e8c132e785bf88021d92f3708d352313c928a72b32e0,data\raw\reactome\HumanDiseasePathways.txt,Reactome bulk data for ReMedy

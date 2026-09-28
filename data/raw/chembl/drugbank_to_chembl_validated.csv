@@ -228,7 +228,7 @@ DB00776,Oxcarbazepine,CHEMBL1068,OXCARBAZEPINE,validated,previous_mapping
 DB00777,Propiomazine,CHEMBL1201210,PROPIOMAZINE,validated,previous_mapping
 DB00779,Nalidixic acid,CHEMBL5,NALIDIXIC ACID,validated,previous_mapping
 DB00780,Phenelzine,CHEMBL1089,PHENELZINE,validated,previous_mapping
-DB00783,Estradiol,,,unresolved,manual_review
+DB00783,Estradiol,CHEMBL135,ESTRADIOL,validated,verified_external_cross_reference
 DB00787,Acyclovir,CHEMBL184,ACYCLOVIR,validated,previous_mapping
 DB00788,Naproxen,CHEMBL154,NAPROXEN,validated,previous_mapping
 DB00794,Primidone,CHEMBL856,PRIMIDONE,validated,previous_mapping
@@ -313,9 +313,11 @@ DB01012,Cinacalcet,CHEMBL1201284,CINACALCET,validated,previous_mapping
 DB01018,Guanfacine,CHEMBL862,GUANFACINE,validated,previous_mapping
 DB01019,Bethanechol,CHEMBL1482,BETHANECHOL,validated,previous_mapping
 DB01021,Trichlormethiazide,CHEMBL1054,TRICHLORMETHIAZIDE,validated,previous_mapping
+DB01036,Tolterodine,CHEMBL1382,Tolterodine,validated,verified_cross_reference
 DB01037,Selegiline,CHEMBL972,SELEGILINE,validated,previous_mapping
 DB01041,Thalidomide,CHEMBL468,THALIDOMIDE,validated,previous_mapping
 DB01045,Rifampicin,CHEMBL374478,RIFAMPIN,validated,synonym_match
+DB01049,Ergoloid mesylate,CHEMBL2311030,Dihydroergotoxine Mesylate,validated,verified_cross_reference
 DB01050,Ibuprofen,CHEMBL521,IBUPROFEN,validated,previous_mapping
 DB01057,Echothiophate,CHEMBL1201341,ECHOTHIOPHATE,validated,previous_mapping
 DB01058,Praziquantel,CHEMBL976,PRAZIQUANTEL,validated,previous_mapping
@@ -366,6 +368,7 @@ DB01221,Ketamine,CHEMBL742,KETAMINE,validated,previous_mapping
 DB01222,Budesonide,CHEMBL1370,BUDESONIDE,validated,previous_mapping
 DB01224,Quetiapine,CHEMBL716,QUETIAPINE,validated,previous_mapping
 DB01229,Paclitaxel,CHEMBL428647,PACLITAXEL,validated,previous_mapping
+DB01230,Pemoline,CHEMBL1177,Pemoline,validated,verified_cross_reference
 DB01233,Metoclopramide,CHEMBL86,METOCLOPRAMIDE,validated,previous_mapping
 DB01234,Dexamethasone,CHEMBL384467,DEXAMETHASONE,validated,previous_mapping
 DB01235,Levodopa,CHEMBL1009,LEVODOPA,validated,previous_mapping
@@ -475,7 +478,7 @@ DB08880,Teriflunomide,CHEMBL973,TERIFLUNOMIDE,validated,previous_mapping
 DB08918,Levomilnacipran,CHEMBL99946,LEVOMILNACIPRAN,validated,previous_mapping
 DB08922,Perospirone,CHEMBL1472975,PEROSPIRONE,validated,previous_mapping
 DB08936,Chlorcyclizine,CHEMBL22150,CHLORCYCLIZINE,validated,previous_mapping
-DB08949,Inositol nicotinate,,,unresolved,manual_review
+DB08949,Inositol nicotinate,CHEMBL1094982,INOSITOL NICOTINATE,validated,verified_external_cross_reference
 DB08987,Etidocaine,CHEMBL492,ETIDOCAINE,validated,previous_mapping
 DB08988,Ethoheptazine,CHEMBL170797,ETHOHEPTAZINE,validated,previous_mapping
 DB08998,Demexiptiline,CHEMBL2107576,DEMEXIPTILINE,validated,previous_mapping
@@ -505,16 +508,15 @@ DB09472,Sodium sulfate,CHEMBL3989856,SODIUM SULFATE,validated,previous_mapping
 DB09481,Magnesium carbonate,CHEMBL1200736,MAGNESIUM CARBONATE,validated,previous_mapping
 DB09543,Methyl salicylate,CHEMBL108545,METHYL SALICYLATE,validated,previous_mapping
 DB11061,Povidone,CHEMBL2108139,POVIDONE,validated,previous_mapping
-DB11077,Polyethylene glycol 400,,,unresolved,manual_review
 DB11085,Resorcinol,CHEMBL24147,RESORCINOL,validated,previous_mapping
 DB11126,Calcium gluconate,CHEMBL2106119,CALCIUM GLUCONATE,validated,previous_mapping
 DB11148,Butamben,CHEMBL127516,BUTAMBEN,validated,previous_mapping
 DB11160,Phenyltoloxamine,CHEMBL186720,PHENYLTOLOXAMINE,validated,previous_mapping
-DB11161,Polyethylene glycol 300,,,unresolved,manual_review
 DB11181,Homatropine,CHEMBL1618018,HOMATROPINE,validated,previous_mapping
 DB11236,Polyethylene glycol 3500,CHEMBL1201479,POLYETHYLENE GLYCOL 3350,validated,manual_review
 DB11248,Zinc gluconate,CHEMBL3833377,ZINC GLUCONATE,validated,previous_mapping
 DB11256,Levomefolic acid,CHEMBL1231574,LEVOMEFOLIC ACID,validated,previous_mapping
+DB11273,Dihydroergocornine,CHEMBL2365712,Dihydroergocornine,validated,verified_cross_reference
 DB11275,Epicriptine,CHEMBL2106411,EPICRIPTINE,validated,previous_mapping
 DB11315,Methscopolamine,CHEMBL376897,METHSCOPOLAMINE,validated,previous_mapping
 DB11359,Guaiacol,CHEMBL13766,GUAIACOL,validated,previous_mapping
@@ -522,13 +524,14 @@ DB11632,Opicapone,CHEMBL1089318,OPICAPONE,validated,previous_mapping
 DB11732,Lasmiditan,CHEMBL3039520,LASMIDITAN,validated,previous_mapping
 DB11757,Istradefylline,CHEMBL431770,ISTRADEFYLLINE,validated,previous_mapping
 DB11823,Esketamine,CHEMBL395091,ESKETAMINE,validated,previous_mapping
+DB12131,Vinpocetine,CHEMBL71752,Vinpocetine,validated,verified_cross_reference
 DB12184,Gepirone,CHEMBL284092,GEPIRONE,validated,previous_mapping
 DB12243,Edaravone,CHEMBL290916,EDARAVONE,validated,previous_mapping
 DB12457,Rimegepant,CHEMBL2178422,RIMEGEPANT,validated,previous_mapping
 DB12478,Piribedil,CHEMBL1371770,PIRIBEDIL,validated,preferred_name_match
 DB12612,Ozanimod,CHEMBL3707247,OZANIMOD,validated,previous_mapping
 DB12710,Perazine,CHEMBL1697766,PERAZINE,validated,previous_mapping
-DB12749,Butylphthalide,,,unresolved,manual_review
+DB12749,Butylphthalide,CHEMBL248594,BUTYLPHTHALIDE,validated,verified_external_cross_reference
 DB12789,Dinoprost,CHEMBL815,DINOPROST,validated,previous_mapping
 DB12930,Opipramol,CHEMBL370753,OPIPRAMOL,validated,previous_mapping
 DB13139,Levosalbutamol,CHEMBL1002,LEVOSALBUTAMOL,validated,previous_mapping
@@ -536,10 +539,11 @@ DB13160,Alphaprodine,CHEMBL1623765,ALPHAPRODINE,validated,previous_mapping
 DB13178,Inositol,CHEMBL1222251,INOSITOL,validated,previous_mapping
 DB13247,Pramiracetam,CHEMBL159776,PRAMIRACETAM,validated,previous_mapping
 DB13313,Melevodopa,CHEMBL1328898,MELEVODOPA,validated,previous_mapping
-DB13396,Neocitrullamon,,,unresolved,not_found
+DB13396,Neocitrullamon,CHEMBL3707389,NEOCITRULLAMON,validated,verified_external_cross_reference
 DB13403,Oxypertine,CHEMBL2107011,OXYPERTINE,validated,previous_mapping
 DB13411,Lofepramine,CHEMBL87708,LOFEPRAMINE,validated,previous_mapping
 DB13463,Oxetorone,CHEMBL3989752,OXETORONE,validated,previous_mapping
+DB13522,Mebicar,CHEMBL3707390,Mebicar,validated,verified_cross_reference
 DB13526,Pentaerithrityl,CHEMBL466659,PENTAERYTHRITOL TETRANITRATE,validated,previous_mapping
 DB13668,Ipidacrine,CHEMBL130880,IPIDACRINE,validated,previous_mapping
 DB13676,Mosapramine,CHEMBL2106650,MOSAPRAMINE,validated,previous_mapping

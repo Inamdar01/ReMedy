@@ -1533,6 +1533,8 @@ CHEMBL1094,DB00949,Felbamate,CHEMBL4777,Neuropeptide Y receptor type 1,1,0,0,1
 CHEMBL1094,DB00949,Felbamate,CHEMBL5162,Neuropeptide S receptor,1,0,0,1
 CHEMBL1094,DB00949,Felbamate,CHEMBL6020,Bile salt export pump,2,0,0,2
 CHEMBL1094,DB00949,Felbamate,CHEMBL6032,Histone-lysine N-methyltransferase EHMT2,2,0,0,2
+CHEMBL1094982,DB08949,Inositol nicotinate,CHEMBL1865,Protein deacetylase HDAC6,2,2,0,0
+CHEMBL1094982,DB08949,Inositol nicotinate,CHEMBL4523582,Replicase polyprotein 1ab,1,0,1,0
 CHEMBL1095,DB00754,Ethotoin,CHEMBL1293278,Geminin,1,0,0,1
 CHEMBL1095,DB00754,Ethotoin,CHEMBL1790,Vasopressin V2 receptor,1,0,0,1
 CHEMBL1095,DB00754,Ethotoin,CHEMBL1833,5-hydroxytryptamine receptor 2B,2,0,0,2
@@ -2886,6 +2888,67 @@ CHEMBL1175,DB00476,Duloxetine,CHEMBL6020,Bile salt export pump,1,0,0,1
 CHEMBL1175,DB00476,Duloxetine,CHEMBL6032,Histone-lysine N-methyltransferase EHMT2,1,0,0,1
 CHEMBL1175,DB00476,Duloxetine,CHEMBL6035,"Thioredoxin reductase 1, cytoplasmic",1,0,0,1
 CHEMBL1175,DB00476,Duloxetine,CHEMBL6184,Transporter,4,0,0,4
+CHEMBL1177,DB01230,Pemoline,CHEMBL1293294,Ras-related protein Rab-9A,1,1,0,0
+CHEMBL1177,DB01230,Pemoline,CHEMBL1743128,ATP-binding cassette sub-family C member 4,1,1,0,0
+CHEMBL1177,DB01230,Pemoline,CHEMBL1790,Vasopressin V2 receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL1833,5-hydroxytryptamine receptor 2B,2,0,0,2
+CHEMBL1177,DB01230,Pemoline,CHEMBL1867,Alpha-2A adrenergic receptor,2,0,0,2
+CHEMBL1177,DB01230,Pemoline,CHEMBL1882,Neuronal acetylcholine receptor subunit alpha-4,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL1889,Vasopressin V1a receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL1899,5-hydroxytryptamine receptor 3A,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL1901,Cholecystokinin receptor type A,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL1916,Alpha-2C adrenergic receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL1941,Histamine H2 receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL1942,Alpha-2B adrenergic receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL1951,Amine oxidase [flavin-containing] A,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL1997,Equilibrative nucleoside transporter 1,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL2034,Glucocorticoid receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL2056,D(1A) dopamine receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL206,Estrogen receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL2069,Thromboxane A2 receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL208,Progesterone receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL210,Beta-2 adrenergic receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL211,Muscarinic acetylcholine receptor M2,2,0,0,2
+CHEMBL1177,DB01230,Pemoline,CHEMBL213,Beta-1 adrenergic receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL214,5-hydroxytryptamine receptor 1A,3,0,0,3
+CHEMBL1177,DB01230,Pemoline,CHEMBL216,Muscarinic acetylcholine receptor M1,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL217,D(2) dopamine receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL2203,Motilin receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL222,Sodium-dependent noradrenaline transporter,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL224,5-hydroxytryptamine receptor 2A,3,0,0,3
+CHEMBL1177,DB01230,Pemoline,CHEMBL225,5-hydroxytryptamine receptor 2C,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL226,Adenosine receptor A1,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL227,Type-1 angiotensin II receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL228,Sodium-dependent serotonin transporter,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL229,Alpha-1A adrenergic receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL230,Prostaglandin G/H synthase 2,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL231,Histamine H1 receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL233,Mu-type opioid receptor,2,0,0,2
+CHEMBL1177,DB01230,Pemoline,CHEMBL234,D(3) dopamine receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL236,Delta-type opioid receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL237,Kappa-type opioid receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL238,Sodium-dependent dopamine transporter,3,0,0,3
+CHEMBL1177,DB01230,Pemoline,CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL241,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A",1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL245,Muscarinic acetylcholine receptor M3,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL251,Adenosine receptor A2a,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL256,Adenosine receptor A3,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL259,Melanocortin receptor 4,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL264,Histamine H3 receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL288,"3',5'-cyclic-AMP phosphodiesterase 4D",1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL298,Gastrin/cholecystokinin type B receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL3072,Androgen receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL3157,B2 bradykinin receptor,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL330,"Glutamate receptor ionotropic, NMDA 1",1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL343,Gamma-aminobutyric acid receptor subunit alpha-1,2,0,0,2
+CHEMBL1177,DB01230,Pemoline,CHEMBL3762,Voltage-dependent L-type calcium channel subunit alpha-1C,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL4042,Prostaglandin G/H synthase 1,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL4616,Growth hormone secretagogue receptor type 1,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL4644,Melanocortin receptor 3,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL4777,Neuropeptide Y receptor type 1,1,0,0,1
+CHEMBL1177,DB01230,Pemoline,CHEMBL5748,ATP-binding cassette sub-family C member 2,1,1,0,0
+CHEMBL1177,DB01230,Pemoline,CHEMBL5918,ATP-binding cassette sub-family C member 3,1,1,0,0
+CHEMBL1177,DB01230,Pemoline,CHEMBL6020,Bile salt export pump,2,1,0,1
 CHEMBL117785,DB04844,Tetrabenazine,CHEMBL1075138,Tyrosyl-DNA phosphodiesterase 1,2,0,0,2
 CHEMBL117785,DB04844,Tetrabenazine,CHEMBL1293224,Microtubule-associated protein tau,1,0,0,1
 CHEMBL117785,DB04844,Tetrabenazine,CHEMBL1293226,Lysine-specific demethylase 4E,1,0,0,1
@@ -8358,6 +8421,172 @@ CHEMBL134,DB00575,Clonidine,CHEMBL5221,Nischarin,6,0,0,6
 CHEMBL134,DB00575,Clonidine,CHEMBL5471,Beta-1 adrenergic receptor,2,0,0,2
 CHEMBL134,DB00575,Clonidine,CHEMBL5685,Solute carrier family 22 member 1,5,0,0,5
 CHEMBL134,DB00575,Clonidine,CHEMBL6020,Bile salt export pump,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1075138,Tyrosyl-DNA phosphodiesterase 1,7,0,0,7
+CHEMBL135,DB00783,Estradiol,CHEMBL1287617,UDP-glucuronosyltransferase 1A1,2,2,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1293224,Microtubule-associated protein tau,2,2,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1293232,Survival motor neuron protein,2,2,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1293235,Prelamin-A/C,4,4,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1293236,ATP-dependent DNA helicase Q1,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1293237,RecQ-like DNA helicase BLM,2,2,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1293258,Mothers against decapentaplegic homolog 3,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1293278,Geminin,4,4,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1293298,Peripheral myelin protein 22,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1293303,Nonstructural protein 1,1,0,1,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1641355,Aldehyde oxidase 1,1,0,1,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1641356,Aldehyde oxidase 1,1,0,1,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1641357,Aldehyde oxidase 1,1,0,1,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1697668,Solute carrier organic anion transporter family member 1B1,2,1,1,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1741186,Nuclear receptor ROR-gamma,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1743121,Solute carrier organic anion transporter family member 1B3,2,1,1,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1743122,Solute carrier family 22 member 2,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1743124,Solute carrier organic anion transporter family member 2B1,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1743128,ATP-binding cassette sub-family C member 4,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1743291,Sulfotransferase 1A1,2,2,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1743316,UDP-glucuronosyltransferase 1A6,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1743317,UDP-glucuronosyltransferase 1A7,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1743319,UDP-glucuronosyltransferase 1A9,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1743320,UDP-glucuronosyltransferase 1A10,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1743321,UDP-glucuronosyltransferase 2A1,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1770032,Solute carrier family 22 member 2,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1770033,Solute carrier family 22 member 3,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1781859,Solute carrier organic anion transporter family member 1A1,2,0,1,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1785,Endothelin receptor type B,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1790,Vasopressin V2 receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1800,Corticotropin-releasing factor receptor 1,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1833,5-hydroxytryptamine receptor 2B,4,0,0,4
+CHEMBL135,DB00783,Estradiol,CHEMBL1865,Protein deacetylase HDAC6,2,2,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1867,Alpha-2A adrenergic receptor,4,0,0,4
+CHEMBL135,DB00783,Estradiol,CHEMBL1871,Androgen receptor,6,1,0,5
+CHEMBL135,DB00783,Estradiol,CHEMBL1882,Neuronal acetylcholine receptor subunit alpha-4,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1889,Vasopressin V1a receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1899,5-hydroxytryptamine receptor 3A,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1900,Aldo-keto reductase family 1 member B1,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1901,Cholecystokinin receptor type A,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1909044,Progesterone receptor,2,0,2,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1916,Alpha-2C adrenergic receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1940,Voltage-dependent L-type calcium channel subunit alpha-1C,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1941,Histamine H2 receptor,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL1942,Alpha-2B adrenergic receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1947,Thyroid hormone receptor beta,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1951,Amine oxidase [flavin-containing] A,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL1963,Thyrotropin receptor,2,2,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL1985,Glucagon receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL1997,Equilibrative nucleoside transporter 1,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL2007625,Isocitrate dehydrogenase [NADP] cytoplasmic,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL2029197,Rap guanine nucleotide exchange factor 3,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL2034,Glucocorticoid receptor,6,0,0,6
+CHEMBL135,DB00783,Estradiol,CHEMBL204,Prothrombin,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL2047,Bile acid receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL2056,D(1A) dopamine receptor,3,0,0,3
+CHEMBL135,DB00783,Estradiol,CHEMBL206,Estrogen receptor,177,144,0,33
+CHEMBL135,DB00783,Estradiol,CHEMBL2069,Thromboxane A2 receptor,3,0,0,3
+CHEMBL135,DB00783,Estradiol,CHEMBL2073673,Solute carrier family 22 member 3,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL2073687,ATP-binding cassette sub-family C member 10,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL208,Progesterone receptor,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL210,Beta-2 adrenergic receptor,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL211,Muscarinic acetylcholine receptor M2,4,0,0,4
+CHEMBL135,DB00783,Estradiol,CHEMBL213,Beta-1 adrenergic receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL214,5-hydroxytryptamine receptor 1A,4,0,0,4
+CHEMBL135,DB00783,Estradiol,CHEMBL2146315,Nuclear receptor subfamily 1 group I member 2,1,0,1,0
+CHEMBL135,DB00783,Estradiol,CHEMBL2157,Interleukin-8,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL216,Muscarinic acetylcholine receptor M1,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL217,D(2) dopamine receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL218,Cannabinoid receptor 1,3,0,0,3
+CHEMBL135,DB00783,Estradiol,CHEMBL2193,Arylsulfatase A,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL220,Acetylcholinesterase,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL2203,Motilin receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL221,Prostaglandin G/H synthase 1,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL222,Sodium-dependent noradrenaline transporter,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL224,5-hydroxytryptamine receptor 2A,3,0,0,3
+CHEMBL135,DB00783,Estradiol,CHEMBL225,5-hydroxytryptamine receptor 2C,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL226,Adenosine receptor A1,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL227,Type-1 angiotensin II receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL228,Sodium-dependent serotonin transporter,4,0,0,4
+CHEMBL135,DB00783,Estradiol,CHEMBL229,Alpha-1A adrenergic receptor,5,0,0,5
+CHEMBL135,DB00783,Estradiol,CHEMBL230,Prostaglandin G/H synthase 2,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL231,Histamine H1 receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL233,Mu-type opioid receptor,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL234,D(3) dopamine receptor,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL235,Peroxisome proliferator-activated receptor gamma,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL236,Delta-type opioid receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL2362981,TAR DNA-binding protein 43,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL237,Kappa-type opioid receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL238,Sodium-dependent dopamine transporter,4,0,0,4
+CHEMBL135,DB00783,Estradiol,CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL241,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A",2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL242,Estrogen receptor beta,145,122,0,23
+CHEMBL135,DB00783,Estradiol,CHEMBL2421,Corticosteroid-binding globulin,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL245,Muscarinic acetylcholine receptor M3,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL246,Beta-3 adrenergic receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL251,Adenosine receptor A2a,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL252,Endothelin-1 receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL254,"3',5'-cyclic-AMP phosphodiesterase 4A",1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL256,Adenosine receptor A3,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL259,Melanocortin receptor 4,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL2596,Progesterone receptor,1,0,1,0
+CHEMBL135,DB00783,Estradiol,CHEMBL264,Histamine H3 receptor,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL2724,Estrogen receptor,3,0,2,1
+CHEMBL135,DB00783,Estradiol,CHEMBL279,Vascular endothelial growth factor receptor 2,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL288,"3',5'-cyclic-AMP phosphodiesterase 4D",1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL298,Gastrin/cholecystokinin type B receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL2995,Estrogen receptor beta,1,0,1,0
+CHEMBL135,DB00783,Estradiol,CHEMBL3021,Estrogen receptor beta,4,0,3,1
+CHEMBL135,DB00783,Estradiol,CHEMBL3065,Estrogen receptor,1,0,1,0
+CHEMBL135,DB00783,Estradiol,CHEMBL3072,Androgen receptor,5,0,4,1
+CHEMBL135,DB00783,Estradiol,CHEMBL3155,5-hydroxytryptamine receptor 7,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL3157,B2 bradykinin receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL3257,Aldehyde oxidase,4,4,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL330,"Glutamate receptor ionotropic, NMDA 1",1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL3305,Sex hormone-binding globulin,2,2,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL3368,Glucocorticoid receptor,1,0,1,0
+CHEMBL135,DB00783,Estradiol,CHEMBL3371,5-hydroxytryptamine receptor 6,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL340,Cytochrome P450 3A4,2,2,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL3426,5-hydroxytryptamine receptor 5A,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL3429,Steroid hormone receptor ERR1,5,3,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL343,Gamma-aminobutyric acid receptor subunit alpha-1,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL3559,Steryl-sulfatase,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL3577,Aldehyde dehydrogenase 1A1,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL3619,UDP-glucuronosyltransferase 1A4,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL3751,Steroid hormone receptor ERR2,5,3,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL3762,Voltage-dependent L-type calcium channel subunit alpha-1C,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL3864,Tyrosine-protein phosphatase non-receptor type 11,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL3979,Peroxisome proliferator-activated receptor delta,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL4018,Neuropeptide Y receptor type 2,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL4042,Prostaglandin G/H synthase 1,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL4069,Corticotropin-releasing factor receptor 2,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL4123,Neurotensin receptor type 1,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL4159,3-hydroxyacyl-CoA dehydrogenase type-2,2,2,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL4245,Estrogen-related receptor gamma,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL4295650,3-hydroxyacyl-CoA dehydrogenase type-2,2,0,2,0
+CHEMBL135,DB00783,Estradiol,CHEMBL4308,B1 bradykinin receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL4358,Polyunsaturated fatty acid lipoxygenase ALOX15,1,0,1,0
+CHEMBL135,DB00783,Estradiol,CHEMBL4370,UDP-glucuronosyltransferase 2B7,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL4383,Gastric inhibitory polypeptide receptor,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL4523507,Deoxynucleoside triphosphate triphosphohydrolase SAMHD1,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL4523510,Cholesterol 24-hydroxylase,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL4523582,Replicase polyprotein 1ab,3,0,3,0
+CHEMBL135,DB00783,Estradiol,CHEMBL4616,Growth hormone secretagogue receptor type 1,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL4644,Melanocortin receptor 3,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL4729,Cytochrome P450 2B6,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL4777,Neuropeptide Y receptor type 1,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL4878,Cytochrome P450 1B1,3,3,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL4978,UDP-glucuronosyltransferase 2B17,2,2,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL5107,Voltage-dependent N-type calcium channel subunit alpha-1B,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL5393,Broad substrate specificity ATP-binding cassette transporter ABCG2,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL5409,G-protein coupled bile acid receptor 1,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL5567,Luciferin 4-monooxygenase,2,0,0,2
+CHEMBL135,DB00783,Estradiol,CHEMBL5619,DNA repair nuclease/redox regulator APEX1,1,0,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL5685,Solute carrier family 22 member 1,2,1,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL5748,ATP-binding cassette sub-family C member 2,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL5872,G-protein coupled estrogen receptor 1,10,6,0,4
+CHEMBL135,DB00783,Estradiol,CHEMBL5918,ATP-binding cassette sub-family C member 3,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL5983,Aldo-keto reductase family 1 member B10,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL5999,3-keto-steroid reductase/17-beta-hydroxysteroid dehydrogenase 7,2,2,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL6020,Bile salt export pump,2,1,0,1
+CHEMBL135,DB00783,Estradiol,CHEMBL6032,Histone-lysine N-methyltransferase EHMT2,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL6152,Alpha-synuclein,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL6161,UDP-glucuronosyltransferase 2B15,1,1,0,0
+CHEMBL135,DB00783,Estradiol,CHEMBL6196,UDP-glucuronosyltransferase 2B4,2,2,0,0
 CHEMBL135400,DB01198,Zopiclone,CHEMBL1293224,Microtubule-associated protein tau,2,0,0,2
 CHEMBL135400,DB01198,Zopiclone,CHEMBL1293236,ATP-dependent DNA helicase Q1,1,0,0,1
 CHEMBL135400,DB01198,Zopiclone,CHEMBL1293317,Muscleblind-like protein 1,1,0,0,1
@@ -8979,6 +9208,109 @@ CHEMBL13766,DB11359,Guaiacol,CHEMBL4523507,Deoxynucleoside triphosphate triphosp
 CHEMBL13766,DB11359,Guaiacol,CHEMBL4588,Neutrophil collagenase,1,0,0,1
 CHEMBL13766,DB11359,Guaiacol,CHEMBL6020,Bile salt export pump,1,0,0,1
 CHEMBL13766,DB11359,Guaiacol,CHEMBL6032,Histone-lysine N-methyltransferase EHMT2,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1075138,Tyrosyl-DNA phosphodiesterase 1,4,0,0,4
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1293224,Microtubule-associated protein tau,1,1,0,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1293231,Nuclear receptor ROR-gamma,1,0,1,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1293235,Prelamin-A/C,1,1,0,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1293238,Inositol monophosphatase 1,1,0,1,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1293278,Geminin,1,1,0,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1785,Endothelin receptor type B,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1790,Vasopressin V2 receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1800,Corticotropin-releasing factor receptor 1,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1821,Muscarinic acetylcholine receptor M4,1,1,0,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1833,5-hydroxytryptamine receptor 2B,4,0,0,4
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1865,Protein deacetylase HDAC6,2,2,0,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1867,Alpha-2A adrenergic receptor,4,0,0,4
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1871,Androgen receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1882,Neuronal acetylcholine receptor subunit alpha-4,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1889,Vasopressin V1a receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1899,5-hydroxytryptamine receptor 3A,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1901,Cholecystokinin receptor type A,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1916,Alpha-2C adrenergic receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1940,Voltage-dependent L-type calcium channel subunit alpha-1C,1,1,0,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1941,Histamine H2 receptor,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1942,Alpha-2B adrenergic receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1951,Amine oxidase [flavin-containing] A,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1964,A-type voltage-gated potassium channel KCND3,1,0,1,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1980,Sodium channel protein type 5 subunit alpha,3,1,1,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1985,Glucagon receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL1997,Equilibrative nucleoside transporter 1,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL2034,Glucocorticoid receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL2035,Muscarinic acetylcholine receptor M5,2,1,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL204,Prothrombin,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL2056,D(1A) dopamine receptor,3,0,0,3
+CHEMBL1382,DB01036,Tolterodine,CHEMBL206,Estrogen receptor,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL2064,Gamma-aminobutyric acid type B receptor subunit 1,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL2069,Thromboxane A2 receptor,5,0,0,5
+CHEMBL1382,DB01036,Tolterodine,CHEMBL2073673,Solute carrier family 22 member 3,1,1,0,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL208,Progesterone receptor,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL210,Beta-2 adrenergic receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL211,Muscarinic acetylcholine receptor M2,8,2,1,5
+CHEMBL1382,DB01036,Tolterodine,CHEMBL213,Beta-1 adrenergic receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL214,5-hydroxytryptamine receptor 1A,4,0,0,4
+CHEMBL1382,DB01036,Tolterodine,CHEMBL216,Muscarinic acetylcholine receptor M1,4,1,0,3
+CHEMBL1382,DB01036,Tolterodine,CHEMBL217,D(2) dopamine receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL218,Cannabinoid receptor 1,4,0,0,4
+CHEMBL1382,DB01036,Tolterodine,CHEMBL219,D(4) dopamine receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL220,Acetylcholinesterase,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL2203,Motilin receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL221,Prostaglandin G/H synthase 1,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL222,Sodium-dependent noradrenaline transporter,3,1,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL224,5-hydroxytryptamine receptor 2A,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL225,5-hydroxytryptamine receptor 2C,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL226,Adenosine receptor A1,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL227,Type-1 angiotensin II receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL228,Sodium-dependent serotonin transporter,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL229,Alpha-1A adrenergic receptor,6,0,0,6
+CHEMBL1382,DB01036,Tolterodine,CHEMBL230,Prostaglandin G/H synthase 2,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL231,Histamine H1 receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL233,Mu-type opioid receptor,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL234,D(3) dopamine receptor,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL236,Delta-type opioid receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL2366456,Voltage-dependent L-type calcium channel subunit alpha-1C,1,0,1,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL237,Kappa-type opioid receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL238,Sodium-dependent dopamine transporter,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,5,0,2,3
+CHEMBL1382,DB01036,Tolterodine,CHEMBL241,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A",2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL242,Estrogen receptor beta,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL245,Muscarinic acetylcholine receptor M3,5,4,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL246,Beta-3 adrenergic receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL249,Substance-P receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL251,Adenosine receptor A2a,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL252,Endothelin-1 receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL254,"3',5'-cyclic-AMP phosphodiesterase 4A",1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL256,Adenosine receptor A3,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL259,Melanocortin receptor 4,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL264,Histamine H3 receptor,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL276,Muscarinic acetylcholine receptor M1,1,0,1,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL277,Muscarinic acetylcholine receptor M5,1,0,1,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL279,Vascular endothelial growth factor receptor 2,2,0,0,2
+CHEMBL1382,DB01036,Tolterodine,CHEMBL288,"3',5'-cyclic-AMP phosphodiesterase 4D",1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL298,Gastrin/cholecystokinin type B receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL3072,Androgen receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL309,Muscarinic acetylcholine receptor M2,2,0,2,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL3155,5-hydroxytryptamine receptor 7,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL3157,B2 bradykinin receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL317,Muscarinic acetylcholine receptor M4,1,0,1,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL320,Muscarinic acetylcholine receptor M3,2,0,2,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL330,"Glutamate receptor ionotropic, NMDA 1",1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL3371,5-hydroxytryptamine receptor 6,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL343,Gamma-aminobutyric acid receptor subunit alpha-1,3,0,0,3
+CHEMBL1382,DB01036,Tolterodine,CHEMBL3509601,"POU domain, class 2, transcription factor 1",1,1,0,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL3762,Voltage-dependent L-type calcium channel subunit alpha-1C,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL4018,Neuropeptide Y receptor type 2,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL4042,Prostaglandin G/H synthase 1,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL4069,Corticotropin-releasing factor receptor 2,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL4123,Neurotensin receptor type 1,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL4308,B1 bradykinin receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL4383,Gastric inhibitory polypeptide receptor,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL4523582,Replicase polyprotein 1ab,1,0,1,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL4616,Growth hormone secretagogue receptor type 1,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL4644,Melanocortin receptor 3,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL4777,Neuropeptide Y receptor type 1,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL5107,Voltage-dependent N-type calcium channel subunit alpha-1B,1,0,0,1
+CHEMBL1382,DB01036,Tolterodine,CHEMBL5498,Muscarinic acetylcholine receptor M3,1,0,1,0
+CHEMBL1382,DB01036,Tolterodine,CHEMBL6020,Bile salt export pump,1,0,0,1
 CHEMBL1384,DB01172,Kanamycin,CHEMBL1743128,ATP-binding cassette sub-family C member 4,1,0,0,1
 CHEMBL1384,DB01172,Kanamycin,CHEMBL1790,Vasopressin V2 receptor,1,0,0,1
 CHEMBL1384,DB01172,Kanamycin,CHEMBL1833,5-hydroxytryptamine receptor 2B,2,0,0,2
@@ -14836,6 +15168,13 @@ CHEMBL24147,DB11085,Resorcinol,CHEMBL4523582,Replicase polyprotein 1ab,1,0,0,1
 CHEMBL24147,DB11085,Resorcinol,CHEMBL4789,"Carbonic anhydrase 5A, mitochondrial",1,0,0,1
 CHEMBL24147,DB11085,Resorcinol,CHEMBL5619,DNA repair nuclease/redox regulator APEX1,1,0,0,1
 CHEMBL24147,DB11085,Resorcinol,CHEMBL5973,Carbonic anhydrase 15,1,0,0,1
+CHEMBL248594,DB12749,Butylphthalide,CHEMBL1865,Protein deacetylase HDAC6,2,2,0,0
+CHEMBL248594,DB12749,Butylphthalide,CHEMBL1951,Amine oxidase [flavin-containing] A,3,3,0,0
+CHEMBL248594,DB12749,Butylphthalide,CHEMBL2039,Amine oxidase [flavin-containing] B,4,4,0,0
+CHEMBL248594,DB12749,Butylphthalide,CHEMBL220,Acetylcholinesterase,2,2,0,0
+CHEMBL248594,DB12749,Butylphthalide,CHEMBL2487,Amyloid-beta precursor protein,7,7,0,0
+CHEMBL248594,DB12749,Butylphthalide,CHEMBL3403,Butyrylcholinesterase,3,0,3,0
+CHEMBL248594,DB12749,Butylphthalide,CHEMBL4078,Acetylcholinesterase,3,0,3,0
 CHEMBL25,DB00945,Acetylsalicylic acid,CHEMBL1075138,Tyrosyl-DNA phosphodiesterase 1,1,0,0,1
 CHEMBL25,DB00945,Acetylsalicylic acid,CHEMBL1287617,UDP-glucuronosyltransferase 1A1,1,0,0,1
 CHEMBL25,DB00945,Acetylsalicylic acid,CHEMBL1293226,Lysine-specific demethylase 4E,2,0,0,2

@@ -1,0 +1,13 @@
+metric,value,table,relation,edge_count
+total_nodes,5113.0,,,
+total_edges,52371.0,,,
+unique_drugs,568.0,,,
+unique_diseases,12.0,,,
+unique_genes,0.0,,,
+unique_proteins,2464.0,,,
+unique_pathways,2069.0,,,
+validated_drugbank_chembl_mappings,569.0,,,
+,,drug_disease,contraindication,816.0
+,,drug_disease,indication,249.0
+,,drug_disease,off-label use,47.0
+,,protein_pathway,participates_in,18088.0

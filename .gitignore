@@ -12,3 +12,12 @@ data/raw/chembl/chembl_failed_drugs.csv
 # Temporary test outputs
 data/interim/chembl_target_evidence_test.csv
 data/interim/chembl_target_evidence_test_v2.csv
+
+# Raw external datasets - reproducible through download scripts/manifest
+data/raw/hgnc/*
+data/raw/mondo/*
+data/raw/reactome/*
+
+# Large generated ChEMBL intermediate tables
+data/interim/chembl_target_evidence_combined.csv
+data/interim/chembl_evidence_clean.csv

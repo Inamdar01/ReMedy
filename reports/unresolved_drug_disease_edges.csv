@@ -1,0 +1,3 @@
+drugbank_id,drug_name,relation,primekg_disease_id,disease_name,chembl_id,mondo_id
+DB11077,Polyethylene glycol 400,contraindication,5027,epilepsy,,MONDO:0005027
+DB11161,Polyethylene glycol 300,contraindication,5027,epilepsy,,MONDO:0005027

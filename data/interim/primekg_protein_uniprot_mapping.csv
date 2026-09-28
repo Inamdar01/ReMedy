@@ -1,0 +1,1557 @@
+protein_entrez_id,hgnc_id,hgnc_symbol,hgnc_name,status,locus_group,locus_type,uniprot_accession,mapping_status
+1,HGNC:5,A1BG,alpha-1-B glycoprotein,Approved,protein-coding gene,gene with protein product,P04217,mapped
+2,HGNC:7,A2M,alpha-2-macroglobulin,Approved,protein-coding gene,gene with protein product,P01023,mapped
+15,HGNC:19,AANAT,aralkylamine N-acetyltransferase,Approved,protein-coding gene,gene with protein product,Q16613,mapped
+18,HGNC:23,ABAT,4-aminobutyrate aminotransferase,Approved,protein-coding gene,gene with protein product,P80404,mapped
+19,HGNC:29,ABCA1,ATP binding cassette subfamily A member 1,Approved,protein-coding gene,gene with protein product,O95477,mapped
+10347,HGNC:37,ABCA7,ATP binding cassette subfamily A member 7,Approved,protein-coding gene,gene with protein product,Q8IZY2,mapped
+154664,HGNC:14638,ABCA13,ATP binding cassette subfamily A member 13,Approved,protein-coding gene,gene with protein product,Q86UQ4,mapped
+5243,HGNC:40,ABCB1,ATP binding cassette subfamily B member 1,Approved,protein-coding gene,gene with protein product,P08183,mapped
+1244,HGNC:53,ABCC2,ATP binding cassette subfamily C member 2,Approved,protein-coding gene,gene with protein product,Q92887,mapped
+51225,HGNC:29859,ABI3,ABI family member 3,Approved,protein-coding gene,gene with protein product,Q9P2A4,mapped
+25890,HGNC:17265,ABI3BP,ABI family member 3 binding protein,Approved,protein-coding gene,gene with protein product,Q7Z7G0,mapped
+28,HGNC:79,ABO,"ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase",Approved,protein-coding gene,gene with protein product,P16442,mapped
+35,HGNC:90,ACADS,acyl-CoA dehydrogenase short chain,Approved,protein-coding gene,gene with protein product,P16219,mapped
+38,HGNC:93,ACAT1,acetyl-CoA acetyltransferase 1,Approved,protein-coding gene,gene with protein product,P24752,mapped
+1636,HGNC:2707,ACE,angiotensin I converting enzyme,Approved,protein-coding gene,gene with protein product,P12821,mapped
+43,HGNC:108,ACHE,acetylcholinesterase (Yt blood group),Approved,protein-coding gene,gene with protein product,P22303,mapped
+641372,HGNC:33159,ACOT6,acyl-CoA thioesterase 6,Approved,protein-coding gene,gene with protein product,Q3I5F7,mapped
+52,HGNC:122,ACP1,acid phosphatase 1,Approved,protein-coding gene,gene with protein product,P24666,mapped
+2182,HGNC:3571,ACSL4,acyl-CoA synthetase long chain family member 4,Approved,protein-coding gene,gene with protein product,O60488,mapped
+23305,HGNC:16496,ACSL6,acyl-CoA synthetase long chain family member 6,Approved,protein-coding gene,gene with protein product,Q9UKU0,mapped
+116285,HGNC:18049,ACSM1,acyl-CoA synthetase medium chain family member 1,Approved,protein-coding gene,gene with protein product,Q08AH1,mapped
+60,HGNC:132,ACTB,actin beta,Approved,protein-coding gene,gene with protein product,P60709,mapped
+71,HGNC:144,ACTG1,actin gamma 1,Approved,protein-coding gene,gene with protein product,P63261,mapped
+10097,HGNC:169,ACTR2,actin related protein 2,Approved,protein-coding gene,gene with protein product,P61160,mapped
+102,HGNC:188,ADAM10,ADAM metallopeptidase domain 10,Approved,protein-coding gene,gene with protein product,O14672,mapped
+8038,HGNC:190,ADAM12,ADAM metallopeptidase domain 12,Approved,protein-coding gene,gene with protein product,O43184,mapped
+9510,HGNC:217,ADAMTS1,ADAM metallopeptidase with thrombospondin type 1 motif 1,Approved,protein-coding gene,gene with protein product,Q9UHI8,mapped
+9508,HGNC:219,ADAMTS3,ADAM metallopeptidase with thrombospondin type 1 motif 3,Approved,protein-coding gene,gene with protein product,O15072,mapped
+81792,HGNC:14605,ADAMTS12,ADAM metallopeptidase with thrombospondin type 1 motif 12,Approved,protein-coding gene,gene with protein product,P58397,mapped
+57188,HGNC:14633,ADAMTSL3,ADAMTS like 3,Approved,protein-coding gene,gene with protein product,P82987,mapped
+104,HGNC:226,ADARB1,adenosine deaminase RNA specific B1,Approved,protein-coding gene,gene with protein product,P78563,mapped
+105,HGNC:227,ADARB2,adenosine deaminase RNA specific B2 (inactive),Approved,protein-coding gene,gene with protein product,Q9NS39,mapped
+108,HGNC:233,ADCY2,adenylate cyclase 2,Approved,protein-coding gene,gene with protein product,Q08462,mapped
+109,HGNC:234,ADCY3,adenylate cyclase 3,Approved,protein-coding gene,gene with protein product,O60266,mapped
+111,HGNC:236,ADCY5,adenylate cyclase 5,Approved,protein-coding gene,gene with protein product,O95622,mapped
+113,HGNC:238,ADCY7,adenylate cyclase 7,Approved,protein-coding gene,gene with protein product,P51828,mapped
+114,HGNC:239,ADCY8,adenylate cyclase 8,Approved,protein-coding gene,gene with protein product,P40145,mapped
+116,HGNC:241,ADCYAP1,adenylate cyclase activating polypeptide 1,Approved,protein-coding gene,gene with protein product,P18509,mapped
+117,HGNC:242,ADCYAP1R1,ADCYAP receptor type I,Approved,protein-coding gene,gene with protein product,P41586,mapped
+120,HGNC:245,ADD3,adducin 3,Approved,protein-coding gene,gene with protein product,Q9UEY8,mapped
+221393,HGNC:19011,ADGRF4,adhesion G protein-coupled receptor F4,Approved,protein-coding gene,gene with protein product,Q8IZF3,mapped
+23284,HGNC:20974,ADGRL3,adhesion G protein-coupled receptor L3,Approved,protein-coding gene,gene with protein product,Q9HAR2,mapped
+126,HGNC:251,ADH1C,"alcohol dehydrogenase 1C (class I), gamma polypeptide",Approved,protein-coding gene,gene with protein product,P00326,mapped
+132,HGNC:257,ADK,adenosine kinase,Approved,protein-coding gene,gene with protein product,P55263,mapped
+133,HGNC:259,ADM,adrenomedullin,Approved,protein-coding gene,gene with protein product,P35318,mapped
+23394,HGNC:15766,ADNP,activity dependent neuroprotector homeobox,Approved,protein-coding gene,gene with protein product,Q9H2P0,mapped
+22850,HGNC:23803,ADNP2,ADNP homeobox 2,Approved,protein-coding gene,gene with protein product,Q6IQ32,mapped
+134,HGNC:262,ADORA1,adenosine A1 receptor,Approved,protein-coding gene,gene with protein product,P30542,mapped
+135,HGNC:263,ADORA2A,adenosine A2a receptor,Approved,protein-coding gene,gene with protein product,P29274,mapped
+148,HGNC:277,ADRA1A,adrenoceptor alpha 1A,Approved,protein-coding gene,gene with protein product,P35348,mapped
+147,HGNC:278,ADRA1B,adrenoceptor alpha 1B,Approved,protein-coding gene,gene with protein product,P35368,mapped
+150,HGNC:281,ADRA2A,adrenoceptor alpha 2A,Approved,protein-coding gene,gene with protein product,P08913,mapped
+152,HGNC:283,ADRA2C,adrenoceptor alpha 2C,Approved,protein-coding gene,gene with protein product,P18825,mapped
+153,HGNC:285,ADRB1,adrenoceptor beta 1,Approved,protein-coding gene,gene with protein product,P08588,mapped
+154,HGNC:286,ADRB2,adrenoceptor beta 2,Approved,protein-coding gene,gene with protein product,P07550,mapped
+159,HGNC:292,ADSS2,adenylosuccinate synthase 2,Approved,protein-coding gene,gene with protein product,P30520,mapped
+246269,HGNC:16411,AFG1L,AFG1 like ATPase,Approved,protein-coding gene,gene with protein product,Q8WV93,mapped
+166378,HGNC:18119,AFG2A,AAA ATPase AFG2A,Approved,protein-coding gene,gene with protein product,Q8NB90,mapped
+175,HGNC:318,AGA,aspartylglucosaminidase,Approved,protein-coding gene,gene with protein product,P20933,mapped
+177,HGNC:320,AGER,advanced glycosylation end-product specific receptor,Approved,protein-coding gene,gene with protein product,Q15109,mapped
+392636,HGNC:33784,AGMO,alkylglycerol monooxygenase,Approved,protein-coding gene,gene with protein product,Q6ZNB7,mapped
+183,HGNC:333,AGT,angiotensinogen,Approved,protein-coding gene,gene with protein product,P01019,mapped
+54806,HGNC:21575,AHI1,Abelson helper integration site 1,Approved,protein-coding gene,gene with protein product,Q8N157,mapped
+199,HGNC:352,AIF1,allograft inflammatory factor 1,Approved,protein-coding gene,gene with protein product,P55008,mapped
+10270,HGNC:378,AKAP8,A-kinase anchoring protein 8,Approved,protein-coding gene,gene with protein product,O43823,mapped
+11216,HGNC:368,AKAP10,A-kinase anchoring protein 10,Approved,protein-coding gene,gene with protein product,O43572,mapped
+10327,HGNC:380,AKR1A1,aldo-keto reductase family 1 member A1,Approved,protein-coding gene,gene with protein product,P14550,mapped
+1109,HGNC:387,AKR1C4,aldo-keto reductase family 1 member C4,Approved,protein-coding gene,gene with protein product,P17516,mapped
+207,HGNC:391,AKT1,AKT serine/threonine kinase 1,Approved,protein-coding gene,gene with protein product,P31749,mapped
+208,HGNC:392,AKT2,AKT serine/threonine kinase 2,Approved,protein-coding gene,gene with protein product,P31751,mapped
+210,HGNC:395,ALAD,aminolevulinate dehydratase,Approved,protein-coding gene,gene with protein product,P13716,mapped
+213,HGNC:399,ALB,albumin,Approved,protein-coding gene,gene with protein product,P02768,mapped
+216,HGNC:402,ALDH1A1,aldehyde dehydrogenase 1 family member A1,Approved,protein-coding gene,gene with protein product,P00352,mapped
+8854,HGNC:15472,ALDH1A2,aldehyde dehydrogenase 1 family member A2,Approved,protein-coding gene,gene with protein product,O94788,mapped
+217,HGNC:404,ALDH2,aldehyde dehydrogenase 2 family member,Approved,protein-coding gene,gene with protein product,P05091,mapped
+218,HGNC:405,ALDH3A1,aldehyde dehydrogenase 3 family member A1,Approved,protein-coding gene,gene with protein product,P30838,mapped
+221,HGNC:410,ALDH3B1,aldehyde dehydrogenase 3 family member B1,Approved,protein-coding gene,gene with protein product,P43353,mapped
+79053,HGNC:23161,ALG8,"ALG8 alpha-1,3-glucosyltransferase",Approved,protein-coding gene,gene with protein product,Q9BVK2,mapped
+79868,HGNC:30881,ALG13,ALG13 UDP-N-acetylglucosaminyltransferase subunit,Approved,protein-coding gene,gene with protein product,Q9NP73,mapped
+238,HGNC:427,ALK,ALK receptor tyrosine kinase,Approved,protein-coding gene,gene with protein product,Q9UM73,mapped
+239,HGNC:429,ALOX12,"arachidonate 12-lipoxygenase, 12S type",Approved,protein-coding gene,gene with protein product,P18054,mapped
+30816,HGNC:13525,ERVW-1,"endogenous retrovirus group W member 1, envelope",Approved,protein-coding gene,gene with protein product,Q9UQF0,mapped
+90952,HGNC:17474,ESAM,endothelial cell adhesion molecule,Approved,protein-coding gene,gene with protein product,Q96AP7,mapped
+2099,HGNC:3467,ESR1,estrogen receptor 1,Approved,protein-coding gene,gene with protein product,P03372,mapped
+2100,HGNC:3468,ESR2,estrogen receptor 2,Approved,protein-coding gene,gene with protein product,Q92731,mapped
+8220,HGNC:16817,ESS2,ess-2 spliceosome associated protein,Approved,protein-coding gene,gene with protein product,Q96DF8,mapped
+64850,HGNC:14404,ETNPPL,ethanolamine-phosphate phospho-lyase,Approved,protein-coding gene,gene with protein product,Q8TBG4,mapped
+2147,HGNC:3535,F2,"coagulation factor II, thrombin",Approved,protein-coding gene,gene with protein product,P00734,mapped
+2153,HGNC:3542,F5,coagulation factor V,Approved,protein-coding gene,gene with protein product,P12259,mapped
+2158,HGNC:3551,F9,coagulation factor IX,Approved,protein-coding gene,gene with protein product,P00740,mapped
+2166,HGNC:3553,FAAH,fatty acid amide hydrolase,Approved,protein-coding gene,gene with protein product,O00519,mapped
+2171,HGNC:3560,FABP5,fatty acid binding protein 5,Approved,protein-coding gene,gene with protein product,Q01469,mapped
+2173,HGNC:3562,FABP7,fatty acid binding protein 7,Approved,protein-coding gene,gene with protein product,O15540,mapped
+9415,HGNC:3575,FADS2,fatty acid desaturase 2,Approved,protein-coding gene,gene with protein product,O95864,mapped
+131177,HGNC:18665,FAM3D,FAM3 metabolism regulating signaling molecule D,Approved,protein-coding gene,gene with protein product,Q96BQ1,mapped
+355,HGNC:11920,FAS,Fas cell surface death receptor,Approved,protein-coding gene,gene with protein product,P25445,mapped
+60493,HGNC:25790,FASTKD5,FASTK mitochondrial RNA regulator 5,Approved,protein-coding gene,gene with protein product,Q7L8L6,mapped
+2203,HGNC:3606,FBP1,fructose-bisphosphatase 1,Approved,protein-coding gene,gene with protein product,P09467,mapped
+26224,HGNC:13599,FBXL3,F-box and leucine rich repeat protein 3,Approved,protein-coding gene,gene with protein product,Q9UKT7,mapped
+200933,HGNC:29148,FBXO45,F-box protein 45,Approved,protein-coding gene,gene with protein product,P0C2W1,mapped
+2208,HGNC:3612,FCER2,Fc epsilon receptor II,Approved,protein-coding gene,gene with protein product,P06734,mapped
+54738,HGNC:18562,FEV,"FEV transcription factor, ETS family member",Approved,protein-coding gene,gene with protein product,Q99581,mapped
+9638,HGNC:3659,FEZ1,fasciculation and elongation protein zeta 1,Approved,protein-coding gene,gene with protein product,Q99689,mapped
+2243,HGNC:3661,FGA,fibrinogen alpha chain,Approved,protein-coding gene,gene with protein product,P02671,mapped
+2244,HGNC:3662,FGB,fibrinogen beta chain,Approved,protein-coding gene,gene with protein product,P02675,mapped
+2245,HGNC:3663,FGD1,"FYVE, RhoGEF and PH domain containing 1",Approved,protein-coding gene,gene with protein product,P98174,mapped
+2247,HGNC:3676,FGF2,fibroblast growth factor 2,Approved,protein-coding gene,gene with protein product,P09038,mapped
+8822,HGNC:3673,FGF17,fibroblast growth factor 17,Approved,protein-coding gene,gene with protein product,O60258,mapped
+26281,HGNC:3677,FGF20,fibroblast growth factor 20,Approved,protein-coding gene,gene with protein product,Q9NP95,mapped
+2260,HGNC:3688,FGFR1,fibroblast growth factor receptor 1,Approved,protein-coding gene,gene with protein product,P11362,mapped
+2263,HGNC:3689,FGFR2,fibroblast growth factor receptor 2,Approved,protein-coding gene,gene with protein product,P21802,mapped
+2261,HGNC:3690,FGFR3,fibroblast growth factor receptor 3,Approved,protein-coding gene,gene with protein product,P22607,mapped
+9457,HGNC:17371,FHL5,four and a half LIM domains 5,Approved,protein-coding gene,gene with protein product,Q5TD97,mapped
+2288,HGNC:3720,FKBP4,FKBP prolyl isomerase 4,Approved,protein-coding gene,gene with protein product,Q02790,mapped
+2289,HGNC:3721,FKBP5,FKBP prolyl isomerase 5,Approved,protein-coding gene,gene with protein product,Q13451,mapped
+2316,HGNC:3754,FLNA,filamin A,Approved,protein-coding gene,gene with protein product,P21333,mapped
+154791,HGNC:26946,FMC1,formation of mitochondrial complex V assembly factor 1,Approved,protein-coding gene,gene with protein product,Q96HJ9,mapped
+2332,HGNC:3775,FMR1,fragile X messenger ribonucleoprotein 1,Approved,protein-coding gene,gene with protein product,Q06787,mapped
+2346,HGNC:3788,FOLH1,folate hydrolase 1,Approved,protein-coding gene,gene with protein product,Q04609,mapped
+2348,HGNC:3791,FOLR1,folate receptor alpha,Approved,protein-coding gene,gene with protein product,P15328,mapped
+2353,HGNC:3796,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",Approved,protein-coding gene,gene with protein product,P01100,mapped
+2354,HGNC:3797,FOSB,"FosB proto-oncogene, AP-1 transcription factor subunit",Approved,protein-coding gene,gene with protein product,P53539,mapped
+27022,HGNC:3804,FOXD3,forkhead box D3,Approved,protein-coding gene,gene with protein product,Q9UJU5,mapped
+2295,HGNC:3810,FOXF2,forkhead box F2,Approved,protein-coding gene,gene with protein product,Q12947,mapped
+2290,HGNC:3811,FOXG1,forkhead box G1,Approved,protein-coding gene,gene with protein product,P55316,mapped
+93986,HGNC:13875,FOXP2,forkhead box P2,Approved,protein-coding gene,gene with protein product,O15409,mapped
+50943,HGNC:6106,FOXP3,forkhead box P3,Approved,protein-coding gene,gene with protein product,Q9BZS1,mapped
+166752,HGNC:25172,FREM3,FRAS1 related extracellular matrix 3,Approved,protein-coding gene,gene with protein product,P0C091,mapped
+11167,HGNC:3972,FSTL1,follistatin like 1,Approved,protein-coding gene,gene with protein product,Q12841,mapped
+56884,HGNC:21386,FSTL5,follistatin like 5,Approved,protein-coding gene,gene with protein product,Q8N475,mapped
+2495,HGNC:3976,FTH1,ferritin heavy chain 1,Approved,protein-coding gene,gene with protein product,P02794,mapped
+2512,HGNC:3999,FTL,ferritin light chain,Approved,protein-coding gene,gene with protein product,P02792,mapped
+79068,HGNC:24678,FTO,FTO alpha-ketoglutarate dependent dioxygenase,Approved,protein-coding gene,gene with protein product,Q9C0B1,mapped
+2521,HGNC:4010,FUS,FUS RNA binding protein,Approved,protein-coding gene,gene with protein product,P35637,mapped
+2530,HGNC:4019,FUT8,fucosyltransferase 8,Approved,protein-coding gene,gene with protein product,Q9BYC5,mapped
+5348,HGNC:4025,FXYD1,FXYD domain containing ion transport regulator 1,Approved,protein-coding gene,gene with protein product,O00168,mapped
+53826,HGNC:4030,FXYD6,FXYD domain containing ion transport regulator 6,Approved,protein-coding gene,gene with protein product,Q9H0Q3,mapped
+2534,HGNC:4037,FYN,"FYN proto-oncogene, Src family tyrosine kinase",Approved,protein-coding gene,gene with protein product,P06241,mapped
+7976,HGNC:4041,FZD3,frizzled class receptor 3,Approved,protein-coding gene,gene with protein product,Q9NPG1,mapped
+8322,HGNC:4042,FZD4,frizzled class receptor 4,Approved,protein-coding gene,gene with protein product,Q9ULV1,mapped
+2539,HGNC:4057,G6PD,glucose-6-phosphate dehydrogenase,Approved,protein-coding gene,gene with protein product,P11413,mapped
+11337,HGNC:4067,GABARAP,GABA type A receptor-associated protein,Approved,protein-coding gene,gene with protein product,O95166,mapped
+2550,HGNC:4070,GABBR1,gamma-aminobutyric acid type B receptor subunit 1,Approved,protein-coding gene,gene with protein product,Q9UBS5,mapped
+9568,HGNC:4507,GABBR2,gamma-aminobutyric acid type B receptor subunit 2,Approved,protein-coding gene,gene with protein product,O75899,mapped
+2551,HGNC:4071,GABPA,GA binding protein transcription factor subunit alpha,Approved,protein-coding gene,gene with protein product,Q06546,mapped
+2554,HGNC:4075,GABRA1,gamma-aminobutyric acid type A receptor subunit alpha1,Approved,protein-coding gene,gene with protein product,P14867,mapped
+2555,HGNC:4076,GABRA2,gamma-aminobutyric acid type A receptor subunit alpha2,Approved,protein-coding gene,gene with protein product,P47869,mapped
+2556,HGNC:4077,GABRA3,gamma-aminobutyric acid type A receptor subunit alpha3,Approved,protein-coding gene,gene with protein product,P34903,mapped
+2557,HGNC:4078,GABRA4,gamma-aminobutyric acid type A receptor subunit alpha4,Approved,protein-coding gene,gene with protein product,P48169,mapped
+2558,HGNC:4079,GABRA5,gamma-aminobutyric acid type A receptor subunit alpha5,Approved,protein-coding gene,gene with protein product,P31644,mapped
+2559,HGNC:4080,GABRA6,gamma-aminobutyric acid type A receptor subunit alpha6,Approved,protein-coding gene,gene with protein product,Q16445,mapped
+2560,HGNC:4081,GABRB1,gamma-aminobutyric acid type A receptor subunit beta1,Approved,protein-coding gene,gene with protein product,P18505,mapped
+2561,HGNC:4082,GABRB2,gamma-aminobutyric acid type A receptor subunit beta2,Approved,protein-coding gene,gene with protein product,P47870,mapped
+2562,HGNC:4083,GABRB3,gamma-aminobutyric acid type A receptor subunit beta3,Approved,protein-coding gene,gene with protein product,P28472,mapped
+2563,HGNC:4084,GABRD,gamma-aminobutyric acid type A receptor subunit delta,Approved,protein-coding gene,gene with protein product,O14764,mapped
+2565,HGNC:4086,GABRG1,gamma-aminobutyric acid type A receptor subunit gamma1,Approved,protein-coding gene,gene with protein product,Q8N1C3,mapped
+2566,HGNC:4087,GABRG2,gamma-aminobutyric acid type A receptor subunit gamma2,Approved,protein-coding gene,gene with protein product,P18507,mapped
+55879,HGNC:14454,GABRQ,gamma-aminobutyric acid type A receptor subunit theta,Approved,protein-coding gene,gene with protein product,Q9UN88,mapped
+2569,HGNC:4090,GABRR1,gamma-aminobutyric acid type A receptor subunit rho1,Approved,protein-coding gene,gene with protein product,P24046,mapped
+2570,HGNC:4091,GABRR2,gamma-aminobutyric acid type A receptor subunit rho2,Approved,protein-coding gene,gene with protein product,P28476,mapped
+2571,HGNC:4092,GAD1,glutamate decarboxylase 1,Approved,protein-coding gene,gene with protein product,Q99259,mapped
+2572,HGNC:4093,GAD2,glutamate decarboxylase 2,Approved,protein-coding gene,gene with protein product,Q05329,mapped
+339896,HGNC:27949,GADL1,GAD like acidic amino acid decarboxylase 1,Approved,protein-coding gene,gene with protein product,Q6ZQY3,mapped
+2580,HGNC:4113,GAK,cyclin G associated kinase,Approved,protein-coding gene,gene with protein product,O14976,mapped
+51083,HGNC:4114,GAL,galanin and GMAP prepropeptide,Approved,protein-coding gene,gene with protein product,P22466,mapped
+2587,HGNC:4132,GALR1,galanin receptor 1,Approved,protein-coding gene,gene with protein product,P47211,mapped
+8811,HGNC:4133,GALR2,galanin receptor 2,Approved,protein-coding gene,gene with protein product,O43603,mapped
+8484,HGNC:4134,GALR3,galanin receptor 3,Approved,protein-coding gene,gene with protein product,O60755,mapped
+2593,HGNC:4136,GAMT,guanidinoacetate N-methyltransferase,Approved,protein-coding gene,gene with protein product,Q14353,mapped
+2596,HGNC:4140,GAP43,growth associated protein 43,Approved,protein-coding gene,gene with protein product,P17677,mapped
+26330,HGNC:24864,GAPDHS,"glyceraldehyde-3-phosphate dehydrogenase, spermatogenic",Approved,protein-coding gene,gene with protein product,O14556,mapped
+2629,HGNC:4177,GBA1,glucosylceramidase beta 1,Approved,protein-coding gene,gene with protein product,P04062,mapped
+2638,HGNC:4187,GC,GC vitamin D binding protein,Approved,protein-coding gene,gene with protein product,P02774,mapped
+2643,HGNC:4193,GCH1,GTP cyclohydrolase 1,Approved,protein-coding gene,gene with protein product,P30793,mapped
+2729,HGNC:4311,GCLC,glutamate-cysteine ligase catalytic subunit,Approved,protein-coding gene,gene with protein product,P48506,mapped
+51573,HGNC:29644,GDE1,glycerophosphodiester phosphodiesterase 1,Approved,protein-coding gene,gene with protein product,Q9NZC3,mapped
+2668,HGNC:4232,GDNF,glial cell derived neurotrophic factor,Approved,protein-coding gene,gene with protein product,P39905,mapped
+2670,HGNC:4235,GFAP,glial fibrillary acidic protein,Approved,protein-coding gene,gene with protein product,P14136,mapped
+2674,HGNC:4243,GFRA1,GDNF family receptor alpha 1,Approved,protein-coding gene,gene with protein product,P56159,mapped
+2676,HGNC:4245,GFRA3,GDNF family receptor alpha 3,Approved,protein-coding gene,gene with protein product,O60609,mapped
+2688,HGNC:4261,GH1,growth hormone 1,Approved,protein-coding gene,gene with protein product,P01241,mapped
+51738,HGNC:18129,GHRL,ghrelin and obestatin prepropeptide,Approved,protein-coding gene,gene with protein product,Q9UBU3,mapped
+28964,HGNC:4272,GIT1,GIT ArfGAP 1,Approved,protein-coding gene,gene with protein product,Q9Y2X7,mapped
+2697,HGNC:4274,GJA1,gap junction protein alpha 1,Approved,protein-coding gene,gene with protein product,P17302,mapped
+2703,HGNC:4281,GJA8,gap junction protein alpha 8,Approved,protein-coding gene,gene with protein product,P48165,mapped
+2717,HGNC:4296,GLA,galactosidase alpha,Approved,protein-coding gene,gene with protein product,P06280,mapped
+2739,HGNC:4323,GLO1,glyoxalase I,Approved,protein-coding gene,gene with protein product,Q04760,mapped
+55830,HGNC:24870,GLT8D1,glycosyltransferase 8 domain containing 1,Approved,protein-coding gene,gene with protein product,Q68CQ7,mapped
+2746,HGNC:4335,GLUD1,glutamate dehydrogenase 1,Approved,protein-coding gene,gene with protein product,P00367,mapped
+2747,HGNC:4336,GLUD2,glutamate dehydrogenase 2,Approved,protein-coding gene,gene with protein product,P49448,mapped
+2752,HGNC:4341,GLUL,glutamate-ammonia ligase,Approved,protein-coding gene,gene with protein product,P15104,mapped
+10249,HGNC:13734,GLYAT,glycine-N-acyltransferase,Approved,protein-coding gene,gene with protein product,Q6IB77,mapped
+51291,HGNC:24852,GMIP,GEM interacting protein,Approved,protein-coding gene,gene with protein product,Q9P107,mapped
+2774,HGNC:4388,GNAL,G protein subunit alpha L,Approved,protein-coding gene,gene with protein product,P38405,mapped
+2775,HGNC:4389,GNAO1,G protein subunit alpha o1,Approved,protein-coding gene,gene with protein product,P09471,mapped
+2778,HGNC:4392,GNAS,GNAS complex locus,Approved,protein-coding gene,gene with protein product,O95467,mapped
+2778,HGNC:4392,GNAS,GNAS complex locus,Approved,protein-coding gene,gene with protein product,P63092,mapped
+2778,HGNC:4392,GNAS,GNAS complex locus,Approved,protein-coding gene,gene with protein product,P84996,mapped
+2778,HGNC:4392,GNAS,GNAS complex locus,Approved,protein-coding gene,gene with protein product,Q5JWF2,mapped
+2782,HGNC:4396,GNB1,G protein subunit beta 1,Approved,protein-coding gene,gene with protein product,P62873,mapped
+54584,HGNC:4397,GNB1L,G protein subunit beta 1 like,Approved,protein-coding gene,gene with protein product,Q9BYB4,mapped
+2784,HGNC:4400,GNB3,G protein subunit beta 3,Approved,protein-coding gene,gene with protein product,P16520,mapped
+8443,HGNC:4416,GNPAT,glyceronephosphate O-acyltransferase,Approved,protein-coding gene,gene with protein product,O15228,mapped
+2823,HGNC:4460,GPM6A,glycoprotein M6A,Approved,protein-coding gene,gene with protein product,P51674,mapped
+9248,HGNC:4506,GPR50,G protein-coupled receptor 50,Approved,protein-coding gene,gene with protein product,Q13585,mapped
+27201,HGNC:4528,GPR78,G protein-coupled receptor 78,Approved,protein-coding gene,gene with protein product,Q96P69,mapped
+387509,HGNC:23618,GPR153,G protein-coupled receptor 153,Approved,protein-coding gene,gene with protein product,Q6NV75,mapped
+55507,HGNC:13310,GPRC5D,G protein-coupled receptor class C group 5 member D,Approved,protein-coding gene,gene with protein product,Q9NZD1,mapped
+2873,HGNC:4549,GPS1,G protein pathway suppressor 1,Approved,protein-coding gene,gene with protein product,Q13098,mapped
+2876,HGNC:4553,GPX1,glutathione peroxidase 1,Approved,protein-coding gene,gene with protein product,P07203,mapped
+2885,HGNC:4566,GRB2,growth factor receptor bound protein 2,Approved,protein-coding gene,gene with protein product,P62993,mapped
+2887,HGNC:4564,GRB10,growth factor receptor bound protein 10,Approved,protein-coding gene,gene with protein product,Q13322,mapped
+2890,HGNC:4571,GRIA1,glutamate ionotropic receptor AMPA type subunit 1,Approved,protein-coding gene,gene with protein product,P42261,mapped
+2891,HGNC:4572,GRIA2,glutamate ionotropic receptor AMPA type subunit 2,Approved,protein-coding gene,gene with protein product,P42262,mapped
+2892,HGNC:4573,GRIA3,glutamate ionotropic receptor AMPA type subunit 3,Approved,protein-coding gene,gene with protein product,P42263,mapped
+2893,HGNC:4574,GRIA4,glutamate ionotropic receptor AMPA type subunit 4,Approved,protein-coding gene,gene with protein product,P48058,mapped
+2894,HGNC:4575,GRID1,glutamate ionotropic receptor delta type subunit 1,Approved,protein-coding gene,gene with protein product,Q9ULK0,mapped
+2897,HGNC:4579,GRIK1,glutamate ionotropic receptor kainate type subunit 1,Approved,protein-coding gene,gene with protein product,P39086,mapped
+2898,HGNC:4580,GRIK2,glutamate ionotropic receptor kainate type subunit 2,Approved,protein-coding gene,gene with protein product,Q13002,mapped
+2899,HGNC:4581,GRIK3,glutamate ionotropic receptor kainate type subunit 3,Approved,protein-coding gene,gene with protein product,Q13003,mapped
+2900,HGNC:4582,GRIK4,glutamate ionotropic receptor kainate type subunit 4,Approved,protein-coding gene,gene with protein product,Q16099,mapped
+2901,HGNC:4583,GRIK5,glutamate ionotropic receptor kainate type subunit 5,Approved,protein-coding gene,gene with protein product,Q16478,mapped
+2902,HGNC:4584,GRIN1,glutamate ionotropic receptor NMDA type subunit 1,Approved,protein-coding gene,gene with protein product,Q05586,mapped
+2903,HGNC:4585,GRIN2A,glutamate ionotropic receptor NMDA type subunit 2A,Approved,protein-coding gene,gene with protein product,Q12879,mapped
+2904,HGNC:4586,GRIN2B,glutamate ionotropic receptor NMDA type subunit 2B,Approved,protein-coding gene,gene with protein product,Q13224,mapped
+2905,HGNC:4587,GRIN2C,glutamate ionotropic receptor NMDA type subunit 2C,Approved,protein-coding gene,gene with protein product,Q14957,mapped
+2906,HGNC:4588,GRIN2D,glutamate ionotropic receptor NMDA type subunit 2D,Approved,protein-coding gene,gene with protein product,O15399,mapped
+116443,HGNC:16767,GRIN3A,glutamate ionotropic receptor NMDA type subunit 3A,Approved,protein-coding gene,gene with protein product,Q8TCU5,mapped
+157,HGNC:290,GRK3,G protein-coupled receptor kinase 3,Approved,protein-coding gene,gene with protein product,P35626,mapped
+2870,HGNC:4545,GRK6,G protein-coupled receptor kinase 6,Approved,protein-coding gene,gene with protein product,P43250,mapped
+2911,HGNC:4593,GRM1,glutamate metabotropic receptor 1,Approved,protein-coding gene,gene with protein product,Q13255,mapped
+2912,HGNC:4594,GRM2,glutamate metabotropic receptor 2,Approved,protein-coding gene,gene with protein product,Q14416,mapped
+2913,HGNC:4595,GRM3,glutamate metabotropic receptor 3,Approved,protein-coding gene,gene with protein product,Q14832,mapped
+2914,HGNC:4596,GRM4,glutamate metabotropic receptor 4,Approved,protein-coding gene,gene with protein product,Q14833,mapped
+2915,HGNC:4597,GRM5,glutamate metabotropic receptor 5,Approved,protein-coding gene,gene with protein product,P41594,mapped
+2917,HGNC:4599,GRM7,glutamate metabotropic receptor 7,Approved,protein-coding gene,gene with protein product,Q14831,mapped
+2918,HGNC:4600,GRM8,glutamate metabotropic receptor 8,Approved,protein-coding gene,gene with protein product,O00222,mapped
+2896,HGNC:4601,GRN,granulin precursor,Approved,protein-coding gene,gene with protein product,P28799,mapped
+2925,HGNC:4609,GRPR,gastrin releasing peptide receptor,Approved,protein-coding gene,gene with protein product,P30550,mapped
+2931,HGNC:4616,GSK3A,glycogen synthase kinase 3 alpha,Approved,protein-coding gene,gene with protein product,P49840,mapped
+2932,HGNC:4617,GSK3B,glycogen synthase kinase 3 beta,Approved,protein-coding gene,gene with protein product,P49841,mapped
+2934,HGNC:4620,GSN,gelsolin,Approved,protein-coding gene,gene with protein product,P06396,mapped
+2938,HGNC:4626,GSTA1,glutathione S-transferase alpha 1,Approved,protein-coding gene,gene with protein product,P08263,mapped
+2941,HGNC:4629,GSTA4,glutathione S-transferase alpha 4,Approved,protein-coding gene,gene with protein product,O15217,mapped
+2944,HGNC:4632,GSTM1,glutathione S-transferase mu 1,Approved,protein-coding gene,gene with protein product,P09488,mapped
+2946,HGNC:4634,GSTM2,glutathione S-transferase mu 2,Approved,protein-coding gene,gene with protein product,P28161,mapped
+2950,HGNC:4638,GSTP1,glutathione S-transferase pi 1,Approved,protein-coding gene,gene with protein product,P09211,mapped
+2952,HGNC:4641,GSTT1,glutathione S-transferase theta 1,Approved,protein-coding gene,gene with protein product,P30711,mapped
+2953,HGNC:4642,GSTT2,glutathione S-transferase theta 2 (gene/pseudogene),Approved,protein-coding gene,gene with protein product,P0CG29,mapped
+2954,HGNC:4643,GSTZ1,glutathione S-transferase zeta 1,Approved,protein-coding gene,gene with protein product,O43708,mapped
+2996,HGNC:4705,GYPE,glycophorin E (MNS blood group),Approved,protein-coding gene,gene with protein product,P15421,mapped
+3008,HGNC:4718,H1-4,"H1.4 linker histone, cluster member",Approved,protein-coding gene,gene with protein product,P10412,mapped
+3009,HGNC:4719,H1-5,"H1.5 linker histone, cluster member",Approved,protein-coding gene,gene with protein product,P16401,mapped
+3014,HGNC:4739,H2AX,H2A.X variant histone,Approved,protein-coding gene,gene with protein product,P16104,mapped
+3029,HGNC:4805,HAGH,hydroxyacylglutathione hydrolase,Approved,protein-coding gene,gene with protein product,Q16775,mapped
+3047,HGNC:4831,HBG1,hemoglobin subunit gamma 1,Approved,protein-coding gene,gene with protein product,P69891,mapped
+338442,HGNC:24827,HCAR2,hydroxycarboxylic acid receptor 2,Approved,protein-coding gene,gene with protein product,Q8TDS4,mapped
+8843,HGNC:16824,HCAR3,hydroxycarboxylic acid receptor 3,Approved,protein-coding gene,gene with protein product,P49019,mapped
+348980,HGNC:4845,HCN1,hyperpolarization activated cyclic nucleotide gated potassium channel 1,Approved,protein-coding gene,gene with protein product,O60741,mapped
+3060,HGNC:4847,HCRT,hypocretin neuropeptide precursor,Approved,protein-coding gene,gene with protein product,O43612,mapped
+3061,HGNC:4848,HCRTR1,hypocretin receptor 1,Approved,protein-coding gene,gene with protein product,O43613,mapped
+3065,HGNC:4852,HDAC1,histone deacetylase 1,Approved,protein-coding gene,gene with protein product,Q13547,mapped
+3066,HGNC:4853,HDAC2,histone deacetylase 2,Approved,protein-coding gene,gene with protein product,Q92769,mapped
+8841,HGNC:4854,HDAC3,histone deacetylase 3,Approved,protein-coding gene,gene with protein product,O15379,mapped
+9759,HGNC:14063,HDAC4,histone deacetylase 4,Approved,protein-coding gene,gene with protein product,P56524,mapped
+10014,HGNC:14068,HDAC5,histone deacetylase 5,Approved,protein-coding gene,gene with protein product,Q9UQL6,mapped
+10013,HGNC:14064,HDAC6,histone deacetylase 6,Approved,protein-coding gene,gene with protein product,Q9UBN7,mapped
+9734,HGNC:14065,HDAC9,histone deacetylase 9,Approved,protein-coding gene,gene with protein product,Q9UKV0,mapped
+3077,HGNC:4886,HFE,homeostatic iron regulator,Approved,protein-coding gene,gene with protein product,Q30201,mapped
+3082,HGNC:4893,HGF,hepatocyte growth factor,Approved,protein-coding gene,gene with protein product,P14210,mapped
+55733,HGNC:18270,HHAT,hedgehog acyltransferase,Approved,protein-coding gene,gene with protein product,Q5VTY9,mapped
+3091,HGNC:4910,HIF1A,hypoxia inducible factor 1 subunit alpha,Approved,protein-coding gene,gene with protein product,Q16665,mapped
+3094,HGNC:4912,HINT1,histidine triad nucleotide binding protein 1,Approved,protein-coding gene,gene with protein product,P49773,mapped
+9026,HGNC:18415,HIP1R,huntingtin interacting protein 1 related,Approved,protein-coding gene,gene with protein product,O75146,mapped
+3098,HGNC:4922,HK1,hexokinase 1,Approved,protein-coding gene,gene with protein product,P19367,mapped
+3105,HGNC:4931,HLA-A,"major histocompatibility complex, class I, A",Approved,protein-coding gene,gene with protein product,P04439,mapped
+3106,HGNC:4932,HLA-B,"major histocompatibility complex, class I, B",Approved,protein-coding gene,gene with protein product,P01889,mapped
+3107,HGNC:4933,HLA-C,"major histocompatibility complex, class I, C",Approved,protein-coding gene,gene with protein product,P10321,mapped
+3115,HGNC:4940,HLA-DPB1,"major histocompatibility complex, class II, DP beta 1",Approved,protein-coding gene,gene with protein product,P04440,mapped
+3119,HGNC:4944,HLA-DQB1,"major histocompatibility complex, class II, DQ beta 1",Approved,protein-coding gene,gene with protein product,P01920,mapped
+3122,HGNC:4947,HLA-DRA,"major histocompatibility complex, class II, DR alpha",Approved,protein-coding gene,gene with protein product,P01903,mapped
+3123,HGNC:4948,HLA-DRB1,"major histocompatibility complex, class II, DR beta 1",Approved,protein-coding gene,gene with protein product,P01911,mapped
+3126,HGNC:4952,HLA-DRB4,"major histocompatibility complex, class II, DR beta 4",Approved,protein-coding gene,gene with protein product,P13762,mapped
+3127,HGNC:4953,HLA-DRB5,"major histocompatibility complex, class II, DR beta 5",Approved,protein-coding gene,gene with protein product,Q30154,mapped
+3133,HGNC:4962,HLA-E,"major histocompatibility complex, class I, E",Approved,protein-coding gene,gene with protein product,P13747,mapped
+3135,HGNC:4964,HLA-G,"major histocompatibility complex, class I, G",Approved,protein-coding gene,gene with protein product,P17693,mapped
+3131,HGNC:4977,HLF,"HLF transcription factor, PAR bZIP family member",Approved,protein-coding gene,gene with protein product,Q16534,mapped
+3159,HGNC:5010,HMGA1,high mobility group AT-hook 1,Approved,protein-coding gene,gene with protein product,P17096,mapped
+10042,HGNC:5003,HMGXB4,HMG-box containing 4,Approved,protein-coding gene,gene with protein product,Q9UGU5,mapped
+3162,HGNC:5013,HMOX1,heme oxygenase 1,Approved,protein-coding gene,gene with protein product,P09601,mapped
+220988,HGNC:24941,HNRNPA3,heterogeneous nuclear ribonucleoprotein A3,Approved,protein-coding gene,gene with protein product,P51991,mapped
+3192,HGNC:5048,HNRNPU,heterogeneous nuclear ribonucleoprotein U,Approved,protein-coding gene,gene with protein product,Q00839,mapped
+9456,HGNC:17512,HOMER1,homer scaffold protein 1,Approved,protein-coding gene,gene with protein product,Q86YM7,mapped
+9455,HGNC:17513,HOMER2,homer scaffold protein 2,Approved,protein-coding gene,gene with protein product,Q9NSB8,mapped
+3240,HGNC:5141,HP,haptoglobin,Approved,protein-coding gene,gene with protein product,P00738,mapped
+27306,HGNC:17890,HPGDS,hematopoietic prostaglandin D synthase,Approved,protein-coding gene,gene with protein product,O60760,mapped
+89781,HGNC:15844,HPS4,HPS4 biogenesis of lysosomal organelles complex 3 subunit 2,Approved,protein-coding gene,gene with protein product,Q9NQG7,mapped
+10855,HGNC:5164,HPSE,heparanase,Approved,protein-coding gene,gene with protein product,Q9Y251,mapped
+3269,HGNC:5182,HRH1,histamine receptor H1,Approved,protein-coding gene,gene with protein product,P35367,mapped
+3290,HGNC:5208,HSD11B1,hydroxysteroid 11-beta dehydrogenase 1,Approved,protein-coding gene,gene with protein product,P28845,mapped
+3320,HGNC:5253,HSP90AA1,heat shock protein 90 alpha family class A member 1,Approved,protein-coding gene,gene with protein product,P07900,mapped
+7184,HGNC:12028,HSP90B1,heat shock protein 90 beta family member 1,Approved,protein-coding gene,gene with protein product,P14625,mapped
+3303,HGNC:5232,HSPA1A,heat shock protein family A (Hsp70) member 1A,Approved,protein-coding gene,gene with protein product,P0DMV8,mapped
+3304,HGNC:5233,HSPA1B,heat shock protein family A (Hsp70) member 1B,Approved,protein-coding gene,gene with protein product,P0DMV9,mapped
+3305,HGNC:5234,HSPA1L,heat shock protein family A (Hsp70) member 1 like,Approved,protein-coding gene,gene with protein product,P34931,mapped
+3308,HGNC:5237,HSPA4,heat shock protein family A (Hsp70) member 4,Approved,protein-coding gene,gene with protein product,P34932,mapped
+3309,HGNC:5238,HSPA5,heat shock protein family A (Hsp70) member 5,Approved,protein-coding gene,gene with protein product,P11021,mapped
+3313,HGNC:5244,HSPA9,heat shock protein family A (Hsp70) member 9,Approved,protein-coding gene,gene with protein product,P38646,mapped
+259217,HGNC:19022,HSPA12A,heat shock protein family A (Hsp70) member 12A,Approved,protein-coding gene,gene with protein product,O43301,mapped
+8988,HGNC:5248,HSPB3,heat shock protein family B (small) member 3,Approved,protein-coding gene,gene with protein product,Q12988,mapped
+3350,HGNC:5286,HTR1A,5-hydroxytryptamine receptor 1A,Approved,protein-coding gene,gene with protein product,P08908,mapped
+3351,HGNC:5287,HTR1B,5-hydroxytryptamine receptor 1B,Approved,protein-coding gene,gene with protein product,P28222,mapped
+3352,HGNC:5289,HTR1D,5-hydroxytryptamine receptor 1D,Approved,protein-coding gene,gene with protein product,P28221,mapped
+3355,HGNC:5292,HTR1F,5-hydroxytryptamine receptor 1F,Approved,protein-coding gene,gene with protein product,P30939,mapped
+3356,HGNC:5293,HTR2A,5-hydroxytryptamine receptor 2A,Approved,protein-coding gene,gene with protein product,P28223,mapped
+3358,HGNC:5295,HTR2C,5-hydroxytryptamine receptor 2C,Approved,protein-coding gene,gene with protein product,P28335,mapped
+3359,HGNC:5297,HTR3A,5-hydroxytryptamine receptor 3A,Approved,protein-coding gene,gene with protein product,P46098,mapped
+9177,HGNC:5298,HTR3B,5-hydroxytryptamine receptor 3B,Approved,protein-coding gene,gene with protein product,O95264,mapped
+200909,HGNC:24004,HTR3D,5-hydroxytryptamine receptor 3D,Approved,protein-coding gene,gene with protein product,Q70Z44,mapped
+285242,HGNC:24005,HTR3E,5-hydroxytryptamine receptor 3E,Approved,protein-coding gene,gene with protein product,A5X5Y0,mapped
+3360,HGNC:5299,HTR4,5-hydroxytryptamine receptor 4,Approved,protein-coding gene,gene with protein product,Q13639,mapped
+3361,HGNC:5300,HTR5A,5-hydroxytryptamine receptor 5A,Approved,protein-coding gene,gene with protein product,P47898,mapped
+3362,HGNC:5301,HTR6,5-hydroxytryptamine receptor 6,Approved,protein-coding gene,gene with protein product,P50406,mapped
+3363,HGNC:5302,HTR7,5-hydroxytryptamine receptor 7,Approved,protein-coding gene,gene with protein product,P34969,mapped
+5654,HGNC:9476,HTRA1,HtrA serine peptidase 1,Approved,protein-coding gene,gene with protein product,Q92743,mapped
+3064,HGNC:4851,HTT,huntingtin,Approved,protein-coding gene,gene with protein product,P42858,mapped
+3383,HGNC:5344,ICAM1,intercellular adhesion molecule 1,Approved,protein-coding gene,gene with protein product,P05362,mapped
+3416,HGNC:5381,IDE,insulin degrading enzyme,Approved,protein-coding gene,gene with protein product,P14735,mapped
+3418,HGNC:5383,IDH2,isocitrate dehydrogenase (NADP(+)) 2,Approved,protein-coding gene,gene with protein product,P48735,mapped
+3620,HGNC:6059,IDO1,"indoleamine 2,3-dioxygenase 1",Approved,protein-coding gene,gene with protein product,P14902,mapped
+2537,HGNC:4054,IFI6,interferon alpha inducible protein 6,Approved,protein-coding gene,gene with protein product,P09912,mapped
+10964,HGNC:17817,IFI44L,interferon induced protein 44 like,Approved,protein-coding gene,gene with protein product,Q53G44,mapped
+3439,HGNC:5417,IFNA1,interferon alpha 1,Approved,protein-coding gene,gene with protein product,P0DY56,mapped
+3440,HGNC:5423,IFNA2,interferon alpha 2,Approved,protein-coding gene,gene with protein product,P01563,mapped
+3456,HGNC:5434,IFNB1,interferon beta 1,Approved,protein-coding gene,gene with protein product,P01574,mapped
+3458,HGNC:5438,IFNG,interferon gamma,Approved,protein-coding gene,gene with protein product,P01579,mapped
+282617,HGNC:18365,IFNL3,interferon lambda 3,Approved,protein-coding gene,gene with protein product,Q8IZI9,mapped
+11020,HGNC:18626,IFT27,intraflagellar transport 27,Approved,protein-coding gene,gene with protein product,Q9BW83,mapped
+3479,HGNC:5464,IGF1,insulin like growth factor 1,Approved,protein-coding gene,gene with protein product,P05019,mapped
+3480,HGNC:5465,IGF1R,insulin like growth factor 1 receptor,Approved,protein-coding gene,gene with protein product,P08069,mapped
+3481,HGNC:5466,IGF2,insulin like growth factor 2,Approved,protein-coding gene,gene with protein product,P01344,mapped
+10644,HGNC:28867,IGF2BP2,insulin like growth factor 2 mRNA binding protein 2,Approved,protein-coding gene,gene with protein product,Q9Y6M1,mapped
+3482,HGNC:5467,IGF2R,insulin like growth factor 2 receptor,Approved,protein-coding gene,gene with protein product,P11717,mapped
+3485,HGNC:5471,IGFBP2,insulin like growth factor binding protein 2,Approved,protein-coding gene,gene with protein product,P18065,mapped
+9641,HGNC:14552,IKBKE,inhibitor of nuclear factor kappa B kinase subunit epsilon,Approved,protein-coding gene,gene with protein product,Q14164,mapped
+3552,HGNC:5991,IL1A,interleukin 1 alpha,Approved,protein-coding gene,gene with protein product,P01583,mapped
+3553,HGNC:5992,IL1B,interleukin 1 beta,Approved,protein-coding gene,gene with protein product,P01584,mapped
+3557,HGNC:6000,IL1RN,interleukin 1 receptor antagonist,Approved,protein-coding gene,gene with protein product,P18510,mapped
+3558,HGNC:6001,IL2,interleukin 2,Approved,protein-coding gene,gene with protein product,P60568,mapped
+3559,HGNC:6008,IL2RA,interleukin 2 receptor subunit alpha,Approved,protein-coding gene,gene with protein product,P01589,mapped
+3560,HGNC:6009,IL2RB,interleukin 2 receptor subunit beta,Approved,protein-coding gene,gene with protein product,P14784,mapped
+3561,HGNC:6010,IL2RG,interleukin 2 receptor subunit gamma,Approved,protein-coding gene,gene with protein product,P31785,mapped
+3562,HGNC:6011,IL3,interleukin 3,Approved,protein-coding gene,gene with protein product,P08700,mapped
+3563,HGNC:6012,IL3RA,interleukin 3 receptor subunit alpha,Approved,protein-coding gene,gene with protein product,P26951,mapped
+3565,HGNC:6014,IL4,interleukin 4,Approved,protein-coding gene,gene with protein product,P05112,mapped
+3569,HGNC:6018,IL6,interleukin 6,Approved,protein-coding gene,gene with protein product,P05231,mapped
+3570,HGNC:6019,IL6R,interleukin 6 receptor,Approved,protein-coding gene,gene with protein product,P08887,mapped
+3574,HGNC:6023,IL7,interleukin 7,Approved,protein-coding gene,gene with protein product,P13232,mapped
+3575,HGNC:6024,IL7R,interleukin 7 receptor,Approved,protein-coding gene,gene with protein product,P16871,mapped
+3586,HGNC:5962,IL10,interleukin 10,Approved,protein-coding gene,gene with protein product,P22301,mapped
+3587,HGNC:5964,IL10RA,interleukin 10 receptor subunit alpha,Approved,protein-coding gene,gene with protein product,Q13651,mapped
+3589,HGNC:5966,IL11,interleukin 11,Approved,protein-coding gene,gene with protein product,P20809,mapped
+3592,HGNC:5969,IL12A,interleukin 12A,Approved,protein-coding gene,gene with protein product,P29459,mapped
+3593,HGNC:5970,IL12B,interleukin 12B,Approved,protein-coding gene,gene with protein product,P29460,mapped
+3605,HGNC:5981,IL17A,interleukin 17A,Approved,protein-coding gene,gene with protein product,Q16552,mapped
+27189,HGNC:5983,IL17C,interleukin 17C,Approved,protein-coding gene,gene with protein product,Q9P0M4,mapped
+3606,HGNC:5986,IL18,interleukin 18,Approved,protein-coding gene,gene with protein product,Q14116,mapped
+8809,HGNC:5988,IL18R1,interleukin 18 receptor 1,Approved,protein-coding gene,gene with protein product,Q13478,mapped
+29949,HGNC:5990,IL19,interleukin 19,Approved,protein-coding gene,gene with protein product,Q9UHD0,mapped
+50604,HGNC:6002,IL20,interleukin 20,Approved,protein-coding gene,gene with protein product,Q9NYY1,mapped
+11009,HGNC:11346,IL24,interleukin 24,Approved,protein-coding gene,gene with protein product,Q13007,mapped
+3611,HGNC:6040,ILK,integrin linked kinase,Approved,protein-coding gene,gene with protein product,Q13418,mapped
+3612,HGNC:6050,IMPA1,inositol monophosphatase 1,Approved,protein-coding gene,gene with protein product,P29218,mapped
+3613,HGNC:6051,IMPA2,inositol monophosphatase 2,Approved,protein-coding gene,gene with protein product,O14732,mapped
+55364,HGNC:20387,IMPACT,impact RWD domain protein,Approved,protein-coding gene,gene with protein product,Q9P2X3,mapped
+3628,HGNC:6071,INPP1,inositol polyphosphate-1-phosphatase,Approved,protein-coding gene,gene with protein product,P49441,mapped
+3632,HGNC:6076,INPP5A,inositol polyphosphate-5-phosphatase A,Approved,protein-coding gene,gene with protein product,Q14642,mapped
+3635,HGNC:6079,INPP5D,inositol polyphosphate-5-phosphatase D,Approved,protein-coding gene,gene with protein product,Q92835,mapped
+3630,HGNC:6081,INS,insulin,Approved,protein-coding gene,gene with protein product,P01308,mapped
+3643,HGNC:6091,INSR,insulin receptor,Approved,protein-coding gene,gene with protein product,P06213,mapped
+3843,HGNC:6402,IPO5,importin 5,Approved,protein-coding gene,gene with protein product,O00410,mapped
+124152,HGNC:28556,IQCK,IQ motif containing K,Approved,protein-coding gene,gene with protein product,Q8N0W5,mapped
+23096,HGNC:29059,IQSEC2,IQ motif and Sec7 domain ArfGEF 2,Approved,protein-coding gene,gene with protein product,Q5JU85,mapped
+3659,HGNC:6116,IRF1,interferon regulatory factor 1,Approved,protein-coding gene,gene with protein product,P10914,mapped
+3665,HGNC:6122,IRF7,interferon regulatory factor 7,Approved,protein-coding gene,gene with protein product,Q92985,mapped
+3394,HGNC:5358,IRF8,interferon regulatory factor 8,Approved,protein-coding gene,gene with protein product,Q02556,mapped
+9636,HGNC:4053,ISG15,ISG15 ubiquitin like modifier,Approved,protein-coding gene,gene with protein product,P05161,mapped
+3674,HGNC:6138,ITGA2B,integrin subunit alpha 2b,Approved,protein-coding gene,gene with protein product,P08514,mapped
+8516,HGNC:6144,ITGA8,integrin subunit alpha 8,Approved,protein-coding gene,gene with protein product,P53708,mapped
+3680,HGNC:6145,ITGA9,integrin subunit alpha 9,Approved,protein-coding gene,gene with protein product,Q13797,mapped
+3684,HGNC:6149,ITGAM,integrin subunit alpha M,Approved,protein-coding gene,gene with protein product,P11215,mapped
+3685,HGNC:6150,ITGAV,integrin subunit alpha V,Approved,protein-coding gene,gene with protein product,P06756,mapped
+3690,HGNC:6156,ITGB3,integrin subunit beta 3,Approved,protein-coding gene,gene with protein product,P05106,mapped
+3697,HGNC:6166,ITIH1,inter-alpha-trypsin inhibitor heavy chain 1,Approved,protein-coding gene,gene with protein product,P19827,mapped
+3699,HGNC:6168,ITIH3,inter-alpha-trypsin inhibitor heavy chain 3,Approved,protein-coding gene,gene with protein product,Q06033,mapped
+3700,HGNC:6169,ITIH4,inter-alpha-trypsin inhibitor heavy chain 4,Approved,protein-coding gene,gene with protein product,Q14624,mapped
+9445,HGNC:6174,ITM2B,integral membrane protein 2B,Approved,protein-coding gene,gene with protein product,Q9Y287,mapped
+3708,HGNC:6180,ITPR1,"inositol 1,4,5-trisphosphate receptor type 1",Approved,protein-coding gene,gene with protein product,Q14643,mapped
+182,HGNC:6188,JAG1,jagged canonical Notch ligand 1,Approved,protein-coding gene,gene with protein product,P78504,mapped
+3714,HGNC:6189,JAG2,jagged canonical Notch ligand 2,Approved,protein-coding gene,gene with protein product,Q9Y219,mapped
+3720,HGNC:6196,JARID2,jumonji and AT-rich interaction domain containing 2,Approved,protein-coding gene,gene with protein product,Q92833,mapped
+3725,HGNC:6204,JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",Approved,protein-coding gene,gene with protein product,P05412,mapped
+8997,HGNC:4814,KALRN,kalirin RhoGEF kinase,Approved,protein-coding gene,gene with protein product,O60229,mapped
+23522,HGNC:17582,KAT6B,lysine acetyltransferase 6B,Approved,protein-coding gene,gene with protein product,Q8WYB5,mapped
+84148,HGNC:17933,KAT8,lysine acetyltransferase 8,Approved,protein-coding gene,gene with protein product,Q9H7Z6,mapped
+3737,HGNC:6220,KCNA2,potassium voltage-gated channel subfamily A member 2,Approved,protein-coding gene,gene with protein product,P16389,mapped
+8514,HGNC:6229,KCNAB2,potassium voltage-gated channel subfamily A regulatory beta subunit 2,Approved,protein-coding gene,gene with protein product,Q13303,mapped
+3745,HGNC:6231,KCNB1,potassium voltage-gated channel subfamily B member 1,Approved,protein-coding gene,gene with protein product,Q14721,mapped
+3751,HGNC:6238,KCND2,potassium voltage-gated channel subfamily D member 2,Approved,protein-coding gene,gene with protein product,Q9NZV8,mapped
+3756,HGNC:6250,KCNH1,potassium voltage-gated channel subfamily H member 1,Approved,protein-coding gene,gene with protein product,O95259,mapped
+3757,HGNC:6251,KCNH2,potassium voltage-gated channel subfamily H member 2,Approved,protein-coding gene,gene with protein product,Q12809,mapped
+27133,HGNC:6254,KCNH5,potassium voltage-gated channel subfamily H member 5,Approved,protein-coding gene,gene with protein product,Q8NCM2,mapped
+81033,HGNC:18862,KCNH6,potassium voltage-gated channel subfamily H member 6,Approved,protein-coding gene,gene with protein product,Q9H252,mapped
+3760,HGNC:6264,KCNJ3,potassium inwardly rectifying channel subfamily J member 3,Approved,protein-coding gene,gene with protein product,P48549,mapped
+3761,HGNC:6265,KCNJ4,potassium inwardly rectifying channel subfamily J member 4,Approved,protein-coding gene,gene with protein product,P48050,mapped
+3763,HGNC:6267,KCNJ6,potassium inwardly rectifying channel subfamily J member 6,Approved,protein-coding gene,gene with protein product,P48051,mapped
+3766,HGNC:6256,KCNJ10,potassium inwardly rectifying channel subfamily J member 10,Approved,protein-coding gene,gene with protein product,P78508,mapped
+3767,HGNC:6257,KCNJ11,potassium inwardly rectifying channel subfamily J member 11,Approved,protein-coding gene,gene with protein product,Q14654,mapped
+3776,HGNC:6277,KCNK2,potassium two pore domain channel subfamily K member 2,Approved,protein-coding gene,gene with protein product,O95069,mapped
+3777,HGNC:6278,KCNK3,potassium two pore domain channel subfamily K member 3,Approved,protein-coding gene,gene with protein product,O14649,mapped
+3782,HGNC:6292,KCNN3,potassium calcium-activated channel subfamily N member 3,Approved,protein-coding gene,gene with protein product,Q9UGI6,mapped
+3785,HGNC:6296,KCNQ2,potassium voltage-gated channel subfamily Q member 2,Approved,protein-coding gene,gene with protein product,O43526,mapped
+3786,HGNC:6297,KCNQ3,potassium voltage-gated channel subfamily Q member 3,Approved,protein-coding gene,gene with protein product,O43525,mapped
+3790,HGNC:6302,KCNS3,potassium voltage-gated channel modifier subfamily S member 3,Approved,protein-coding gene,gene with protein product,Q9BQ31,mapped
+343450,HGNC:18866,KCNT2,potassium sodium-activated channel subfamily T member 2,Approved,protein-coding gene,gene with protein product,Q6UVM3,mapped
+115207,HGNC:14678,KCTD12,potassium channel tetramerization domain containing 12,Approved,protein-coding gene,gene with protein product,Q96CX2,mapped
+84678,HGNC:13610,KDM2B,lysine demethylase 2B,Approved,protein-coding gene,gene with protein product,Q8NHM5,mapped
+8242,HGNC:11114,KDM5C,lysine demethylase 5C,Approved,protein-coding gene,gene with protein product,P41229,mapped
+3791,HGNC:6307,KDR,kinase insert domain receptor,Approved,protein-coding gene,gene with protein product,P35968,mapped
+23095,HGNC:16636,KIF1B,kinesin family member 1B,Approved,protein-coding gene,gene with protein product,O60333,mapped
+3796,HGNC:6318,KIF2A,kinesin family member 2A,Approved,protein-coding gene,gene with protein product,O00139,mapped
+57576,HGNC:19167,KIF17,kinesin family member 17,Approved,protein-coding gene,gene with protein product,Q9P2E2,mapped
+688,HGNC:6349,KLF5,KLF transcription factor 5,Approved,protein-coding gene,gene with protein product,Q13887,mapped
+11278,HGNC:6346,KLF12,KLF transcription factor 12,Approved,protein-coding gene,gene with protein product,Q9Y4X4,mapped
+11202,HGNC:6369,KLK8,kallikrein related peptidase 8,Approved,protein-coding gene,gene with protein product,O60259,mapped
+8564,HGNC:6381,KMO,kynurenine 3-monooxygenase,Approved,protein-coding gene,gene with protein product,O15229,mapped
+4297,HGNC:7132,KMT2A,lysine methyltransferase 2A,Approved,protein-coding gene,gene with protein product,Q03164,mapped
+3836,HGNC:6394,KPNA1,karyopherin subunit alpha 1,Approved,protein-coding gene,gene with protein product,P52294,mapped
+3839,HGNC:6396,KPNA3,karyopherin subunit alpha 3,Approved,protein-coding gene,gene with protein product,O00505,mapped
+83999,HGNC:17550,KREMEN1,kringle containing transmembrane protein 1,Approved,protein-coding gene,gene with protein product,Q96MU8,mapped
+56267,HGNC:33238,KYAT3,kynurenine aminotransferase 3,Approved,protein-coding gene,gene with protein product,Q6YP21,mapped
+79944,HGNC:20499,L2HGDH,L-2-hydroxyglutarate dehydrogenase,Approved,protein-coding gene,gene with protein product,Q9H9P8,mapped
+284217,HGNC:6481,LAMA1,laminin subunit alpha 1,Approved,protein-coding gene,gene with protein product,P25391,mapped
+3908,HGNC:6482,LAMA2,laminin subunit alpha 2,Approved,protein-coding gene,gene with protein product,P24043,mapped
+23395,HGNC:17095,LARS2,"leucyl-tRNA synthetase 2, mitochondrial",Approved,protein-coding gene,gene with protein product,Q15031,mapped
+3927,HGNC:6513,LASP1,LIM and SH3 protein 1,Approved,protein-coding gene,gene with protein product,Q14847,mapped
+10660,HGNC:16960,LBX1,ladybird homeobox 1,Approved,protein-coding gene,gene with protein product,P52954,mapped
+3934,HGNC:6526,LCN2,lipocalin 2,Approved,protein-coding gene,gene with protein product,P80188,mapped
+3939,HGNC:6535,LDHA,lactate dehydrogenase A,Approved,protein-coding gene,gene with protein product,P00338,mapped
+3952,HGNC:6553,LEP,leptin,Approved,protein-coding gene,gene with protein product,P41159,mapped
+3954,HGNC:6556,LETM1,leucine zipper and EF-hand containing transmembrane protein 1,Approved,protein-coding gene,gene with protein product,O95202,mapped
+9211,HGNC:6572,LGI1,leucine rich glioma inactivated 1,Approved,protein-coding gene,gene with protein product,O95970,mapped
+64077,HGNC:30042,LHPP,phospholysine phosphohistidine inorganic pyrophosphate phosphatase,Approved,protein-coding gene,gene with protein product,Q9H008,mapped
+64211,HGNC:14216,LHX5,LIM homeobox 5,Approved,protein-coding gene,gene with protein product,Q9H2C1,mapped
+26468,HGNC:21735,LHX6,LIM homeobox 6,Approved,protein-coding gene,gene with protein product,Q9UPM6,mapped
+3976,HGNC:6596,LIF,LIF interleukin 6 family cytokine,Approved,protein-coding gene,gene with protein product,P15018,mapped
+3977,HGNC:6597,LIFR,LIF receptor subunit alpha,Approved,protein-coding gene,gene with protein product,P42702,mapped
+10859,HGNC:6605,LILRB1,leukocyte immunoglobulin like receptor B1,Approved,protein-coding gene,gene with protein product,Q8NHL6,mapped
+81562,HGNC:19263,LMAN2L,"lectin, mannose binding 2 like",Approved,protein-coding gene,gene with protein product,Q9H0V9,mapped
+442721,HGNC:6648,LMOD2,leiomodin 2,Approved,protein-coding gene,gene with protein product,Q6P5Q4,mapped
+4009,HGNC:6653,LMX1A,LIM homeobox transcription factor 1 alpha,Approved,protein-coding gene,gene with protein product,Q8TE12,mapped
+4010,HGNC:6654,LMX1B,LIM homeobox transcription factor 1 beta,Approved,protein-coding gene,gene with protein product,O60663,mapped
+4018,HGNC:6667,LPA,lipoprotein(a),Approved,protein-coding gene,gene with protein product,P08519,mapped
+1902,HGNC:3166,LPAR1,lysophosphatidic acid receptor 1,Approved,protein-coding gene,gene with protein product,Q92633,mapped
+4023,HGNC:6677,LPL,lipoprotein lipase,Approved,protein-coding gene,gene with protein product,P06858,mapped
+23143,HGNC:20309,LRCH1,leucine rich repeats and calponin homology domain containing 1,Approved,protein-coding gene,gene with protein product,Q9Y2L9,mapped
+4035,HGNC:6692,LRP1,LDL receptor related protein 1,Approved,protein-coding gene,gene with protein product,Q07954,mapped
+4036,HGNC:6694,LRP2,LDL receptor related protein 2,Approved,protein-coding gene,gene with protein product,P98164,mapped
+7804,HGNC:6700,LRP8,LDL receptor related protein 8,Approved,protein-coding gene,gene with protein product,Q14114,mapped
+249,HGNC:438,ALPL,"alkaline phosphatase, biomineralization associated",Approved,protein-coding gene,gene with protein product,P05186,mapped
+259173,HGNC:20605,ALS2CL,ALS2 C-terminal like,Approved,protein-coding gene,gene with protein product,Q60I27,mapped
+23600,HGNC:451,AMACR,alpha-methylacyl-CoA racemase,Approved,protein-coding gene,gene with protein product,Q9UHK6,mapped
+55626,HGNC:25990,AMBRA1,autophagy and beclin 1 regulator 1,Approved,protein-coding gene,gene with protein product,Q9C0C7,mapped
+267,HGNC:463,AMFR,autocrine motility factor receptor,Approved,protein-coding gene,gene with protein product,Q9UKV5,mapped
+287,HGNC:493,ANK2,ankyrin 2,Approved,protein-coding gene,gene with protein product,Q01484,mapped
+288,HGNC:494,ANK3,ankyrin 3,Approved,protein-coding gene,gene with protein product,Q12955,mapped
+255239,HGNC:21027,ANKK1,ankyrin repeat and kinase domain containing 1,Approved,protein-coding gene,gene with protein product,Q8NFD2,mapped
+29123,HGNC:21316,ANKRD11,ankyrin repeat domain 11,Approved,protein-coding gene,gene with protein product,Q6UB99,mapped
+290,HGNC:500,ANPEP,"alanyl aminopeptidase, membrane",Approved,protein-coding gene,gene with protein product,P15144,mapped
+317,HGNC:576,APAF1,apoptotic peptidase activating factor 1,Approved,protein-coding gene,gene with protein product,O14727,mapped
+321,HGNC:579,APBA2,amyloid beta precursor protein binding family A member 2,Approved,protein-coding gene,gene with protein product,Q99767,mapped
+324,HGNC:583,APC,APC regulator of Wnt signaling pathway,Approved,protein-coding gene,gene with protein product,P25054,mapped
+328,HGNC:587,APEX1,apurinic/apyrimidinic endodeoxyribonuclease 1,Approved,protein-coding gene,gene with protein product,P27695,mapped
+335,HGNC:600,APOA1,apolipoprotein A1,Approved,protein-coding gene,gene with protein product,P02647,mapped
+337,HGNC:602,APOA4,apolipoprotein A4,Approved,protein-coding gene,gene with protein product,P06727,mapped
+341,HGNC:607,APOC1,apolipoprotein C1,Approved,protein-coding gene,gene with protein product,P02654,mapped
+347,HGNC:612,APOD,apolipoprotein D,Approved,protein-coding gene,gene with protein product,P05090,mapped
+348,HGNC:613,APOE,apolipoprotein E,Approved,protein-coding gene,gene with protein product,P02649,mapped
+350,HGNC:616,APOH,apolipoprotein H,Approved,protein-coding gene,gene with protein product,P02749,mapped
+23780,HGNC:619,APOL2,apolipoprotein L2,Approved,protein-coding gene,gene with protein product,Q9BQE5,mapped
+80832,HGNC:14867,APOL4,apolipoprotein L4,Approved,protein-coding gene,gene with protein product,Q9BPW4,mapped
+351,HGNC:620,APP,amyloid beta precursor protein,Approved,protein-coding gene,gene with protein product,P05067,mapped
+353,HGNC:626,APRT,adenine phosphoribosyltransferase,Approved,protein-coding gene,gene with protein product,P07741,mapped
+361,HGNC:637,AQP4,aquaporin 4,Approved,protein-coding gene,gene with protein product,P55087,mapped
+367,HGNC:644,AR,androgen receptor,Approved,protein-coding gene,gene with protein product,P10275,mapped
+23237,HGNC:648,ARC,activity regulated cytoskeleton associated protein,Approved,protein-coding gene,gene with protein product,Q7LC44,mapped
+392,HGNC:673,ARHGAP1,Rho GTPase activating protein 1,Approved,protein-coding gene,gene with protein product,Q07960,mapped
+93663,HGNC:21035,ARHGAP18,Rho GTPase activating protein 18,Approved,protein-coding gene,gene with protein product,Q8N392,mapped
+9743,HGNC:17399,ARHGAP32,Rho GTPase activating protein 32,Approved,protein-coding gene,gene with protein product,A7KAX9,mapped
+9639,HGNC:14103,ARHGEF10,Rho guanine nucleotide exchange factor 10,Approved,protein-coding gene,gene with protein product,O15013,mapped
+9826,HGNC:14580,ARHGEF11,Rho guanine nucleotide exchange factor 11,Approved,protein-coding gene,gene with protein product,O15085,mapped
+57492,HGNC:18040,ARID1B,AT-rich interaction domain 1B,Approved,protein-coding gene,gene with protein product,Q8NFD5,mapped
+408,HGNC:711,ARRB1,arrestin beta 1,Approved,protein-coding gene,gene with protein product,P49407,mapped
+409,HGNC:712,ARRB2,arrestin beta 2,Approved,protein-coding gene,gene with protein product,P32121,mapped
+410,HGNC:713,ARSA,arylsulfatase A,Approved,protein-coding gene,gene with protein product,P15289,mapped
+9048,HGNC:727,ARTN,artemin,Approved,protein-coding gene,gene with protein product,Q5T4W7,mapped
+421,HGNC:728,ARVCF,ARVCF delta catenin family member,Approved,protein-coding gene,gene with protein product,O00192,mapped
+57412,HGNC:17452,AS3MT,arsenite methyltransferase,Approved,protein-coding gene,gene with protein product,Q9HBK9,mapped
+427,HGNC:735,ASAH1,N-acylsphingosine amidohydrolase 1,Approved,protein-coding gene,gene with protein product,Q13510,mapped
+438,HGNC:750,ASMT,acetylserotonin O-methyltransferase,Approved,protein-coding gene,gene with protein product,P46597,mapped
+460,HGNC:773,ASTN1,astrotactin 1,Approved,protein-coding gene,gene with protein product,O14525,mapped
+23245,HGNC:17021,ASTN2,astrotactin 2,Approved,protein-coding gene,gene with protein product,O75129,mapped
+80816,HGNC:29357,ASXL3,ASXL transcriptional regulator 3,Approved,protein-coding gene,gene with protein product,Q9C0F0,mapped
+467,HGNC:785,ATF3,activating transcription factor 3,Approved,protein-coding gene,gene with protein product,P18847,mapped
+468,HGNC:786,ATF4,activating transcription factor 4,Approved,protein-coding gene,gene with protein product,P18848,mapped
+120892,HGNC:18618,LRRK2,leucine rich repeat kinase 2,Approved,protein-coding gene,gene with protein product,Q5S007,mapped
+347730,HGNC:19408,LRRTM1,leucine rich repeat transmembrane neuronal 1,Approved,protein-coding gene,gene with protein product,Q86UE6,mapped
+4045,HGNC:6705,LSAMP,limbic system associated membrane protein,Approved,protein-coding gene,gene with protein product,Q13449,mapped
+4049,HGNC:6709,LTA,lymphotoxin alpha,Approved,protein-coding gene,gene with protein product,P01374,mapped
+4048,HGNC:6710,LTA4H,leukotriene A4 hydrolase,Approved,protein-coding gene,gene with protein product,P09960,mapped
+57128,HGNC:21365,LYRM4,LYR motif containing 4,Approved,protein-coding gene,gene with protein product,Q9HD34,mapped
+4074,HGNC:6752,M6PR,"mannose-6-phosphate receptor, cation dependent",Approved,protein-coding gene,gene with protein product,P20645,mapped
+8379,HGNC:6762,MAD1L1,mitotic arrest deficient 1 like 1,Approved,protein-coding gene,gene with protein product,Q9Y6D9,mapped
+4099,HGNC:6783,MAG,myelin associated glycoprotein,Approved,protein-coding gene,gene with protein product,P20916,mapped
+9947,HGNC:6812,MAGEC1,MAGE family member C1,Approved,protein-coding gene,gene with protein product,O60732,mapped
+9223,HGNC:946,MAGI1,"membrane associated guanylate kinase, WW and PDZ domain containing 1",Approved,protein-coding gene,gene with protein product,Q96QZ7,mapped
+9863,HGNC:18957,MAGI2,"membrane associated guanylate kinase, WW and PDZ domain containing 2",Approved,protein-coding gene,gene with protein product,Q86UL8,mapped
+4128,HGNC:6833,MAOA,monoamine oxidase A,Approved,protein-coding gene,gene with protein product,P21397,mapped
+4129,HGNC:6834,MAOB,monoamine oxidase B,Approved,protein-coding gene,gene with protein product,P27338,mapped
+4133,HGNC:6839,MAP2,microtubule associated protein 2,Approved,protein-coding gene,gene with protein product,P11137,mapped
+5604,HGNC:6840,MAP2K1,mitogen-activated protein kinase kinase 1,Approved,protein-coding gene,gene with protein product,Q02750,mapped
+5607,HGNC:6845,MAP2K5,mitogen-activated protein kinase kinase 5,Approved,protein-coding gene,gene with protein product,Q13163,mapped
+5609,HGNC:6847,MAP2K7,mitogen-activated protein kinase kinase 7,Approved,protein-coding gene,gene with protein product,O14733,mapped
+4217,HGNC:6857,MAP3K5,mitogen-activated protein kinase kinase kinase 5,Approved,protein-coding gene,gene with protein product,Q99683,mapped
+4135,HGNC:6868,MAP6,microtubule associated protein 6,Approved,protein-coding gene,gene with protein product,Q96JE9,mapped
+5594,HGNC:6871,MAPK1,mitogen-activated protein kinase 1,Approved,protein-coding gene,gene with protein product,P28482,mapped
+5595,HGNC:6877,MAPK3,mitogen-activated protein kinase 3,Approved,protein-coding gene,gene with protein product,P27361,mapped
+5599,HGNC:6881,MAPK8,mitogen-activated protein kinase 8,Approved,protein-coding gene,gene with protein product,P45983,mapped
+1432,HGNC:6876,MAPK14,mitogen-activated protein kinase 14,Approved,protein-coding gene,gene with protein product,Q16539,mapped
+4137,HGNC:6893,MAPT,microtubule associated protein tau,Approved,protein-coding gene,gene with protein product,P10636,mapped
+2011,HGNC:3332,MARK2,microtubule affinity regulating kinase 2,Approved,protein-coding gene,gene with protein product,Q7KZI7,mapped
+8932,HGNC:6917,MBD2,methyl-CpG binding domain protein 2,Approved,protein-coding gene,gene with protein product,Q9UBB5,mapped
+55777,HGNC:20444,MBD5,methyl-CpG binding domain protein 5,Approved,protein-coding gene,gene with protein product,Q9P267,mapped
+4153,HGNC:6922,MBL2,mannose binding lectin 2,Approved,protein-coding gene,gene with protein product,P11226,mapped
+4154,HGNC:6923,MBNL1,muscleblind like splicing regulator 1,Approved,protein-coding gene,gene with protein product,Q9NR56,mapped
+4155,HGNC:6925,MBP,myelin basic protein,Approved,protein-coding gene,gene with protein product,P02686,mapped
+4157,HGNC:6929,MC1R,melanocortin 1 receptor,Approved,protein-coding gene,gene with protein product,Q01726,mapped
+4158,HGNC:6930,MC2R,melanocortin 2 receptor,Approved,protein-coding gene,gene with protein product,Q01718,mapped
+4160,HGNC:6932,MC4R,melanocortin 4 receptor,Approved,protein-coding gene,gene with protein product,P32245,mapped
+4161,HGNC:6933,MC5R,melanocortin 5 receptor,Approved,protein-coding gene,gene with protein product,P33032,mapped
+4162,HGNC:6934,MCAM,melanoma cell adhesion molecule,Approved,protein-coding gene,gene with protein product,P43121,mapped
+27349,HGNC:29622,MCAT,malonyl-CoA-acyl carrier protein transacylase,Approved,protein-coding gene,gene with protein product,Q8IVS2,mapped
+2847,HGNC:4479,MCHR1,melanin concentrating hormone receptor 1,Approved,protein-coding gene,gene with protein product,Q99705,mapped
+84539,HGNC:20867,MCHR2,melanin concentrating hormone receptor 2,Approved,protein-coding gene,gene with protein product,Q969V1,mapped
+55784,HGNC:25636,MCTP2,multiple C2 and transmembrane domain containing 2,Approved,protein-coding gene,gene with protein product,Q6DN12,mapped
+266727,HGNC:19267,MDGA1,MAM domain containing glycosylphosphatidylinositol anchor 1,Approved,protein-coding gene,gene with protein product,Q8NFP4,mapped
+4190,HGNC:6970,MDH1,malate dehydrogenase 1,Approved,protein-coding gene,gene with protein product,P40925,mapped
+4192,HGNC:6972,MDK,midkine,Approved,protein-coding gene,gene with protein product,P21741,mapped
+4194,HGNC:6974,MDM4,MDM4 regulator of p53,Approved,protein-coding gene,gene with protein product,O15151,mapped
+4200,HGNC:6984,ME2,malic enzyme 2,Approved,protein-coding gene,gene with protein product,P23368,mapped
+4204,HGNC:6990,MECP2,methyl-CpG binding protein 2,Approved,protein-coding gene,gene with protein product,P51608,mapped
+9968,HGNC:11957,MED12,mediator complex subunit 12,Approved,protein-coding gene,gene with protein product,Q93074,mapped
+9969,HGNC:22474,MED13,mediator complex subunit 13,Approved,protein-coding gene,gene with protein product,Q9UHV7,mapped
+51586,HGNC:14248,MED15,mediator complex subunit 15,Approved,protein-coding gene,gene with protein product,Q96RN5,mapped
+4208,HGNC:6996,MEF2C,myocyte enhancer factor 2C,Approved,protein-coding gene,gene with protein product,Q06413,mapped
+84466,HGNC:29634,MEGF10,multiple EGF like domains 10,Approved,protein-coding gene,gene with protein product,Q96KG7,mapped
+4233,HGNC:7029,MET,"MET proto-oncogene, receptor tyrosine kinase",Approved,protein-coding gene,gene with protein product,P08581,mapped
+4240,HGNC:7036,MFGE8,milk fat globule EGF and factor V/VIII domain containing,Approved,protein-coding gene,gene with protein product,Q08431,mapped
+57534,HGNC:21086,MIB1,MIB E3 ubiquitin protein ligase 1,Approved,protein-coding gene,gene with protein product,Q86YT6,mapped
+4277,HGNC:7091,MICB,MHC class I polypeptide-related sequence B,Approved,protein-coding gene,gene with protein product,Q29980,mapped
+4282,HGNC:7097,MIF,macrophage migration inhibitory factor,Approved,protein-coding gene,gene with protein product,P14174,mapped
+23209,HGNC:17082,MLC1,modulator of VRAC current 1,Approved,protein-coding gene,gene with protein product,Q15049,mapped
+4300,HGNC:7136,MLLT3,MLLT3 super elongation complex subunit,Approved,protein-coding gene,gene with protein product,P42568,mapped
+326625,HGNC:19331,MMAB,metabolism of cobalamin associated B,Approved,protein-coding gene,gene with protein product,Q96EY8,mapped
+4314,HGNC:7173,MMP3,matrix metallopeptidase 3,Approved,protein-coding gene,gene with protein product,P08254,mapped
+4317,HGNC:7175,MMP8,matrix metallopeptidase 8,Approved,protein-coding gene,gene with protein product,P22894,mapped
+4318,HGNC:7176,MMP9,matrix metallopeptidase 9,Approved,protein-coding gene,gene with protein product,P14780,mapped
+4319,HGNC:7156,MMP10,matrix metallopeptidase 10,Approved,protein-coding gene,gene with protein product,P09238,mapped
+4321,HGNC:7158,MMP12,matrix metallopeptidase 12,Approved,protein-coding gene,gene with protein product,P39900,mapped
+4340,HGNC:7197,MOG,myelin oligodendrocyte glycoprotein,Approved,protein-coding gene,gene with protein product,Q16653,mapped
+27136,HGNC:7198,MORC1,MORC family CW-type zinc finger 1,Approved,protein-coding gene,gene with protein product,Q86VD1,mapped
+8777,HGNC:7208,MPDZ,multiple PDZ domain crumbs cell polarity complex component,Approved,protein-coding gene,gene with protein product,O75970,mapped
+4353,HGNC:7218,MPO,myeloperoxidase,Approved,protein-coding gene,gene with protein product,P05164,mapped
+65258,HGNC:15988,MPPE1,metallophosphoesterase 1,Approved,protein-coding gene,gene with protein product,Q53F39,mapped
+9019,HGNC:7226,MPZL1,myelin protein zero like 1,Approved,protein-coding gene,gene with protein product,O95297,mapped
+51650,HGNC:16634,MRPS33,mitochondrial ribosomal protein S33,Approved,protein-coding gene,gene with protein product,Q9Y291,mapped
+51338,HGNC:13371,MS4A4A,membrane spanning 4-domains A4A,Approved,protein-coding gene,gene with protein product,Q96JQ5,mapped
+4482,HGNC:7377,MSRA,methionine sulfoxide reductase A,Approved,protein-coding gene,gene with protein product,Q9UJ68,mapped
+51734,HGNC:14133,MSRB1,methionine sulfoxide reductase B1,Approved,protein-coding gene,gene with protein product,Q9NZV6,mapped
+118490,HGNC:21000,MSS51,MSS51 mitochondrial translational activator,Approved,protein-coding gene,gene with protein product,Q4VC12,mapped
+4513,HGNC:7421,MT-CO2,mitochondrially encoded cytochrome c oxidase II,Approved,protein-coding gene,gene with protein product,P00403,mapped
+4535,HGNC:7455,MT-ND1,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1,Approved,protein-coding gene,gene with protein product,P03886,mapped
+4538,HGNC:7459,MT-ND4,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4,Approved,protein-coding gene,gene with protein product,C0HME5,mapped
+4538,HGNC:7459,MT-ND4,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4,Approved,protein-coding gene,gene with protein product,P03905,mapped
+4502,HGNC:7406,MT2A,metallothionein 2A,Approved,protein-coding gene,gene with protein product,P02795,mapped
+4504,HGNC:7408,MT3,metallothionein 3,Approved,protein-coding gene,gene with protein product,P25713,mapped
+9112,HGNC:7410,MTA1,metastasis associated 1,Approved,protein-coding gene,gene with protein product,Q13330,mapped
+4522,HGNC:7432,MTHFD1,"methylenetetrahydrofolate dehydrogenase, cyclohydrolase and formyltetrahydrofolate synthetase 1",Approved,protein-coding gene,gene with protein product,P11586,mapped
+4524,HGNC:7436,MTHFR,methylenetetrahydrofolate reductase,Approved,protein-coding gene,gene with protein product,P42898,mapped
+4543,HGNC:7463,MTNR1A,melatonin receptor 1A,Approved,protein-coding gene,gene with protein product,P48039,mapped
+2475,HGNC:3942,MTOR,mechanistic target of rapamycin kinase,Approved,protein-coding gene,gene with protein product,P42345,mapped
+4548,HGNC:7468,MTR,5-methyltetrahydrofolate-homocysteine methyltransferase,Approved,protein-coding gene,gene with protein product,Q99707,mapped
+4645,HGNC:7603,MYO5B,myosin VB,Approved,protein-coding gene,gene with protein product,Q9ULV0,mapped
+4650,HGNC:7609,MYO9B,myosin IXB,Approved,protein-coding gene,gene with protein product,Q13459,mapped
+23026,HGNC:29822,MYO16,myosin XVI,Approved,protein-coding gene,gene with protein product,Q9Y6X6,mapped
+23040,HGNC:7623,MYT1L,myelin transcription factor 1 like,Approved,protein-coding gene,gene with protein product,Q9UL68,mapped
+8774,HGNC:7642,NAPG,NSF attachment protein gamma,Approved,protein-coding gene,gene with protein product,Q99747,mapped
+89796,HGNC:15989,NAV1,neuron navigator 1,Approved,protein-coding gene,gene with protein product,Q8NEY1,mapped
+4684,HGNC:7656,NCAM1,neural cell adhesion molecule 1,Approved,protein-coding gene,gene with protein product,P13591,mapped
+1463,HGNC:2465,NCAN,neurocan,Approved,protein-coding gene,gene with protein product,O14594,mapped
+54892,HGNC:21904,NCAPG2,non-SMC condensin II complex subunit G2,Approved,protein-coding gene,gene with protein product,Q86XI2,mapped
+23413,HGNC:3953,NCS1,neuronal calcium sensor 1,Approved,protein-coding gene,gene with protein product,P62166,mapped
+23385,HGNC:17091,NCSTN,nicastrin,Approved,protein-coding gene,gene with protein product,Q92542,mapped
+54820,HGNC:17619,NDE1,nudE neurodevelopment protein 1,Approved,protein-coding gene,gene with protein product,Q9NXR1,mapped
+81565,HGNC:17620,NDEL1,nudE neurodevelopment protein 1 like 1,Approved,protein-coding gene,gene with protein product,Q9GZM8,mapped
+4693,HGNC:7678,NDP,norrin cystine knot growth factor NDP,Approved,protein-coding gene,gene with protein product,Q00604,mapped
+9348,HGNC:7682,NDST3,N-deacetylase and N-sulfotransferase 3,Approved,protein-coding gene,gene with protein product,O95803,mapped
+4719,HGNC:7707,NDUFS1,NADH:ubiquinone oxidoreductase core subunit S1,Approved,protein-coding gene,gene with protein product,P28331,mapped
+4723,HGNC:7716,NDUFV1,NADH:ubiquinone oxidoreductase core subunit V1,Approved,protein-coding gene,gene with protein product,P49821,mapped
+4729,HGNC:7717,NDUFV2,NADH:ubiquinone oxidoreductase core subunit V2,Approved,protein-coding gene,gene with protein product,P19404,mapped
+4731,HGNC:7719,NDUFV3,NADH:ubiquinone oxidoreductase subunit V3,Approved,protein-coding gene,gene with protein product,P56181,mapped
+5819,HGNC:9707,NECTIN2,nectin cell adhesion molecule 2,Approved,protein-coding gene,gene with protein product,Q92692,mapped
+4734,HGNC:7727,NEDD4,NEDD4 E3 ubiquitin protein ligase,Approved,protein-coding gene,gene with protein product,P46934,mapped
+4747,HGNC:7739,NEFL,neurofilament light chain,Approved,protein-coding gene,gene with protein product,P07196,mapped
+4741,HGNC:7734,NEFM,neurofilament medium chain,Approved,protein-coding gene,gene with protein product,P07197,mapped
+6787,HGNC:11399,NEK4,NIMA related kinase 4,Approved,protein-coding gene,gene with protein product,P51957,mapped
+4745,HGNC:7750,NELL1,neural EGFL like 1,Approved,protein-coding gene,gene with protein product,Q92832,mapped
+4762,HGNC:7764,NEUROG1,neurogenin 1,Approved,protein-coding gene,gene with protein product,Q92886,mapped
+340533,HGNC:29433,NEXMIF,neurite extension and migration factor,Approved,protein-coding gene,gene with protein product,Q5QGS0,mapped
+23114,HGNC:29866,NFASC,neurofascin,Approved,protein-coding gene,gene with protein product,O94856,mapped
+4784,HGNC:7788,NFIX,nuclear factor I X,Approved,protein-coding gene,gene with protein product,Q14938,mapped
+4803,HGNC:7808,NGF,nerve growth factor,Approved,protein-coding gene,gene with protein product,P01138,mapped
+4804,HGNC:7809,NGFR,nerve growth factor receptor,Approved,protein-coding gene,gene with protein product,P08138,mapped
+222698,HGNC:21584,NKAPL,NFKB activating protein like,Approved,protein-coding gene,gene with protein product,Q5M9Q1,mapped
+1482,HGNC:2488,NKX2-5,NK2 homeobox 5,Approved,protein-coding gene,gene with protein product,P52952,mapped
+22871,HGNC:14291,NLGN1,neuroligin 1,Approved,protein-coding gene,gene with protein product,Q8N2Q7,mapped
+57555,HGNC:14290,NLGN2,neuroligin 2,Approved,protein-coding gene,gene with protein product,Q8NFZ4,mapped
+114548,HGNC:16400,NLRP3,NLR family pyrin domain containing 3,Approved,protein-coding gene,gene with protein product,Q96P20,mapped
+4837,HGNC:7861,NNMT,nicotinamide N-methyltransferase,Approved,protein-coding gene,gene with protein product,P40261,mapped
+64127,HGNC:5331,NOD2,nucleotide binding oligomerization domain containing 2,Approved,protein-coding gene,gene with protein product,Q9HC29,mapped
+4842,HGNC:7872,NOS1,nitric oxide synthase 1,Approved,protein-coding gene,gene with protein product,P29475,mapped
+9722,HGNC:16859,NOS1AP,nitric oxide synthase 1 adaptor protein,Approved,protein-coding gene,gene with protein product,O75052,mapped
+4843,HGNC:7873,NOS2,nitric oxide synthase 2,Approved,protein-coding gene,gene with protein product,P35228,mapped
+4846,HGNC:7876,NOS3,nitric oxide synthase 3,Approved,protein-coding gene,gene with protein product,P29474,mapped
+4854,HGNC:7883,NOTCH3,notch receptor 3,Approved,protein-coding gene,gene with protein product,Q9UM47,mapped
+4855,HGNC:7884,NOTCH4,notch receptor 4,Approved,protein-coding gene,gene with protein product,Q99466,mapped
+4861,HGNC:7894,NPAS1,neuronal PAS domain protein 1,Approved,protein-coding gene,gene with protein product,Q99742,mapped
+4862,HGNC:7895,NPAS2,neuronal PAS domain protein 2,Approved,protein-coding gene,gene with protein product,Q99743,mapped
+64067,HGNC:19311,NPAS3,neuronal PAS domain protein 3,Approved,protein-coding gene,gene with protein product,Q8IXF0,mapped
+266743,HGNC:18983,NPAS4,neuronal PAS domain protein 4,Approved,protein-coding gene,gene with protein product,Q8IUM7,mapped
+10641,HGNC:24969,NPRL2,"NPR2 like, GATOR1 complex subunit",Approved,protein-coding gene,gene with protein product,Q8WTW4,mapped
+594857,HGNC:33940,NPS,neuropeptide S,Approved,protein-coding gene,gene with protein product,P0C0P6,mapped
+387129,HGNC:23631,NPSR1,neuropeptide S receptor 1,Approved,protein-coding gene,gene with protein product,Q6W5P4,mapped
+27020,HGNC:17867,NPTN,neuroplastin,Approved,protein-coding gene,gene with protein product,Q9Y639,mapped
+4852,HGNC:7955,NPY,neuropeptide Y,Approved,protein-coding gene,gene with protein product,P01303,mapped
+4886,HGNC:7956,NPY1R,neuropeptide Y receptor Y1,Approved,protein-coding gene,gene with protein product,P25929,mapped
+4887,HGNC:7957,NPY2R,neuropeptide Y receptor Y2,Approved,protein-coding gene,gene with protein product,P49146,mapped
+1728,HGNC:2874,NQO1,NAD(P)H quinone dehydrogenase 1,Approved,protein-coding gene,gene with protein product,P15559,mapped
+4835,HGNC:7856,NQO2,N-ribosyldihydronicotinamide:quinone dehydrogenase 2,Approved,protein-coding gene,gene with protein product,P16083,mapped
+9572,HGNC:7962,NR1D1,nuclear receptor subfamily 1 group D member 1,Approved,protein-coding gene,gene with protein product,P20393,mapped
+7101,HGNC:7973,NR2E1,nuclear receptor subfamily 2 group E member 1,Approved,protein-coding gene,gene with protein product,Q9Y466,mapped
+2908,HGNC:7978,NR3C1,nuclear receptor subfamily 3 group C member 1,Approved,protein-coding gene,gene with protein product,P04150,mapped
+4306,HGNC:7979,NR3C2,nuclear receptor subfamily 3 group C member 2,Approved,protein-coding gene,gene with protein product,P08235,mapped
+3164,HGNC:7980,NR4A1,nuclear receptor subfamily 4 group A member 1,Approved,protein-coding gene,gene with protein product,P22736,mapped
+4929,HGNC:7981,NR4A2,nuclear receptor subfamily 4 group A member 2,Approved,protein-coding gene,gene with protein product,P43354,mapped
+3084,HGNC:7997,NRG1,neuregulin 1,Approved,protein-coding gene,gene with protein product,Q02297,mapped
+10718,HGNC:7999,NRG3,neuregulin 3,Approved,protein-coding gene,gene with protein product,P56975,mapped
+4900,HGNC:8000,NRGN,neurogranin,Approved,protein-coding gene,gene with protein product,Q92686,mapped
+8204,HGNC:8001,NRIP1,nuclear receptor interacting protein 1,Approved,protein-coding gene,gene with protein product,P48552,mapped
+51299,HGNC:17972,NRN1,neuritin 1,Approved,protein-coding gene,gene with protein product,Q9NPD7,mapped
+8828,HGNC:8005,NRP2,neuropilin 2,Approved,protein-coding gene,gene with protein product,O60462,mapped
+9378,HGNC:8008,NRXN1,neurexin 1,Approved,protein-coding gene,gene with protein product,P58400,mapped
+9378,HGNC:8008,NRXN1,neurexin 1,Approved,protein-coding gene,gene with protein product,Q9ULB1,mapped
+9379,HGNC:8009,NRXN2,neurexin 2,Approved,protein-coding gene,gene with protein product,P58401,mapped
+9379,HGNC:8009,NRXN2,neurexin 2,Approved,protein-coding gene,gene with protein product,Q9P2S2,mapped
+9369,HGNC:8010,NRXN3,neurexin 3,Approved,protein-coding gene,gene with protein product,Q9HDB5,mapped
+9369,HGNC:8010,NRXN3,neurexin 3,Approved,protein-coding gene,gene with protein product,Q9Y4C0,mapped
+4908,HGNC:8023,NTF3,neurotrophin 3,Approved,protein-coding gene,gene with protein product,P20783,mapped
+50863,HGNC:17941,NTM,neurotrimin,Approved,protein-coding gene,gene with protein product,Q9P121,mapped
+22854,HGNC:23319,NTNG1,netrin G1,Approved,protein-coding gene,gene with protein product,Q9Y2I2,mapped
+84628,HGNC:14288,NTNG2,netrin G2,Approved,protein-coding gene,gene with protein product,Q96CW9,mapped
+4914,HGNC:8031,NTRK1,neurotrophic receptor tyrosine kinase 1,Approved,protein-coding gene,gene with protein product,P04629,mapped
+4915,HGNC:8032,NTRK2,neurotrophic receptor tyrosine kinase 2,Approved,protein-coding gene,gene with protein product,Q16620,mapped
+4916,HGNC:8033,NTRK3,neurotrophic receptor tyrosine kinase 3,Approved,protein-coding gene,gene with protein product,Q16288,mapped
+4922,HGNC:8038,NTS,neurotensin,Approved,protein-coding gene,gene with protein product,P30990,mapped
+4923,HGNC:8039,NTSR1,neurotensin receptor 1,Approved,protein-coding gene,gene with protein product,P30989,mapped
+57532,HGNC:17634,NUFIP2,nuclear FMR1 interacting protein 2,Approved,protein-coding gene,gene with protein product,Q7Z417,mapped
+9253,HGNC:8061,NUMBL,NUMB like endocytic adaptor protein,Approved,protein-coding gene,gene with protein product,Q9Y6R0,mapped
+4939,HGNC:8087,OAS2,2'-5'-oligoadenylate synthetase 2,Approved,protein-coding gene,gene with protein product,P29728,mapped
+10215,HGNC:9398,OLIG2,oligodendrocyte transcription factor 2,Approved,protein-coding gene,gene with protein product,Q13516,mapped
+4976,HGNC:8140,OPA1,OPA1 mitochondrial dynamin like GTPase,Approved,protein-coding gene,gene with protein product,O60313,mapped
+4978,HGNC:8143,OPCML,opioid binding protein/cell adhesion molecule like,Approved,protein-coding gene,gene with protein product,Q14982,mapped
+4985,HGNC:8153,OPRD1,opioid receptor delta 1,Approved,protein-coding gene,gene with protein product,P41143,mapped
+4986,HGNC:8154,OPRK1,opioid receptor kappa 1,Approved,protein-coding gene,gene with protein product,P41145,mapped
+4988,HGNC:8156,OPRM1,opioid receptor mu 1,Approved,protein-coding gene,gene with protein product,P35372,mapped
+119749,HGNC:31271,OR4C46,olfactory receptor family 4 subfamily C member 46,Approved,protein-coding gene,gene with protein product,A6NHA9,mapped
+125958,HGNC:8380,OR7D4,olfactory receptor family 7 subfamily D member 4,Approved,protein-coding gene,gene with protein product,Q8NG98,mapped
+5015,HGNC:8522,OTX2,orthodenticle homeobox 2,Approved,protein-coding gene,gene with protein product,P32243,mapped
+9943,HGNC:8508,OXSR1,oxidative stress responsive kinase 1,Approved,protein-coding gene,gene with protein product,O95747,mapped
+5020,HGNC:8528,OXT,oxytocin/neurophysin I prepropeptide,Approved,protein-coding gene,gene with protein product,P01178,mapped
+5021,HGNC:8529,OXTR,oxytocin receptor,Approved,protein-coding gene,gene with protein product,P30559,mapped
+22953,HGNC:15459,P2RX2,purinergic receptor P2X 2,Approved,protein-coding gene,gene with protein product,Q9UBL9,mapped
+5025,HGNC:8535,P2RX4,purinergic receptor P2X 4,Approved,protein-coding gene,gene with protein product,Q99571,mapped
+5027,HGNC:8537,P2RX7,purinergic receptor P2X 7,Approved,protein-coding gene,gene with protein product,Q99572,mapped
+55690,HGNC:30032,PACS1,phosphofurin acidic cluster sorting protein 1,Approved,protein-coding gene,gene with protein product,Q6VY07,mapped
+5048,HGNC:8574,PAFAH1B1,platelet activating factor acetylhydrolase 1b regulatory subunit 1,Approved,protein-coding gene,gene with protein product,P43034,mapped
+55824,HGNC:30043,PAG1,phosphoprotein membrane anchor with glycosphingolipid microdomains 1,Approved,protein-coding gene,gene with protein product,Q9NWQ8,mapped
+5053,HGNC:8582,PAH,phenylalanine hydroxylase,Approved,protein-coding gene,gene with protein product,P00439,mapped
+5062,HGNC:8591,PAK2,p21 (RAC1) activated kinase 2,Approved,protein-coding gene,gene with protein product,Q13177,mapped
+79728,HGNC:26144,PALB2,partner and localizer of BRCA2,Approved,protein-coding gene,gene with protein product,Q86YC2,mapped
+5066,HGNC:8596,PAM,peptidylglycine alpha-amidating monooxygenase,Approved,protein-coding gene,gene with protein product,P19021,mapped
+80025,HGNC:15894,PANK2,pantothenate kinase 2,Approved,protein-coding gene,gene with protein product,Q9BZ23,mapped
+196743,HGNC:20837,PAOX,polyamine oxidase,Approved,protein-coding gene,gene with protein product,Q6QHF9,mapped
+11315,HGNC:16369,PARK7,Parkinsonism associated deglycase,Approved,protein-coding gene,gene with protein product,Q99497,mapped
+5074,HGNC:8614,PAWR,pro-apoptotic WT1 regulator,Approved,protein-coding gene,gene with protein product,Q96IZ0,mapped
+5080,HGNC:8620,PAX6,paired box 6,Approved,protein-coding gene,gene with protein product,P26367,mapped
+55193,HGNC:30064,PBRM1,polybromo 1,Approved,protein-coding gene,gene with protein product,Q86U86,mapped
+5091,HGNC:8636,PC,pyruvate carboxylase,Approved,protein-coding gene,gene with protein product,P11498,mapped
+5100,HGNC:8660,PCDH8,protocadherin 8,Approved,protein-coding gene,gene with protein product,O95206,mapped
+27328,HGNC:8656,PCDH11X,protocadherin 11 X-linked,Approved,protein-coding gene,gene with protein product,Q9BZA7,mapped
+51294,HGNC:8657,PCDH12,protocadherin 12,Approved,protein-coding gene,gene with protein product,Q9NPG4,mapped
+27253,HGNC:14267,PCDH17,protocadherin 17,Approved,protein-coding gene,gene with protein product,O14917,mapped
+57526,HGNC:14270,PCDH19,protocadherin 19,Approved,protein-coding gene,gene with protein product,Q8TAB3,mapped
+5105,HGNC:8724,PCK1,phosphoenolpyruvate carboxykinase 1,Approved,protein-coding gene,gene with protein product,P35558,mapped
+27445,HGNC:13406,PCLO,piccolo presynaptic cytomatrix protein,Approved,protein-coding gene,gene with protein product,Q9Y6V0,mapped
+5108,HGNC:8727,PCM1,pericentriolar material 1,Approved,protein-coding gene,gene with protein product,Q15154,mapped
+5116,HGNC:16068,PCNT,pericentrin,Approved,protein-coding gene,gene with protein product,O95613,mapped
+5133,HGNC:8760,PDCD1,programmed cell death 1,Approved,protein-coding gene,gene with protein product,Q15116,mapped
+5134,HGNC:8762,PDCD2,programmed cell death 2,Approved,protein-coding gene,gene with protein product,Q16342,mapped
+10016,HGNC:8765,PDCD6,programmed cell death 6,Approved,protein-coding gene,gene with protein product,O75340,mapped
+5153,HGNC:8775,PDE1B,phosphodiesterase 1B,Approved,protein-coding gene,gene with protein product,Q01064,mapped
+5139,HGNC:8778,PDE3A,phosphodiesterase 3A,Approved,protein-coding gene,gene with protein product,Q14432,mapped
+5141,HGNC:8780,PDE4A,phosphodiesterase 4A,Approved,protein-coding gene,gene with protein product,P27815,mapped
+5142,HGNC:8781,PDE4B,phosphodiesterase 4B,Approved,protein-coding gene,gene with protein product,Q07343,mapped
+5144,HGNC:8783,PDE4D,phosphodiesterase 4D,Approved,protein-coding gene,gene with protein product,Q08499,mapped
+27115,HGNC:8792,PDE7B,phosphodiesterase 7B,Approved,protein-coding gene,gene with protein product,Q9NP56,mapped
+5152,HGNC:8795,PDE9A,phosphodiesterase 9A,Approved,protein-coding gene,gene with protein product,O76083,mapped
+10846,HGNC:8772,PDE10A,phosphodiesterase 10A,Approved,protein-coding gene,gene with protein product,Q9Y233,mapped
+50940,HGNC:8773,PDE11A,phosphodiesterase 11A,Approved,protein-coding gene,gene with protein product,Q9HCR9,mapped
+5159,HGNC:8804,PDGFRB,platelet derived growth factor receptor beta,Approved,protein-coding gene,gene with protein product,P09619,mapped
+149420,HGNC:18981,PDIK1L,PDLIM1 interacting kinase 1 like,Approved,protein-coding gene,gene with protein product,Q8N165,mapped
+10611,HGNC:17468,PDLIM5,PDZ and LIM domain 5,Approved,protein-coding gene,gene with protein product,Q96HC4,mapped
+5173,HGNC:8820,PDYN,prodynorphin,Approved,protein-coding gene,gene with protein product,P01213,mapped
+5174,HGNC:8821,PDZK1,PDZ domain containing 1,Approved,protein-coding gene,gene with protein product,Q5T2W1,mapped
+8682,HGNC:8822,PEA15,proliferation and apoptosis adaptor protein 15,Approved,protein-coding gene,gene with protein product,Q15121,mapped
+10400,HGNC:8830,PEMT,phosphatidylethanolamine N-methyltransferase,Approved,protein-coding gene,gene with protein product,Q9UBM1,mapped
+5179,HGNC:8831,PENK,proenkephalin,Approved,protein-coding gene,gene with protein product,P01210,mapped
+8864,HGNC:8846,PER2,period circadian regulator 2,Approved,protein-coding gene,gene with protein product,O15055,mapped
+8863,HGNC:8847,PER3,period circadian regulator 3,Approved,protein-coding gene,gene with protein product,P56645,mapped
+51555,HGNC:30024,PEX5L,peroxisomal biogenesis factor 5 like,Approved,protein-coding gene,gene with protein product,Q8IYB4,mapped
+5209,HGNC:8874,PFKFB3,"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3",Approved,protein-coding gene,gene with protein product,Q16875,mapped
+5211,HGNC:8876,PFKL,"phosphofructokinase, liver type",Approved,protein-coding gene,gene with protein product,P17858,mapped
+5223,HGNC:8888,PGAM1,phosphoglycerate mutase 1,Approved,protein-coding gene,gene with protein product,P18669,mapped
+84547,HGNC:19398,PGBD1,piggyBac transposable element derived 1,Approved,protein-coding gene,gene with protein product,Q96JS3,mapped
+283871,HGNC:8909,PGP,phosphoglycolate phosphatase,Approved,protein-coding gene,gene with protein product,A6NDG6,mapped
+10857,HGNC:16090,PGRMC1,progesterone receptor membrane component 1,Approved,protein-coding gene,gene with protein product,O00264,mapped
+5245,HGNC:8912,PHB1,prohibitin 1,Approved,protein-coding gene,gene with protein product,P35232,mapped
+144717,HGNC:26509,PHETA1,PH domain containing endocytic trafficking adaptor 1,Approved,protein-coding gene,gene with protein product,Q8N4B1,mapped
+8929,HGNC:9143,PHOX2B,paired like homeobox 2B,Approved,protein-coding gene,gene with protein product,Q99453,mapped
+55300,HGNC:18215,PI4K2B,phosphatidylinositol 4-kinase type 2 beta,Approved,protein-coding gene,gene with protein product,Q8TCG2,mapped
+5297,HGNC:8983,PI4KA,phosphatidylinositol 4-kinase alpha,Approved,protein-coding gene,gene with protein product,P42356,mapped
+8301,HGNC:15514,PICALM,phosphatidylinositol binding clathrin assembly protein,Approved,protein-coding gene,gene with protein product,Q13492,mapped
+9463,HGNC:9394,PICK1,protein interacting with PRKCA 1,Approved,protein-coding gene,gene with protein product,Q9NRD5,mapped
+5283,HGNC:8964,PIGH,phosphatidylinositol glycan anchor biosynthesis class H,Approved,protein-coding gene,gene with protein product,Q14442,mapped
+93183,HGNC:18858,PIGM,phosphatidylinositol glycan anchor biosynthesis class M,Approved,protein-coding gene,gene with protein product,Q9H3S5,mapped
+9091,HGNC:14135,PIGQ,phosphatidylinositol glycan anchor biosynthesis class Q,Approved,protein-coding gene,gene with protein product,Q9BRB3,mapped
+5289,HGNC:8974,PIK3C3,phosphatidylinositol 3-kinase catalytic subunit type 3,Approved,protein-coding gene,gene with protein product,Q8NEB9,mapped
+5290,HGNC:8975,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",Approved,protein-coding gene,gene with protein product,P42336,mapped
+5291,HGNC:8976,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",Approved,protein-coding gene,gene with protein product,P42338,mapped
+65018,HGNC:14581,PINK1,PTEN induced kinase 1,Approved,protein-coding gene,gene with protein product,Q9BXM7,mapped
+5305,HGNC:8997,PIP4K2A,phosphatidylinositol-5-phosphate 4-kinase type 2 alpha,Approved,protein-coding gene,gene with protein product,P48426,mapped
+79837,HGNC:23786,PIP4K2C,phosphatidylinositol-5-phosphate 4-kinase type 2 gamma,Approved,protein-coding gene,gene with protein product,Q8TBX8,mapped
+9600,HGNC:9003,PITPNM1,phosphatidylinositol transfer protein membrane associated 1,Approved,protein-coding gene,gene with protein product,O00562,mapped
+5308,HGNC:9005,PITX2,paired like homeodomain 2,Approved,protein-coding gene,gene with protein product,Q99697,mapped
+5309,HGNC:9006,PITX3,paired like homeodomain 3,Approved,protein-coding gene,gene with protein product,O75364,mapped
+63876,HGNC:16714,PKNOX2,PBX/knotted 1 homeobox 2,Approved,protein-coding gene,gene with protein product,Q96KN3,mapped
+5319,HGNC:9030,PLA2G1B,phospholipase A2 group IB,Approved,protein-coding gene,gene with protein product,P04054,mapped
+5320,HGNC:9031,PLA2G2A,phospholipase A2 group IIA,Approved,protein-coding gene,gene with protein product,P14555,mapped
+5321,HGNC:9035,PLA2G4A,phospholipase A2 group IVA,Approved,protein-coding gene,gene with protein product,P47712,mapped
+100137049,HGNC:9036,PLA2G4B,phospholipase A2 group IVB,Approved,protein-coding gene,gene with protein product,P0C869,mapped
+8605,HGNC:9037,PLA2G4C,phospholipase A2 group IVC,Approved,protein-coding gene,gene with protein product,Q9UP65,mapped
+8398,HGNC:9039,PLA2G6,phospholipase A2 group VI,Approved,protein-coding gene,gene with protein product,O60733,mapped
+7941,HGNC:9040,PLA2G7,phospholipase A2 group VII,Approved,protein-coding gene,gene with protein product,Q13093,mapped
+9373,HGNC:9043,PLAA,phospholipase A2 activating protein,Approved,protein-coding gene,gene with protein product,Q9Y263,mapped
+5327,HGNC:9051,PLAT,"plasminogen activator, tissue type",Approved,protein-coding gene,gene with protein product,P00750,mapped
+5328,HGNC:9052,PLAU,"plasminogen activator, urokinase",Approved,protein-coding gene,gene with protein product,P00749,mapped
+23236,HGNC:15917,PLCB1,phospholipase C beta 1,Approved,protein-coding gene,gene with protein product,Q9NQ66,mapped
+5335,HGNC:9065,PLCG1,phospholipase C gamma 1,Approved,protein-coding gene,gene with protein product,P19174,mapped
+5336,HGNC:9066,PLCG2,phospholipase C gamma 2,Approved,protein-coding gene,gene with protein product,P16885,mapped
+23228,HGNC:9064,PLCL2,phospholipase C like 2,Approved,protein-coding gene,gene with protein product,Q9UPR0,mapped
+345557,HGNC:31822,PLCXD3,phosphatidylinositol specific phospholipase C X domain containing 3,Approved,protein-coding gene,gene with protein product,Q63HM9,mapped
+22874,HGNC:17053,PLEKHA6,pleckstrin homology domain containing A6,Approved,protein-coding gene,gene with protein product,Q9Y2H5,mapped
+51177,HGNC:24310,PLEKHO1,pleckstrin homology domain containing O1,Approved,protein-coding gene,gene with protein product,Q53GL0,mapped
+5340,HGNC:9071,PLG,plasminogen,Approved,protein-coding gene,gene with protein product,P00747,mapped
+51090,HGNC:18553,PLLP,plasmolipin,Approved,protein-coding gene,gene with protein product,Q9Y342,mapped
+5354,HGNC:9086,PLP1,proteolipid protein 1,Approved,protein-coding gene,gene with protein product,P60201,mapped
+54886,HGNC:25993,PLPPR1,phospholipid phosphatase related 1,Approved,protein-coding gene,gene with protein product,Q8TBJ4,mapped
+57088,HGNC:16497,PLSCR4,phospholipid scramblase 4,Approved,protein-coding gene,gene with protein product,Q9NRQ2,mapped
+5362,HGNC:9100,PLXNA2,plexin A2,Approved,protein-coding gene,gene with protein product,O75051,mapped
+5367,HGNC:9109,PMCH,pro-melanin concentrating hormone,Approved,protein-coding gene,gene with protein product,P20382,mapped
+5371,HGNC:9113,PML,PML nuclear body scaffold,Approved,protein-coding gene,gene with protein product,P29590,mapped
+5375,HGNC:9117,PMP2,peripheral myelin protein 2,Approved,protein-coding gene,gene with protein product,P02689,mapped
+11284,HGNC:9154,PNKP,polynucleotide kinase 3'-phosphatase,Approved,protein-coding gene,gene with protein product,Q96T60,mapped
+5368,HGNC:9163,PNOC,prepronociceptin,Approved,protein-coding gene,gene with protein product,Q13519,mapped
+55163,HGNC:30260,PNPO,pyridoxamine 5'-phosphate oxidase,Approved,protein-coding gene,gene with protein product,Q9NVS9,mapped
+5428,HGNC:9179,POLG,"DNA polymerase gamma, catalytic subunit",Approved,protein-coding gene,gene with protein product,P54098,mapped
+5443,HGNC:9201,POMC,proopiomelanocortin,Approved,protein-coding gene,gene with protein product,P01189,mapped
+5444,HGNC:9204,PON1,paraoxonase 1,Approved,protein-coding gene,gene with protein product,P27169,mapped
+5454,HGNC:9215,POU3F2,POU class 3 homeobox 2,Approved,protein-coding gene,gene with protein product,P20265,mapped
+5465,HGNC:9232,PPARA,peroxisome proliferator activated receptor alpha,Approved,protein-coding gene,gene with protein product,Q07869,mapped
+5467,HGNC:9235,PPARD,peroxisome proliferator activated receptor delta,Approved,protein-coding gene,gene with protein product,Q03181,mapped
+5468,HGNC:9236,PPARG,peroxisome proliferator activated receptor gamma,Approved,protein-coding gene,gene with protein product,P37231,mapped
+10891,HGNC:9237,PPARGC1A,PPARG coactivator 1 alpha,Approved,protein-coding gene,gene with protein product,Q9UBK2,mapped
+5478,HGNC:9253,PPIA,peptidylprolyl isomerase A,Approved,protein-coding gene,gene with protein product,P62937,mapped
+5481,HGNC:9257,PPID,peptidylprolyl isomerase D,Approved,protein-coding gene,gene with protein product,Q08752,mapped
+84152,HGNC:9287,PPP1R1B,protein phosphatase 1 regulatory inhibitor subunit 1B,Approved,protein-coding gene,gene with protein product,Q9UD71,mapped
+84687,HGNC:9298,PPP1R9B,protein phosphatase 1 regulatory subunit 9B,Approved,protein-coding gene,gene with protein product,Q96SB3,mapped
+5522,HGNC:9306,PPP2R2C,protein phosphatase 2 regulatory subunit Bgamma,Approved,protein-coding gene,gene with protein product,Q9Y2T4,mapped
+5533,HGNC:9316,PPP3CC,protein phosphatase 3 catalytic subunit gamma,Approved,protein-coding gene,gene with protein product,P48454,mapped
+5534,HGNC:9317,PPP3R1,"protein phosphatase 3 regulatory subunit B, alpha",Approved,protein-coding gene,gene with protein product,P63098,mapped
+63976,HGNC:14000,PRDM16,PR/SET domain 16,Approved,protein-coding gene,gene with protein product,Q9HAZ2,mapped
+9588,HGNC:16753,PRDX6,peroxiredoxin 6,Approved,protein-coding gene,gene with protein product,P30041,mapped
+145270,HGNC:18319,PRIMA1,proline rich membrane anchor 1,Approved,protein-coding gene,gene with protein product,Q86XR5,mapped
+5563,HGNC:9377,PRKAA2,protein kinase AMP-activated catalytic subunit alpha 2,Approved,protein-coding gene,gene with protein product,P54646,mapped
+5578,HGNC:9393,PRKCA,protein kinase C alpha,Approved,protein-coding gene,gene with protein product,P17252,mapped
+5579,HGNC:9395,PRKCB,protein kinase C beta,Approved,protein-coding gene,gene with protein product,P05771,mapped
+5580,HGNC:9399,PRKCD,protein kinase C delta,Approved,protein-coding gene,gene with protein product,Q05655,mapped
+5584,HGNC:9404,PRKCI,protein kinase C iota,Approved,protein-coding gene,gene with protein product,P41743,mapped
+5590,HGNC:9412,PRKCZ,protein kinase C zeta,Approved,protein-coding gene,gene with protein product,Q05513,mapped
+5071,HGNC:8607,PRKN,parkin RBR E3 ubiquitin protein ligase,Approved,protein-coding gene,gene with protein product,O60260,mapped
+5617,HGNC:9445,PRL,prolactin,Approved,protein-coding gene,gene with protein product,P01236,mapped
+5621,HGNC:9449,PRNP,prion protein (Kanno blood group),Approved,protein-coding gene,gene with protein product,F7VJQ1,mapped
+5621,HGNC:9449,PRNP,prion protein (Kanno blood group),Approved,protein-coding gene,gene with protein product,P04156,mapped
+5625,HGNC:9453,PRODH,proline dehydrogenase 1,Approved,protein-coding gene,gene with protein product,O43272,mapped
+58510,HGNC:17325,PRODH2,proline dehydrogenase 2,Approved,protein-coding gene,gene with protein product,Q9UF12,mapped
+60675,HGNC:18455,PROK2,prokineticin 2,Approved,protein-coding gene,gene with protein product,Q9HC23,mapped
+128674,HGNC:15836,PROKR2,prokineticin receptor 2,Approved,protein-coding gene,gene with protein product,Q8NFJ6,mapped
+8842,HGNC:9454,PROM1,prominin 1,Approved,protein-coding gene,gene with protein product,O43490,mapped
+10594,HGNC:17340,PRPF8,pre-mRNA processing factor 8,Approved,protein-coding gene,gene with protein product,Q6P2Q9,mapped
+22809,HGNC:790,ATF5,activating transcription factor 5,Approved,protein-coding gene,gene with protein product,Q9Y2D1,mapped
+472,HGNC:795,ATM,ATM serine/threonine kinase,Approved,protein-coding gene,gene with protein product,Q13315,mapped
+476,HGNC:799,ATP1A1,ATPase Na+/K+ transporting subunit alpha 1,Approved,protein-coding gene,gene with protein product,P05023,mapped
+477,HGNC:800,ATP1A2,ATPase Na+/K+ transporting subunit alpha 2,Approved,protein-coding gene,gene with protein product,P50993,mapped
+478,HGNC:801,ATP1A3,ATPase Na+/K+ transporting subunit alpha 3,Approved,protein-coding gene,gene with protein product,P13637,mapped
+488,HGNC:812,ATP2A2,ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2,Approved,protein-coding gene,gene with protein product,P16615,mapped
+498,HGNC:823,ATP5F1A,ATP synthase F1 subunit alpha,Approved,protein-coding gene,gene with protein product,P25705,mapped
+538,HGNC:869,ATP7A,ATPase copper transporting alpha,Approved,protein-coding gene,gene with protein product,Q04656,mapped
+540,HGNC:870,ATP7B,ATPase copper transporting beta,Approved,protein-coding gene,gene with protein product,P35670,mapped
+23400,HGNC:30213,ATP13A2,ATPase cation transporting 13A2,Approved,protein-coding gene,gene with protein product,Q9NQ11,mapped
+6311,HGNC:10555,ATXN2,ataxin 2,Approved,protein-coding gene,gene with protein product,Q99700,mapped
+4287,HGNC:7106,ATXN3,ataxin 3,Approved,protein-coding gene,gene with protein product,P54252,mapped
+26053,HGNC:14262,AUTS2,activator of transcription and developmental regulator AUTS2,Approved,protein-coding gene,gene with protein product,Q8WXX7,mapped
+551,HGNC:894,AVP,arginine vasopressin,Approved,protein-coding gene,gene with protein product,P01185,mapped
+552,HGNC:895,AVPR1A,arginine vasopressin receptor 1A,Approved,protein-coding gene,gene with protein product,P37288,mapped
+553,HGNC:896,AVPR1B,arginine vasopressin receptor 1B,Approved,protein-coding gene,gene with protein product,P47901,mapped
+27087,HGNC:921,B3GAT1,"beta-1,3-glucuronyltransferase 1",Approved,protein-coding gene,gene with protein product,Q9P2W7,mapped
+135152,HGNC:922,B3GAT2,"beta-1,3-glucuronyltransferase 2",Approved,protein-coding gene,gene with protein product,Q9NPZ5,mapped
+10678,HGNC:15629,B3GNT2,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2",Approved,protein-coding gene,gene with protein product,Q9NY97,mapped
+23621,HGNC:933,BACE1,beta-secretase 1,Approved,protein-coding gene,gene with protein product,P56817,mapped
+573,HGNC:937,BAG1,BAG cochaperone 1,Approved,protein-coding gene,gene with protein product,Q99933,mapped
+9529,HGNC:941,BAG5,BAG cochaperone 5,Approved,protein-coding gene,gene with protein product,Q9UL15,mapped
+581,HGNC:959,BAX,"BCL2 associated X, apoptosis regulator",Approved,protein-coding gene,gene with protein product,Q07812,mapped
+590,HGNC:983,BCHE,butyrylcholinesterase,Approved,protein-coding gene,gene with protein product,P06276,mapped
+596,HGNC:990,BCL2,BCL2 apoptosis regulator,Approved,protein-coding gene,gene with protein product,P10415,mapped
+607,HGNC:1008,BCL9,BCL9 transcription coactivator,Approved,protein-coding gene,gene with protein product,O00512,mapped
+53335,HGNC:13221,BCL11A,BCL11 transcription factor A,Approved,protein-coding gene,gene with protein product,Q9H165,mapped
+613,HGNC:1014,BCR,BCR activator of RhoGEF and GTPase,Approved,protein-coding gene,gene with protein product,P11274,mapped
+624,HGNC:1030,BDKRB2,bradykinin receptor B2,Approved,protein-coding gene,gene with protein product,P30411,mapped
+627,HGNC:1033,BDNF,brain derived neurotrophic factor,Approved,protein-coding gene,gene with protein product,P23560,mapped
+8678,HGNC:1034,BECN1,beclin 1,Approved,protein-coding gene,gene with protein product,Q14457,mapped
+8553,HGNC:1046,BHLHE40,basic helix-loop-helix family member e40,Approved,protein-coding gene,gene with protein product,O14503,mapped
+79365,HGNC:16617,BHLHE41,basic helix-loop-helix family member e41,Approved,protein-coding gene,gene with protein product,Q9C0J9,mapped
+80114,HGNC:19351,BICC1,BicC family RNA binding protein 1,Approved,protein-coding gene,gene with protein product,Q9H694,mapped
+637,HGNC:1050,BID,BH3 interacting domain death agonist,Approved,protein-coding gene,gene with protein product,P55957,mapped
+274,HGNC:1052,BIN1,bridging integrator 1,Approved,protein-coding gene,gene with protein product,O00499,mapped
+2647,HGNC:4200,BLOC1S1,biogenesis of lysosomal organelles complex 1 subunit 1,Approved,protein-coding gene,gene with protein product,P78537,mapped
+388552,HGNC:20914,BLOC1S3,biogenesis of lysosomal organelles complex 1 subunit 3,Approved,protein-coding gene,gene with protein product,Q6QNY0,mapped
+406,HGNC:701,BMAL1,basic helix-loop-helix ARNT like 1,Approved,protein-coding gene,gene with protein product,O00327,mapped
+56938,HGNC:18984,BMAL2,basic helix-loop-helix ARNT like 2,Approved,protein-coding gene,gene with protein product,Q8WYA1,mapped
+655,HGNC:1074,BMP7,bone morphogenetic protein 7,Approved,protein-coding gene,gene with protein product,P18075,mapped
+8315,HGNC:1099,BRAP,BRCA1 associated protein,Approved,protein-coding gene,gene with protein product,Q7Z569,mapped
+672,HGNC:1100,BRCA1,BRCA1 DNA repair associated,Approved,protein-coding gene,gene with protein product,P38398,mapped
+675,HGNC:1101,BRCA2,BRCA2 DNA repair associated,Approved,protein-coding gene,gene with protein product,P51587,mapped
+23774,HGNC:1102,BRD1,bromodomain containing 1,Approved,protein-coding gene,gene with protein product,O95696,mapped
+683,HGNC:1118,BST1,bone marrow stromal cell antigen 1,Approved,protein-coding gene,gene with protein product,Q10588,mapped
+114781,HGNC:21228,BTBD9,BTB domain containing 9,Approved,protein-coding gene,gene with protein product,Q96Q07,mapped
+685,HGNC:1121,BTC,betacellulin,Approved,protein-coding gene,gene with protein product,P35070,mapped
+694,HGNC:1130,BTG1,BTG anti-proliferation factor 1,Approved,protein-coding gene,gene with protein product,P62324,mapped
+112476,HGNC:30500,PRRT2,proline rich transmembrane protein 2,Approved,protein-coding gene,gene with protein product,Q7Z6L0,mapped
+10279,HGNC:9480,PRSS16,serine protease 16,Approved,protein-coding gene,gene with protein product,Q9NQE7,mapped
+29968,HGNC:19129,PSAT1,phosphoserine aminotransferase 1,Approved,protein-coding gene,gene with protein product,Q9Y617,mapped
+5662,HGNC:9507,PSD,pleckstrin and Sec7 domain containing,Approved,protein-coding gene,gene with protein product,A5PKW4,mapped
+23362,HGNC:19093,PSD3,pleckstrin and Sec7 domain containing 3,Approved,protein-coding gene,gene with protein product,Q9NYI0,mapped
+5663,HGNC:9508,PSEN1,presenilin 1,Approved,protein-coding gene,gene with protein product,P49768,mapped
+5664,HGNC:9509,PSEN2,presenilin 2,Approved,protein-coding gene,gene with protein product,P49810,mapped
+5692,HGNC:9541,PSMB4,proteasome 20S subunit beta 4,Approved,protein-coding gene,gene with protein product,P28070,mapped
+5730,HGNC:9592,PTGDS,prostaglandin D2 synthase,Approved,protein-coding gene,gene with protein product,P41222,mapped
+5733,HGNC:9595,PTGER3,prostaglandin E receptor 3,Approved,protein-coding gene,gene with protein product,P43115,mapped
+5742,HGNC:9604,PTGS1,prostaglandin-endoperoxide synthase 1,Approved,protein-coding gene,gene with protein product,P23219,mapped
+5743,HGNC:9605,PTGS2,prostaglandin-endoperoxide synthase 2,Approved,protein-coding gene,gene with protein product,P35354,mapped
+5524,HGNC:9308,PTPA,protein phosphatase 2 phosphatase activator,Approved,protein-coding gene,gene with protein product,Q15257,mapped
+5770,HGNC:9642,PTPN1,protein tyrosine phosphatase non-receptor type 1,Approved,protein-coding gene,gene with protein product,P18031,mapped
+84867,HGNC:9657,PTPN5,protein tyrosine phosphatase non-receptor type 5,Approved,protein-coding gene,gene with protein product,P54829,mapped
+5777,HGNC:9658,PTPN6,protein tyrosine phosphatase non-receptor type 6,Approved,protein-coding gene,gene with protein product,P29350,mapped
+11099,HGNC:9651,PTPN21,protein tyrosine phosphatase non-receptor type 21,Approved,protein-coding gene,gene with protein product,Q16825,mapped
+5786,HGNC:9664,PTPRA,protein tyrosine phosphatase receptor type A,Approved,protein-coding gene,gene with protein product,P18433,mapped
+5789,HGNC:9668,PTPRD,protein tyrosine phosphatase receptor type D,Approved,protein-coding gene,gene with protein product,P23468,mapped
+5801,HGNC:9680,PTPRR,protein tyrosine phosphatase receptor type R,Approved,protein-coding gene,gene with protein product,Q15256,mapped
+5803,HGNC:9685,PTPRZ1,protein tyrosine phosphatase receptor type Z1,Approved,protein-coding gene,gene with protein product,P23471,mapped
+5806,HGNC:9692,PTX3,pentraxin 3,Approved,protein-coding gene,gene with protein product,P26022,mapped
+5813,HGNC:9701,PURA,purine rich element binding protein A,Approved,protein-coding gene,gene with protein product,Q00577,mapped
+5816,HGNC:9704,PVALB,parvalbumin,Approved,protein-coding gene,gene with protein product,P20472,mapped
+5697,HGNC:9748,PYY,peptide YY,Approved,protein-coding gene,gene with protein product,P10082,mapped
+9444,HGNC:21100,QKI,"QKI, KH domain containing RNA binding",Approved,protein-coding gene,gene with protein product,Q96PU8,mapped
+140902,HGNC:16249,R3HDML,R3H domain containing like,Approved,protein-coding gene,gene with protein product,Q9H3Y0,mapped
+116442,HGNC:16499,RAB39B,"RAB39B, member RAS oncogene family",Approved,protein-coding gene,gene with protein product,Q96DA2,mapped
+5879,HGNC:9801,RAC1,Rac family small GTPase 1,Approved,protein-coding gene,gene with protein product,P63000,mapped
+10399,HGNC:4399,RACK1,receptor for activated C kinase 1,Approved,protein-coding gene,gene with protein product,P63244,mapped
+10743,HGNC:9834,RAI1,retinoic acid induced 1,Approved,protein-coding gene,gene with protein product,Q7Z5J4,mapped
+10048,HGNC:13727,RANBP9,RAN binding protein 9,Approved,protein-coding gene,gene with protein product,Q96S59,mapped
+9771,HGNC:16862,RAPGEF5,Rap guanine nucleotide exchange factor 5,Approved,protein-coding gene,gene with protein product,Q92565,mapped
+51735,HGNC:20655,RAPGEF6,Rap guanine nucleotide exchange factor 6,Approved,protein-coding gene,gene with protein product,Q8TEU7,mapped
+65059,HGNC:14436,RAPH1,Ras association (RalGDS/AF-6) and pleckstrin homology domains 1,Approved,protein-coding gene,gene with protein product,Q70E73,mapped
+5914,HGNC:9864,RARA,retinoic acid receptor alpha,Approved,protein-coding gene,gene with protein product,P10276,mapped
+57038,HGNC:21406,RARS2,"arginyl-tRNA synthetase 2, mitochondrial",Approved,protein-coding gene,gene with protein product,Q5T160,mapped
+23551,HGNC:18229,RASD2,RASD family member 2,Approved,protein-coding gene,gene with protein product,Q96D21,mapped
+5923,HGNC:9875,RASGRF1,Ras protein specific guanine nucleotide releasing factor 1,Approved,protein-coding gene,gene with protein product,Q13972,mapped
+10125,HGNC:9878,RASGRP1,RAS guanyl releasing protein 1,Approved,protein-coding gene,gene with protein product,O95267,mapped
+9821,HGNC:15574,RB1CC1,RB1 inducible coiled-coil 1,Approved,protein-coding gene,gene with protein product,Q8TDY2,mapped
+54715,HGNC:18222,RBFOX1,RNA binding fox-1 homolog 1,Approved,protein-coding gene,gene with protein product,Q9NWB1,mapped
+10137,HGNC:9898,RBM12,RNA binding motif protein 12,Approved,protein-coding gene,gene with protein product,Q9NTZ6,mapped
+5947,HGNC:9919,RBP1,retinol binding protein 1,Approved,protein-coding gene,gene with protein product,P09455,mapped
+3516,HGNC:5724,RBPJ,recombination signal binding protein for immunoglobulin kappa J region,Approved,protein-coding gene,gene with protein product,Q06330,mapped
+55213,HGNC:18243,RCBTB1,RCC1 and BTB domain containing protein 1,Approved,protein-coding gene,gene with protein product,Q8NDN9,mapped
+7905,HGNC:30077,REEP5,receptor accessory protein 5,Approved,protein-coding gene,gene with protein product,Q00765,mapped
+5970,HGNC:9955,RELA,"RELA proto-oncogene, NF-kB subunit",Approved,protein-coding gene,gene with protein product,Q04206,mapped
+5649,HGNC:9957,RELN,reelin,Approved,protein-coding gene,gene with protein product,P78509,mapped
+5972,HGNC:9958,REN,renin,Approved,protein-coding gene,gene with protein product,P00797,mapped
+5978,HGNC:9966,REST,RE1 silencing transcription factor,Approved,protein-coding gene,gene with protein product,Q13127,mapped
+79137,HGNC:28450,RETREG2,reticulophagy regulator family member 2,Approved,protein-coding gene,gene with protein product,Q8NC44,mapped
+5992,HGNC:9985,RFX4,regulatory factor X4,Approved,protein-coding gene,gene with protein product,Q33E94,mapped
+5996,HGNC:9991,RGS1,regulator of G protein signaling 1,Approved,protein-coding gene,gene with protein product,Q08116,mapped
+5997,HGNC:9998,RGS2,regulator of G protein signaling 2,Approved,protein-coding gene,gene with protein product,P41220,mapped
+5999,HGNC:10000,RGS4,regulator of G protein signaling 4,Approved,protein-coding gene,gene with protein product,P49798,mapped
+8490,HGNC:10001,RGS5,regulator of G protein signaling 5,Approved,protein-coding gene,gene with protein product,O15539,mapped
+6000,HGNC:10003,RGS7,regulator of G protein signaling 7,Approved,protein-coding gene,gene with protein product,P49802,mapped
+8787,HGNC:10004,RGS9,regulator of G protein signaling 9,Approved,protein-coding gene,gene with protein product,O75916,mapped
+6002,HGNC:9994,RGS12,regulator of G protein signaling 12,Approved,protein-coding gene,gene with protein product,O14924,mapped
+6007,HGNC:10009,RHD,Rh blood group D antigen,Approved,protein-coding gene,gene with protein product,Q02161,mapped
+22999,HGNC:17282,RIMS1,regulating synaptic membrane exocytosis 1,Approved,protein-coding gene,gene with protein product,Q86UR5,mapped
+9699,HGNC:17283,RIMS2,regulating synaptic membrane exocytosis 2,Approved,protein-coding gene,gene with protein product,Q9UQ26,mapped
+9783,HGNC:21292,RIMS3,regulating synaptic membrane exocytosis 3,Approved,protein-coding gene,gene with protein product,Q9UJD0,mapped
+10193,HGNC:18401,RNF41,ring finger protein 41,Approved,protein-coding gene,gene with protein product,Q9H4P4,mapped
+63891,HGNC:21148,RNF123,ring finger protein 123,Approved,protein-coding gene,gene with protein product,Q5XPI4,mapped
+4919,HGNC:10256,ROR1,ROR family WNT receptor 1,Approved,protein-coding gene,gene with protein product,Q01973,mapped
+6095,HGNC:10258,RORA,RAR related orphan receptor A,Approved,protein-coding gene,gene with protein product,P35398,mapped
+6128,HGNC:10362,RPL6,ribosomal protein L6,Approved,protein-coding gene,gene with protein product,Q02878,mapped
+9045,HGNC:10305,RPL14,ribosomal protein L14,Approved,protein-coding gene,gene with protein product,P50914,mapped
+6147,HGNC:10317,RPL23A,ribosomal protein L23a,Approved,protein-coding gene,gene with protein product,P62750,mapped
+6196,HGNC:10431,RPS6KA2,ribosomal protein S6 kinase A2,Approved,protein-coding gene,gene with protein product,Q15349,mapped
+6202,HGNC:10441,RPS8,ribosomal protein S8,Approved,protein-coding gene,gene with protein product,P62241,mapped
+219790,HGNC:19364,RTKN2,rhotekin 2,Approved,protein-coding gene,gene with protein product,Q8IZC4,mapped
+57142,HGNC:14085,RTN4,reticulon 4,Approved,protein-coding gene,gene with protein product,Q9NQC3,mapped
+65078,HGNC:18601,RTN4R,reticulon 4 receptor,Approved,protein-coding gene,gene with protein product,Q9BZR6,mapped
+1901,HGNC:3165,S1PR1,sphingosine-1-phosphate receptor 1,Approved,protein-coding gene,gene with protein product,P21453,mapped
+6280,HGNC:10499,S100A9,S100 calcium binding protein A9,Approved,protein-coding gene,gene with protein product,P06702,mapped
+6281,HGNC:10487,S100A10,S100 calcium binding protein A10,Approved,protein-coding gene,gene with protein product,P60903,mapped
+6285,HGNC:10500,S100B,S100 calcium binding protein B,Approved,protein-coding gene,gene with protein product,P04271,mapped
+29115,HGNC:30785,SAP30BP,SAP30 binding protein,Approved,protein-coding gene,gene with protein product,Q9UHR5,mapped
+6303,HGNC:10540,SAT1,spermidine/spermine N1-acetyltransferase 1,Approved,protein-coding gene,gene with protein product,P21673,mapped
+55206,HGNC:22973,SBNO1,strawberry notch homolog 1,Approved,protein-coding gene,gene with protein product,A3KN83,mapped
+22904,HGNC:29158,SBNO2,strawberry notch homolog 2,Approved,protein-coding gene,gene with protein product,Q9Y2G9,mapped
+6323,HGNC:10585,SCN1A,sodium voltage-gated channel alpha subunit 1,Approved,protein-coding gene,gene with protein product,P35498,mapped
+6326,HGNC:10588,SCN2A,sodium voltage-gated channel alpha subunit 2,Approved,protein-coding gene,gene with protein product,Q99250,mapped
+6334,HGNC:10596,SCN8A,sodium voltage-gated channel alpha subunit 8,Approved,protein-coding gene,gene with protein product,Q9UQD0,mapped
+6335,HGNC:10597,SCN9A,sodium voltage-gated channel alpha subunit 9,Approved,protein-coding gene,gene with protein product,Q15858,mapped
+10806,HGNC:10671,SDCCAG8,SHH signaling and ciliogenesis regulator SDCCAG8,Approved,protein-coding gene,gene with protein product,Q86SQ7,mapped
+51150,HGNC:24188,SDF4,stromal cell derived factor 4,Approved,protein-coding gene,gene with protein product,Q9BRK5,mapped
+6389,HGNC:10680,SDHA,succinate dehydrogenase complex flavoprotein subunit A,Approved,protein-coding gene,gene with protein product,P31040,mapped
+9632,HGNC:10705,SEC24C,"SEC24 homolog C, COPII component",Approved,protein-coding gene,gene with protein product,P53992,mapped
+6401,HGNC:10718,SELE,selectin E,Approved,protein-coding gene,gene with protein product,P16581,mapped
+8991,HGNC:10719,SELENBP1,selenium binding protein 1,Approved,protein-coding gene,gene with protein product,Q13228,mapped
+6415,HGNC:10752,SELENOW,selenoprotein W,Approved,protein-coding gene,gene with protein product,P63302,mapped
+6403,HGNC:10721,SELP,selectin P,Approved,protein-coding gene,gene with protein product,P16109,mapped
+10371,HGNC:10723,SEMA3A,semaphorin 3A,Approved,protein-coding gene,gene with protein product,Q14563,mapped
+223117,HGNC:10726,SEMA3D,semaphorin 3D,Approved,protein-coding gene,gene with protein product,O95025,mapped
+989,HGNC:1717,SEPTIN7,septin 7,Approved,protein-coding gene,gene with protein product,Q16181,mapped
+55752,HGNC:25589,SEPTIN11,septin 11,Approved,protein-coding gene,gene with protein product,Q9NVA2,mapped
+5265,HGNC:8941,SERPINA1,serpin family A member 1,Approved,protein-coding gene,gene with protein product,P01009,mapped
+866,HGNC:1540,SERPINA6,serpin family A member 6,Approved,protein-coding gene,gene with protein product,P08185,mapped
+5054,HGNC:8583,SERPINE1,serpin family E member 1,Approved,protein-coding gene,gene with protein product,P05121,mapped
+5274,HGNC:8943,SERPINI1,serpin family I member 1,Approved,protein-coding gene,gene with protein product,Q99574,mapped
+9739,HGNC:29010,SETD1A,"SET domain containing 1A, histone lysine methyltransferase",Approved,protein-coding gene,gene with protein product,O15047,mapped
+9869,HGNC:10761,SETDB1,SET domain bifurcated histone lysine methyltransferase 1,Approved,protein-coding gene,gene with protein product,Q15047,mapped
+23544,HGNC:10763,SEZ6L,seizure related 6 homolog like,Approved,protein-coding gene,gene with protein product,Q9BYH1,mapped
+6422,HGNC:10776,SFRP1,secreted frizzled related protein 1,Approved,protein-coding gene,gene with protein product,Q8N474,mapped
+8910,HGNC:10808,SGCE,sarcoglycan epsilon,Approved,protein-coding gene,gene with protein product,O43556,mapped
+6446,HGNC:10810,SGK1,serum/glucocorticoid regulated kinase 1,Approved,protein-coding gene,gene with protein product,O00141,mapped
+10019,HGNC:29605,SH2B3,SH2B adaptor protein 3,Approved,protein-coding gene,gene with protein product,Q9UQQ2,mapped
+9644,HGNC:23664,SH3PXD2A,SH3 and PX domains 2A,Approved,protein-coding gene,gene with protein product,Q5TCZ1,mapped
+50944,HGNC:15474,SHANK1,SH3 and multiple ankyrin repeat domains 1,Approved,protein-coding gene,gene with protein product,Q9Y566,mapped
+22941,HGNC:14295,SHANK2,SH3 and multiple ankyrin repeat domains 2,Approved,protein-coding gene,gene with protein product,Q9UPX8,mapped
+85358,HGNC:14294,SHANK3,SH3 and multiple ankyrin repeat domains 3,Approved,protein-coding gene,gene with protein product,Q9BYB0,mapped
+6469,HGNC:10848,SHH,sonic hedgehog signaling molecule,Approved,protein-coding gene,gene with protein product,Q15465,mapped
+6470,HGNC:10850,SHMT1,serine hydroxymethyltransferase 1,Approved,protein-coding gene,gene with protein product,P34896,mapped
+10280,HGNC:8157,SIGMAR1,sigma receptor chaperone 1,Approved,protein-coding gene,gene with protein product,Q99720,mapped
+10326,HGNC:15928,SIRPB1,signal regulatory protein beta 1,Approved,protein-coding gene,gene with protein product,O00241,mapped
+10326,HGNC:15928,SIRPB1,signal regulatory protein beta 1,Approved,protein-coding gene,gene with protein product,Q5TFQ8,mapped
+23411,HGNC:14929,SIRT1,sirtuin 1,Approved,protein-coding gene,gene with protein product,Q96EB6,mapped
+6505,HGNC:10939,SLC1A1,solute carrier family 1 member 1,Approved,protein-coding gene,gene with protein product,P43005,mapped
+6506,HGNC:10940,SLC1A2,solute carrier family 1 member 2,Approved,protein-coding gene,gene with protein product,P43004,mapped
+6507,HGNC:10941,SLC1A3,solute carrier family 1 member 3,Approved,protein-coding gene,gene with protein product,P43003,mapped
+6511,HGNC:10944,SLC1A6,solute carrier family 1 member 6,Approved,protein-coding gene,gene with protein product,P48664,mapped
+6513,HGNC:11005,SLC2A1,solute carrier family 2 member 1,Approved,protein-coding gene,gene with protein product,P11166,mapped
+6517,HGNC:11009,SLC2A4,solute carrier family 2 member 4,Approved,protein-coding gene,gene with protein product,P14672,mapped
+144195,HGNC:18301,SLC2A14,solute carrier family 2 member 14,Approved,protein-coding gene,gene with protein product,Q8TDB8,mapped
+57282,HGNC:13811,SLC4A10,solute carrier family 4 member 10,Approved,protein-coding gene,gene with protein product,Q6U841,mapped
+6526,HGNC:11038,SLC5A3,solute carrier family 5 member 3,Approved,protein-coding gene,gene with protein product,P53794,mapped
+8884,HGNC:11041,SLC5A6,solute carrier family 5 member 6,Approved,protein-coding gene,gene with protein product,Q9Y289,mapped
+60482,HGNC:14025,SLC5A7,solute carrier family 5 member 7,Approved,protein-coding gene,gene with protein product,Q9GZV3,mapped
+6529,HGNC:11042,SLC6A1,solute carrier family 6 member 1,Approved,protein-coding gene,gene with protein product,P30531,mapped
+6530,HGNC:11048,SLC6A2,solute carrier family 6 member 2,Approved,protein-coding gene,gene with protein product,P23975,mapped
+6531,HGNC:11049,SLC6A3,solute carrier family 6 member 3,Approved,protein-coding gene,gene with protein product,Q01959,mapped
+6532,HGNC:11050,SLC6A4,solute carrier family 6 member 4,Approved,protein-coding gene,gene with protein product,P31645,mapped
+9152,HGNC:11051,SLC6A5,solute carrier family 6 member 5,Approved,protein-coding gene,gene with protein product,Q9Y345,mapped
+6536,HGNC:11056,SLC6A9,solute carrier family 6 member 9,Approved,protein-coding gene,gene with protein product,P48067,mapped
+6538,HGNC:11044,SLC6A11,solute carrier family 6 member 11,Approved,protein-coding gene,gene with protein product,P48066,mapped
+6539,HGNC:11045,SLC6A12,solute carrier family 6 member 12,Approved,protein-coding gene,gene with protein product,P48065,mapped
+6540,HGNC:11046,SLC6A13,solute carrier family 6 member 13,Approved,protein-coding gene,gene with protein product,Q9NSD5,mapped
+55117,HGNC:13621,SLC6A15,solute carrier family 6 member 15,Approved,protein-coding gene,gene with protein product,Q9H2J7,mapped
+56301,HGNC:11058,SLC7A10,solute carrier family 7 member 10,Approved,protein-coding gene,gene with protein product,Q9NS82,mapped
+6546,HGNC:11068,SLC8A1,solute carrier family 8 member A1,Approved,protein-coding gene,gene with protein product,P32418,mapped
+6547,HGNC:11070,SLC8A3,solute carrier family 8 member A3,Approved,protein-coding gene,gene with protein product,P57103,mapped
+23315,HGNC:20728,SLC9A8,solute carrier family 9 member A8,Approved,protein-coding gene,gene with protein product,Q9Y2E8,mapped
+6556,HGNC:10907,SLC11A1,solute carrier family 11 member 1,Approved,protein-coding gene,gene with protein product,P49279,mapped
+6558,HGNC:10911,SLC12A2,solute carrier family 12 member 2,Approved,protein-coding gene,gene with protein product,P55011,mapped
+57468,HGNC:13818,SLC12A5,solute carrier family 12 member 5,Approved,protein-coding gene,gene with protein product,Q9H2X9,mapped
+9990,HGNC:10914,SLC12A6,solute carrier family 12 member 6,Approved,protein-coding gene,gene with protein product,Q9UHW9,mapped
+57084,HGNC:16703,SLC17A6,solute carrier family 17 member 6,Approved,protein-coding gene,gene with protein product,Q9P2U8,mapped
+57030,HGNC:16704,SLC17A7,solute carrier family 17 member 7,Approved,protein-coding gene,gene with protein product,Q9P2U7,mapped
+6570,HGNC:10934,SLC18A1,solute carrier family 18 member A1,Approved,protein-coding gene,gene with protein product,P54219,mapped
+6571,HGNC:10935,SLC18A2,solute carrier family 18 member A2,Approved,protein-coding gene,gene with protein product,Q05940,mapped
+85413,HGNC:20302,SLC22A16,solute carrier family 22 member 16,Approved,protein-coding gene,gene with protein product,Q86VW1,mapped
+151295,HGNC:20601,SLC23A3,solute carrier family 23 member 3,Approved,protein-coding gene,gene with protein product,Q6PIS1,mapped
+291,HGNC:10990,SLC25A4,solute carrier family 25 member 4,Approved,protein-coding gene,gene with protein product,P12235,mapped
+9481,HGNC:21065,SLC25A27,solute carrier family 25 member 27,Approved,protein-coding gene,gene with protein product,O95847,mapped
+115111,HGNC:14467,SLC26A7,solute carrier family 26 member 7,Approved,protein-coding gene,gene with protein product,Q8TE54,mapped
+116369,HGNC:14468,SLC26A8,solute carrier family 26 member 8,Approved,protein-coding gene,gene with protein product,Q96RN1,mapped
+55315,HGNC:23096,SLC29A3,solute carrier family 29 member 3,Approved,protein-coding gene,gene with protein product,Q9BZD2,mapped
+7779,HGNC:11012,SLC30A1,solute carrier family 30 member 1,Approved,protein-coding gene,gene with protein product,Q9Y6M5,mapped
+7781,HGNC:11014,SLC30A3,solute carrier family 30 member 3,Approved,protein-coding gene,gene with protein product,Q99726,mapped
+7782,HGNC:11015,SLC30A4,solute carrier family 30 member 4,Approved,protein-coding gene,gene with protein product,O14863,mapped
+55676,HGNC:19305,SLC30A6,solute carrier family 30 member 6,Approved,protein-coding gene,gene with protein product,Q6NXT4,mapped
+55532,HGNC:25355,SLC30A10,solute carrier family 30 member 10,Approved,protein-coding gene,gene with protein product,Q6XR72,mapped
+7355,HGNC:11022,SLC35A2,solute carrier family 35 member A2,Approved,protein-coding gene,gene with protein product,P78381,mapped
+54407,HGNC:13448,SLC38A2,solute carrier family 38 member 2,Approved,protein-coding gene,gene with protein product,Q96QD8,mapped
+29985,HGNC:17128,SLC39A3,solute carrier family 39 member 3,Approved,protein-coding gene,gene with protein product,Q9BRY0,mapped
+53919,HGNC:13819,SLCO1C1,solute carrier organic anion transporter family member 1C1,Approved,protein-coding gene,gene with protein product,Q9NYB5,mapped
+6586,HGNC:11087,SLIT3,slit guidance ligand 3,Approved,protein-coding gene,gene with protein product,O75094,mapped
+4090,HGNC:6771,SMAD5,SMAD family member 5,Approved,protein-coding gene,gene with protein product,Q99717,mapped
+6595,HGNC:11098,SMARCA2,SWI/SNF related BAF chromatin remodeling complex subunit ATPase 2,Approved,protein-coding gene,gene with protein product,P51531,mapped
+8243,HGNC:11111,SMC1A,structural maintenance of chromosomes 1A,Approved,protein-coding gene,gene with protein product,Q14683,mapped
+54498,HGNC:15862,SMOX,spermine oxidase,Approved,protein-coding gene,gene with protein product,Q9NWM0,mapped
+6611,HGNC:11123,SMS,spermine synthase,Approved,protein-coding gene,gene with protein product,P52788,mapped
+6616,HGNC:11132,SNAP25,synaptosome associated protein 25,Approved,protein-coding gene,gene with protein product,P60880,mapped
+9342,HGNC:11133,SNAP29,synaptosome associated protein 29,Approved,protein-coding gene,gene with protein product,O95721,mapped
+6622,HGNC:11138,SNCA,synuclein alpha,Approved,protein-coding gene,gene with protein product,P37840,mapped
+9627,HGNC:11139,SNCAIP,synuclein alpha interacting protein,Approved,protein-coding gene,gene with protein product,Q9Y6H5,mapped
+6620,HGNC:11140,SNCB,synuclein beta,Approved,protein-coding gene,gene with protein product,Q16143,mapped
+713,HGNC:1242,C1QB,complement C1q B chain,Approved,protein-coding gene,gene with protein product,P02746,mapped
+203228,HGNC:28337,C9orf72,C9orf72-SMCR8 complex subunit,Approved,protein-coding gene,gene with protein product,Q96LT7,mapped
+773,HGNC:1388,CACNA1A,calcium voltage-gated channel subunit alpha1 A,Approved,protein-coding gene,gene with protein product,O00555,mapped
+774,HGNC:1389,CACNA1B,calcium voltage-gated channel subunit alpha1 B,Approved,protein-coding gene,gene with protein product,Q00975,mapped
+775,HGNC:1390,CACNA1C,calcium voltage-gated channel subunit alpha1 C,Approved,protein-coding gene,gene with protein product,Q13936,mapped
+776,HGNC:1391,CACNA1D,calcium voltage-gated channel subunit alpha1 D,Approved,protein-coding gene,gene with protein product,Q01668,mapped
+778,HGNC:1393,CACNA1F,calcium voltage-gated channel subunit alpha1 F,Approved,protein-coding gene,gene with protein product,O60840,mapped
+9254,HGNC:1400,CACNA2D2,calcium voltage-gated channel auxiliary subunit alpha2delta 2,Approved,protein-coding gene,gene with protein product,Q9NY47,mapped
+783,HGNC:1402,CACNB2,calcium voltage-gated channel auxiliary subunit beta 2,Approved,protein-coding gene,gene with protein product,Q08289,mapped
+785,HGNC:1404,CACNB4,calcium voltage-gated channel auxiliary subunit beta 4,Approved,protein-coding gene,gene with protein product,O00305,mapped
+10369,HGNC:1406,CACNG2,calcium voltage-gated channel auxiliary subunit gamma 2,Approved,protein-coding gene,gene with protein product,Q9Y698,mapped
+27091,HGNC:1409,CACNG5,calcium voltage-gated channel auxiliary subunit gamma 5,Approved,protein-coding gene,gene with protein product,Q9UF02,mapped
+59283,HGNC:13628,CACNG8,calcium voltage-gated channel auxiliary subunit gamma 8,Approved,protein-coding gene,gene with protein product,Q8WXS5,mapped
+23705,HGNC:5951,CADM1,cell adhesion molecule 1,Approved,protein-coding gene,gene with protein product,Q9BY67,mapped
+93664,HGNC:16018,CADPS2,calcium dependent secretion activator 2,Approved,protein-coding gene,gene with protein product,Q86UW7,mapped
+793,HGNC:1434,CALB1,calbindin 1,Approved,protein-coding gene,gene with protein product,P05937,mapped
+796,HGNC:1437,CALCA,calcitonin related polypeptide alpha,Approved,protein-coding gene,gene with protein product,P01258,mapped
+796,HGNC:1437,CALCA,calcitonin related polypeptide alpha,Approved,protein-coding gene,gene with protein product,P06881,mapped
+801,HGNC:1442,CALM1,calmodulin 1,Approved,protein-coding gene,gene with protein product,P0DP23,mapped
+805,HGNC:1445,CALM2,calmodulin 2,Approved,protein-coding gene,gene with protein product,P0DP24,mapped
+811,HGNC:1455,CALR,calreticulin,Approved,protein-coding gene,gene with protein product,P27797,mapped
+50632,HGNC:17938,CALY,calcyon neuron specific vesicular protein,Approved,protein-coding gene,gene with protein product,Q9NYX4,mapped
+815,HGNC:1460,CAMK2A,calcium/calmodulin dependent protein kinase II alpha,Approved,protein-coding gene,gene with protein product,Q9UQM7,mapped
+816,HGNC:1461,CAMK2B,calcium/calmodulin dependent protein kinase II beta,Approved,protein-coding gene,gene with protein product,Q13554,mapped
+10645,HGNC:1470,CAMKK2,calcium/calmodulin dependent protein kinase kinase 2,Approved,protein-coding gene,gene with protein product,Q96RR4,mapped
+9607,HGNC:24323,CARTPT,CART prepropeptide,Approved,protein-coding gene,gene with protein product,Q16568,mapped
+834,HGNC:1499,CASP1,caspase 1,Approved,protein-coding gene,gene with protein product,P29466,mapped
+836,HGNC:1504,CASP3,caspase 3,Approved,protein-coding gene,gene with protein product,P42574,mapped
+837,HGNC:1505,CASP4,caspase 4,Approved,protein-coding gene,gene with protein product,P49662,mapped
+841,HGNC:1509,CASP8,caspase 8,Approved,protein-coding gene,gene with protein product,Q14790,mapped
+57091,HGNC:15878,CASS4,Cas scaffold protein family member 4,Approved,protein-coding gene,gene with protein product,Q9NQ75,mapped
+54897,HGNC:26002,CASZ1,castor zinc finger 1,Approved,protein-coding gene,gene with protein product,Q86V15,mapped
+847,HGNC:1516,CAT,catalase,Approved,protein-coding gene,gene with protein product,P04040,mapped
+857,HGNC:1527,CAV1,caveolin 1,Approved,protein-coding gene,gene with protein product,Q03135,mapped
+868,HGNC:1542,CBLB,Cbl proto-oncogene B,Approved,protein-coding gene,gene with protein product,Q13191,mapped
+2694,HGNC:4268,CBLIF,cobalamin binding intrinsic factor,Approved,protein-coding gene,gene with protein product,P27352,mapped
+875,HGNC:1550,CBS,cystathionine beta-synthase,Approved,protein-coding gene,gene with protein product,P35520,mapped
+54862,HGNC:30237,CC2D1A,coiled-coil and C2 domain containing 1A,Approved,protein-coding gene,gene with protein product,Q6P1N0,mapped
+80323,HGNC:24350,CCDC68,coiled-coil domain containing 68,Approved,protein-coding gene,gene with protein product,Q9H2F9,mapped
+79080,HGNC:28359,CCDC86,coiled-coil domain containing 86,Approved,protein-coding gene,gene with protein product,Q9H6F5,mapped
+339230,HGNC:33451,CCDC137,coiled-coil domain containing 137,Approved,protein-coding gene,gene with protein product,Q6PK04,mapped
+169166,HGNC:28605,SNX31,sorting nexin 31,Approved,protein-coding gene,gene with protein product,Q8N9S9,mapped
+8835,HGNC:19382,SOCS2,suppressor of cytokine signaling 2,Approved,protein-coding gene,gene with protein product,O14508,mapped
+6647,HGNC:11179,SOD1,superoxide dismutase 1,Approved,protein-coding gene,gene with protein product,P00441,mapped
+6648,HGNC:11180,SOD2,superoxide dismutase 2,Approved,protein-coding gene,gene with protein product,P04179,mapped
+57537,HGNC:16698,SORCS2,sortilin related VPS10 domain containing receptor 2,Approved,protein-coding gene,gene with protein product,Q96PQ0,mapped
+6653,HGNC:11185,SORL1,sortilin related receptor 1,Approved,protein-coding gene,gene with protein product,Q92673,mapped
+6660,HGNC:11201,SOX5,SRY-box transcription factor 5,Approved,protein-coding gene,gene with protein product,P35711,mapped
+6662,HGNC:11204,SOX9,SRY-box transcription factor 9,Approved,protein-coding gene,gene with protein product,P48436,mapped
+6663,HGNC:11190,SOX10,SRY-box transcription factor 10,Approved,protein-coding gene,gene with protein product,P56693,mapped
+6667,HGNC:11205,SP1,Sp1 transcription factor,Approved,protein-coding gene,gene with protein product,P08047,mapped
+6671,HGNC:11209,SP4,Sp4 transcription factor,Approved,protein-coding gene,gene with protein product,Q02446,mapped
+221833,HGNC:19196,SP8,Sp8 transcription factor,Approved,protein-coding gene,gene with protein product,Q8IXZ3,mapped
+8404,HGNC:11220,SPARCL1,SPARC like 1,Approved,protein-coding gene,gene with protein product,Q14515,mapped
+6697,HGNC:11257,SPR,sepiapterin reductase,Approved,protein-coding gene,gene with protein product,P35270,mapped
+6712,HGNC:11276,SPTBN2,"spectrin beta, non-erythrocytic 2",Approved,protein-coding gene,gene with protein product,O15020,mapped
+6715,HGNC:11284,SRD5A1,steroid 5 alpha-reductase 1,Approved,protein-coding gene,gene with protein product,P18405,mapped
+6716,HGNC:11285,SRD5A2,steroid 5 alpha-reductase 2,Approved,protein-coding gene,gene with protein product,P31213,mapped
+6720,HGNC:11289,SREBF1,sterol regulatory element binding transcription factor 1,Approved,protein-coding gene,gene with protein product,P36956,mapped
+6721,HGNC:11290,SREBF2,sterol regulatory element binding transcription factor 2,Approved,protein-coding gene,gene with protein product,Q12772,mapped
+9901,HGNC:19744,SRGAP3,SLIT-ROBO Rho GTPase activating protein 3,Approved,protein-coding gene,gene with protein product,O43295,mapped
+6733,HGNC:11306,SRPK2,SRSF protein kinase 2,Approved,protein-coding gene,gene with protein product,P78362,mapped
+63826,HGNC:14398,SRR,serine racemase,Approved,protein-coding gene,gene with protein product,Q9GZT4,mapped
+51593,HGNC:24101,SRRT,"serrate, RNA effector molecule",Approved,protein-coding gene,gene with protein product,Q9BXP5,mapped
+6426,HGNC:10780,SRSF1,serine and arginine rich splicing factor 1,Approved,protein-coding gene,gene with protein product,Q07955,mapped
+6428,HGNC:10785,SRSF3,serine and arginine rich splicing factor 3,Approved,protein-coding gene,gene with protein product,P84103,mapped
+10772,HGNC:16713,SRSF10,serine and arginine rich splicing factor 10,Approved,protein-coding gene,gene with protein product,O75494,mapped
+23635,HGNC:15831,SSBP2,single stranded DNA binding protein 2,Approved,protein-coding gene,gene with protein product,P81877,mapped
+6750,HGNC:11329,SST,somatostatin,Approved,protein-coding gene,gene with protein product,P61278,mapped
+6752,HGNC:11331,SSTR2,somatostatin receptor 2,Approved,protein-coding gene,gene with protein product,P30874,mapped
+6755,HGNC:11334,SSTR5,somatostatin receptor 5,Approved,protein-coding gene,gene with protein product,P35346,mapped
+6482,HGNC:10862,ST3GAL1,"ST3 beta-galactoside alpha-2,3-sialyltransferase 1",Approved,protein-coding gene,gene with protein product,Q11201,mapped
+55808,HGNC:23614,ST6GALNAC1,"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1",Approved,protein-coding gene,gene with protein product,Q9NSC7,mapped
+8128,HGNC:10870,ST8SIA2,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2",Approved,protein-coding gene,gene with protein product,Q92186,mapped
+23166,HGNC:18628,STAB1,stabilin 1,Approved,protein-coding gene,gene with protein product,Q9NY15,mapped
+10617,HGNC:16950,STAMBP,STAM binding protein,Approved,protein-coding gene,gene with protein product,O95630,mapped
+57519,HGNC:19162,STARD9,StAR related lipid transfer domain containing 9,Approved,protein-coding gene,gene with protein product,Q9P2P6,mapped
+6774,HGNC:11364,STAT3,signal transducer and activator of transcription 3,Approved,protein-coding gene,gene with protein product,P40763,mapped
+6775,HGNC:11365,STAT4,signal transducer and activator of transcription 4,Approved,protein-coding gene,gene with protein product,Q14765,mapped
+246744,HGNC:18839,STH,saitohin,Approved,protein-coding gene,gene with protein product,Q8IWL8,mapped
+10963,HGNC:11387,STIP1,stress induced phosphoprotein 1,Approved,protein-coding gene,gene with protein product,P31948,mapped
+6789,HGNC:11408,STK4,serine/threonine kinase 4,Approved,protein-coding gene,gene with protein product,Q13043,mapped
+3925,HGNC:6510,STMN1,stathmin 1,Approved,protein-coding gene,gene with protein product,P16949,mapped
+85439,HGNC:30652,STON2,stonin 2,Approved,protein-coding gene,gene with protein product,Q8WXE9,mapped
+412,HGNC:11425,STS,steroid sulfatase,Approved,protein-coding gene,gene with protein product,P08842,mapped
+6804,HGNC:11433,STX1A,syntaxin 1A,Approved,protein-coding gene,gene with protein product,Q16623,mapped
+112755,HGNC:18539,STX1B,syntaxin 1B,Approved,protein-coding gene,gene with protein product,P61266,mapped
+6812,HGNC:11444,STXBP1,syntaxin binding protein 1,Approved,protein-coding gene,gene with protein product,P61764,mapped
+79783,HGNC:16001,SUGCT,succinyl-CoA:glutarate-CoA transferase,Approved,protein-coding gene,gene with protein product,Q9HAC7,mapped
+25830,HGNC:14903,SULT4A1,sulfotransferase family 4A member 1,Approved,protein-coding gene,gene with protein product,Q9BR01,mapped
+9900,HGNC:20566,SV2A,synaptic vesicle glycoprotein 2A,Approved,protein-coding gene,gene with protein product,Q7L0J3,mapped
+6853,HGNC:11494,SYN1,synapsin I,Approved,protein-coding gene,gene with protein product,P17600,mapped
+6854,HGNC:11495,SYN2,synapsin II,Approved,protein-coding gene,gene with protein product,Q92777,mapped
+8224,HGNC:11496,SYN3,synapsin III,Approved,protein-coding gene,gene with protein product,O14994,mapped
+23345,HGNC:17089,SYNE1,spectrin repeat containing nuclear envelope protein 1,Approved,protein-coding gene,gene with protein product,Q8NF91,mapped
+8831,HGNC:11497,SYNGAP1,synaptic Ras GTPase activating protein 1,Approved,protein-coding gene,gene with protein product,Q96PV0,mapped
+9145,HGNC:11498,SYNGR1,synaptogyrin 1,Approved,protein-coding gene,gene with protein product,O43759,mapped
+8867,HGNC:11503,SYNJ1,synaptojanin 1,Approved,protein-coding gene,gene with protein product,O43426,mapped
+6855,HGNC:11506,SYP,synaptophysin,Approved,protein-coding gene,gene with protein product,P08247,mapped
+23208,HGNC:19239,SYT11,synaptotagmin 11,Approved,protein-coding gene,gene with protein product,Q9BT88,mapped
+134864,HGNC:17734,TAAR1,trace amine associated receptor 1,Approved,protein-coding gene,gene with protein product,Q96RJ0,mapped
+319100,HGNC:20978,TAAR6,trace amine associated receptor 6,Approved,protein-coding gene,gene with protein product,Q96RI8,mapped
+6863,HGNC:11517,TAC1,tachykinin precursor 1,Approved,protein-coding gene,gene with protein product,P20366,mapped
+6869,HGNC:11526,TACR1,tachykinin receptor 1,Approved,protein-coding gene,gene with protein product,P25103,mapped
+6870,HGNC:11528,TACR3,tachykinin receptor 3,Approved,protein-coding gene,gene with protein product,P29371,mapped
+338811,HGNC:21589,TAFA2,TAFA chemokine like family member 2,Approved,protein-coding gene,gene with protein product,Q8N3H0,mapped
+6888,HGNC:11559,TALDO1,transaldolase 1,Approved,protein-coding gene,gene with protein product,P37837,mapped
+26115,HGNC:30212,TANC2,"tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 2",Approved,protein-coding gene,gene with protein product,Q9HCD6,mapped
+6890,HGNC:43,TAP1,"transporter 1, ATP binding cassette subfamily B member",Approved,protein-coding gene,gene with protein product,Q03518,mapped
+6891,HGNC:44,TAP2,"transporter 2, ATP binding cassette subfamily B member",Approved,protein-coding gene,gene with protein product,Q03519,mapped
+6892,HGNC:11566,TAPBP,TAP binding protein,Approved,protein-coding gene,gene with protein product,O15533,mapped
+6904,HGNC:11581,TBCD,tubulin folding cofactor D,Approved,protein-coding gene,gene with protein product,Q9BTW9,mapped
+6908,HGNC:11588,TBP,TATA-box binding protein,Approved,protein-coding gene,gene with protein product,P20226,mapped
+6899,HGNC:11592,TBX1,T-box transcription factor 1,Approved,protein-coding gene,gene with protein product,O43435,mapped
+6926,HGNC:11602,TBX3,T-box transcription factor 3,Approved,protein-coding gene,gene with protein product,O15119,mapped
+9095,HGNC:11596,TBX19,T-box transcription factor 19,Approved,protein-coding gene,gene with protein product,O60806,mapped
+30009,HGNC:11599,TBX21,T-box transcription factor 21,Approved,protein-coding gene,gene with protein product,Q9UL17,mapped
+6925,HGNC:11634,TCF4,transcription factor 4,Approved,protein-coding gene,gene with protein product,P15884,mapped
+6934,HGNC:11641,TCF7L2,transcription factor 7 like 2,Approved,protein-coding gene,gene with protein product,Q9NQB0,mapped
+9623,HGNC:11649,TCL1B,TCL1 family AKT coactivator B,Approved,protein-coding gene,gene with protein product,O95988,mapped
+6999,HGNC:11708,TDO2,"tryptophan 2,3-dioxygenase",Approved,protein-coding gene,gene with protein product,P48775,mapped
+7008,HGNC:11722,TEF,"TEF transcription factor, PAR bZIP family member",Approved,protein-coding gene,gene with protein product,Q10587,mapped
+146279,HGNC:26554,TEKT5,tektin 5,Approved,protein-coding gene,gene with protein product,Q96M29,mapped
+26011,HGNC:29945,TENM4,teneurin transmembrane protein 4,Approved,protein-coding gene,gene with protein product,Q6N022,mapped
+7015,HGNC:11730,TERT,telomerase reverse transcriptase,Approved,protein-coding gene,gene with protein product,O14746,mapped
+80312,HGNC:29484,TET1,tet methylcytosine dioxygenase 1,Approved,protein-coding gene,gene with protein product,Q8NFU7,mapped
+7018,HGNC:11740,TF,transferrin,Approved,protein-coding gene,gene with protein product,P02787,mapped
+7019,HGNC:11741,TFAM,"transcription factor A, mitochondrial",Approved,protein-coding gene,gene with protein product,Q00059,mapped
+7024,HGNC:11748,TFCP2,transcription factor CP2,Approved,protein-coding gene,gene with protein product,Q12800,mapped
+7038,HGNC:11764,TG,thyroglobulin,Approved,protein-coding gene,gene with protein product,P01266,mapped
+7040,HGNC:11766,TGFB1,transforming growth factor beta 1,Approved,protein-coding gene,gene with protein product,P01137,mapped
+7048,HGNC:11773,TGFBR2,transforming growth factor beta receptor 2,Approved,protein-coding gene,gene with protein product,P37173,mapped
+7052,HGNC:11778,TGM2,transglutaminase 2,Approved,protein-coding gene,gene with protein product,P21980,mapped
+7054,HGNC:11782,TH,tyrosine hydroxylase,Approved,protein-coding gene,gene with protein product,P07101,mapped
+7057,HGNC:11785,THBS1,thrombospondin 1,Approved,protein-coding gene,gene with protein product,P07996,mapped
+221981,HGNC:22207,THSD7A,thrombospondin type 1 domain containing 7A,Approved,protein-coding gene,gene with protein product,Q9UPZ6,mapped
+8914,HGNC:11813,TIMELESS,timeless circadian regulator,Approved,protein-coding gene,gene with protein product,Q9UNS1,mapped
+7088,HGNC:11837,TLE1,"TLE family member 1, transcriptional corepressor",Approved,protein-coding gene,gene with protein product,Q04724,mapped
+7093,HGNC:11844,TLL2,tolloid like 2,Approved,protein-coding gene,gene with protein product,Q9Y6L7,mapped
+7097,HGNC:11848,TLR2,toll like receptor 2,Approved,protein-coding gene,gene with protein product,O60603,mapped
+7098,HGNC:11849,TLR3,toll like receptor 3,Approved,protein-coding gene,gene with protein product,O15455,mapped
+7099,HGNC:11850,TLR4,toll like receptor 4,Approved,protein-coding gene,gene with protein product,O00206,mapped
+51284,HGNC:15631,TLR7,toll like receptor 7,Approved,protein-coding gene,gene with protein product,Q9NYK1,mapped
+29058,HGNC:15876,TMEM230,transmembrane protein 230,Approved,protein-coding gene,gene with protein product,Q96A57,mapped
+23731,HGNC:1363,TMEM245,transmembrane protein 245,Approved,protein-coding gene,gene with protein product,Q9H330,mapped
+9168,HGNC:11879,TMSB10,thymosin beta 10,Approved,protein-coding gene,gene with protein product,P63313,mapped
+7124,HGNC:11892,TNF,tumor necrosis factor,Approved,protein-coding gene,gene with protein product,P01375,mapped
+7128,HGNC:11896,TNFAIP3,TNF alpha induced protein 3,Approved,protein-coding gene,gene with protein product,P21580,mapped
+7132,HGNC:11916,TNFRSF1A,TNF receptor superfamily member 1A,Approved,protein-coding gene,gene with protein product,P19438,mapped
+7133,HGNC:11917,TNFRSF1B,TNF receptor superfamily member 1B,Approved,protein-coding gene,gene with protein product,P20333,mapped
+8741,HGNC:11928,TNFSF13,TNF superfamily member 13,Approved,protein-coding gene,gene with protein product,O75888,mapped
+8740,HGNC:11930,TNFSF14,TNF superfamily member 14,Approved,protein-coding gene,gene with protein product,O43557,mapped
+23043,HGNC:30765,TNIK,TRAF2 and NCK interacting kinase,Approved,protein-coding gene,gene with protein product,Q9UKE5,mapped
+7148,HGNC:11976,TNXB,tenascin XB,Approved,protein-coding gene,gene with protein product,P22105,mapped
+10043,HGNC:11982,TOM1,target of myb1 membrane trafficking protein,Approved,protein-coding gene,gene with protein product,O60784,mapped
+10452,HGNC:18001,TOMM40,translocase of outer mitochondrial membrane 40,Approved,protein-coding gene,gene with protein product,O96008,mapped
+8940,HGNC:11993,TOP3B,DNA topoisomerase III beta,Approved,protein-coding gene,gene with protein product,O95985,mapped
+7157,HGNC:11998,TP53,tumor protein p53,Approved,protein-coding gene,gene with protein product,P04637,mapped
+7166,HGNC:12008,TPH1,tryptophan hydroxylase 1,Approved,protein-coding gene,gene with protein product,P17752,mapped
+121278,HGNC:20692,TPH2,tryptophan hydroxylase 2,Approved,protein-coding gene,gene with protein product,Q8IWU9,mapped
+7167,HGNC:12009,TPI1,triosephosphate isomerase 1,Approved,protein-coding gene,gene with protein product,P60174,mapped
+7173,HGNC:12015,TPO,thyroid peroxidase,Approved,protein-coding gene,gene with protein product,P07202,mapped
+1200,HGNC:2073,TPP1,tripeptidyl peptidase 1,Approved,protein-coding gene,gene with protein product,O14773,mapped
+7178,HGNC:12022,TPT1,"tumor protein, translationally-controlled 1",Approved,protein-coding gene,gene with protein product,P13693,mapped
+22906,HGNC:29947,TRAK1,trafficking kinesin protein 1,Approved,protein-coding gene,gene with protein product,Q9UPV9,mapped
+9881,HGNC:29011,TRANK1,tetratricopeptide repeat and ankyrin repeat containing 1,Approved,protein-coding gene,gene with protein product,O15050,mapped
+54210,HGNC:17760,TREM1,triggering receptor expressed on myeloid cells 1,Approved,protein-coding gene,gene with protein product,Q9NP99,mapped
+54209,HGNC:17761,TREM2,triggering receptor expressed on myeloid cells 2,Approved,protein-coding gene,gene with protein product,Q9NZC2,mapped
+7200,HGNC:12298,TRH,thyrotropin releasing hormone,Approved,protein-coding gene,gene with protein product,P20396,mapped
+27037,HGNC:24974,TRMT2A,tRNA methyltransferase 2A,Approved,protein-coding gene,gene with protein product,Q8IZ69,mapped
+7222,HGNC:12335,TRPC3,transient receptor potential cation channel subfamily C member 3,Approved,protein-coding gene,gene with protein product,Q13507,mapped
+57113,HGNC:20754,TRPC7,transient receptor potential cation channel subfamily C member 7,Approved,protein-coding gene,gene with protein product,Q9HCX4,mapped
+4308,HGNC:7146,TRPM1,transient receptor potential cation channel subfamily M member 1,Approved,protein-coding gene,gene with protein product,Q7Z4N2,mapped
+7226,HGNC:12339,TRPM2,transient receptor potential cation channel subfamily M member 2,Approved,protein-coding gene,gene with protein product,O94759,mapped
+79054,HGNC:17961,TRPM8,transient receptor potential cation channel subfamily M member 8,Approved,protein-coding gene,gene with protein product,Q7Z2W7,mapped
+8295,HGNC:12347,TRRAP,transformation/transcription domain associated protein,Approved,protein-coding gene,gene with protein product,Q9Y4A5,mapped
+7248,HGNC:12362,TSC1,TSC complex subunit 1,Approved,protein-coding gene,gene with protein product,Q92574,mapped
+7249,HGNC:12363,TSC2,TSC complex subunit 2,Approved,protein-coding gene,gene with protein product,P49815,mapped
+7252,HGNC:12372,TSHB,thyroid stimulating hormone subunit beta,Approved,protein-coding gene,gene with protein product,P01222,mapped
+203062,HGNC:26437,TSNARE1,t-SNARE domain containing 1,Approved,protein-coding gene,gene with protein product,Q96NA8,mapped
+7257,HGNC:12380,TSNAX,translin associated factor X,Approved,protein-coding gene,gene with protein product,Q99598,mapped
+10100,HGNC:20659,TSPAN2,tetraspanin 2,Approved,protein-coding gene,gene with protein product,O60636,mapped
+7103,HGNC:11855,TSPAN8,tetraspanin 8,Approved,protein-coding gene,gene with protein product,P19075,mapped
+90139,HGNC:20660,TSPAN18,tetraspanin 18,Approved,protein-coding gene,gene with protein product,Q96SJ8,mapped
+706,HGNC:1158,TSPO,translocator protein,Approved,protein-coding gene,gene with protein product,B1AH88,mapped
+706,HGNC:1158,TSPO,translocator protein,Approved,protein-coding gene,gene with protein product,P30536,mapped
+7276,HGNC:12405,TTR,transthyretin,Approved,protein-coding gene,gene with protein product,P02766,mapped
+51807,HGNC:12410,TUBA8,tubulin alpha 8,Approved,protein-coding gene,gene with protein product,Q9NY65,mapped
+81567,HGNC:21073,TXNDC5,thioredoxin domain containing 5,Approved,protein-coding gene,gene with protein product,Q8NBS9,mapped
+7296,HGNC:12437,TXNRD1,thioredoxin reductase 1,Approved,protein-coding gene,gene with protein product,Q16881,mapped
+7297,HGNC:12440,TYK2,tyrosine kinase 2,Approved,protein-coding gene,gene with protein product,P29597,mapped
+7299,HGNC:12442,TYR,tyrosinase,Approved,protein-coding gene,gene with protein product,P14679,mapped
+7305,HGNC:12449,TYROBP,transmembrane immune signaling adaptor TYROBP,Approved,protein-coding gene,gene with protein product,O43914,mapped
+7337,HGNC:12496,UBE3A,ubiquitin protein ligase E3A,Approved,protein-coding gene,gene with protein product,Q05086,mapped
+7349,HGNC:12516,UCN,urocortin,Approved,protein-coding gene,gene with protein product,P55089,mapped
+114131,HGNC:17781,UCN3,urocortin 3,Approved,protein-coding gene,gene with protein product,Q969E3,mapped
+7351,HGNC:12518,UCP2,uncoupling protein 2,Approved,protein-coding gene,gene with protein product,P55851,mapped
+7353,HGNC:12520,UFD1,ubiquitin recognition factor in ER associated degradation 1,Approved,protein-coding gene,gene with protein product,Q92890,mapped
+127933,HGNC:19683,UHMK1,U2AF homology motif kinase 1,Approved,protein-coding gene,gene with protein product,Q8TAS1,mapped
+54986,HGNC:15784,ULK4,unc-51 like kinase 4,Approved,protein-coding gene,gene with protein product,Q96C45,mapped
+8633,HGNC:12569,UNC5C,unc-5 netrin receptor C,Approved,protein-coding gene,gene with protein product,O95185,mapped
+64854,HGNC:20075,USP46,ubiquitin specific peptidase 46,Approved,protein-coding gene,gene with protein product,P62068,mapped
+6844,HGNC:12643,VAMP2,vesicle associated membrane protein 2,Approved,protein-coding gene,gene with protein product,P63027,mapped
+9218,HGNC:12648,VAPA,VAMP associated protein A,Approved,protein-coding gene,gene with protein product,Q9P0L0,mapped
+7412,HGNC:12663,VCAM1,vascular cell adhesion molecule 1,Approved,protein-coding gene,gene with protein product,P19320,mapped
+7416,HGNC:12669,VDAC1,voltage dependent anion channel 1,Approved,protein-coding gene,gene with protein product,P21796,mapped
+7417,HGNC:12672,VDAC2,voltage dependent anion channel 2,Approved,protein-coding gene,gene with protein product,P45880,mapped
+7421,HGNC:12679,VDR,vitamin D receptor,Approved,protein-coding gene,gene with protein product,P11473,mapped
+7422,HGNC:12680,VEGFA,vascular endothelial growth factor A,Approved,protein-coding gene,gene with protein product,P15692,mapped
+7425,HGNC:12684,VGF,VGF nerve growth factor inducible,Approved,protein-coding gene,gene with protein product,O15240,mapped
+7432,HGNC:12693,VIP,vasoactive intestinal peptide,Approved,protein-coding gene,gene with protein product,P01282,mapped
+7434,HGNC:12695,VIPR2,vasoactive intestinal peptide receptor 2,Approved,protein-coding gene,gene with protein product,P41587,mapped
+79001,HGNC:23663,VKORC1,vitamin K epoxide reductase complex subunit 1,Approved,protein-coding gene,gene with protein product,Q9BQB6,mapped
+7436,HGNC:12698,VLDLR,very low density lipoprotein receptor,Approved,protein-coding gene,gene with protein product,P98155,mapped
+54832,HGNC:23594,VPS13C,vacuolar protein sorting 13 homolog C,Approved,protein-coding gene,gene with protein product,Q709C8,mapped
+55737,HGNC:13487,VPS35,VPS35 retromer complex component,Approved,protein-coding gene,gene with protein product,Q96QK1,mapped
+23339,HGNC:20593,VPS39,VPS39 subunit of HOPS complex,Approved,protein-coding gene,gene with protein product,Q96JC1,mapped
+7444,HGNC:12719,VRK2,VRK serine/threonine kinase 2,Approved,protein-coding gene,gene with protein product,Q86Y07,mapped
+7447,HGNC:12722,VSNL1,visinin like 1,Approved,protein-coding gene,gene with protein product,P62760,mapped
+55717,HGNC:13831,WDR11,WD repeat domain 11,Approved,protein-coding gene,gene with protein product,Q9BZH6,mapped
+11152,HGNC:28912,WDR45,WD repeat domain 45,Approved,protein-coding gene,gene with protein product,Q9Y484,mapped
+7466,HGNC:12762,WFS1,wolframin ER transmembrane glycoprotein,Approved,protein-coding gene,gene with protein product,O76024,mapped
+25861,HGNC:16361,WHRN,whirlin,Approved,protein-coding gene,gene with protein product,Q9P202,mapped
+65267,HGNC:14543,WNK3,WNK lysine deficient protein kinase 3,Approved,protein-coding gene,gene with protein product,Q9BYP7,mapped
+7482,HGNC:12781,WNT2B,Wnt family member 2B,Approved,protein-coding gene,gene with protein product,Q93097,mapped
+23286,HGNC:29435,WWC1,WW and C2 domain containing 1,Approved,protein-coding gene,gene with protein product,Q8IX03,mapped
+51741,HGNC:12799,WWOX,WW domain containing oxidoreductase,Approved,protein-coding gene,gene with protein product,Q9NZC7,mapped
+7494,HGNC:12801,XBP1,X-box binding protein 1,Approved,protein-coding gene,gene with protein product,P17861,mapped
+7498,HGNC:12805,XDH,xanthine dehydrogenase,Approved,protein-coding gene,gene with protein product,P47989,mapped
+7515,HGNC:12828,XRCC1,X-ray repair cross complementing 1,Approved,protein-coding gene,gene with protein product,P18887,mapped
+7518,HGNC:12831,XRCC4,X-ray repair cross complementing 4,Approved,protein-coding gene,gene with protein product,Q13426,mapped
+7531,HGNC:12851,YWHAE,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon,Approved,protein-coding gene,gene with protein product,P62258,mapped
+7533,HGNC:12853,YWHAH,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta,Approved,protein-coding gene,gene with protein product,Q04917,mapped
+7534,HGNC:12855,YWHAZ,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta,Approved,protein-coding gene,gene with protein product,P63104,mapped
+7704,HGNC:12930,ZBTB16,zinc finger and BTB domain containing 16,Approved,protein-coding gene,gene with protein product,Q05516,mapped
+54877,HGNC:22916,ZCCHC2,zinc finger CCHC-type containing 2,Approved,protein-coding gene,gene with protein product,Q9C0B9,mapped
+23174,HGNC:24134,ZCCHC14,zinc finger CCHC-type containing 14,Approved,protein-coding gene,gene with protein product,Q8WYQ9,mapped
+29801,HGNC:18474,ZDHHC8,zDHHC palmitoyltransferase 8,Approved,protein-coding gene,gene with protein product,Q9ULC8,mapped
+51114,HGNC:18475,ZDHHC9,zDHHC palmitoyltransferase 9,Approved,protein-coding gene,gene with protein product,Q9Y397,mapped
+463,HGNC:777,ZFHX3,zinc finger homeobox 3,Approved,protein-coding gene,gene with protein product,Q15911,mapped
+7546,HGNC:12873,ZIC2,Zic family zinc finger 2,Approved,protein-coding gene,gene with protein product,O95409,mapped
+387032,HGNC:13854,ZKSCAN4,zinc finger with KRAB and SCAN domains 4,Approved,protein-coding gene,gene with protein product,Q969J2,mapped
+7625,HGNC:13144,ZNF74,zinc finger protein 74,Approved,protein-coding gene,gene with protein product,Q16587,mapped
+23036,HGNC:18410,ZNF292,zinc finger protein 292,Approved,protein-coding gene,gene with protein product,O60281,mapped
+147657,HGNC:23305,ZNF480,zinc finger protein 480,Approved,protein-coding gene,gene with protein product,Q8WV37,mapped
+348327,HGNC:29297,ZNF530,zinc finger protein 530,Approved,protein-coding gene,gene with protein product,Q6P9A1,mapped
+147929,HGNC:26726,ZNF565,zinc finger protein 565,Approved,protein-coding gene,gene with protein product,Q8N9K5,mapped
+9640,HGNC:28986,ZNF592,zinc finger protein 592,Approved,protein-coding gene,gene with protein product,Q92610,mapped
+91752,HGNC:21711,ZNF804A,zinc finger protein 804A,Approved,protein-coding gene,gene with protein product,Q7Z570,mapped
+64288,HGNC:14097,ZSCAN31,zinc finger and SCAN domain containing 31,Approved,protein-coding gene,gene with protein product,Q96LW9,mapped
+885,HGNC:1569,CCK,cholecystokinin,Approved,protein-coding gene,gene with protein product,P06307,mapped
+886,HGNC:1570,CCKAR,cholecystokinin A receptor,Approved,protein-coding gene,gene with protein product,P32238,mapped
+887,HGNC:1571,CCKBR,cholecystokinin B receptor,Approved,protein-coding gene,gene with protein product,P32239,mapped
+6347,HGNC:10618,CCL2,C-C motif chemokine ligand 2,Approved,protein-coding gene,gene with protein product,P13500,mapped
+6369,HGNC:10623,CCL24,C-C motif chemokine ligand 24,Approved,protein-coding gene,gene with protein product,O00175,mapped
+890,HGNC:1578,CCNA2,cyclin A2,Approved,protein-coding gene,gene with protein product,P20248,mapped
+595,HGNC:1582,CCND1,cyclin D1,Approved,protein-coding gene,gene with protein product,P24385,mapped
+894,HGNC:1583,CCND2,cyclin D2,Approved,protein-coding gene,gene with protein product,P30279,mapped
+1234,HGNC:1606,CCR5,C-C motif chemokine receptor 5,Approved,protein-coding gene,gene with protein product,P51681,mapped
+23607,HGNC:14258,CD2AP,CD2 associated protein,Approved,protein-coding gene,gene with protein product,Q9Y5K6,mapped
+923,HGNC:1691,CD6,CD6 molecule,Approved,protein-coding gene,gene with protein product,P30203,mapped
+945,HGNC:1659,CD33,CD33 molecule,Approved,protein-coding gene,gene with protein product,P20138,mapped
+947,HGNC:1662,CD34,CD34 molecule,Approved,protein-coding gene,gene with protein product,P28906,mapped
+958,HGNC:11919,CD40,CD40 molecule,Approved,protein-coding gene,gene with protein product,P25942,mapped
+961,HGNC:1682,CD47,CD47 molecule,Approved,protein-coding gene,gene with protein product,Q08722,mapped
+965,HGNC:1688,CD58,CD58 molecule,Approved,protein-coding gene,gene with protein product,P19256,mapped
+9332,HGNC:1631,CD163,CD163 molecule,Approved,protein-coding gene,gene with protein product,Q86VB7,mapped
+995,HGNC:1727,CDC25C,cell division cycle 25C,Approved,protein-coding gene,gene with protein product,P30307,mapped
+998,HGNC:1736,CDC42,cell division cycle 42,Approved,protein-coding gene,gene with protein product,P60953,mapped
+10602,HGNC:16943,CDC42EP3,CDC42 effector protein 3,Approved,protein-coding gene,gene with protein product,Q9UKI2,mapped
+56990,HGNC:18547,CDC42SE2,CDC42 small effector 2,Approved,protein-coding gene,gene with protein product,Q9NRR3,mapped
+1005,HGNC:1766,CDH7,cadherin 7,Approved,protein-coding gene,gene with protein product,Q9ULB5,mapped
+1012,HGNC:1753,CDH13,cadherin 13,Approved,protein-coding gene,gene with protein product,P55290,mapped
+1015,HGNC:1756,CDH17,cadherin 17,Approved,protein-coding gene,gene with protein product,Q12864,mapped
+1020,HGNC:1774,CDK5,cyclin dependent kinase 5,Approved,protein-coding gene,gene with protein product,Q00535,mapped
+8851,HGNC:1775,CDK5R1,cyclin dependent kinase 5 regulatory subunit 1,Approved,protein-coding gene,gene with protein product,Q15078,mapped
+1021,HGNC:1777,CDK6,cyclin dependent kinase 6,Approved,protein-coding gene,gene with protein product,Q00534,mapped
+5127,HGNC:8749,CDK16,cyclin dependent kinase 16,Approved,protein-coding gene,gene with protein product,Q00536,mapped
+6792,HGNC:11411,CDKL5,cyclin dependent kinase like 5,Approved,protein-coding gene,gene with protein product,O76039,mapped
+1028,HGNC:1786,CDKN1C,cyclin dependent kinase inhibitor 1C,Approved,protein-coding gene,gene with protein product,P49918,mapped
+1029,HGNC:1787,CDKN2A,cyclin dependent kinase inhibitor 2A,Approved,protein-coding gene,gene with protein product,P42771,mapped
+1029,HGNC:1787,CDKN2A,cyclin dependent kinase inhibitor 2A,Approved,protein-coding gene,gene with protein product,Q8N726,mapped
+4680,HGNC:1818,CEACAM6,CEA cell adhesion molecule 6,Approved,protein-coding gene,gene with protein product,P40199,mapped
+90273,HGNC:28834,CEACAM21,CEA cell adhesion molecule 21,Approved,protein-coding gene,gene with protein product,Q3KPI0,mapped
+10659,HGNC:2550,CELF2,CUGBP Elav-like family member 2,Approved,protein-coding gene,gene with protein product,O95319,mapped
+10087,HGNC:2205,CERT1,ceramide transporter 1,Approved,protein-coding gene,gene with protein product,Q9Y5P4,mapped
+1068,HGNC:1866,CETN1,centrin 1,Approved,protein-coding gene,gene with protein product,Q12798,mapped
+255101,HGNC:25325,CFAP65,cilia and flagella associated protein 65,Approved,protein-coding gene,gene with protein product,Q6ZU64,mapped
+84952,HGNC:25931,CGNL1,cingulin like 1,Approved,protein-coding gene,gene with protein product,Q0VF96,mapped
+1103,HGNC:1912,CHAT,choline O-acetyltransferase,Approved,protein-coding gene,gene with protein product,P28329,mapped
+1106,HGNC:1917,CHD2,chromodomain helicase DNA binding protein 2,Approved,protein-coding gene,gene with protein product,O14647,mapped
+1108,HGNC:1919,CHD4,chromodomain helicase DNA binding protein 4,Approved,protein-coding gene,gene with protein product,Q14839,mapped
+1111,HGNC:1925,CHEK1,checkpoint kinase 1,Approved,protein-coding gene,gene with protein product,O14757,mapped
+1113,HGNC:1929,CHGA,chromogranin A,Approved,protein-coding gene,gene with protein product,P10645,mapped
+1114,HGNC:1930,CHGB,chromogranin B,Approved,protein-coding gene,gene with protein product,P05060,mapped
+1116,HGNC:1932,CHI3L1,chitinase 3 like 1,Approved,protein-coding gene,gene with protein product,P36222,mapped
+10752,HGNC:1939,CHL1,cell adhesion molecule L1 like,Approved,protein-coding gene,gene with protein product,O00533,mapped
+57132,HGNC:24287,CHMP1B,charged multivesicular body protein 1B,Approved,protein-coding gene,gene with protein product,Q7LBR1,mapped
+89832,HGNC:15781,CHRFAM7A,CHRNA7 (exons 5-10) and FAM7A (exons A-E) fusion,Approved,protein-coding gene,gene with protein product,Q494W8,mapped
+1128,HGNC:1950,CHRM1,cholinergic receptor muscarinic 1,Approved,protein-coding gene,gene with protein product,P11229,mapped
+1129,HGNC:1951,CHRM2,cholinergic receptor muscarinic 2,Approved,protein-coding gene,gene with protein product,P08172,mapped
+1132,HGNC:1953,CHRM4,cholinergic receptor muscarinic 4,Approved,protein-coding gene,gene with protein product,P08173,mapped
+1133,HGNC:1954,CHRM5,cholinergic receptor muscarinic 5,Approved,protein-coding gene,gene with protein product,P08912,mapped
+1135,HGNC:1956,CHRNA2,cholinergic receptor nicotinic alpha 2 subunit,Approved,protein-coding gene,gene with protein product,Q15822,mapped
+1136,HGNC:1957,CHRNA3,cholinergic receptor nicotinic alpha 3 subunit,Approved,protein-coding gene,gene with protein product,P32297,mapped
+1137,HGNC:1958,CHRNA4,cholinergic receptor nicotinic alpha 4 subunit,Approved,protein-coding gene,gene with protein product,P43681,mapped
+1138,HGNC:1959,CHRNA5,cholinergic receptor nicotinic alpha 5 subunit,Approved,protein-coding gene,gene with protein product,P30532,mapped
+8973,HGNC:15963,CHRNA6,cholinergic receptor nicotinic alpha 6 subunit,Approved,protein-coding gene,gene with protein product,Q15825,mapped
+1139,HGNC:1960,CHRNA7,cholinergic receptor nicotinic alpha 7 subunit,Approved,protein-coding gene,gene with protein product,P36544,mapped
+1141,HGNC:1962,CHRNB2,cholinergic receptor nicotinic beta 2 subunit,Approved,protein-coding gene,gene with protein product,P17787,mapped
+1142,HGNC:1963,CHRNB3,cholinergic receptor nicotinic beta 3 subunit,Approved,protein-coding gene,gene with protein product,Q05901,mapped
+1143,HGNC:1964,CHRNB4,cholinergic receptor nicotinic beta 4 subunit,Approved,protein-coding gene,gene with protein product,P30926,mapped
+23152,HGNC:14214,CIC,capicua transcriptional repressor,Approved,protein-coding gene,gene with protein product,Q96RK0,mapped
+1152,HGNC:1991,CKB,creatine kinase B,Approved,protein-coding gene,gene with protein product,P12277,mapped
+7122,HGNC:2047,CLDN5,claudin 5,Approved,protein-coding gene,gene with protein product,O00501,mapped
+5010,HGNC:8514,CLDN11,claudin 11,Approved,protein-coding gene,gene with protein product,O75508,mapped
+10462,HGNC:16916,CLEC10A,C-type lectin domain containing 10A,Approved,protein-coding gene,gene with protein product,Q8IUN9,mapped
+23274,HGNC:29013,CLEC16A,C-type lectin domain containing 16A,Approved,protein-coding gene,gene with protein product,Q2KHT3,mapped
+9575,HGNC:2082,CLOCK,clock circadian regulator,Approved,protein-coding gene,gene with protein product,O15516,mapped
+1191,HGNC:2095,CLU,clusterin,Approved,protein-coding gene,gene with protein product,P10909,mapped
+134829,HGNC:23046,CLVS2,clavesin 2,Approved,protein-coding gene,gene with protein product,Q5SYC1,mapped
+1240,HGNC:2121,CMKLR1,chemerin chemokine-like receptor 1,Approved,protein-coding gene,gene with protein product,Q99788,mapped
+202333,HGNC:14305,CMYA5,cardiomyopathy associated 5,Approved,protein-coding gene,gene with protein product,Q8N3K9,mapped
+149111,HGNC:26802,CNIH3,cornichon family AMPA receptor auxiliary protein 3,Approved,protein-coding gene,gene with protein product,Q8TBE1,mapped
+54805,HGNC:103,CNNM2,cyclin and CBS domain divalent metal cation transport mediator 2,Approved,protein-coding gene,gene with protein product,Q9H8M5,mapped
+1267,HGNC:2158,CNP,"2',3'-cyclic nucleotide 3' phosphodiesterase",Approved,protein-coding gene,gene with protein product,P09543,mapped
+27013,HGNC:25220,CNPPD1,cyclin Pas1/PHO80 domain containing 1,Approved,protein-coding gene,gene with protein product,Q9BV87,mapped
+1268,HGNC:2159,CNR1,cannabinoid receptor 1,Approved,protein-coding gene,gene with protein product,P21554,mapped
+1269,HGNC:2160,CNR2,cannabinoid receptor 2,Approved,protein-coding gene,gene with protein product,P34972,mapped
+1270,HGNC:2169,CNTF,ciliary neurotrophic factor,Approved,protein-coding gene,gene with protein product,P26441,mapped
+152330,HGNC:2174,CNTN4,contactin 4,Approved,protein-coding gene,gene with protein product,Q8IWV2,mapped
+27255,HGNC:2176,CNTN6,contactin 6,Approved,protein-coding gene,gene with protein product,Q9UQ52,mapped
+26047,HGNC:13830,CNTNAP2,contactin associated protein 2,Approved,protein-coding gene,gene with protein product,Q9UHC6,mapped
+1281,HGNC:2201,COL3A1,collagen type III alpha 1 chain,Approved,protein-coding gene,gene with protein product,P02461,mapped
+1282,HGNC:2202,COL4A1,collagen type IV alpha 1 chain,Approved,protein-coding gene,gene with protein product,P02462,mapped
+1310,HGNC:2196,COL19A1,collagen type XIX alpha 1 chain,Approved,protein-coding gene,gene with protein product,Q14993,mapped
+1312,HGNC:2228,COMT,catechol-O-methyltransferase,Approved,protein-coding gene,gene with protein product,P21964,mapped
+1356,HGNC:2295,CP,ceruloplasmin,Approved,protein-coding gene,gene with protein product,P00450,mapped
+10815,HGNC:2309,CPLX1,complexin 1,Approved,protein-coding gene,gene with protein product,O14810,mapped
+10814,HGNC:2310,CPLX2,complexin 2,Approved,protein-coding gene,gene with protein product,Q6PUV4,mapped
+1378,HGNC:2334,CR1,complement C3b/C4b receptor 1 (Knops blood group),Approved,protein-coding gene,gene with protein product,P17927,mapped
+1385,HGNC:2345,CREB1,cAMP responsive element binding protein 1,Approved,protein-coding gene,gene with protein product,P16220,mapped
+1387,HGNC:2348,CREBBP,CREB binding lysine acetyltransferase ,Approved,protein-coding gene,gene with protein product,Q92793,mapped
+1392,HGNC:2355,CRH,corticotropin releasing hormone,Approved,protein-coding gene,gene with protein product,P06850,mapped
+1393,HGNC:2356,CRHBP,corticotropin releasing hormone binding protein,Approved,protein-coding gene,gene with protein product,P24387,mapped
+1394,HGNC:2357,CRHR1,corticotropin releasing hormone receptor 1,Approved,protein-coding gene,gene with protein product,P34998,mapped
+1395,HGNC:2358,CRHR2,corticotropin releasing hormone receptor 2,Approved,protein-coding gene,gene with protein product,Q13324,mapped
+1400,HGNC:2365,CRMP1,collapsin response mediator protein 1,Approved,protein-coding gene,gene with protein product,Q14194,mapped
+1401,HGNC:2367,CRP,C-reactive protein,Approved,protein-coding gene,gene with protein product,P02741,mapped
+1407,HGNC:2384,CRY1,cryptochrome circadian regulator 1,Approved,protein-coding gene,gene with protein product,Q16526,mapped
+1408,HGNC:2385,CRY2,cryptochrome circadian regulator 2,Approved,protein-coding gene,gene with protein product,Q49AN0,mapped
+1436,HGNC:2433,CSF1R,colony stimulating factor 1 receptor,Approved,protein-coding gene,gene with protein product,P07333,mapped
+1437,HGNC:2434,CSF2,colony stimulating factor 2,Approved,protein-coding gene,gene with protein product,P04141,mapped
+1438,HGNC:2435,CSF2RA,colony stimulating factor 2 receptor subunit alpha,Approved,protein-coding gene,gene with protein product,P15509,mapped
+1439,HGNC:2436,CSF2RB,colony stimulating factor 2 receptor subunit beta,Approved,protein-coding gene,gene with protein product,P32927,mapped
+1440,HGNC:2438,CSF3,colony stimulating factor 3,Approved,protein-coding gene,gene with protein product,P09919,mapped
+64478,HGNC:14026,CSMD1,CUB and Sushi multiple domains 1,Approved,protein-coding gene,gene with protein product,Q96PZ7,mapped
+114784,HGNC:19290,CSMD2,CUB and Sushi multiple domains 2,Approved,protein-coding gene,gene with protein product,Q7Z408,mapped
+1454,HGNC:2453,CSNK1E,casein kinase 1 epsilon,Approved,protein-coding gene,gene with protein product,P49674,mapped
+10675,HGNC:2467,CSPG5,chondroitin sulfate proteoglycan 5,Approved,protein-coding gene,gene with protein product,O95196,mapped
+1465,HGNC:2469,CSRP1,cysteine and glycine rich protein 1,Approved,protein-coding gene,gene with protein product,P21291,mapped
+1471,HGNC:2475,CST3,cystatin C,Approved,protein-coding gene,gene with protein product,P01034,mapped
+10664,HGNC:13723,CTCF,CCCTC-binding factor,Approved,protein-coding gene,gene with protein product,P49711,mapped
+1493,HGNC:2505,CTLA4,cytotoxic T-lymphocyte associated protein 4,Approved,protein-coding gene,gene with protein product,P16410,mapped
+1496,HGNC:2510,CTNNA2,catenin alpha 2,Approved,protein-coding gene,gene with protein product,P26232,mapped
+1499,HGNC:2514,CTNNB1,catenin beta 1,Approved,protein-coding gene,gene with protein product,P35222,mapped
+1501,HGNC:2516,CTNND2,catenin delta 2,Approved,protein-coding gene,gene with protein product,Q9UQB3,mapped
+1506,HGNC:2524,CTRL,chymotrypsin like,Approved,protein-coding gene,gene with protein product,P40313,mapped
+1513,HGNC:2536,CTSK,cathepsin K,Approved,protein-coding gene,gene with protein product,P43235,mapped
+613212,HGNC:31110,CTXN3,cortexin 3,Approved,protein-coding gene,gene with protein product,Q4LDR2,mapped
+1523,HGNC:2557,CUX1,cut like homeobox 1,Approved,protein-coding gene,gene with protein product,P39880,mapped
+1523,HGNC:2557,CUX1,cut like homeobox 1,Approved,protein-coding gene,gene with protein product,Q13948,mapped
+23316,HGNC:19347,CUX2,cut like homeobox 2,Approved,protein-coding gene,gene with protein product,O14529,mapped
+3576,HGNC:6025,CXCL8,C-X-C motif chemokine ligand 8,Approved,protein-coding gene,gene with protein product,P10145,mapped
+3627,HGNC:10637,CXCL10,C-X-C motif chemokine ligand 10,Approved,protein-coding gene,gene with protein product,P02778,mapped
+2833,HGNC:4540,CXCR3,C-X-C motif chemokine receptor 3,Approved,protein-coding gene,gene with protein product,P49682,mapped
+23191,HGNC:13759,CYFIP1,cytoplasmic FMR1 interacting protein 1,Approved,protein-coding gene,gene with protein product,Q7L576,mapped
+1544,HGNC:2596,CYP1A2,cytochrome P450 family 1 subfamily A member 2,Approved,protein-coding gene,gene with protein product,P05177,mapped
+1559,HGNC:2623,CYP2C9,cytochrome P450 family 2 subfamily C member 9,Approved,protein-coding gene,gene with protein product,P11712,mapped
+1557,HGNC:2621,CYP2C19,cytochrome P450 family 2 subfamily C member 19,Approved,protein-coding gene,gene with protein product,P33261,mapped
+1565,HGNC:2625,CYP2D6,cytochrome P450 family 2 subfamily D member 6 (gene/pseudogene),Approved,protein-coding gene,gene with protein product,P10635,mapped
+1571,HGNC:2631,CYP2E1,cytochrome P450 family 2 subfamily E member 1,Approved,protein-coding gene,gene with protein product,P05181,mapped
+1576,HGNC:2637,CYP3A4,cytochrome P450 family 3 subfamily A member 4,Approved,protein-coding gene,gene with protein product,P08684,mapped
+1577,HGNC:2638,CYP3A5,cytochrome P450 family 3 subfamily A member 5,Approved,protein-coding gene,gene with protein product,P20815,mapped
+1583,HGNC:2590,CYP11A1,cytochrome P450 family 11 subfamily A member 1,Approved,protein-coding gene,gene with protein product,P05108,mapped
+10858,HGNC:2641,CYP46A1,cytochrome P450 family 46 subfamily A member 1,Approved,protein-coding gene,gene with protein product,Q9Y6A2,mapped
+23500,HGNC:18143,DAAM2,dishevelled associated activator of morphogenesis 2,Approved,protein-coding gene,gene with protein product,Q86T65,mapped
+1610,HGNC:2671,DAO,D-amino acid oxidase,Approved,protein-coding gene,gene with protein product,P14920,mapped
+267012,HGNC:21191,DAOA,D-amino acid oxidase activator,Approved,protein-coding gene,gene with protein product,P59103,mapped
+26528,HGNC:2683,DAZAP1,DAZ associated protein 1,Approved,protein-coding gene,gene with protein product,Q96EP5,mapped
+1621,HGNC:2689,DBH,dopamine beta-hydroxylase,Approved,protein-coding gene,gene with protein product,P09172,mapped
+1627,HGNC:2695,DBN1,drebrin 1,Approved,protein-coding gene,gene with protein product,Q16643,mapped
+28988,HGNC:2696,DBNL,drebrin like,Approved,protein-coding gene,gene with protein product,Q9UJU6,mapped
+140947,HGNC:24459,DCANP1,dendritic cell associated nuclear protein 1,Approved,protein-coding gene,gene with protein product,Q8TF63,mapped
+1630,HGNC:2701,DCC,DCC netrin 1 receptor,Approved,protein-coding gene,gene with protein product,P43146,mapped
+51473,HGNC:18141,DCDC2,doublecortin domain containing 2,Approved,protein-coding gene,gene with protein product,Q9UHG0,mapped
+9201,HGNC:2700,DCLK1,doublecortin like kinase 1,Approved,protein-coding gene,gene with protein product,O15075,mapped
+84516,HGNC:24594,DCTN5,dynactin subunit 5,Approved,protein-coding gene,gene with protein product,Q9BTE1,mapped
+1644,HGNC:2719,DDC,dopa decarboxylase,Approved,protein-coding gene,gene with protein product,P20711,mapped
+54541,HGNC:24944,DDIT4,DNA damage inducible transcript 4,Approved,protein-coding gene,gene with protein product,Q9NX09,mapped
+8528,HGNC:2727,DDO,D-aspartate oxidase,Approved,protein-coding gene,gene with protein product,Q99489,mapped
+780,HGNC:2730,DDR1,discoidin domain receptor tyrosine kinase 1,Approved,protein-coding gene,gene with protein product,Q08345,mapped
+1654,HGNC:2745,DDX3X,DEAD-box helicase 3 X-linked,Approved,protein-coding gene,gene with protein product,O00571,mapped
+10522,HGNC:14677,DEAF1,DEAF1 transcription factor,Approved,protein-coding gene,gene with protein product,O75398,mapped
+9993,HGNC:2845,DGCR2,DiGeorge syndrome critical region gene 2,Approved,protein-coding gene,gene with protein product,P98153,mapped
+8214,HGNC:2846,DGCR6,DiGeorge syndrome critical region gene 6,Approved,protein-coding gene,gene with protein product,Q14129,mapped
+54487,HGNC:2847,DGCR8,DGCR8 microprocessor complex subunit,Approved,protein-coding gene,gene with protein product,Q8WYQ5,mapped
+1607,HGNC:2850,DGKB,diacylglycerol kinase beta,Approved,protein-coding gene,gene with protein product,Q9Y6T7,mapped
+160851,HGNC:2854,DGKH,diacylglycerol kinase eta,Approved,protein-coding gene,gene with protein product,Q86XP1,mapped
+1718,HGNC:2859,DHCR24,24-dehydrocholesterol reductase,Approved,protein-coding gene,gene with protein product,Q15392,mapped
+23405,HGNC:17098,DICER1,"dicer 1, ribonuclease III",Approved,protein-coding gene,gene with protein product,Q9UPY3,mapped
+1734,HGNC:2884,DIO2,iodothyronine deiodinase 2,Approved,protein-coding gene,gene with protein product,Q92813,mapped
+1735,HGNC:2885,DIO3,iodothyronine deiodinase 3,Approved,protein-coding gene,gene with protein product,P55073,mapped
+27185,HGNC:2888,DISC1,DISC1 scaffold protein,Approved,protein-coding gene,gene with protein product,Q9NRI5,mapped
+85458,HGNC:23695,DIXDC1,DIX domain containing 1,Approved,protein-coding gene,gene with protein product,Q155Q3,mapped
+27122,HGNC:2893,DKK3,dickkopf Wnt signaling pathway inhibitor 3,Approved,protein-coding gene,gene with protein product,Q9UBP4,mapped
+27121,HGNC:2894,DKK4,dickkopf Wnt signaling pathway inhibitor 4,Approved,protein-coding gene,gene with protein product,Q9UBT3,mapped
+1739,HGNC:2900,DLG1,discs large MAGUK scaffold protein 1,Approved,protein-coding gene,gene with protein product,Q12959,mapped
+1740,HGNC:2901,DLG2,discs large MAGUK scaffold protein 2,Approved,protein-coding gene,gene with protein product,Q15700,mapped
+1741,HGNC:2902,DLG3,discs large MAGUK scaffold protein 3,Approved,protein-coding gene,gene with protein product,Q92796,mapped
+1742,HGNC:2903,DLG4,discs large MAGUK scaffold protein 4,Approved,protein-coding gene,gene with protein product,P78352,mapped
+9229,HGNC:2905,DLGAP1,DLG associated protein 1,Approved,protein-coding gene,gene with protein product,O14490,mapped
+9228,HGNC:2906,DLGAP2,DLG associated protein 2,Approved,protein-coding gene,gene with protein product,Q9P1A6,mapped
+1745,HGNC:2914,DLX1,distal-less homeobox 1,Approved,protein-coding gene,gene with protein product,P56177,mapped
+1769,HGNC:2952,DNAH8,dynein axonemal heavy chain 8,Approved,protein-coding gene,gene with protein product,Q96JB1,mapped
+3337,HGNC:5270,DNAJB1,DnaJ heat shock protein family (Hsp40) member B1,Approved,protein-coding gene,gene with protein product,P25685,mapped
+23317,HGNC:30343,DNAJC13,DnaJ heat shock protein family (Hsp40) member C13,Approved,protein-coding gene,gene with protein product,O75165,mapped
+1759,HGNC:2972,DNM1,dynamin 1,Approved,protein-coding gene,gene with protein product,Q05193,mapped
+10059,HGNC:2973,DNM1L,dynamin 1L,Approved,protein-coding gene,gene with protein product,O00429,mapped
+1786,HGNC:2976,DNMT1,DNA methyltransferase 1,Approved,protein-coding gene,gene with protein product,P26358,mapped
+1789,HGNC:2979,DNMT3B,DNA methyltransferase 3 beta,Approved,protein-coding gene,gene with protein product,Q9UBC3,mapped
+29947,HGNC:2980,DNMT3L,DNA methyltransferase 3 like,Approved,protein-coding gene,gene with protein product,Q9UJW3,mapped
+9732,HGNC:19192,DOCK4,dedicator of cytokinesis 4,Approved,protein-coding gene,gene with protein product,Q8N1I0,mapped
+23348,HGNC:14132,DOCK9,dedicator of cytokinesis 9,Approved,protein-coding gene,gene with protein product,Q9BZ29,mapped
+55816,HGNC:16173,DOK5,docking protein 5,Approved,protein-coding gene,gene with protein product,Q9P104,mapped
+122525,HGNC:19834,DORIP1,dopamine receptor interacting protein 1,Approved,protein-coding gene,gene with protein product,Q4W4Y0,mapped
+1803,HGNC:3009,DPP4,dipeptidyl peptidase 4,Approved,protein-coding gene,gene with protein product,P27487,mapped
+1806,HGNC:3012,DPYD,dihydropyrimidine dehydrogenase,Approved,protein-coding gene,gene with protein product,Q12882,mapped
+1808,HGNC:3014,DPYSL2,dihydropyrimidinase like 2,Approved,protein-coding gene,gene with protein product,Q16555,mapped
+374946,HGNC:25054,DRAXIN,dorsal inhibitory axon guidance protein,Approved,protein-coding gene,gene with protein product,Q8NBI3,mapped
+1812,HGNC:3020,DRD1,dopamine receptor D1,Approved,protein-coding gene,gene with protein product,P21728,mapped
+1813,HGNC:3023,DRD2,dopamine receptor D2,Approved,protein-coding gene,gene with protein product,P14416,mapped
+1814,HGNC:3024,DRD3,dopamine receptor D3,Approved,protein-coding gene,gene with protein product,P35462,mapped
+1815,HGNC:3025,DRD4,dopamine receptor D4,Approved,protein-coding gene,gene with protein product,P21917,mapped
+1816,HGNC:3026,DRD5,dopamine receptor D5,Approved,protein-coding gene,gene with protein product,P21918,mapped
+1826,HGNC:3039,DSCAM,DS cell adhesion molecule,Approved,protein-coding gene,gene with protein product,O60469,mapped
+84062,HGNC:17328,DTNBP1,dystrobrevin binding protein 1,Approved,protein-coding gene,gene with protein product,Q96EV8,mapped
+1843,HGNC:3064,DUSP1,dual specificity phosphatase 1,Approved,protein-coding gene,gene with protein product,P28562,mapped
+1846,HGNC:3070,DUSP4,dual specificity phosphatase 4,Approved,protein-coding gene,gene with protein product,Q13115,mapped
+1848,HGNC:3072,DUSP6,dual specificity phosphatase 6,Approved,protein-coding gene,gene with protein product,Q16828,mapped
+54808,HGNC:21317,DYM,dymeclin,Approved,protein-coding gene,gene with protein product,Q7RTS9,mapped
+1859,HGNC:3091,DYRK1A,dual specificity tyrosine phosphorylation regulated kinase 1A,Approved,protein-coding gene,gene with protein product,Q13627,mapped
+124454,HGNC:29419,EARS2,"glutamyl-tRNA synthetase 2, mitochondrial",Approved,protein-coding gene,gene with protein product,Q5JPH6,mapped
+9695,HGNC:18967,EDEM1,ER degradation enhancing alpha-mannosidase like protein 1,Approved,protein-coding gene,gene with protein product,Q92611,mapped
+55741,HGNC:15877,EDEM2,ER degradation enhancing alpha-mannosidase like protein 2,Approved,protein-coding gene,gene with protein product,Q9BV94,mapped
+1906,HGNC:3176,EDN1,endothelin 1,Approved,protein-coding gene,gene with protein product,P05305,mapped
+1909,HGNC:3179,EDNRA,endothelin receptor type A,Approved,protein-coding gene,gene with protein product,P25101,mapped
+1917,HGNC:3192,EEF1A2,eukaryotic translation elongation factor 1 alpha 2,Approved,protein-coding gene,gene with protein product,Q05639,mapped
+90141,HGNC:20357,EFCAB11,EF-hand calcium binding domain 11,Approved,protein-coding gene,gene with protein product,Q9BUY7,mapped
+1948,HGNC:3227,EFNB2,ephrin B2,Approved,protein-coding gene,gene with protein product,P52799,mapped
+1950,HGNC:3229,EGF,epidermal growth factor,Approved,protein-coding gene,gene with protein product,P01133,mapped
+1956,HGNC:3236,EGFR,epidermal growth factor receptor,Approved,protein-coding gene,gene with protein product,P00533,mapped
+1959,HGNC:3239,EGR2,early growth response 2,Approved,protein-coding gene,gene with protein product,P11161,mapped
+1960,HGNC:3240,EGR3,early growth response 3,Approved,protein-coding gene,gene with protein product,Q06889,mapped
+1961,HGNC:3241,EGR4,early growth response 4,Approved,protein-coding gene,gene with protein product,Q05215,mapped
+30845,HGNC:3244,EHD3,EH domain containing 3,Approved,protein-coding gene,gene with protein product,Q9NZN3,mapped
+1962,HGNC:3247,EHHADH,enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase,Approved,protein-coding gene,gene with protein product,Q08426,mapped
+83939,HGNC:3254,EIF2A,eukaryotic translation initiation factor 2A,Approved,protein-coding gene,gene with protein product,Q9BY44,mapped
+1965,HGNC:3265,EIF2S1,eukaryotic translation initiation factor 2 subunit alpha,Approved,protein-coding gene,gene with protein product,P05198,mapped
+1968,HGNC:3267,EIF2S3,eukaryotic translation initiation factor 2 subunit gamma,Approved,protein-coding gene,gene with protein product,P41091,mapped
+1975,HGNC:3285,EIF4B,eukaryotic translation initiation factor 4B,Approved,protein-coding gene,gene with protein product,P23588,mapped
+1983,HGNC:3299,EIF5,eukaryotic translation initiation factor 5,Approved,protein-coding gene,gene with protein product,P55010,mapped
+1993,HGNC:3313,ELAVL2,ELAV like RNA binding protein 2,Approved,protein-coding gene,gene with protein product,Q12926,mapped
+161436,HGNC:18197,EML5,EMAP like 5,Approved,protein-coding gene,gene with protein product,Q05BV3,mapped
+2012,HGNC:3333,EMP1,epithelial membrane protein 1,Approved,protein-coding gene,gene with protein product,P54849,mapped
+2018,HGNC:3341,EMX2,empty spiracles homeobox 2,Approved,protein-coding gene,gene with protein product,Q04743,mapped
+2019,HGNC:3342,EN1,engrailed homeobox 1,Approved,protein-coding gene,gene with protein product,Q05925,mapped
+2020,HGNC:3343,EN2,engrailed homeobox 2,Approved,protein-coding gene,gene with protein product,P19622,mapped
+2023,HGNC:3350,ENO1,enolase 1,Approved,protein-coding gene,gene with protein product,P06733,mapped
+2026,HGNC:3353,ENO2,enolase 2,Approved,protein-coding gene,gene with protein product,P09104,mapped
+2028,HGNC:3355,ENPEP,glutamyl aminopeptidase,Approved,protein-coding gene,gene with protein product,Q07075,mapped
+8320,HGNC:3372,EOMES,eomesodermin,Approved,protein-coding gene,gene with protein product,O95936,mapped
+2041,HGNC:3385,EPHA1,EPH receptor A1,Approved,protein-coding gene,gene with protein product,P21709,mapped
+2053,HGNC:3402,EPHX2,epoxide hydrolase 2,Approved,protein-coding gene,gene with protein product,P34913,mapped
+2065,HGNC:3431,ERBB3,erb-b2 receptor tyrosine kinase 3,Approved,protein-coding gene,gene with protein product,P21860,mapped
+2066,HGNC:3432,ERBB4,erb-b2 receptor tyrosine kinase 4,Approved,protein-coding gene,gene with protein product,Q15303,mapped
+2081,HGNC:3449,ERN1,endoplasmic reticulum to nucleus signaling 1,Approved,protein-coding gene,gene with protein product,O75460,mapped

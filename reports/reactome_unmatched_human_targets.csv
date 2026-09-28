@@ -1,0 +1,166 @@
+target_id,target_name,uniprot_accession,target_organism
+CHEMBL1075115,Dual specificity tyrosine-phosphorylation-regulated kinase 4,Q9NR20,Homo sapiens
+CHEMBL1075167,Homeodomain-interacting protein kinase 4,Q8NE63,Homo sapiens
+CHEMBL1075195,Serine/threonine-protein kinase TAO2,Q9UL54,Homo sapiens
+CHEMBL1163104,Serine/threonine-protein kinase OSR1,O95747,Homo sapiens
+CHEMBL1163106,Serine/threonine-protein kinase MAK,P20794,Homo sapiens
+CHEMBL1163108,STE20/SPS1-related proline-alanine-rich protein kinase,Q9UEW8,Homo sapiens
+CHEMBL1163112,Cyclin-dependent kinase-like 5,O76039,Homo sapiens
+CHEMBL1163117,Cyclin-dependent kinase-like 3,Q8IVW4,Homo sapiens
+CHEMBL1163123,Mitogen-activated protein kinase kinase kinase 6,O95382,Homo sapiens
+CHEMBL1163124,Mitogen-activated protein kinase kinase kinase 13,O43283,Homo sapiens
+CHEMBL1163126,Serine/threonine-protein kinase ICK,Q9UPZ9,Homo sapiens
+CHEMBL1163127,Mitogen-activated protein kinase kinase kinase 15,Q6ZN16,Homo sapiens
+CHEMBL1163128,Microtubule-associated serine/threonine-protein kinase 1,Q9Y2H9,Homo sapiens
+CHEMBL1163129,Serine/threonine-protein kinase SBK1,Q52WX2,Homo sapiens
+CHEMBL1287623,Lethal(3)malignant brain tumor-like protein 3,Q96JM7,Homo sapiens
+CHEMBL1287624,Lethal(3)malignant brain tumor-like protein 4,Q8NA19,Homo sapiens
+CHEMBL1287625,MBT domain-containing protein 1,Q05BQ5,Homo sapiens
+CHEMBL1293191,Transcriptional regulator ERG,P11308,Homo sapiens
+CHEMBL1293236,ATP-dependent DNA helicase Q1,P46063,Homo sapiens
+CHEMBL1293317,Muscleblind-like protein 1,Q9NR56,Homo sapiens
+CHEMBL1741176,X-box-binding protein 1,P17861,Homo sapiens
+CHEMBL1741209,ATPase family AAA domain-containing protein 5,Q96QE3,Homo sapiens
+CHEMBL1741217,DNA dC->dU-editing enzyme APOBEC-3G,Q9HC16,Homo sapiens
+CHEMBL1741220,Bromodomain adjacent to zinc finger domain protein 2B,Q9UIF8,Homo sapiens
+CHEMBL1743125,Solute carrier family 15 member 2,Q16348,Homo sapiens
+CHEMBL1795085,Ataxin-2,Q99700,Homo sapiens
+CHEMBL1795165,Hormonally up-regulated neu tumor-associated kinase,P57058,Homo sapiens
+CHEMBL1795168,CDGSH iron-sulfur domain-containing protein 1,Q9NZ45,Homo sapiens
+CHEMBL1795186,Bromodomain-containing protein 3,Q15059,Homo sapiens
+CHEMBL1795191,Cyclin-dependent kinase 10,Q15131,Homo sapiens
+CHEMBL1838,Chromaffin granule amine transporter,P54219,Homo sapiens
+CHEMBL1908384,SNF-related serine/threonine-protein kinase,Q9NRH2,Homo sapiens
+CHEMBL1908386,Dual serine/threonine and tyrosine protein kinase,Q6XUX3,Homo sapiens
+CHEMBL1908389,Mitogen-activated protein kinase kinase kinase 12,Q12852,Homo sapiens
+CHEMBL1955711,Solute carrier family 22 member 7,Q9Y694,Homo sapiens
+CHEMBL2007626,DNA dC->dU-editing enzyme APOBEC-3F,Q8IUX4,Homo sapiens
+CHEMBL2069163,Dual specificity testis-specific protein kinase 2,Q96S53,Homo sapiens
+CHEMBL2073669,Multidrug resistance associated protein,Q96QA9,Homo sapiens
+CHEMBL2073685,Solute carrier organic anion transporter family member 3A1,Q9UIG8,Homo sapiens
+CHEMBL2079850,Exopolyphosphatase PRUNE1,Q86TP1,Homo sapiens
+CHEMBL2176769,Spermine oxidase,Q9NWM0,Homo sapiens
+CHEMBL2311238,Emopamil-binding protein-like,Q9BY08,Homo sapiens
+CHEMBL2331044,Myelin transcription factor 1,Q01538,Homo sapiens
+CHEMBL2362981,TAR DNA-binding protein 43,Q13148,Homo sapiens
+CHEMBL2420,Carbonic anhydrase-related protein 11,O75493,Homo sapiens
+CHEMBL2426,Casein kinase I isoform gamma-1,Q9HCP0,Homo sapiens
+CHEMBL275,"3',5'-cyclic-AMP phosphodiesterase 4B",Q07343,Homo sapiens
+CHEMBL2755,"Glutathione reductase, mitochondrial",P00390,Homo sapiens
+CHEMBL2777,"Myosin light chain kinase 2, skeletal/cardiac muscle",Q9H1R3,Homo sapiens
+CHEMBL2872,Mitogen-activated protein kinase kinase kinase 9,P80192,Homo sapiens
+CHEMBL2873,Mitogen-activated protein kinase kinase kinase 10,Q02779,Homo sapiens
+CHEMBL3009,Receptor tyrosine-protein kinase erbB-4,Q15303,Homo sapiens
+CHEMBL3085621,Nucleosome-remodeling factor subunit BPTF,Q12830,Homo sapiens
+CHEMBL3202,Prolyl endopeptidase,P48147,Homo sapiens
+CHEMBL3277,Uracil-DNA glycosylase,P13051,Homo sapiens
+CHEMBL3305,Sex hormone-binding globulin,P04278,Homo sapiens
+CHEMBL3401,Nuclear receptor subfamily 1 group I member 2,O75469,Homo sapiens
+CHEMBL3407312,Krueppel-like factor 10,Q13118,Homo sapiens
+CHEMBL3542,Serine/threonine-protein kinase NIM1,Q8IY84,Homo sapiens
+CHEMBL3712907,Transmembrane domain-containing protein TMIGD3,P0DMS9,Homo sapiens
+CHEMBL3831,Serine/threonine-protein kinase MARK2,Q7KZI7,Homo sapiens
+CHEMBL3886,Mitogen-activated protein kinase kinase kinase 20,Q9NYL2,Homo sapiens
+CHEMBL3935,Aurora kinase C,Q9UQB9,Homo sapiens
+CHEMBL3938,Serine/threonine-protein kinase 16,O75716,Homo sapiens
+CHEMBL3977,"Cone cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha'",P51160,Homo sapiens
+CHEMBL3980,Serine/threonine-protein kinase 17B,O94768,Homo sapiens
+CHEMBL3983,Dual specificity protein kinase TTK,P33981,Homo sapiens
+CHEMBL4105779,Midasin,Q9NU22,Homo sapiens
+CHEMBL4105780,GTP-binding protein 4,Q9BZE4,Homo sapiens
+CHEMBL4105814,ATP-dependent RNA helicase DHX30,Q7L2E3,Homo sapiens
+CHEMBL4105853,Rab-like protein 3,Q5HYI8,Homo sapiens
+CHEMBL4105858,Putative heat shock protein HSP 90-beta 2,Q58FF8,Homo sapiens
+CHEMBL4105885,AarF domain-containing protein kinase 1,Q86TW2,Homo sapiens
+CHEMBL4105886,Uncharacterized aarF domain-containing protein kinase 5,Q3MIX3,Homo sapiens
+CHEMBL4105891,Septin-9,Q9UHD8,Homo sapiens
+CHEMBL4105907,Sigma intracellular receptor 2,Q5BJF2,Homo sapiens
+CHEMBL4105932,Serine/threonine-protein kinase/endoribonuclease IRE2,Q76MJ5,Homo sapiens
+CHEMBL4105933,Uncharacterized protein FLJ45252,Q6ZSR9,Homo sapiens
+CHEMBL4185,Xaa-Pro dipeptidase,P12955,Homo sapiens
+CHEMBL4203,Dual specificity protein kinase CLK4,Q9HAZ1,Homo sapiens
+CHEMBL4204,MAP kinase-interacting serine/threonine-protein kinase 2,Q9HBH9,Homo sapiens
+CHEMBL4224,Dual specificity protein kinase CLK1,P49759,Homo sapiens
+CHEMBL4225,Dual specificity protein kinase CLK2,P49760,Homo sapiens
+CHEMBL4226,Dual specificity protein kinase CLK3,P49761,Homo sapiens
+CHEMBL4312,Serine/threonine-protein kinase 36,Q9NRP7,Homo sapiens
+CHEMBL4374,Photoreceptor-specific nuclear receptor,Q9Y5X4,Homo sapiens
+CHEMBL4442,Cyclin-dependent kinase 3,Q00526,Homo sapiens
+CHEMBL4501,Ribosomal protein S6 kinase beta-1,P23443,Homo sapiens
+CHEMBL4522,BMP-2-inducible protein kinase,Q9NSY1,Homo sapiens
+CHEMBL4523,Serine/threonine-protein kinase pim-2,Q9P1W9,Homo sapiens
+CHEMBL4523399,CDGSH iron-sulfur domain-containing protein 2,Q8N5K1,Homo sapiens
+CHEMBL4523872,Adhesion G-protein coupled receptor F1,Q5T601,Homo sapiens
+CHEMBL4525,Serine/threonine-protein kinase 17A,Q9UEE5,Homo sapiens
+CHEMBL4574,Serine/threonine-protein kinase BRSK2,Q8IWQ3,Homo sapiens
+CHEMBL4575,Dual specificity tyrosine-phosphorylation-regulated kinase 3,O43781,Homo sapiens
+CHEMBL4577,Homeodomain-interacting protein kinase 3,Q9H422,Homo sapiens
+CHEMBL4578,Maternal embryonic leucine zipper kinase,Q14680,Homo sapiens
+CHEMBL4597,Cyclin-dependent kinase 16,Q00536,Homo sapiens
+CHEMBL4627,Myosin light chain kinase,Q32MK0,Homo sapiens
+CHEMBL4683,Prolyl endopeptidase FAP,Q12884,Homo sapiens
+CHEMBL4851,Serine/threonine-protein kinase 38-like,Q9Y2H1,Homo sapiens
+CHEMBL4852,Mitogen-activated protein kinase kinase kinase kinase 5,Q9Y4K4,Homo sapiens
+CHEMBL4853,Mitogen-activated protein kinase kinase kinase 4,Q9Y6R4,Homo sapiens
+CHEMBL4896,Lymphokine-activated killer T-cell-originated protein kinase,Q96KB5,Homo sapiens
+CHEMBL5044,Serine/threonine-protein kinase Nek5,Q6P3R8,Homo sapiens
+CHEMBL5073,Calcium/calmodulin-dependent protein kinase type 1D,Q8IU85,Homo sapiens
+CHEMBL5084,Casein kinase I isoform gamma-3,Q9Y6M4,Homo sapiens
+CHEMBL5095,Wee1-like protein kinase 2,P0C1S8,Homo sapiens
+CHEMBL5116,Uncharacterized serine/threonine-protein kinase SBK3,P0C264,Homo sapiens
+CHEMBL5169127,Calmodulin-like protein 3,P27482,Homo sapiens
+CHEMBL5198,Mitogen-activated protein kinase 15,Q8TD08,Homo sapiens
+CHEMBL5258,Calcium/calmodulin-dependent protein kinase type 1G,Q96NX5,Homo sapiens
+CHEMBL5260,Serine/threonine-protein kinase TNNI3K,Q59H18,Homo sapiens
+CHEMBL5274,Tyrosine-protein kinase receptor Tie-1,P35590,Homo sapiens
+CHEMBL5316,Cyclin-dependent kinase 18,Q07002,Homo sapiens
+CHEMBL5330,Mitogen-activated protein kinase kinase kinase kinase 2,Q12851,Homo sapiens
+CHEMBL5334,Non-receptor tyrosine-protein kinase TNK1,Q13470,Homo sapiens
+CHEMBL5388,Serine/threonine-protein kinase tousled-like 1,Q9UKI8,Homo sapiens
+CHEMBL5404,Serine/threonine-protein kinase tousled-like 2,Q86UE8,Homo sapiens
+CHEMBL5405,Serine/threonine-protein kinase 32C,Q86UX6,Homo sapiens
+CHEMBL5407,Serine/threonine-protein kinase pim-3,Q86V86,Homo sapiens
+CHEMBL5415,SRSF protein kinase 3,Q9UPE1,Homo sapiens
+CHEMBL5426,Myosin light chain kinase family member 4,Q86YV6,Homo sapiens
+CHEMBL5432,Mitogen-activated protein kinase kinase kinase kinase 3,Q8IVH8,Homo sapiens
+CHEMBL5435,Serine/threonine-protein kinase ULK2,Q8IYT8,Homo sapiens
+CHEMBL5483,Insulin receptor-related protein,P14616,Homo sapiens
+CHEMBL5503,Nuclear receptor subfamily 1 group I member 3,Q14994,Homo sapiens
+CHEMBL5519,Serine/threonine-protein kinase DCLK2,Q8N568,Homo sapiens
+CHEMBL5520,Casein kinase I isoform alpha-like,Q8N752,Homo sapiens
+CHEMBL5543,Dual specificity tyrosine-phosphorylation-regulated kinase 1B,Q9Y463,Homo sapiens
+CHEMBL5547,Ankyrin repeat and protein kinase domain-containing protein 1,Q8NFD2,Homo sapiens
+CHEMBL5552,Serine/threonine-protein kinase 25,O00506,Homo sapiens
+CHEMBL5568,Proto-oncogene tyrosine-protein kinase ROS,P08922,Homo sapiens
+CHEMBL5615,Serine/threonine-protein kinase MRCK gamma,Q6DT37,Homo sapiens
+CHEMBL5650,Serine/threonine-protein kinase BRSK1,Q8TDC3,Homo sapiens
+CHEMBL5651,Serine/threonine-protein kinase 35,Q8TDR2,Homo sapiens
+CHEMBL5679,Serine/threonine-protein kinase Nek3,P51956,Homo sapiens
+CHEMBL5683,Serine/threonine-protein kinase DCLK1,O15075,Homo sapiens
+CHEMBL5698,NUAK family SNF1-like kinase 2,Q9H093,Homo sapiens
+CHEMBL5699,Serine/threonine-protein kinase SIK2,Q9H0K1,Homo sapiens
+CHEMBL5723574,Adenine DNA glycosylase,Q9UIF7,Homo sapiens
+CHEMBL5728,Cyclin-dependent kinase-like 2,Q92772,Homo sapiens
+CHEMBL5749,Mitogen-activated protein kinase kinase kinase kinase 1,Q92918,Homo sapiens
+CHEMBL5789,Cyclin-dependent kinase-like 1,Q00532,Homo sapiens
+CHEMBL5790,Cyclin-dependent kinase 17,Q00537,Homo sapiens
+CHEMBL5819,Serine/threonine-protein kinase Nek4,P51957,Homo sapiens
+CHEMBL5838,Receptor tyrosine-protein kinase erbB-3,P21860,Homo sapiens
+CHEMBL5849,Mas-related G-protein coupled receptor member X2,Q96LB1,Homo sapiens
+CHEMBL5856,Cyclin-dependent kinase 15,Q96Q40,Homo sapiens
+CHEMBL5861,G protein-coupled receptor kinase 4,P32298,Homo sapiens
+CHEMBL5903,Activin receptor type-1,Q04771,Homo sapiens
+CHEMBL5912,Serine/threonine-protein kinase 32B,Q9NY57,Homo sapiens
+CHEMBL5914,Mitogen-activated protein kinase kinase kinase 2,Q9Y2U5,Homo sapiens
+CHEMBL5940,Serine/threonine-protein kinase MARK1,Q9P0L2,Homo sapiens
+CHEMBL6003,Testis-specific serine/threonine-protein kinase 1,Q9BXA7,Homo sapiens
+CHEMBL6005,Serine/threonine-protein kinase 33,Q9BYT3,Homo sapiens
+CHEMBL6014,Testis-specific serine/threonine-protein kinase 2,Q96PF2,Homo sapiens
+CHEMBL6054,PAS domain-containing serine/threonine-protein kinase,Q96RG2,Homo sapiens
+CHEMBL6083,Receptor-interacting serine/threonine-protein kinase 4,P57078,Homo sapiens
+CHEMBL6114,Phospholipase A-2-activating protein,Q9Y263,Homo sapiens
+CHEMBL6123,Serine/threonine-protein kinase DCLK3,Q9C098,Homo sapiens
+CHEMBL6149,Serine/threonine-protein kinase SIK3,Q9Y2K2,Homo sapiens
+CHEMBL6150,Serine/threonine-protein kinase 32A,Q8WU08,Homo sapiens
+CHEMBL6162,Cyclin-dependent kinase 14,O94921,Homo sapiens
+CHEMBL6191,Mitogen-activated protein kinase kinase kinase 19,Q56UN5,Homo sapiens

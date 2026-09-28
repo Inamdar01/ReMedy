@@ -1,0 +1,1 @@
+chembl_id,drugbank_id,drug_name,target_id,target_name,evidence_count,human_evidence_count,non_human_evidence_count,unspecified_evidence_count,target_organism,mapping_status

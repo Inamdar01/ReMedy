@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-INPUT = "data/raw/chembl/evidence/chembl_target_evidence_final.csv"
+INPUT = "data/interim/chembl_target_evidence_combined.csv"
 
 OUTPUT_DIR = Path("data/interim")
 OUTPUT = OUTPUT_DIR / "chembl_evidence_clean.csv"

@@ -1,0 +1,1843 @@
+target_id,target_name,target_type,target_organism,uniprot_accession,component_count,mapping_status,human_target,source
+CHEMBL204,Prothrombin,SINGLE PROTEIN,Homo sapiens,P00734,1,mapped,True,ChEMBL
+CHEMBL206,Estrogen receptor,SINGLE PROTEIN,Homo sapiens,P03372,1,mapped,True,ChEMBL
+CHEMBL208,Progesterone receptor,SINGLE PROTEIN,Homo sapiens,P06401,1,mapped,True,ChEMBL
+CHEMBL211,Muscarinic acetylcholine receptor M2,SINGLE PROTEIN,Homo sapiens,P08172,1,mapped,True,ChEMBL
+CHEMBL214,5-hydroxytryptamine receptor 1A,SINGLE PROTEIN,Homo sapiens,P08908,1,mapped,True,ChEMBL
+CHEMBL1867,Alpha-2A adrenergic receptor,SINGLE PROTEIN,Homo sapiens,P08913,1,mapped,True,ChEMBL
+CHEMBL1871,Androgen receptor,SINGLE PROTEIN,Homo sapiens,P10275,1,mapped,True,ChEMBL
+CHEMBL1963,Thyrotropin receptor,SINGLE PROTEIN,Homo sapiens,P16473,1,mapped,True,ChEMBL
+CHEMBL1951,Amine oxidase [flavin-containing] A,SINGLE PROTEIN,Homo sapiens,P21397,1,mapped,True,ChEMBL
+CHEMBL2056,D(1A) dopamine receptor,SINGLE PROTEIN,Homo sapiens,P21728,1,mapped,True,ChEMBL
+CHEMBL220,Acetylcholinesterase,SINGLE PROTEIN,Homo sapiens,P22303,1,mapped,True,ChEMBL
+CHEMBL221,Prostaglandin G/H synthase 1,SINGLE PROTEIN,Homo sapiens,P23219,1,mapped,True,ChEMBL
+CHEMBL222,Sodium-dependent noradrenaline transporter,SINGLE PROTEIN,Homo sapiens,P23975,1,mapped,True,ChEMBL
+CHEMBL228,Sodium-dependent serotonin transporter,SINGLE PROTEIN,Homo sapiens,P31645,1,mapped,True,ChEMBL
+CHEMBL233,Mu-type opioid receptor,SINGLE PROTEIN,Homo sapiens,P35372,1,mapped,True,ChEMBL
+CHEMBL234,D(3) dopamine receptor,SINGLE PROTEIN,Homo sapiens,P35462,1,mapped,True,ChEMBL
+CHEMBL235,Peroxisome proliferator-activated receptor gamma,SINGLE PROTEIN,Homo sapiens,P37231,1,mapped,True,ChEMBL
+CHEMBL238,Sodium-dependent dopamine transporter,SINGLE PROTEIN,Homo sapiens,Q01959,1,mapped,True,ChEMBL
+CHEMBL241,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A",SINGLE PROTEIN,Homo sapiens,Q14432,1,mapped,True,ChEMBL
+CHEMBL1833,5-hydroxytryptamine receptor 2B,SINGLE PROTEIN,Homo sapiens,P41595,1,mapped,True,ChEMBL
+CHEMBL2069,Thromboxane A2 receptor,SINGLE PROTEIN,Homo sapiens,P21731,1,mapped,True,ChEMBL
+CHEMBL1947,Thyroid hormone receptor beta,SINGLE PROTEIN,Homo sapiens,P10828,1,mapped,True,ChEMBL
+CHEMBL254,"3',5'-cyclic-AMP phosphodiesterase 4A",SINGLE PROTEIN,Homo sapiens,P27815,1,mapped,True,ChEMBL
+CHEMBL256,Adenosine receptor A3,SINGLE PROTEIN,Homo sapiens,P0DMS8,1,mapped,True,ChEMBL
+CHEMBL264,Histamine H3 receptor,SINGLE PROTEIN,Homo sapiens,Q9Y5N1,1,mapped,True,ChEMBL
+CHEMBL276,Muscarinic acetylcholine receptor M1,SINGLE PROTEIN,Rattus norvegicus,P08482,1,mapped,False,ChEMBL
+CHEMBL2193,Arylsulfatase A,SINGLE PROTEIN,Homo sapiens,P15289,1,mapped,True,ChEMBL
+CHEMBL3577,Aldehyde dehydrogenase 1A1,SINGLE PROTEIN,Homo sapiens,P00352,1,mapped,True,ChEMBL
+CHEMBL2755,"Glutathione reductase, mitochondrial",SINGLE PROTEIN,Homo sapiens,P00390,1,mapped,True,ChEMBL
+CHEMBL343,Gamma-aminobutyric acid receptor subunit alpha-1,SINGLE PROTEIN,Rattus norvegicus,P62813,1,mapped,False,ChEMBL
+CHEMBL4119,Glutathione reductase,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,P41921,1,mapped,False,ChEMBL
+CHEMBL5514,Huntingtin,SINGLE PROTEIN,Homo sapiens,P42858,1,mapped,True,ChEMBL
+CHEMBL5686,ATP-dependent 6-phosphofructokinase,SINGLE PROTEIN,Trypanosoma brucei,O15648,1,mapped,False,ChEMBL
+CHEMBL5748,ATP-binding cassette sub-family C member 2,SINGLE PROTEIN,Homo sapiens,Q92887,1,mapped,True,ChEMBL
+CHEMBL6020,Bile salt export pump,SINGLE PROTEIN,Homo sapiens,O95342,1,mapped,True,ChEMBL
+CHEMBL6032,Histone-lysine N-methyltransferase EHMT2,SINGLE PROTEIN,Homo sapiens,Q96KQ7,1,mapped,True,ChEMBL
+CHEMBL5918,ATP-binding cassette sub-family C member 3,SINGLE PROTEIN,Homo sapiens,O15438,1,mapped,True,ChEMBL
+CHEMBL6152,Alpha-synuclein,SINGLE PROTEIN,Homo sapiens,P37840,1,mapped,True,ChEMBL
+CHEMBL1075138,Tyrosyl-DNA phosphodiesterase 1,SINGLE PROTEIN,Homo sapiens,Q9NUW8,1,mapped,True,ChEMBL
+CHEMBL1075094,Nuclear factor erythroid 2-related factor 2,SINGLE PROTEIN,Homo sapiens,Q16236,1,mapped,True,ChEMBL
+CHEMBL1293231,Nuclear receptor ROR-gamma,SINGLE PROTEIN,Mus musculus,P51450,1,mapped,False,ChEMBL
+CHEMBL1293237,RecQ-like DNA helicase BLM,SINGLE PROTEIN,Homo sapiens,P54132,1,mapped,True,ChEMBL
+CHEMBL1293285,Endonuclease 4,SINGLE PROTEIN,Escherichia coli K-12,P0A6C1,1,mapped,False,ChEMBL
+CHEMBL1293298,Peripheral myelin protein 22,SINGLE PROTEIN,Homo sapiens,Q01453,1,mapped,True,ChEMBL
+CHEMBL1697668,Solute carrier organic anion transporter family member 1B1,SINGLE PROTEIN,Homo sapiens,Q9Y6L6,1,mapped,True,ChEMBL
+CHEMBL1741209,ATPase family AAA domain-containing protein 5,SINGLE PROTEIN,Homo sapiens,Q96QE3,1,mapped,True,ChEMBL
+CHEMBL1743121,Solute carrier organic anion transporter family member 1B3,SINGLE PROTEIN,Homo sapiens,Q9NPD5,1,mapped,True,ChEMBL
+CHEMBL1743128,ATP-binding cassette sub-family C member 4,SINGLE PROTEIN,Homo sapiens,O15439,1,mapped,True,ChEMBL
+CHEMBL2073674,Bile salt export pump,SINGLE PROTEIN,Rattus norvegicus,O70127,1,mapped,False,ChEMBL
+CHEMBL2366473,Probable glutathione reductase 2,SINGLE PROTEIN,Caenorhabditis elegans,P30635,1,mapped,False,ChEMBL
+CHEMBL210,Beta-2 adrenergic receptor,SINGLE PROTEIN,Homo sapiens,P07550,1,mapped,True,ChEMBL
+CHEMBL213,Beta-1 adrenergic receptor,SINGLE PROTEIN,Homo sapiens,P08588,1,mapped,True,ChEMBL
+CHEMBL216,Muscarinic acetylcholine receptor M1,SINGLE PROTEIN,Homo sapiens,P11229,1,mapped,True,ChEMBL
+CHEMBL217,D(2) dopamine receptor,SINGLE PROTEIN,Homo sapiens,P14416,1,mapped,True,ChEMBL
+CHEMBL219,D(4) dopamine receptor,SINGLE PROTEIN,Homo sapiens,P21917,1,mapped,True,ChEMBL
+CHEMBL1941,Histamine H2 receptor,SINGLE PROTEIN,Homo sapiens,P25021,1,mapped,True,ChEMBL
+CHEMBL224,5-hydroxytryptamine receptor 2A,SINGLE PROTEIN,Homo sapiens,P28223,1,mapped,True,ChEMBL
+CHEMBL225,5-hydroxytryptamine receptor 2C,SINGLE PROTEIN,Homo sapiens,P28335,1,mapped,True,ChEMBL
+CHEMBL1790,Vasopressin V2 receptor,SINGLE PROTEIN,Homo sapiens,P30518,1,mapped,True,ChEMBL
+CHEMBL226,Adenosine receptor A1,SINGLE PROTEIN,Homo sapiens,P30542,1,mapped,True,ChEMBL
+CHEMBL229,Alpha-1A adrenergic receptor,SINGLE PROTEIN,Homo sapiens,P35348,1,mapped,True,ChEMBL
+CHEMBL230,Prostaglandin G/H synthase 2,SINGLE PROTEIN,Homo sapiens,P35354,1,mapped,True,ChEMBL
+CHEMBL1889,Vasopressin V1a receptor,SINGLE PROTEIN,Homo sapiens,P37288,1,mapped,True,ChEMBL
+CHEMBL236,Delta-type opioid receptor,SINGLE PROTEIN,Homo sapiens,P41143,1,mapped,True,ChEMBL
+CHEMBL237,Kappa-type opioid receptor,SINGLE PROTEIN,Homo sapiens,P41145,1,mapped,True,ChEMBL
+CHEMBL1899,5-hydroxytryptamine receptor 3A,SINGLE PROTEIN,Homo sapiens,P46098,1,mapped,True,ChEMBL
+CHEMBL1985,Glucagon receptor,SINGLE PROTEIN,Homo sapiens,P47871,1,mapped,True,ChEMBL
+CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,SINGLE PROTEIN,Homo sapiens,Q12809,1,mapped,True,ChEMBL
+CHEMBL1997,Equilibrative nucleoside transporter 1,SINGLE PROTEIN,Homo sapiens,Q99808,1,mapped,True,ChEMBL
+CHEMBL1942,Alpha-2B adrenergic receptor,SINGLE PROTEIN,Homo sapiens,P18089,1,mapped,True,ChEMBL
+CHEMBL1916,Alpha-2C adrenergic receptor,SINGLE PROTEIN,Homo sapiens,P18825,1,mapped,True,ChEMBL
+CHEMBL245,Muscarinic acetylcholine receptor M3,SINGLE PROTEIN,Homo sapiens,P20309,1,mapped,True,ChEMBL
+CHEMBL246,Beta-3 adrenergic receptor,SINGLE PROTEIN,Homo sapiens,P13945,1,mapped,True,ChEMBL
+CHEMBL249,Substance-P receptor,SINGLE PROTEIN,Homo sapiens,P25103,1,mapped,True,ChEMBL
+CHEMBL251,Adenosine receptor A2a,SINGLE PROTEIN,Homo sapiens,P29274,1,mapped,True,ChEMBL
+CHEMBL3157,B2 bradykinin receptor,SINGLE PROTEIN,Homo sapiens,P30411,1,mapped,True,ChEMBL
+CHEMBL3762,Voltage-dependent L-type calcium channel subunit alpha-1C,SINGLE PROTEIN,Rattus norvegicus,P22002,1,mapped,False,ChEMBL
+CHEMBL273,5-hydroxytryptamine receptor 1A,SINGLE PROTEIN,Rattus norvegicus,P19327,1,mapped,False,ChEMBL
+CHEMBL1882,Neuronal acetylcholine receptor subunit alpha-4,SINGLE PROTEIN,Homo sapiens,P43681,1,mapped,True,ChEMBL
+CHEMBL3440,Beta-1 adrenergic receptor,SINGLE PROTEIN,Mus musculus,P34971,1,mapped,False,ChEMBL
+CHEMBL3252,Beta-1 adrenergic receptor,SINGLE PROTEIN,Rattus norvegicus,P18090,1,mapped,False,ChEMBL
+CHEMBL289,Cytochrome P450 2D6,SINGLE PROTEIN,Homo sapiens,P10635,1,mapped,True,ChEMBL
+CHEMBL4302,ATP-dependent translocase ABCB1,SINGLE PROTEIN,Homo sapiens,P08183,1,mapped,True,ChEMBL
+CHEMBL1980,Sodium channel protein type 5 subunit alpha,SINGLE PROTEIN,Homo sapiens,Q14524,1,mapped,True,ChEMBL
+CHEMBL298,Gastrin/cholecystokinin type B receptor,SINGLE PROTEIN,Homo sapiens,P32239,1,mapped,True,ChEMBL
+CHEMBL4616,Growth hormone secretagogue receptor type 1,SINGLE PROTEIN,Homo sapiens,Q92847,1,mapped,True,ChEMBL
+CHEMBL4042,Prostaglandin G/H synthase 1,SINGLE PROTEIN,Rattus norvegicus,Q63921,1,mapped,False,ChEMBL
+CHEMBL3356,Cytochrome P450 1A2,SINGLE PROTEIN,Homo sapiens,P05177,1,mapped,True,ChEMBL
+CHEMBL330,"Glutamate receptor ionotropic, NMDA 1",SINGLE PROTEIN,Rattus norvegicus,P35439,1,mapped,False,ChEMBL
+CHEMBL3397,Cytochrome P450 2C9,SINGLE PROTEIN,Homo sapiens,P11712,1,mapped,True,ChEMBL
+CHEMBL3622,Cytochrome P450 2C19,SINGLE PROTEIN,Homo sapiens,P33261,1,mapped,True,ChEMBL
+CHEMBL340,Cytochrome P450 3A4,SINGLE PROTEIN,Homo sapiens,P08684,1,mapped,True,ChEMBL
+CHEMBL5107,Voltage-dependent N-type calcium channel subunit alpha-1B,SINGLE PROTEIN,Rattus norvegicus,Q02294,1,mapped,False,ChEMBL
+CHEMBL4383,Gastric inhibitory polypeptide receptor,SINGLE PROTEIN,Homo sapiens,P48546,1,mapped,True,ChEMBL
+CHEMBL3491,Cytochrome P450 2J2,SINGLE PROTEIN,Homo sapiens,P51589,1,mapped,True,ChEMBL
+CHEMBL5414,Beta-2 adrenergic receptor,SINGLE PROTEIN,Cavia porcellus,Q8K4Z4,1,mapped,False,ChEMBL
+CHEMBL5471,Beta-1 adrenergic receptor,SINGLE PROTEIN,Cavia porcellus,B0FL73,1,mapped,False,ChEMBL
+CHEMBL5685,Solute carrier family 22 member 1,SINGLE PROTEIN,Homo sapiens,O15245,1,mapped,True,ChEMBL
+CHEMBL1743124,Solute carrier organic anion transporter family member 2B1,SINGLE PROTEIN,Homo sapiens,O94956,1,mapped,True,ChEMBL
+CHEMBL4105778,Dipeptidyl peptidase 3,SINGLE PROTEIN,Bos mutus,L8I2E6,1,mapped,False,ChEMBL
+CHEMBL203,Epidermal growth factor receptor,SINGLE PROTEIN,Homo sapiens,P00533,1,mapped,True,ChEMBL
+CHEMBL2034,Glucocorticoid receptor,SINGLE PROTEIN,Homo sapiens,P04150,1,mapped,True,ChEMBL
+CHEMBL218,Cannabinoid receptor 1,SINGLE PROTEIN,Homo sapiens,P21554,1,mapped,True,ChEMBL
+CHEMBL227,Type-1 angiotensin II receptor,SINGLE PROTEIN,Homo sapiens,P30556,1,mapped,True,ChEMBL
+CHEMBL1800,Corticotropin-releasing factor receptor 1,SINGLE PROTEIN,Homo sapiens,P34998,1,mapped,True,ChEMBL
+CHEMBL231,Histamine H1 receptor,SINGLE PROTEIN,Homo sapiens,P35367,1,mapped,True,ChEMBL
+CHEMBL242,Estrogen receptor beta,SINGLE PROTEIN,Homo sapiens,Q92731,1,mapped,True,ChEMBL
+CHEMBL1824,Receptor tyrosine-protein kinase erbB-2,SINGLE PROTEIN,Homo sapiens,P04626,1,mapped,True,ChEMBL
+CHEMBL1850,D(1B) dopamine receptor,SINGLE PROTEIN,Homo sapiens,P21918,1,mapped,True,ChEMBL
+CHEMBL1785,Endothelin receptor type B,SINGLE PROTEIN,Homo sapiens,P24530,1,mapped,True,ChEMBL
+CHEMBL252,Endothelin-1 receptor,SINGLE PROTEIN,Homo sapiens,P25101,1,mapped,True,ChEMBL
+CHEMBL259,Melanocortin receptor 4,SINGLE PROTEIN,Homo sapiens,P32245,1,mapped,True,ChEMBL
+CHEMBL3563,Cruzipain,SINGLE PROTEIN,Trypanosoma cruzi,P25779,1,mapped,False,ChEMBL
+CHEMBL1901,Cholecystokinin receptor type A,SINGLE PROTEIN,Homo sapiens,P32238,1,mapped,True,ChEMBL
+CHEMBL4777,Neuropeptide Y receptor type 1,SINGLE PROTEIN,Homo sapiens,P25929,1,mapped,True,ChEMBL
+CHEMBL4018,Neuropeptide Y receptor type 2,SINGLE PROTEIN,Homo sapiens,P49146,1,mapped,True,ChEMBL
+CHEMBL4069,Corticotropin-releasing factor receptor 2,SINGLE PROTEIN,Homo sapiens,Q13324,1,mapped,True,ChEMBL
+CHEMBL279,Vascular endothelial growth factor receptor 2,SINGLE PROTEIN,Homo sapiens,P35968,1,mapped,True,ChEMBL
+CHEMBL4644,Melanocortin receptor 3,SINGLE PROTEIN,Homo sapiens,P41968,1,mapped,True,ChEMBL
+CHEMBL2203,Motilin receptor,SINGLE PROTEIN,Homo sapiens,O43193,1,mapped,True,ChEMBL
+CHEMBL4308,B1 bradykinin receptor,SINGLE PROTEIN,Homo sapiens,P46663,1,mapped,True,ChEMBL
+CHEMBL288,"3',5'-cyclic-AMP phosphodiesterase 4D",SINGLE PROTEIN,Homo sapiens,Q08499,1,mapped,True,ChEMBL
+CHEMBL3998,D(2) dopamine receptor,SINGLE PROTEIN,Bos taurus,P20288,1,mapped,False,ChEMBL
+CHEMBL3138,D(3) dopamine receptor,SINGLE PROTEIN,Rattus norvegicus,P19020,1,mapped,False,ChEMBL
+CHEMBL4040,Mitogen-activated protein kinase 1,SINGLE PROTEIN,Homo sapiens,P28482,1,mapped,True,ChEMBL
+CHEMBL1784,Glucagon-like peptide 1 receptor,SINGLE PROTEIN,Homo sapiens,P43220,1,mapped,True,ChEMBL
+CHEMBL3401,Nuclear receptor subfamily 1 group I member 2,SINGLE PROTEIN,Homo sapiens,O75469,1,mapped,True,ChEMBL
+CHEMBL3072,Androgen receptor,SINGLE PROTEIN,Rattus norvegicus,P15207,1,mapped,False,ChEMBL
+CHEMBL4123,Neurotensin receptor type 1,SINGLE PROTEIN,Homo sapiens,P30989,1,mapped,True,ChEMBL
+CHEMBL339,D(2) dopamine receptor,SINGLE PROTEIN,Rattus norvegicus,P61169,1,mapped,False,ChEMBL
+CHEMBL5027,Flap endonuclease 1,SINGLE PROTEIN,Homo sapiens,P39748,1,mapped,True,ChEMBL
+CHEMBL4261,Hypoxia-inducible factor 1-alpha,SINGLE PROTEIN,Homo sapiens,Q16665,1,mapped,True,ChEMBL
+CHEMBL4372,Lethal factor,SINGLE PROTEIN,Bacillus anthracis,P15917,1,mapped,False,ChEMBL
+CHEMBL4159,3-hydroxyacyl-CoA dehydrogenase type-2,SINGLE PROTEIN,Homo sapiens,Q99714,1,mapped,True,ChEMBL
+CHEMBL5162,Neuropeptide S receptor,SINGLE PROTEIN,Homo sapiens,Q6W5P4,1,mapped,True,ChEMBL
+CHEMBL1293224,Microtubule-associated protein tau,SINGLE PROTEIN,Homo sapiens,P10636,1,mapped,True,ChEMBL
+CHEMBL1293226,Lysine-specific demethylase 4E,SINGLE PROTEIN,Homo sapiens,B2RXH2,1,mapped,True,ChEMBL
+CHEMBL1293232,Survival motor neuron protein,SINGLE PROTEIN,Homo sapiens,Q16637,1,mapped,True,ChEMBL
+CHEMBL1293235,Prelamin-A/C,SINGLE PROTEIN,Homo sapiens,P02545,1,mapped,True,ChEMBL
+CHEMBL1293254,Ferritin light chain,SINGLE PROTEIN,Equus caballus,P02791,1,mapped,False,ChEMBL
+CHEMBL1293255,15-hydroxyprostaglandin dehydrogenase [NAD(+)],SINGLE PROTEIN,Homo sapiens,P15428,1,mapped,True,ChEMBL
+CHEMBL1293278,Geminin,SINGLE PROTEIN,Homo sapiens,O75496,1,mapped,True,ChEMBL
+CHEMBL1741186,Nuclear receptor ROR-gamma,SINGLE PROTEIN,Homo sapiens,P51449,1,mapped,True,ChEMBL
+CHEMBL1741193,Chromobox protein homolog 1,SINGLE PROTEIN,Homo sapiens,P83916,1,mapped,True,ChEMBL
+CHEMBL1795085,Ataxin-2,SINGLE PROTEIN,Homo sapiens,Q99700,1,mapped,True,ChEMBL
+CHEMBL1795087,Ubiquitin carboxyl-terminal hydrolase 1,SINGLE PROTEIN,Homo sapiens,O94782,1,mapped,True,ChEMBL
+CHEMBL2029198,Rap guanine nucleotide exchange factor 4,SINGLE PROTEIN,Homo sapiens,Q8WZA2,1,mapped,True,ChEMBL
+CHEMBL2146315,Nuclear receptor subfamily 1 group I member 2,SINGLE PROTEIN,Rattus norvegicus,Q9R1A7,1,mapped,False,ChEMBL
+CHEMBL4523507,Deoxynucleoside triphosphate triphosphohydrolase SAMHD1,SINGLE PROTEIN,Homo sapiens,Q9Y3Z3,1,mapped,True,ChEMBL
+CHEMBL4523582,Replicase polyprotein 1ab,SINGLE PROTEIN,Severe acute respiratory syndrome coronavirus 2,P0DTD1,1,mapped,False,ChEMBL
+CHEMBL1827,"cGMP-specific 3',5'-cyclic phosphodiesterase",SINGLE PROTEIN,Homo sapiens,O76074,1,mapped,True,ChEMBL
+CHEMBL205,Carbonic anhydrase 2,SINGLE PROTEIN,Homo sapiens,P00918,1,mapped,True,ChEMBL
+CHEMBL2035,Muscarinic acetylcholine receptor M5,SINGLE PROTEIN,Homo sapiens,P08912,1,mapped,True,ChEMBL
+CHEMBL2885,Carbonic anhydrase 3,SINGLE PROTEIN,Homo sapiens,P07451,1,mapped,True,ChEMBL
+CHEMBL3025,Carbonic anhydrase 6,SINGLE PROTEIN,Homo sapiens,P23280,1,mapped,True,ChEMBL
+CHEMBL261,Carbonic anhydrase 1,SINGLE PROTEIN,Homo sapiens,P00915,1,mapped,True,ChEMBL
+CHEMBL3155,5-hydroxytryptamine receptor 7,SINGLE PROTEIN,Homo sapiens,P34969,1,mapped,True,ChEMBL
+CHEMBL4706,Carbonic anhydrase 2,SINGLE PROTEIN,Rattus norvegicus,P27139,1,mapped,False,ChEMBL
+CHEMBL2064,Gamma-aminobutyric acid type B receptor subunit 1,SINGLE PROTEIN,Homo sapiens,Q9UBS5,1,mapped,True,ChEMBL
+CHEMBL3399,Sodium channel protein type 2 subunit alpha,SINGLE PROTEIN,Rattus norvegicus,P04775,1,mapped,False,ChEMBL
+CHEMBL2650,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B",SINGLE PROTEIN,Bos taurus,Q01061,1,mapped,False,ChEMBL
+CHEMBL3477,"cGMP-dependent 3',5'-cyclic phosphodiesterase",SINGLE PROTEIN,Bos taurus,P14099,1,mapped,False,ChEMBL
+CHEMBL3371,5-hydroxytryptamine receptor 6,SINGLE PROTEIN,Homo sapiens,P50406,1,mapped,True,ChEMBL
+CHEMBL2186,Carbonic anhydrase 13,SINGLE PROTEIN,Mus musculus,Q9D6N1,1,mapped,False,ChEMBL
+CHEMBL3969,"Carbonic anhydrase 5B, mitochondrial",SINGLE PROTEIN,Homo sapiens,Q9Y2D0,1,mapped,True,ChEMBL
+CHEMBL281,Carbonic anhydrase 4,SINGLE PROTEIN,Bos taurus,Q95323,1,mapped,False,ChEMBL
+CHEMBL4789,"Carbonic anhydrase 5A, mitochondrial",SINGLE PROTEIN,Homo sapiens,P35218,1,mapped,True,ChEMBL
+CHEMBL2326,Carbonic anhydrase 7,SINGLE PROTEIN,Homo sapiens,P43166,1,mapped,True,ChEMBL
+CHEMBL3510,Carbonic anhydrase 14,SINGLE PROTEIN,Homo sapiens,Q9ULX7,1,mapped,True,ChEMBL
+CHEMBL4619,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1C",SINGLE PROTEIN,Homo sapiens,Q14123,1,mapped,True,ChEMBL
+CHEMBL1865,Protein deacetylase HDAC6,SINGLE PROTEIN,Homo sapiens,Q9UBN7,1,mapped,True,ChEMBL
+CHEMBL302,Adenosine receptor A2a,SINGLE PROTEIN,Rattus norvegicus,P30543,1,mapped,False,ChEMBL
+CHEMBL3242,Carbonic anhydrase 12,SINGLE PROTEIN,Homo sapiens,O43570,1,mapped,True,ChEMBL
+CHEMBL4975,Adenosine receptor A1,SINGLE PROTEIN,Bos taurus,P28190,1,mapped,False,ChEMBL
+CHEMBL318,Adenosine receptor A1,SINGLE PROTEIN,Rattus norvegicus,P25099,1,mapped,False,ChEMBL
+CHEMBL3729,Carbonic anhydrase 4,SINGLE PROTEIN,Homo sapiens,P22748,1,mapped,True,ChEMBL
+CHEMBL3912,Carbonic anhydrase 13,SINGLE PROTEIN,Homo sapiens,Q8N1Q1,1,mapped,True,ChEMBL
+CHEMBL3594,Carbonic anhydrase 9,SINGLE PROTEIN,Homo sapiens,Q16790,1,mapped,True,ChEMBL
+CHEMBL2605,Adenosine receptor A2a,SINGLE PROTEIN,Cavia porcellus,P46616,1,mapped,False,ChEMBL
+CHEMBL3926,Carbonic anhydrase,SINGLE PROTEIN,Methanobacterium thermoautotrophicum,Q50565,1,mapped,False,ChEMBL
+CHEMBL3932,Carbonic anhydrase,SINGLE PROTEIN,Methanosarcina thermophila,P40881,1,mapped,False,ChEMBL
+CHEMBL4211,Carbonic anhydrase,SINGLE PROTEIN,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori),O24855,1,mapped,False,ChEMBL
+CHEMBL4377,Guanine nucleotide-binding protein G(s) subunit alpha isoforms short,SINGLE PROTEIN,Homo sapiens,P63092,1,mapped,True,ChEMBL
+CHEMBL5337,Carbonic anhydrase,SINGLE PROTEIN,Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast),Q5AJ71,1,mapped,False,ChEMBL
+CHEMBL5931,Carbonic anhydrase,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,P53615,1,mapped,False,ChEMBL
+CHEMBL5973,Carbonic anhydrase 15,SINGLE PROTEIN,Mus musculus,Q99N23,1,mapped,False,ChEMBL
+CHEMBL5619,DNA repair nuclease/redox regulator APEX1,SINGLE PROTEIN,Homo sapiens,P27695,1,mapped,True,ChEMBL
+CHEMBL5631,Beta-carbonic anhydrase 1,SINGLE PROTEIN,Mycobacterium tuberculosis,P9WPJ7,1,mapped,False,ChEMBL
+CHEMBL5767,PROBABLE TRANSMEMBRANE CARBONIC ANHYDRASE (CARBONATE DEHYDRATASE) (CARBONIC DEHYDRATASE),SINGLE PROTEIN,Mycobacterium tuberculosis,P96878,1,mapped,False,ChEMBL
+CHEMBL6185,Carbonic anhydrase,SINGLE PROTEIN,Candida glabrata CBS 138,Q6FTL6,1,mapped,False,ChEMBL
+CHEMBL6068,Carbonic anhydrase 2,SINGLE PROTEIN,Mycobacterium tuberculosis,P9WPJ9,1,mapped,False,ChEMBL
+CHEMBL1075028,Alpha carbonic anhydrase,SINGLE PROTEIN,Stylophora pistillata,B5SU02,1,mapped,False,ChEMBL
+CHEMBL1649055,Carbonic anhydrase,SINGLE PROTEIN,Stylophora pistillata,C0IX24,1,mapped,False,ChEMBL
+CHEMBL1697676,Carbonic anhydrase 2,SINGLE PROTEIN,Cryptococcus neoformans,Q3I4V7,1,mapped,False,ChEMBL
+CHEMBL1944499,Astrosclerin-3,SINGLE PROTEIN,Astrosclera willeyana,A6YCJ1,1,mapped,False,ChEMBL
+CHEMBL2304404,Adenosine receptor A1,SINGLE PROTEIN,Cavia porcellus,P47745,1,mapped,False,ChEMBL
+CHEMBL3097982,Delta carbonic anhydrase,SINGLE PROTEIN,Conticribra weissflogii,Q5U9J1,1,mapped,False,ChEMBL
+CHEMBL3399914,AGAP002992-PA,SINGLE PROTEIN,Anopheles gambiae,Q5TU56,1,mapped,False,ChEMBL
+CHEMBL3621035,"Carbonic anhydrase, alpha family",SINGLE PROTEIN,Thiomicrospira crunogena,Q31FD6,1,mapped,False,ChEMBL
+CHEMBL3745586,Carbonate dehydratase,SINGLE PROTEIN,Sulfurihydrogenibium sp. (strain YO3AOP1),B2V8E3,1,mapped,False,ChEMBL
+CHEMBL1940,Voltage-dependent L-type calcium channel subunit alpha-1C,SINGLE PROTEIN,Homo sapiens,Q13936,1,mapped,True,ChEMBL
+CHEMBL1821,Muscarinic acetylcholine receptor M4,SINGLE PROTEIN,Homo sapiens,P08173,1,mapped,True,ChEMBL
+CHEMBL255,Adenosine receptor A2b,SINGLE PROTEIN,Homo sapiens,P29275,1,mapped,True,ChEMBL
+CHEMBL2026,Beta-lactamase,SINGLE PROTEIN,Escherichia coli K-12,P00811,1,mapped,False,ChEMBL
+CHEMBL2327,Substance-K receptor,SINGLE PROTEIN,Homo sapiens,P21452,1,mapped,True,ChEMBL
+CHEMBL4306,Potassium voltage-gated channel subfamily A member 5,SINGLE PROTEIN,Homo sapiens,P22460,1,mapped,True,ChEMBL
+CHEMBL2652,"cGMP-dependent 3',5'-cyclic phosphodiesterase",SINGLE PROTEIN,Homo sapiens,O00408,1,mapped,True,ChEMBL
+CHEMBL275,"3',5'-cyclic-AMP phosphodiesterase 4B",SINGLE PROTEIN,Homo sapiens,Q07343,1,mapped,True,ChEMBL
+CHEMBL3130,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",SINGLE PROTEIN,Homo sapiens,O00329,1,mapped,True,ChEMBL
+CHEMBL3560,"Malate dehydrogenase, cytoplasmic",SINGLE PROTEIN,Homo sapiens,P40925,1,mapped,True,ChEMBL
+CHEMBL4005,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",SINGLE PROTEIN,Homo sapiens,P42336,1,mapped,True,ChEMBL
+CHEMBL3878,"Rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha",SINGLE PROTEIN,Homo sapiens,P16499,1,mapped,True,ChEMBL
+CHEMBL2760,Sphingomyelin phosphodiesterase,SINGLE PROTEIN,Homo sapiens,P17405,1,mapped,True,ChEMBL
+CHEMBL2386,Chymotrypsin-C,SINGLE PROTEIN,Homo sapiens,Q99895,1,mapped,True,ChEMBL
+CHEMBL3012,"High affinity 3',5'-cyclic-AMP phosphodiesterase 7A",SINGLE PROTEIN,Homo sapiens,Q13946,1,mapped,True,ChEMBL
+CHEMBL3267,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",SINGLE PROTEIN,Homo sapiens,P48736,1,mapped,True,ChEMBL
+CHEMBL3360,Adenosine receptor A3,SINGLE PROTEIN,Rattus norvegicus,P28647,1,mapped,False,ChEMBL
+CHEMBL3145,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",SINGLE PROTEIN,Homo sapiens,P42338,1,mapped,True,ChEMBL
+CHEMBL3866,Sodium channel protein type 5 subunit alpha,SINGLE PROTEIN,Rattus norvegicus,P15389,1,mapped,False,ChEMBL
+CHEMBL2592,Adenosine receptor A2b,SINGLE PROTEIN,Rattus norvegicus,P29276,1,mapped,False,ChEMBL
+CHEMBL3774,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",SINGLE PROTEIN,Bos taurus,P14100,1,mapped,False,ChEMBL
+CHEMBL2830,Voltage-dependent L-type calcium channel subunit alpha-1C,SINGLE PROTEIN,Oryctolagus cuniculus,P15381,1,mapped,False,ChEMBL
+CHEMBL2072,Sodium channel protein type 4 subunit alpha,SINGLE PROTEIN,Homo sapiens,P35499,1,mapped,True,ChEMBL
+CHEMBL4296,Sodium channel protein type 9 subunit alpha,SINGLE PROTEIN,Homo sapiens,Q15858,1,mapped,True,ChEMBL
+CHEMBL5163,Sodium channel protein type 3 subunit alpha,SINGLE PROTEIN,Homo sapiens,Q9NY46,1,mapped,True,ChEMBL
+CHEMBL5129,Phosphodiesterase 3B,SINGLE PROTEIN,Bos taurus,E1BN64,1,mapped,False,ChEMBL
+CHEMBL4295,Potassium channel subfamily K member 9,SINGLE PROTEIN,Rattus norvegicus,Q9ES08,1,mapped,False,ChEMBL
+CHEMBL5573,Intestinal-type alkaline phosphatase,SINGLE PROTEIN,Homo sapiens,P09923,1,mapped,True,ChEMBL
+CHEMBL6035,"Thioredoxin reductase 1, cytoplasmic",SINGLE PROTEIN,Rattus norvegicus,O89049,1,mapped,False,ChEMBL
+CHEMBL5979,"Alkaline phosphatase, tissue-nonspecific isozyme",SINGLE PROTEIN,Homo sapiens,P05186,1,mapped,True,ChEMBL
+CHEMBL6114,Phospholipase A-2-activating protein,SINGLE PROTEIN,Homo sapiens,Q9Y263,1,mapped,True,ChEMBL
+CHEMBL1075227,A-type voltage-gated potassium channel KCND2,SINGLE PROTEIN,Rattus norvegicus,Q63881,1,mapped,False,ChEMBL
+CHEMBL1293191,Transcriptional regulator ERG,SINGLE PROTEIN,Homo sapiens,P11308,1,mapped,True,ChEMBL
+CHEMBL1293238,Inositol monophosphatase 1,SINGLE PROTEIN,Rattus norvegicus,P97697,1,mapped,False,ChEMBL
+CHEMBL1293248,4'-phosphopantetheinyl transferase ffp,SINGLE PROTEIN,Bacillus subtilis,Q9F4F7,1,mapped,False,ChEMBL
+CHEMBL1741220,Bromodomain adjacent to zinc finger domain protein 2B,SINGLE PROTEIN,Homo sapiens,Q9UIF8,1,mapped,True,ChEMBL
+CHEMBL1743126,Multidrug and toxin extrusion protein 1,SINGLE PROTEIN,Homo sapiens,Q96FL8,1,mapped,True,ChEMBL
+CHEMBL2007624,Peripheral myelin protein 22,SINGLE PROTEIN,Rattus norvegicus,P25094,1,mapped,False,ChEMBL
+CHEMBL2007625,Isocitrate dehydrogenase [NADP] cytoplasmic,SINGLE PROTEIN,Homo sapiens,O75874,1,mapped,True,ChEMBL
+CHEMBL2073665,Organic cation/carnitine transporter 2,SINGLE PROTEIN,Mus musculus,Q9Z0E8,1,mapped,False,ChEMBL
+CHEMBL2321613,Potassium channel subfamily K member 3,SINGLE PROTEIN,Homo sapiens,O14649,1,mapped,True,ChEMBL
+CHEMBL2321615,Potassium channel subfamily K member 2,SINGLE PROTEIN,Homo sapiens,O95069,1,mapped,True,ChEMBL
+CHEMBL2331042,Potassium channel subfamily K member 18,SINGLE PROTEIN,Homo sapiens,Q7Z418,1,mapped,True,ChEMBL
+CHEMBL2362981,TAR DNA-binding protein 43,SINGLE PROTEIN,Homo sapiens,Q13148,1,mapped,True,ChEMBL
+CHEMBL2366406,PDE7B protein,SINGLE PROTEIN,Bos taurus,A6QP37,1,mapped,False,ChEMBL
+CHEMBL3308902,Eukaryotic peptide chain release factor GTP-binding subunit,SINGLE PROTEIN,Saccharomyces cerevisiae,P05453,1,mapped,False,ChEMBL
+CHEMBL3712907,Transmembrane domain-containing protein TMIGD3,SINGLE PROTEIN,Homo sapiens,P0DMS9,1,mapped,True,ChEMBL
+CHEMBL3714531,Palmitoleoyl-protein carboxylesterase NOTUM,SINGLE PROTEIN,Homo sapiens,Q6P988,1,mapped,True,ChEMBL
+CHEMBL4523395,Diacylglycerol O-acyltransferase 1,SINGLE PROTEIN,Bos taurus,Q8MK44,1,mapped,False,ChEMBL
+CHEMBL4523439,Lecithin retinol acyltransferase,SINGLE PROTEIN,Bos taurus,Q9BGL2,1,mapped,False,ChEMBL
+CHEMBL1977,Vitamin D3 receptor,SINGLE PROTEIN,Homo sapiens,P11473,1,mapped,True,ChEMBL
+CHEMBL2014,Nociceptin receptor,SINGLE PROTEIN,Homo sapiens,P41146,1,mapped,True,ChEMBL
+CHEMBL4329,Kappa-type opioid receptor,SINGLE PROTEIN,Mus musculus,P33534,1,mapped,False,ChEMBL
+CHEMBL2157,Interleukin-8,SINGLE PROTEIN,Homo sapiens,P10145,1,mapped,True,ChEMBL
+CHEMBL4828,Synaptic vesicular amine transporter,SINGLE PROTEIN,Rattus norvegicus,Q01827,1,mapped,False,ChEMBL
+CHEMBL3222,Delta-type opioid receptor,SINGLE PROTEIN,Mus musculus,P32300,1,mapped,False,ChEMBL
+CHEMBL269,Delta-type opioid receptor,SINGLE PROTEIN,Rattus norvegicus,P33533,1,mapped,False,ChEMBL
+CHEMBL3614,Kappa-type opioid receptor,SINGLE PROTEIN,Rattus norvegicus,P34975,1,mapped,False,ChEMBL
+CHEMBL3041,Mu-type opioid receptor,SINGLE PROTEIN,Bos taurus,P79350,1,mapped,False,ChEMBL
+CHEMBL270,Mu-type opioid receptor,SINGLE PROTEIN,Rattus norvegicus,P33535,1,mapped,False,ChEMBL
+CHEMBL3426,5-hydroxytryptamine receptor 5A,SINGLE PROTEIN,Homo sapiens,P47898,1,mapped,True,ChEMBL
+CHEMBL4817,Albumin,SINGLE PROTEIN,Rattus norvegicus,P02770,1,mapped,False,ChEMBL
+CHEMBL2457,Polyunsaturated fatty acid lipoxygenase ALOX15B,SINGLE PROTEIN,Homo sapiens,O15296,1,mapped,True,ChEMBL
+CHEMBL3467,ATP-dependent translocase ABCB1,SINGLE PROTEIN,Mus musculus,P06795,1,mapped,False,ChEMBL
+CHEMBL2695,Focal adhesion kinase 1,SINGLE PROTEIN,Homo sapiens,Q05397,1,mapped,True,ChEMBL
+CHEMBL287,Sigma non-opioid intracellular receptor 1,SINGLE PROTEIN,Homo sapiens,Q99720,1,mapped,True,ChEMBL
+CHEMBL3251,Nuclear factor NF-kappa-B p105 subunit,SINGLE PROTEIN,Homo sapiens,P19838,1,mapped,True,ChEMBL
+CHEMBL304,Norepinephrine transporter,SINGLE PROTEIN,Rattus norvegicus,Q9WTR4,1,mapped,False,ChEMBL
+CHEMBL313,Sodium-dependent serotonin transporter,SINGLE PROTEIN,Rattus norvegicus,P31652,1,mapped,False,ChEMBL
+CHEMBL3979,Peroxisome proliferator-activated receptor delta,SINGLE PROTEIN,Homo sapiens,Q03181,1,mapped,True,ChEMBL
+CHEMBL2858,Mu-type opioid receptor,SINGLE PROTEIN,Mus musculus,P42866,1,mapped,False,ChEMBL
+CHEMBL2573,ATP-dependent translocase ABCB1,SINGLE PROTEIN,Mus musculus,P21447,1,mapped,False,ChEMBL
+CHEMBL319,Alpha-1A adrenergic receptor,SINGLE PROTEIN,Rattus norvegicus,P43140,1,mapped,False,ChEMBL
+CHEMBL2622,Aldo-keto reductase family 1 member B1,SINGLE PROTEIN,Rattus norvegicus,P07943,1,mapped,False,ChEMBL
+CHEMBL3305,Sex hormone-binding globulin,SINGLE PROTEIN,Homo sapiens,P04278,1,mapped,True,ChEMBL
+CHEMBL322,5-hydroxytryptamine receptor 2A,SINGLE PROTEIN,Rattus norvegicus,P14842,1,mapped,False,ChEMBL
+CHEMBL3619,UDP-glucuronosyltransferase 1A4,SINGLE PROTEIN,Homo sapiens,P22310,1,mapped,True,ChEMBL
+CHEMBL338,Sodium-dependent dopamine transporter,SINGLE PROTEIN,Rattus norvegicus,P23977,1,mapped,False,ChEMBL
+CHEMBL4078,Acetylcholinesterase,SINGLE PROTEIN,Electrophorus electricus,O42275,1,mapped,False,ChEMBL
+CHEMBL3952,Kappa-type opioid receptor,SINGLE PROTEIN,Cavia porcellus,P41144,1,mapped,False,ChEMBL
+CHEMBL4096,Cellular tumor antigen p53,SINGLE PROTEIN,Homo sapiens,P04637,1,mapped,True,ChEMBL
+CHEMBL4354,Mu-type opioid receptor,SINGLE PROTEIN,Cavia porcellus,P97266,1,mapped,False,ChEMBL
+CHEMBL4370,UDP-glucuronosyltransferase 2B7,SINGLE PROTEIN,Homo sapiens,P16662,1,mapped,True,ChEMBL
+CHEMBL5492,Nociceptin receptor,SINGLE PROTEIN,Cavia porcellus,P47748,1,mapped,False,ChEMBL
+CHEMBL5567,Luciferin 4-monooxygenase,SINGLE PROTEIN,Photinus pyralis,P08659,1,mapped,False,ChEMBL
+CHEMBL6184,Transporter,SINGLE PROTEIN,Rattus norvegicus,Q63380,1,mapped,False,ChEMBL
+CHEMBL6161,UDP-glucuronosyltransferase 2B15,SINGLE PROTEIN,Homo sapiens,P54855,1,mapped,True,ChEMBL
+CHEMBL6110,Thioredoxin glutathione reductase,SINGLE PROTEIN,Schistosoma mansoni,Q962Y6,1,mapped,False,ChEMBL
+CHEMBL1287617,UDP-glucuronosyltransferase 1A1,SINGLE PROTEIN,Homo sapiens,P22309,1,mapped,True,ChEMBL
+CHEMBL1293256,Thrombopoietin,SINGLE PROTEIN,Homo sapiens,P40225,1,mapped,True,ChEMBL
+CHEMBL1293317,Muscleblind-like protein 1,SINGLE PROTEIN,Homo sapiens,Q9NR56,1,mapped,True,ChEMBL
+CHEMBL1741189,FAD-linked sulfhydryl oxidase ALR,SINGLE PROTEIN,Homo sapiens,P55789,1,mapped,True,ChEMBL
+CHEMBL1743316,UDP-glucuronosyltransferase 1A6,SINGLE PROTEIN,Homo sapiens,P19224,1,mapped,True,ChEMBL
+CHEMBL1743318,UDP-glucuronosyltransferase 1A8,SINGLE PROTEIN,Homo sapiens,Q9HAW9,1,mapped,True,ChEMBL
+CHEMBL1743319,UDP-glucuronosyltransferase 1A9,SINGLE PROTEIN,Homo sapiens,O60656,1,mapped,True,ChEMBL
+CHEMBL1743320,UDP-glucuronosyltransferase 1A10,SINGLE PROTEIN,Homo sapiens,Q9HAW8,1,mapped,True,ChEMBL
+CHEMBL2146302,"Glutaminase kidney isoform, mitochondrial",SINGLE PROTEIN,Homo sapiens,O94925,1,mapped,True,ChEMBL
+CHEMBL3407312,Krueppel-like factor 10,SINGLE PROTEIN,Homo sapiens,Q13118,1,mapped,True,ChEMBL
+CHEMBL3542435,UDP-glucuronosyltransferase 1A3,SINGLE PROTEIN,Homo sapiens,P35503,1,mapped,True,ChEMBL
+CHEMBL3713095,Galactocerebrosidase,SINGLE PROTEIN,Homo sapiens,P54803,1,mapped,True,ChEMBL
+CHEMBL1801,Plasminogen,SINGLE PROTEIN,Homo sapiens,P00747,1,mapped,True,ChEMBL
+CHEMBL1962,Gamma-aminobutyric acid receptor subunit alpha-1,SINGLE PROTEIN,Homo sapiens,P14867,1,mapped,True,ChEMBL
+CHEMBL1898,5-hydroxytryptamine receptor 1B,SINGLE PROTEIN,Homo sapiens,P28222,1,mapped,True,ChEMBL
+CHEMBL3721,Cytochrome P450 2C8,SINGLE PROTEIN,Homo sapiens,P10632,1,mapped,True,ChEMBL
+CHEMBL262,Glycogen synthase kinase-3 beta,SINGLE PROTEIN,Homo sapiens,P49841,1,mapped,True,ChEMBL
+CHEMBL4607,Type-2 angiotensin II receptor,SINGLE PROTEIN,Homo sapiens,P50052,1,mapped,True,ChEMBL
+CHEMBL3192,Histone deacetylase 8,SINGLE PROTEIN,Homo sapiens,Q9BY41,1,mapped,True,ChEMBL
+CHEMBL4081,Tissue factor,SINGLE PROTEIN,Homo sapiens,P13726,1,mapped,True,ChEMBL
+CHEMBL3869,Matrix metalloproteinase-14,SINGLE PROTEIN,Homo sapiens,P50281,1,mapped,True,ChEMBL
+CHEMBL1937,Histone deacetylase 2,SINGLE PROTEIN,Homo sapiens,Q92769,1,mapped,True,ChEMBL
+CHEMBL1829,Histone deacetylase 3,SINGLE PROTEIN,Homo sapiens,O15379,1,mapped,True,ChEMBL
+CHEMBL3524,Histone deacetylase 4,SINGLE PROTEIN,Homo sapiens,P56524,1,mapped,True,ChEMBL
+CHEMBL2246,Aldo-keto reductase family 1 member A1,SINGLE PROTEIN,Homo sapiens,P14550,1,mapped,True,ChEMBL
+CHEMBL1873,Tissue-type plasminogen activator,SINGLE PROTEIN,Homo sapiens,P00750,1,mapped,True,ChEMBL
+CHEMBL3180,Cocaine esterase,SINGLE PROTEIN,Homo sapiens,O00748,1,mapped,True,ChEMBL
+CHEMBL2265,Liver carboxylesterase 1,SINGLE PROTEIN,Homo sapiens,P23141,1,mapped,True,ChEMBL
+CHEMBL4145,Histone deacetylase 9,SINGLE PROTEIN,Homo sapiens,Q9UKV0,1,mapped,True,ChEMBL
+CHEMBL1847,Gamma-aminobutyric acid receptor subunit beta-3,SINGLE PROTEIN,Homo sapiens,P28472,1,mapped,True,ChEMBL
+CHEMBL3286,Urokinase-type plasminogen activator,SINGLE PROTEIN,Homo sapiens,P00749,1,mapped,True,ChEMBL
+CHEMBL3871,Aldo-keto reductase family 1 member A1,SINGLE PROTEIN,Rattus norvegicus,P51635,1,mapped,False,ChEMBL
+CHEMBL2563,Histone deacetylase 5,SINGLE PROTEIN,Homo sapiens,Q9UQL6,1,mapped,True,ChEMBL
+CHEMBL2716,Histone deacetylase 7,SINGLE PROTEIN,Homo sapiens,Q8WUI4,1,mapped,True,ChEMBL
+CHEMBL325,Histone deacetylase 1,SINGLE PROTEIN,Homo sapiens,Q13547,1,mapped,True,ChEMBL
+CHEMBL3444,"Malate dehydrogenase, mitochondrial",SINGLE PROTEIN,Sus scrofa,P00346,1,mapped,False,ChEMBL
+CHEMBL3081,Aldo-keto reductase family 1 member B1,SINGLE PROTEIN,Bos taurus,P16116,1,mapped,False,ChEMBL
+CHEMBL5282,Cytochrome P450 2A6,SINGLE PROTEIN,Homo sapiens,P11509,1,mapped,True,ChEMBL
+CHEMBL4729,Cytochrome P450 2B6,SINGLE PROTEIN,Homo sapiens,P20813,1,mapped,True,ChEMBL
+CHEMBL4294,Potassium channel subfamily K member 3,SINGLE PROTEIN,Rattus norvegicus,O54912,1,mapped,False,ChEMBL
+CHEMBL4683,Prolyl endopeptidase FAP,SINGLE PROTEIN,Homo sapiens,Q12884,1,mapped,True,ChEMBL
+CHEMBL4153,Sigma non-opioid intracellular receptor 1,SINGLE PROTEIN,Cavia porcellus,Q60492,1,mapped,False,ChEMBL
+CHEMBL5849,Mas-related G-protein coupled receptor member X2,SINGLE PROTEIN,Homo sapiens,Q96LB1,1,mapped,True,ChEMBL
+CHEMBL6053,Class A carbapenemase,SINGLE PROTEIN,Klebsiella pneumoniae,A9LM97,1,mapped,False,ChEMBL
+CHEMBL6196,UDP-glucuronosyltransferase 2B4,SINGLE PROTEIN,Homo sapiens,P06133,1,mapped,True,ChEMBL
+CHEMBL6160,UDP-glucuronosyltransferase 2B10,SINGLE PROTEIN,Homo sapiens,P36537,1,mapped,True,ChEMBL
+CHEMBL1287604,Beta-lactamase OXA-48,SINGLE PROTEIN,Klebsiella pneumoniae,Q6XEC0,1,mapped,False,ChEMBL
+CHEMBL1293258,Mothers against decapentaplegic homolog 3,SINGLE PROTEIN,Homo sapiens,P84022,1,mapped,True,ChEMBL
+CHEMBL1743321,UDP-glucuronosyltransferase 2A1,SINGLE PROTEIN,Homo sapiens,P0DTE4,1,mapped,True,ChEMBL
+CHEMBL1777665,Solute carrier family 22 member 6,SINGLE PROTEIN,Rattus norvegicus,O35956,1,mapped,False,ChEMBL
+CHEMBL1795091,Regulator of G-protein signaling 4,SINGLE PROTEIN,Homo sapiens,P49798,1,mapped,True,ChEMBL
+CHEMBL2073693,Organic cation/carnitine transporter 2,SINGLE PROTEIN,Homo sapiens,O76082,1,mapped,True,ChEMBL
+CHEMBL2163183,"NAD-dependent protein deacylase sirtuin-5, mitochondrial",SINGLE PROTEIN,Homo sapiens,Q9NXA8,1,mapped,True,ChEMBL
+CHEMBL2189159,"Indoleamine 2,3-dioxygenase 2",SINGLE PROTEIN,Mus musculus,Q8R0V5,1,mapped,False,ChEMBL
+CHEMBL2321614,Potassium channel subfamily K member 9,SINGLE PROTEIN,Homo sapiens,Q9NPC2,1,mapped,True,ChEMBL
+CHEMBL3091260,Kappa-type opioid receptor,SINGLE PROTEIN,Cricetulus griseus,G3HZR5,1,mapped,False,ChEMBL
+CHEMBL3091261,Delta-type opioid receptor,SINGLE PROTEIN,Cricetulus griseus,G3H1Y1,1,mapped,False,ChEMBL
+CHEMBL3421523,Aldo-keto reductase family 1 member B7,SINGLE PROTEIN,Rattus norvegicus,Q5RJP0,1,mapped,False,ChEMBL
+CHEMBL3611961,Mu opioid receptor-like OR2,SINGLE PROTEIN,Danio rerio,B8JHS2,1,mapped,False,ChEMBL
+CHEMBL3638360,Gag-Pol polyprotein,SINGLE PROTEIN,Human immunodeficiency virus type 1 group M subtype B (isolate HXB2)(HIV-1),P04585,1,mapped,False,ChEMBL
+CHEMBL4105711,"Opioid receptor, delta 1b",SINGLE PROTEIN,Danio rerio,B3DH72,1,mapped,False,ChEMBL
+CHEMBL4105897,Opioid receptor homologue,SINGLE PROTEIN,Danio rerio,A3QJX7,1,mapped,False,ChEMBL
+CHEMBL2055,Retinoic acid receptor alpha,SINGLE PROTEIN,Homo sapiens,P10276,1,mapped,True,ChEMBL
+CHEMBL2023,Catechol O-methyltransferase,SINGLE PROTEIN,Homo sapiens,P21964,1,mapped,True,ChEMBL
+CHEMBL223,Alpha-1D adrenergic receptor,SINGLE PROTEIN,Homo sapiens,P25100,1,mapped,True,ChEMBL
+CHEMBL1983,5-hydroxytryptamine receptor 1D,SINGLE PROTEIN,Homo sapiens,P28221,1,mapped,True,ChEMBL
+CHEMBL239,Peroxisome proliferator-activated receptor alpha,SINGLE PROTEIN,Homo sapiens,Q07869,1,mapped,True,ChEMBL
+CHEMBL2003,Retinoic acid receptor gamma,SINGLE PROTEIN,Homo sapiens,P13631,1,mapped,True,ChEMBL
+CHEMBL253,Cannabinoid receptor 2,SINGLE PROTEIN,Homo sapiens,P34972,1,mapped,True,ChEMBL
+CHEMBL2008,Retinoic acid receptor beta,SINGLE PROTEIN,Homo sapiens,P10826,1,mapped,True,ChEMBL
+CHEMBL4550,Arachidonate 5-lipoxygenase-activating protein,SINGLE PROTEIN,Homo sapiens,P20292,1,mapped,True,ChEMBL
+CHEMBL2882,Histamine H2 receptor,SINGLE PROTEIN,Cavia porcellus,P47747,1,mapped,False,ChEMBL
+CHEMBL265,D(1A) dopamine receptor,SINGLE PROTEIN,Rattus norvegicus,P18901,1,mapped,False,ChEMBL
+CHEMBL2483,Cytochrome P450 2D26,SINGLE PROTEIN,Rattus norvegicus,P10634,1,mapped,False,ChEMBL
+CHEMBL2475,Cytochrome P450 2D1,SINGLE PROTEIN,Rattus norvegicus,P10633,1,mapped,False,ChEMBL
+CHEMBL2798,Cholecystokinin receptor type A,SINGLE PROTEIN,Mus musculus,O08786,1,mapped,False,ChEMBL
+CHEMBL4478,Voltage-dependent N-type calcium channel subunit alpha-1B,SINGLE PROTEIN,Homo sapiens,Q00975,1,mapped,True,ChEMBL
+CHEMBL3459,5-hydroxytryptamine receptor 1B,SINGLE PROTEIN,Rattus norvegicus,P28564,1,mapped,False,ChEMBL
+CHEMBL4982,Cytochrome P450 2D4,SINGLE PROTEIN,Rattus norvegicus,Q64680,1,mapped,False,ChEMBL
+CHEMBL2231,Cytochrome P450 1A1,SINGLE PROTEIN,Homo sapiens,P04798,1,mapped,True,ChEMBL
+CHEMBL2047,Bile acid receptor,SINGLE PROTEIN,Homo sapiens,Q96RI1,1,mapped,True,ChEMBL
+CHEMBL2808,Oxysterols receptor LXR-alpha,SINGLE PROTEIN,Homo sapiens,Q13133,1,mapped,True,ChEMBL
+CHEMBL3229,Fatty-acid amide hydrolase 1,SINGLE PROTEIN,Rattus norvegicus,P97612,1,mapped,False,ChEMBL
+CHEMBL2243,Fatty-acid amide hydrolase 1,SINGLE PROTEIN,Homo sapiens,O00519,1,mapped,True,ChEMBL
+CHEMBL4701,Histamine H1 receptor,SINGLE PROTEIN,Rattus norvegicus,P31390,1,mapped,False,ChEMBL
+CHEMBL2842,Serine/threonine-protein kinase mTOR,SINGLE PROTEIN,Homo sapiens,P42345,1,mapped,True,ChEMBL
+CHEMBL2854,Gastrin/cholecystokinin type B receptor,SINGLE PROTEIN,Mus musculus,P56481,1,mapped,False,ChEMBL
+CHEMBL3105,Poly [ADP-ribose] polymerase 1,SINGLE PROTEIN,Homo sapiens,P09874,1,mapped,True,ChEMBL
+CHEMBL2815,High affinity nerve growth factor receptor,SINGLE PROTEIN,Homo sapiens,P04629,1,mapped,True,ChEMBL
+CHEMBL315,Alpha-1B adrenergic receptor,SINGLE PROTEIN,Rattus norvegicus,P15823,1,mapped,False,ChEMBL
+CHEMBL2372,Catechol O-methyltransferase,SINGLE PROTEIN,Rattus norvegicus,P22734,1,mapped,False,ChEMBL
+CHEMBL3057,Cytochrome P450 2D3,SINGLE PROTEIN,Rattus norvegicus,P12938,1,mapped,False,ChEMBL
+CHEMBL2949,Prostaglandin G/H synthase 1,SINGLE PROTEIN,Ovis aries,P05979,1,mapped,False,ChEMBL
+CHEMBL4187,Sodium channel protein type 2 subunit alpha,SINGLE PROTEIN,Homo sapiens,Q99250,1,mapped,True,ChEMBL
+CHEMBL5017,5-hydroxytryptamine receptor 4,SINGLE PROTEIN,Cavia porcellus,O70528,1,mapped,False,ChEMBL
+CHEMBL5281,Cytochrome P450 2E1,SINGLE PROTEIN,Homo sapiens,P05181,1,mapped,True,ChEMBL
+CHEMBL4358,Polyunsaturated fatty acid lipoxygenase ALOX15,SINGLE PROTEIN,Oryctolagus cuniculus,P12530,1,mapped,False,ChEMBL
+CHEMBL4093,Oxysterols receptor LXR-beta,SINGLE PROTEIN,Homo sapiens,P55055,1,mapped,True,ChEMBL
+CHEMBL2041,Proto-oncogene tyrosine-protein kinase receptor Ret,SINGLE PROTEIN,Homo sapiens,P07949,1,mapped,True,ChEMBL
+CHEMBL4191,Monoglyceride lipase,SINGLE PROTEIN,Homo sapiens,Q99685,1,mapped,True,ChEMBL
+CHEMBL4681,Aldo-keto reductase family 1 member C3,SINGLE PROTEIN,Homo sapiens,P42330,1,mapped,True,ChEMBL
+CHEMBL3785,Hydroxycarboxylic acid receptor 2,SINGLE PROTEIN,Homo sapiens,Q8TDS4,1,mapped,True,ChEMBL
+CHEMBL5503,Nuclear receptor subfamily 1 group I member 3,SINGLE PROTEIN,Homo sapiens,Q14994,1,mapped,True,ChEMBL
+CHEMBL1163125,Bromodomain-containing protein 4,SINGLE PROTEIN,Homo sapiens,O60885,1,mapped,True,ChEMBL
+CHEMBL1293289,Bromodomain-containing protein 2,SINGLE PROTEIN,Homo sapiens,P25440,1,mapped,True,ChEMBL
+CHEMBL1743122,Solute carrier family 22 member 2,SINGLE PROTEIN,Homo sapiens,O15244,1,mapped,True,ChEMBL
+CHEMBL1743127,Multidrug and toxin extrusion protein 2,SINGLE PROTEIN,Homo sapiens,Q86VL8,1,mapped,True,ChEMBL
+CHEMBL1743317,UDP-glucuronosyltransferase 1A7,SINGLE PROTEIN,Homo sapiens,Q9HAW7,1,mapped,True,ChEMBL
+CHEMBL1795186,Bromodomain-containing protein 3,SINGLE PROTEIN,Homo sapiens,Q15059,1,mapped,True,ChEMBL
+CHEMBL2073673,Solute carrier family 22 member 3,SINGLE PROTEIN,Homo sapiens,O75751,1,mapped,True,ChEMBL
+CHEMBL2406892,Myoglobin,SINGLE PROTEIN,Homo sapiens,P02144,1,mapped,True,ChEMBL
+CHEMBL4523510,Cholesterol 24-hydroxylase,SINGLE PROTEIN,Homo sapiens,Q9Y6A2,1,mapped,True,ChEMBL
+CHEMBL215,Polyunsaturated fatty acid 5-lipoxygenase,SINGLE PROTEIN,Homo sapiens,P09917,1,mapped,True,ChEMBL
+CHEMBL1900,Aldo-keto reductase family 1 member B1,SINGLE PROTEIN,Homo sapiens,P15121,1,mapped,True,ChEMBL
+CHEMBL1835,Thromboxane-A synthase,SINGLE PROTEIN,Homo sapiens,P24557,1,mapped,True,ChEMBL
+CHEMBL2061,Retinoic acid receptor RXR-alpha,SINGLE PROTEIN,Homo sapiens,P19793,1,mapped,True,ChEMBL
+CHEMBL4715,"Phospholipase A2, major isoenzyme",SINGLE PROTEIN,Sus scrofa,P00592,1,mapped,False,ChEMBL
+CHEMBL4834,Cytosolic phospholipase A2 gamma,SINGLE PROTEIN,Homo sapiens,Q9UP65,1,mapped,True,ChEMBL
+CHEMBL2424,Lactoylglutathione lyase,SINGLE PROTEIN,Homo sapiens,Q04760,1,mapped,True,ChEMBL
+CHEMBL2649,Prostaglandin G/H synthase 1,SINGLE PROTEIN,Mus musculus,P22437,1,mapped,False,ChEMBL
+CHEMBL2181,Prostaglandin E2 receptor EP1 subtype,SINGLE PROTEIN,Mus musculus,P35375,1,mapped,False,ChEMBL
+CHEMBL2488,Prostaglandin E2 receptor EP2 subtype,SINGLE PROTEIN,Mus musculus,Q62053,1,mapped,False,ChEMBL
+CHEMBL2489,Prostaglandin E2 receptor EP4 subtype,SINGLE PROTEIN,Mus musculus,P32240,1,mapped,False,ChEMBL
+CHEMBL3253,Albumin,SINGLE PROTEIN,Homo sapiens,P02768,1,mapped,True,ChEMBL
+CHEMBL2179,Lysosomal acid glucosylceramidase,SINGLE PROTEIN,Homo sapiens,P04062,1,mapped,True,ChEMBL
+CHEMBL2532,Multidrug resistance-associated protein 1,SINGLE PROTEIN,Mus musculus,O35379,1,mapped,False,ChEMBL
+CHEMBL3464,"Nitric oxide synthase, inducible",SINGLE PROTEIN,Mus musculus,P29477,1,mapped,False,ChEMBL
+CHEMBL4321,Prostaglandin G/H synthase 2,SINGLE PROTEIN,Mus musculus,Q05769,1,mapped,False,ChEMBL
+CHEMBL4334,Prostaglandin-H2 D-isomerase,SINGLE PROTEIN,Mus musculus,O09114,1,mapped,False,ChEMBL
+CHEMBL2409,Bifunctional epoxide hydrolase 2,SINGLE PROTEIN,Homo sapiens,P34913,1,mapped,True,ChEMBL
+CHEMBL3004,Multidrug resistance-associated protein 1,SINGLE PROTEIN,Homo sapiens,P33527,1,mapped,True,ChEMBL
+CHEMBL312,Polyunsaturated fatty acid 5-lipoxygenase,SINGLE PROTEIN,Rattus norvegicus,P12527,1,mapped,False,ChEMBL
+CHEMBL4336,Prostaglandin E2 receptor EP3 subtype,SINGLE PROTEIN,Mus musculus,P30557,1,mapped,False,ChEMBL
+CHEMBL3194,Transthyretin,SINGLE PROTEIN,Homo sapiens,P02766,1,mapped,True,ChEMBL
+CHEMBL2977,Prostaglandin G/H synthase 2,SINGLE PROTEIN,Rattus norvegicus,P35355,1,mapped,False,ChEMBL
+CHEMBL5016,Phospholipase A2,SINGLE PROTEIN,Rattus norvegicus,P04055,1,mapped,False,ChEMBL
+CHEMBL2860,Prostaglandin G/H synthase 1,SINGLE PROTEIN,Bos taurus,O62664,1,mapped,False,ChEMBL
+CHEMBL4102,Prostaglandin G/H synthase 2,SINGLE PROTEIN,Ovis aries,P79208,1,mapped,False,ChEMBL
+CHEMBL3933,Prostaglandin D2 receptor,SINGLE PROTEIN,Mus musculus,P70263,1,mapped,False,ChEMBL
+CHEMBL5071,Prostaglandin D2 receptor 2,SINGLE PROTEIN,Homo sapiens,Q9Y5Y4,1,mapped,True,ChEMBL
+CHEMBL5980,Genome polyprotein,SINGLE PROTEIN,dengue virus type 2,P29990,1,mapped,False,ChEMBL
+CHEMBL5365,DNA polymerase kappa,SINGLE PROTEIN,Homo sapiens,Q9UBT6,1,mapped,True,ChEMBL
+CHEMBL5391,DNA polymerase iota,SINGLE PROTEIN,Homo sapiens,Q9UNA4,1,mapped,True,ChEMBL
+CHEMBL5419,Genome polyprotein,SINGLE PROTEIN,West Nile virus,P06935,1,mapped,False,ChEMBL
+CHEMBL4999,Aldo-keto reductase family 1 member C4,SINGLE PROTEIN,Homo sapiens,P17516,1,mapped,True,ChEMBL
+CHEMBL5847,Aldo-keto reductase family 1 member C2,SINGLE PROTEIN,Homo sapiens,P52895,1,mapped,True,ChEMBL
+CHEMBL5974,Dehydrogenase/reductase SDR family member 9,SINGLE PROTEIN,Homo sapiens,Q9BPW9,1,mapped,True,ChEMBL
+CHEMBL5905,Aldo-keto reductase family 1 member C1,SINGLE PROTEIN,Homo sapiens,Q04828,1,mapped,True,ChEMBL
+CHEMBL5879,Hematopoietic prostaglandin D synthase,SINGLE PROTEIN,Homo sapiens,O60760,1,mapped,True,ChEMBL
+CHEMBL1293234,Fructose-bisphosphate aldolase,SINGLE PROTEIN,Giardia intestinalis,A8B2U2,1,mapped,False,ChEMBL
+CHEMBL1293267,G-protein coupled receptor 35,SINGLE PROTEIN,Homo sapiens,Q9HC97,1,mapped,True,ChEMBL
+CHEMBL1293294,Ras-related protein Rab-9A,SINGLE PROTEIN,Homo sapiens,P51151,1,mapped,True,ChEMBL
+CHEMBL1641347,Solute carrier family 22 member 6,SINGLE PROTEIN,Homo sapiens,Q4U2R8,1,mapped,True,ChEMBL
+CHEMBL1641359,Lipoxygenase,SINGLE PROTEIN,Glycine max,Q39829,1,mapped,False,ChEMBL
+CHEMBL1741210,M-phase phosphoprotein 8,SINGLE PROTEIN,Homo sapiens,Q99549,1,mapped,True,ChEMBL
+CHEMBL1781859,Solute carrier organic anion transporter family member 1A1,SINGLE PROTEIN,Rattus norvegicus,P46720,1,mapped,False,ChEMBL
+CHEMBL1781860,Solute carrier organic anion transporter family member 1A4,SINGLE PROTEIN,Rattus norvegicus,O35913,1,mapped,False,ChEMBL
+CHEMBL1781865,Endoplasmic reticulum chaperone BiP,SINGLE PROTEIN,Homo sapiens,P11021,1,mapped,True,ChEMBL
+CHEMBL2073661,ATP-binding cassette sub-family C member 6,SINGLE PROTEIN,Homo sapiens,O95255,1,mapped,True,ChEMBL
+CHEMBL2073669,Multidrug resistance associated protein,SINGLE PROTEIN,Homo sapiens,Q96QA9,1,mapped,True,ChEMBL
+CHEMBL2073672,Organic anion transporter 3,SINGLE PROTEIN,Mus musculus,O88909,1,mapped,False,ChEMBL
+CHEMBL3286068,Catechol O-methyltransferase,SINGLE PROTEIN,Mus musculus,O88587,1,mapped,False,ChEMBL
+CHEMBL202,Dihydrofolate reductase,SINGLE PROTEIN,Homo sapiens,P00374,1,mapped,True,ChEMBL
+CHEMBL232,Alpha-1B adrenergic receptor,SINGLE PROTEIN,Homo sapiens,P35368,1,mapped,True,ChEMBL
+CHEMBL1929,Xanthine dehydrogenase/oxidase,SINGLE PROTEIN,Homo sapiens,P47989,1,mapped,True,ChEMBL
+CHEMBL1923,Histidine-rich protein PFHRP-II,SINGLE PROTEIN,Plasmodium falciparum,P05227,1,mapped,False,ChEMBL
+CHEMBL4794,Transient receptor potential cation channel subfamily V member 1,SINGLE PROTEIN,Homo sapiens,Q8NER1,1,mapped,True,ChEMBL
+CHEMBL2182,5-hydroxytryptamine receptor 1E,SINGLE PROTEIN,Homo sapiens,P28566,1,mapped,True,ChEMBL
+CHEMBL4972,5-hydroxytryptamine receptor 3A,SINGLE PROTEIN,Mus musculus,P23979,1,mapped,False,ChEMBL
+CHEMBL3897,DNA polymerase III PolC-type,SINGLE PROTEIN,Bacillus subtilis (strain 168),P13267,1,mapped,False,ChEMBL
+CHEMBL2608,Lysosomal alpha-glucosidase,SINGLE PROTEIN,Homo sapiens,P10253,1,mapped,True,ChEMBL
+CHEMBL284,Dipeptidyl peptidase 4,SINGLE PROTEIN,Homo sapiens,P27487,1,mapped,True,ChEMBL
+CHEMBL2371,Tyrosine-protein phosphatase non-receptor type 1,SINGLE PROTEIN,Rattus norvegicus,P20417,1,mapped,False,ChEMBL
+CHEMBL3223,5-hydroxytryptamine receptor 7,SINGLE PROTEIN,Rattus norvegicus,P32305,1,mapped,False,ChEMBL
+CHEMBL309,Muscarinic acetylcholine receptor M2,SINGLE PROTEIN,Rattus norvegicus,P10980,1,mapped,False,ChEMBL
+CHEMBL2967,D(1A) dopamine receptor,SINGLE PROTEIN,Bos taurus,Q95136,1,mapped,False,ChEMBL
+CHEMBL3361,D(4) dopamine receptor,SINGLE PROTEIN,Rattus norvegicus,P30729,1,mapped,False,ChEMBL
+CHEMBL323,5-hydroxytryptamine receptor 2B,SINGLE PROTEIN,Rattus norvegicus,P30994,1,mapped,False,ChEMBL
+CHEMBL324,5-hydroxytryptamine receptor 2C,SINGLE PROTEIN,Rattus norvegicus,P08909,1,mapped,False,ChEMBL
+CHEMBL327,Alpha-2A adrenergic receptor,SINGLE PROTEIN,Rattus norvegicus,P22909,1,mapped,False,ChEMBL
+CHEMBL3728,Albumin,SINGLE PROTEIN,Bos taurus,P02769,1,mapped,False,ChEMBL
+CHEMBL2288,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,SINGLE PROTEIN,Homo sapiens,Q13526,1,mapped,True,ChEMBL
+CHEMBL3754,Beta-2 adrenergic receptor,SINGLE PROTEIN,Rattus norvegicus,P10608,1,mapped,False,ChEMBL
+CHEMBL4768,Acetylcholinesterase,SINGLE PROTEIN,Bos taurus,P23795,1,mapped,False,ChEMBL
+CHEMBL3943,Histamine H1 receptor,SINGLE PROTEIN,Cavia porcellus,P31389,1,mapped,False,ChEMBL
+CHEMBL4090,Protein kinase Pfmrk,SINGLE PROTEIN,Plasmodium falciparum,P90584,1,mapped,False,ChEMBL
+CHEMBL5456,D(2) dopamine receptor,SINGLE PROTEIN,Chlorocebus aethiops,P52702,1,mapped,False,ChEMBL
+CHEMBL4161,Urease,SINGLE PROTEIN,Canavalia ensiformis,P07374,1,mapped,False,ChEMBL
+CHEMBL5501,Histone acetyltransferase KAT2A,SINGLE PROTEIN,Homo sapiens,Q92830,1,mapped,True,ChEMBL
+CHEMBL5658,Prostaglandin E synthase,SINGLE PROTEIN,Homo sapiens,O14684,1,mapped,True,ChEMBL
+CHEMBL6011,Cytochrome c oxidase subunit 1,SINGLE PROTEIN,Ovis aries,O78749,1,mapped,False,ChEMBL
+CHEMBL6174,Cytochrome c oxidase subunit 2,SINGLE PROTEIN,Homo sapiens,P00403,1,mapped,True,ChEMBL
+CHEMBL5738,"Fatty acid-binding protein, liver",SINGLE PROTEIN,Rattus norvegicus,P02692,1,mapped,False,ChEMBL
+CHEMBL5763,Cholinesterase,SINGLE PROTEIN,Equus caballus,P81908,1,mapped,False,ChEMBL
+CHEMBL5845,Glycine receptor subunit alpha-1,SINGLE PROTEIN,Homo sapiens,P23415,1,mapped,True,ChEMBL
+CHEMBL6157,Tumor susceptibility gene 101 protein,SINGLE PROTEIN,Homo sapiens,Q99816,1,mapped,True,ChEMBL
+CHEMBL1075162,Uracil nucleotide/cysteinyl leukotriene receptor,SINGLE PROTEIN,Homo sapiens,Q13304,1,mapped,True,ChEMBL
+CHEMBL1293227,Ubiquitin carboxyl-terminal hydrolase 2,SINGLE PROTEIN,Homo sapiens,O75604,1,mapped,True,ChEMBL
+CHEMBL1293236,ATP-dependent DNA helicase Q1,SINGLE PROTEIN,Homo sapiens,P46063,1,mapped,True,ChEMBL
+CHEMBL1293299,Histone-lysine N-methyltransferase 2A,SINGLE PROTEIN,Homo sapiens,Q03164,1,mapped,True,ChEMBL
+CHEMBL1641348,Organic anion transporter 3,SINGLE PROTEIN,Homo sapiens,Q8TCC7,1,mapped,True,ChEMBL
+CHEMBL1641355,Aldehyde oxidase 1,SINGLE PROTEIN,Rattus norvegicus,Q9Z0U5,1,mapped,False,ChEMBL
+CHEMBL1741205,"Chaperonin GroEL (Thermosome, HSP60 family)",SINGLE PROTEIN,Methanococcus maripaludis (strain S2 / LL),Q6LX38,1,mapped,False,ChEMBL
+CHEMBL2073666,Organic anion transporter 3,SINGLE PROTEIN,Rattus norvegicus,Q9R1U7,1,mapped,False,ChEMBL
+CHEMBL2073677,Solute carrier family 22 member 11,SINGLE PROTEIN,Homo sapiens,Q9NSA0,1,mapped,True,ChEMBL
+CHEMBL2073702,ATP-binding cassette sub-family C member 11,SINGLE PROTEIN,Homo sapiens,Q96J66,1,mapped,True,ChEMBL
+CHEMBL2073707,Solute carrier organic anion transporter family member 1A3,SINGLE PROTEIN,Rattus norvegicus,P70502,1,mapped,False,ChEMBL
+CHEMBL2304406,D(3) dopamine receptor,SINGLE PROTEIN,Chlorocebus aethiops,P52703,1,mapped,False,ChEMBL
+CHEMBL3509582,"POU domain, class 2, transcription factor 2",SINGLE PROTEIN,Homo sapiens,P09086,1,mapped,True,ChEMBL
+CHEMBL3509593,Equilibrative nucleoside transporter 4,SINGLE PROTEIN,Homo sapiens,Q7RTT9,1,mapped,True,ChEMBL
+CHEMBL3509601,"POU domain, class 2, transcription factor 1",SINGLE PROTEIN,Homo sapiens,P14859,1,mapped,True,ChEMBL
+CHEMBL4523354,Nicotinate phosphoribosyltransferase,SINGLE PROTEIN,Homo sapiens,Q6XQN6,1,mapped,True,ChEMBL
+CHEMBL2392,DNA polymerase beta,SINGLE PROTEIN,Homo sapiens,P06746,1,mapped,True,ChEMBL
+CHEMBL4780,Acetylcholinesterase,SINGLE PROTEIN,Torpedo californica,P04058,1,mapped,False,ChEMBL
+CHEMBL4781,Muscarinic acetylcholine receptor M2,SINGLE PROTEIN,Sus scrofa,P06199,1,mapped,False,ChEMBL
+CHEMBL5131,Trypanothione reductase,SINGLE PROTEIN,Trypanosoma cruzi,P28593,1,mapped,False,ChEMBL
+CHEMBL1914,Cholinesterase,SINGLE PROTEIN,Homo sapiens,P06276,1,mapped,True,ChEMBL
+CHEMBL2528,Cholinesterase,SINGLE PROTEIN,Mus musculus,Q03311,1,mapped,False,ChEMBL
+CHEMBL2484,Acetylcholine receptor subunit epsilon,SINGLE PROTEIN,Homo sapiens,Q04844,1,mapped,True,ChEMBL
+CHEMBL3197,Muscarinic acetylcholine receptor M2,SINGLE PROTEIN,Mus musculus,Q9ERZ4,1,mapped,False,ChEMBL
+CHEMBL4892,Alpha-1A adrenergic receptor,SINGLE PROTEIN,Bos taurus,P18130,1,mapped,False,ChEMBL
+CHEMBL2487,Amyloid-beta precursor protein,SINGLE PROTEIN,Homo sapiens,P05067,1,mapped,True,ChEMBL
+CHEMBL3198,Acetylcholinesterase,SINGLE PROTEIN,Mus musculus,P21836,1,mapped,False,ChEMBL
+CHEMBL3199,Acetylcholinesterase,SINGLE PROTEIN,Rattus norvegicus,P37136,1,mapped,False,ChEMBL
+CHEMBL3277,Uracil-DNA glycosylase,SINGLE PROTEIN,Homo sapiens,P13051,1,mapped,True,ChEMBL
+CHEMBL3759,Histamine H4 receptor,SINGLE PROTEIN,Homo sapiens,Q9H3N8,1,mapped,True,ChEMBL
+CHEMBL2190,Histamine N-methyltransferase,SINGLE PROTEIN,Homo sapiens,P50135,1,mapped,True,ChEMBL
+CHEMBL3427,D(2) dopamine receptor,SINGLE PROTEIN,Mus musculus,P61168,1,mapped,False,ChEMBL
+CHEMBL3733,Muscarinic acetylcholine receptor M1,SINGLE PROTEIN,Mus musculus,P12657,1,mapped,False,ChEMBL
+CHEMBL3737,5-hydroxytryptamine receptor 1A,SINGLE PROTEIN,Mus musculus,Q64264,1,mapped,False,ChEMBL
+CHEMBL3403,Butyrylcholinesterase,SINGLE PROTEIN,Rattus norvegicus,Q9JKC1,1,mapped,False,ChEMBL
+CHEMBL3602,Sigma non-opioid intracellular receptor 1,SINGLE PROTEIN,Rattus norvegicus,Q9R0C9,1,mapped,False,ChEMBL
+CHEMBL2903,Polyunsaturated fatty acid lipoxygenase ALOX15,SINGLE PROTEIN,Homo sapiens,P16050,1,mapped,True,ChEMBL
+CHEMBL3257,Aldehyde oxidase,SINGLE PROTEIN,Homo sapiens,Q06278,1,mapped,True,ChEMBL
+CHEMBL3241,Histamine N-methyltransferase,SINGLE PROTEIN,Rattus norvegicus,Q01984,1,mapped,False,ChEMBL
+CHEMBL2993,Amine oxidase [flavin-containing] B,SINGLE PROTEIN,Rattus norvegicus,P19643,1,mapped,False,ChEMBL
+CHEMBL3358,Amine oxidase [flavin-containing] A,SINGLE PROTEIN,Rattus norvegicus,P21396,1,mapped,False,ChEMBL
+CHEMBL4017,Sodium channel protein type 10 subunit alpha,SINGLE PROTEIN,Rattus norvegicus,Q62968,1,mapped,False,ChEMBL
+CHEMBL3446,5-hydroxytryptamine receptor 2A,SINGLE PROTEIN,Bos taurus,Q75Z89,1,mapped,False,ChEMBL
+CHEMBL3945,Choline O-acetyltransferase,SINGLE PROTEIN,Rattus norvegicus,P32738,1,mapped,False,ChEMBL
+CHEMBL5451,Sodium channel protein type 10 subunit alpha,SINGLE PROTEIN,Homo sapiens,Q9Y5Y9,1,mapped,True,ChEMBL
+CHEMBL3666,5-hydroxytryptamine receptor 3A,SINGLE PROTEIN,Cavia porcellus,O70212,1,mapped,False,ChEMBL
+CHEMBL5067,D(1A) dopamine receptor,SINGLE PROTEIN,Sus scrofa,P50130,1,mapped,False,ChEMBL
+CHEMBL5077,Butyrylcholinesterase,SINGLE PROTEIN,Equus caballus,Q9N1N9,1,mapped,False,ChEMBL
+CHEMBL5421,"Fatty acid-binding protein, liver",SINGLE PROTEIN,Homo sapiens,P07148,1,mapped,True,ChEMBL
+CHEMBL5114,Quinolone resistance protein NorA,SINGLE PROTEIN,Staphylococcus aureus,P0A0J7,1,mapped,False,ChEMBL
+CHEMBL5896,Lysine-specific demethylase 4A,SINGLE PROTEIN,Homo sapiens,O75164,1,mapped,True,ChEMBL
+CHEMBL6092,Calmodulin,SINGLE PROTEIN,Bos taurus,P62157,1,mapped,False,ChEMBL
+CHEMBL6093,Calmodulin-1,SINGLE PROTEIN,Homo sapiens,P0DP23,1,mapped,True,ChEMBL
+CHEMBL5742,Translocator protein,SINGLE PROTEIN,Homo sapiens,P30536,1,mapped,True,ChEMBL
+CHEMBL1075183,Potassium channel subfamily K member 2,SINGLE PROTEIN,Bos taurus,Q8HY88,1,mapped,False,ChEMBL
+CHEMBL2366456,Voltage-dependent L-type calcium channel subunit alpha-1C,SINGLE PROTEIN,Cavia porcellus,O35505,1,mapped,False,ChEMBL
+CHEMBL3396943,DNA-3-methyladenine glycosylase,SINGLE PROTEIN,Homo sapiens,P29372,1,mapped,True,ChEMBL
+CHEMBL3396944,N-glycosylase/DNA lyase,SINGLE PROTEIN,Homo sapiens,O15527,1,mapped,True,ChEMBL
+CHEMBL4105907,Sigma intracellular receptor 2,SINGLE PROTEIN,Homo sapiens,Q5BJF2,1,mapped,True,ChEMBL
+CHEMBL4523264,Endonuclease III-like protein 1,SINGLE PROTEIN,Homo sapiens,P78549,1,mapped,True,ChEMBL
+CHEMBL4523426,Endonuclease 8-like 1,SINGLE PROTEIN,Homo sapiens,Q96FI4,1,mapped,True,ChEMBL
+CHEMBL5465279,G/T mismatch-specific thymine DNA glycosylase,SINGLE PROTEIN,Homo sapiens,Q13569,1,mapped,True,ChEMBL
+CHEMBL5723573,Methyl-CpG-binding domain protein 4,SINGLE PROTEIN,Homo sapiens,O95243,1,mapped,True,ChEMBL
+CHEMBL5723574,Adenine DNA glycosylase,SINGLE PROTEIN,Homo sapiens,Q9UIF7,1,mapped,True,ChEMBL
+CHEMBL5723575,Endonuclease 8-like 2,SINGLE PROTEIN,Homo sapiens,Q969S2,1,mapped,True,ChEMBL
+CHEMBL5723576,Single-strand selective monofunctional uracil DNA glycosylase,SINGLE PROTEIN,Homo sapiens,Q53HV7,1,mapped,True,ChEMBL
+CHEMBL1862,Tyrosine-protein kinase ABL1,SINGLE PROTEIN,Homo sapiens,P00519,1,mapped,True,ChEMBL
+CHEMBL1994,Mineralocorticoid receptor,SINGLE PROTEIN,Homo sapiens,P08235,1,mapped,True,ChEMBL
+CHEMBL1793,Parathyroid hormone/parathyroid hormone-related peptide receptor,SINGLE PROTEIN,Homo sapiens,Q03431,1,mapped,True,ChEMBL
+CHEMBL1913,Platelet-derived growth factor receptor beta,SINGLE PROTEIN,Homo sapiens,P09619,1,mapped,True,ChEMBL
+CHEMBL247,Human immunodeficiency virus type 1 reverse transcriptase,SINGLE PROTEIN,Human immunodeficiency virus 1,Q72547,1,mapped,False,ChEMBL
+CHEMBL1936,Mast/stem cell growth factor receptor Kit,SINGLE PROTEIN,Homo sapiens,P10721,1,mapped,True,ChEMBL
+CHEMBL3224,C-8 sterol isomerase ERG2,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,P32352,1,mapped,False,ChEMBL
+CHEMBL3961,Mitogen-activated protein kinase 11,SINGLE PROTEIN,Homo sapiens,Q15759,1,mapped,True,ChEMBL
+CHEMBL4879,"Fatty acid-binding protein, intestinal",SINGLE PROTEIN,Homo sapiens,P12104,1,mapped,True,ChEMBL
+CHEMBL260,Mitogen-activated protein kinase 14,SINGLE PROTEIN,Homo sapiens,Q16539,1,mapped,True,ChEMBL
+CHEMBL266,Alpha-2B adrenergic receptor,SINGLE PROTEIN,Rattus norvegicus,P19328,1,mapped,False,ChEMBL
+CHEMBL2421,Corticosteroid-binding globulin,SINGLE PROTEIN,Homo sapiens,P08185,1,mapped,True,ChEMBL
+CHEMBL3254,Amine oxidase [flavin-containing] A,SINGLE PROTEIN,Bos taurus,P21398,1,mapped,False,ChEMBL
+CHEMBL1906,RAF proto-oncogene serine/threonine-protein kinase,SINGLE PROTEIN,Homo sapiens,P04049,1,mapped,True,ChEMBL
+CHEMBL4931,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",SINGLE PROTEIN,Homo sapiens,Q15125,1,mapped,True,ChEMBL
+CHEMBL3849,Lanosterol 14-alpha demethylase,SINGLE PROTEIN,Homo sapiens,Q16850,1,mapped,True,ChEMBL
+CHEMBL2703,D(2) dopamine receptor,SINGLE PROTEIN,Canis lupus familiaris,Q9GJU1,1,mapped,False,ChEMBL
+CHEMBL1955,Vascular endothelial growth factor receptor 3,SINGLE PROTEIN,Homo sapiens,P35916,1,mapped,True,ChEMBL
+CHEMBL2998,P2X purinoceptor 3,SINGLE PROTEIN,Homo sapiens,P56373,1,mapped,True,ChEMBL
+CHEMBL1974,Receptor-type tyrosine-protein kinase FLT3,SINGLE PROTEIN,Homo sapiens,P36888,1,mapped,True,ChEMBL
+CHEMBL326,Alpha-1D adrenergic receptor,SINGLE PROTEIN,Rattus norvegicus,P23944,1,mapped,False,ChEMBL
+CHEMBL3056,Androgen receptor,SINGLE PROTEIN,Mus musculus,P19091,1,mapped,False,ChEMBL
+CHEMBL3637,Alpha-1A adrenergic receptor,SINGLE PROTEIN,Oryctolagus cuniculus,O02824,1,mapped,False,ChEMBL
+CHEMBL2782,Sterol O-acyltransferase 1,SINGLE PROTEIN,Homo sapiens,P35610,1,mapped,True,ChEMBL
+CHEMBL4036,Cyclin-dependent kinase 5,SINGLE PROTEIN,Homo sapiens,Q00535,1,mapped,True,ChEMBL
+CHEMBL3456,Progesterone receptor,SINGLE PROTEIN,Oryctolagus cuniculus,P06186,1,mapped,False,ChEMBL
+CHEMBL3122,Alpha-1B adrenergic receptor,SINGLE PROTEIN,Mesocricetus auratus,P18841,1,mapped,False,ChEMBL
+CHEMBL3788,Serine/threonine-protein kinase PLK4,SINGLE PROTEIN,Homo sapiens,O00444,1,mapped,True,ChEMBL
+CHEMBL3981,Serine/threonine-protein kinase 10,SINGLE PROTEIN,Homo sapiens,O94804,1,mapped,True,ChEMBL
+CHEMBL4134,Ephrin type-A receptor 8,SINGLE PROTEIN,Homo sapiens,P29322,1,mapped,True,ChEMBL
+CHEMBL4223,Tyrosine-protein kinase FRK,SINGLE PROTEIN,Homo sapiens,P42685,1,mapped,True,ChEMBL
+CHEMBL3987,Ephrin type-A receptor 5,SINGLE PROTEIN,Homo sapiens,P54756,1,mapped,True,ChEMBL
+CHEMBL5072,Ephrin type-B receptor 1,SINGLE PROTEIN,Homo sapiens,P54762,1,mapped,True,ChEMBL
+CHEMBL4602,Ephrin type-A receptor 7,SINGLE PROTEIN,Homo sapiens,Q15375,1,mapped,True,ChEMBL
+CHEMBL4204,MAP kinase-interacting serine/threonine-protein kinase 2,SINGLE PROTEIN,Homo sapiens,Q9HBH9,1,mapped,True,ChEMBL
+CHEMBL4526,Ephrin type-A receptor 6,SINGLE PROTEIN,Homo sapiens,Q9UF33,1,mapped,True,ChEMBL
+CHEMBL4978,UDP-glucuronosyltransferase 2B17,SINGLE PROTEIN,Homo sapiens,O75795,1,mapped,True,ChEMBL
+CHEMBL5409,G-protein coupled bile acid receptor 1,SINGLE PROTEIN,Homo sapiens,Q8TDU6,1,mapped,True,ChEMBL
+CHEMBL5393,Broad substrate specificity ATP-binding cassette transporter ABCG2,SINGLE PROTEIN,Homo sapiens,Q9UNQ0,1,mapped,True,ChEMBL
+CHEMBL5999,3-keto-steroid reductase/17-beta-hydroxysteroid dehydrogenase 7,SINGLE PROTEIN,Homo sapiens,P56937,1,mapped,True,ChEMBL
+CHEMBL1293303,Nonstructural protein 1,SINGLE PROTEIN,Influenza A virus,Q194T2,1,mapped,False,ChEMBL
+CHEMBL1770032,Solute carrier family 22 member 2,SINGLE PROTEIN,Rattus norvegicus,Q9R0W2,1,mapped,False,ChEMBL
+CHEMBL1770033,Solute carrier family 22 member 3,SINGLE PROTEIN,Rattus norvegicus,O88446,1,mapped,False,ChEMBL
+CHEMBL1909044,Progesterone receptor,SINGLE PROTEIN,Bos taurus,Q690N0,1,mapped,False,ChEMBL
+CHEMBL2029197,Rap guanine nucleotide exchange factor 3,SINGLE PROTEIN,Homo sapiens,O95398,1,mapped,True,ChEMBL
+CHEMBL2331065,Alpha-ketoglutarate-dependent dioxygenase FTO,SINGLE PROTEIN,Homo sapiens,Q9C0B1,1,mapped,True,ChEMBL
+CHEMBL3714081,G-protein coupled receptor 65,SINGLE PROTEIN,Homo sapiens,Q8IYL9,1,mapped,True,ChEMBL
+CHEMBL3988626,Alpha-1B adrenergic receptor,SINGLE PROTEIN,Cricetulus griseus,G3HDX1,1,mapped,False,ChEMBL
+CHEMBL4523235,Gastrotropin,SINGLE PROTEIN,Homo sapiens,P51161,1,mapped,True,ChEMBL
+CHEMBL4524041,Son of sevenless homolog 2,SINGLE PROTEIN,Homo sapiens,Q07890,1,mapped,True,ChEMBL
+CHEMBL258,Tyrosine-protein kinase Lck,SINGLE PROTEIN,Homo sapiens,P06239,1,mapped,True,ChEMBL
+CHEMBL2918,cAMP-dependent protein kinase catalytic subunit beta,SINGLE PROTEIN,Homo sapiens,P22694,1,mapped,True,ChEMBL
+CHEMBL3650,Fibroblast growth factor receptor 1,SINGLE PROTEIN,Homo sapiens,P11362,1,mapped,True,ChEMBL
+CHEMBL2828,Casein kinase I isoform delta,SINGLE PROTEIN,Homo sapiens,P48730,1,mapped,True,ChEMBL
+CHEMBL2534,3-phosphoinositide-dependent protein kinase 1,SINGLE PROTEIN,Homo sapiens,O15530,1,mapped,True,ChEMBL
+CHEMBL2634,Tyrosine-protein kinase CSK,SINGLE PROTEIN,Homo sapiens,P41240,1,mapped,True,ChEMBL
+CHEMBL4237,Ribosomal protein S6 kinase alpha-5,SINGLE PROTEIN,Homo sapiens,O75582,1,mapped,True,ChEMBL
+CHEMBL2553,Ribosomal protein S6 kinase alpha-1,SINGLE PROTEIN,Homo sapiens,Q15418,1,mapped,True,ChEMBL
+CHEMBL4924,Ribosomal protein S6 kinase alpha-6,SINGLE PROTEIN,Homo sapiens,Q9UK32,1,mapped,True,ChEMBL
+CHEMBL4937,Casein kinase I isoform epsilon,SINGLE PROTEIN,Homo sapiens,P49674,1,mapped,True,ChEMBL
+CHEMBL2939,Mitogen-activated protein kinase 13,SINGLE PROTEIN,Homo sapiens,O15264,1,mapped,True,ChEMBL
+CHEMBL2973,Rho-associated protein kinase 2,SINGLE PROTEIN,Homo sapiens,O75116,1,mapped,True,ChEMBL
+CHEMBL4014,Tyrosine-protein kinase ABL2,SINGLE PROTEIN,Homo sapiens,P42684,1,mapped,True,ChEMBL
+CHEMBL4004,"Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform",SINGLE PROTEIN,Homo sapiens,Q16816,1,mapped,True,ChEMBL
+CHEMBL4179,Mitogen-activated protein kinase 9,SINGLE PROTEIN,Homo sapiens,P45984,1,mapped,True,ChEMBL
+CHEMBL2543,Casein kinase I isoform gamma-2,SINGLE PROTEIN,Homo sapiens,P78368,1,mapped,True,ChEMBL
+CHEMBL2999,Serine/threonine-protein kinase PAK 3,SINGLE PROTEIN,Homo sapiens,O75914,1,mapped,True,ChEMBL
+CHEMBL2777,"Myosin light chain kinase 2, skeletal/cardiac muscle",SINGLE PROTEIN,Homo sapiens,Q9H1R3,1,mapped,True,ChEMBL
+CHEMBL2803,Tyrosine-protein kinase ZAP-70,SINGLE PROTEIN,Homo sapiens,P43403,1,mapped,True,ChEMBL
+CHEMBL1844,Macrophage colony-stimulating factor 1 receptor,SINGLE PROTEIN,Homo sapiens,P07333,1,mapped,True,ChEMBL
+CHEMBL4128,Angiopoietin-1 receptor,SINGLE PROTEIN,Homo sapiens,Q02763,1,mapped,True,ChEMBL
+CHEMBL4674,Mitogen-activated protein kinase 12,SINGLE PROTEIN,Homo sapiens,P53778,1,mapped,True,ChEMBL
+CHEMBL2073,Tyrosine-protein kinase Yes,SINGLE PROTEIN,Homo sapiens,P07947,1,mapped,True,ChEMBL
+CHEMBL3886,Mitogen-activated protein kinase kinase kinase 20,SINGLE PROTEIN,Homo sapiens,Q9NYL2,1,mapped,True,ChEMBL
+CHEMBL5014,Receptor-interacting serine/threonine-protein kinase 2,SINGLE PROTEIN,Homo sapiens,O43353,1,mapped,True,ChEMBL
+CHEMBL2068,Ephrin type-A receptor 2,SINGLE PROTEIN,Homo sapiens,P29317,1,mapped,True,ChEMBL
+CHEMBL4954,Ephrin type-A receptor 3,SINGLE PROTEIN,Homo sapiens,P29320,1,mapped,True,ChEMBL
+CHEMBL4224,Dual specificity protein kinase CLK1,SINGLE PROTEIN,Homo sapiens,P49759,1,mapped,True,ChEMBL
+CHEMBL4226,Dual specificity protein kinase CLK3,SINGLE PROTEIN,Homo sapiens,P49761,1,mapped,True,ChEMBL
+CHEMBL3836,LIM domain kinase 1,SINGLE PROTEIN,Homo sapiens,P53667,1,mapped,True,ChEMBL
+CHEMBL3988,Ephrin type-A receptor 4,SINGLE PROTEIN,Homo sapiens,P54764,1,mapped,True,ChEMBL
+CHEMBL4202,STE20-like serine/threonine-protein kinase,SINGLE PROTEIN,Homo sapiens,Q9H2G2,1,mapped,True,ChEMBL
+CHEMBL4312,Serine/threonine-protein kinase 36,SINGLE PROTEIN,Homo sapiens,Q9NRP7,1,mapped,True,ChEMBL
+CHEMBL4852,Mitogen-activated protein kinase kinase kinase kinase 5,SINGLE PROTEIN,Homo sapiens,Q9Y4K4,1,mapped,True,ChEMBL
+CHEMBL4482,Serine/threonine-protein kinase PAK 4,SINGLE PROTEIN,Homo sapiens,O96013,1,mapped,True,ChEMBL
+CHEMBL5491,Wee1-like protein kinase,SINGLE PROTEIN,Homo sapiens,P30291,1,mapped,True,ChEMBL
+CHEMBL5145,Serine/threonine-protein kinase B-raf,SINGLE PROTEIN,Homo sapiens,P15056,1,mapped,True,ChEMBL
+CHEMBL5147,Ephrin type-B receptor 4,SINGLE PROTEIN,Homo sapiens,P54760,1,mapped,True,ChEMBL
+CHEMBL5274,Tyrosine-protein kinase receptor Tie-1,SINGLE PROTEIN,Homo sapiens,P35590,1,mapped,True,ChEMBL
+CHEMBL5316,Cyclin-dependent kinase 18,SINGLE PROTEIN,Homo sapiens,Q07002,1,mapped,True,ChEMBL
+CHEMBL5469,Protein-tyrosine kinase 2-beta,SINGLE PROTEIN,Homo sapiens,Q14289,1,mapped,True,ChEMBL
+CHEMBL5405,Serine/threonine-protein kinase 32C,SINGLE PROTEIN,Homo sapiens,Q86UX6,1,mapped,True,ChEMBL
+CHEMBL5426,Myosin light chain kinase family member 4,SINGLE PROTEIN,Homo sapiens,Q86YV6,1,mapped,True,ChEMBL
+CHEMBL5520,Casein kinase I isoform alpha-like,SINGLE PROTEIN,Homo sapiens,Q8N752,1,mapped,True,ChEMBL
+CHEMBL5552,Serine/threonine-protein kinase 25,SINGLE PROTEIN,Homo sapiens,O00506,1,mapped,True,ChEMBL
+CHEMBL5818,cAMP-dependent protein kinase catalytic subunit PRKX,SINGLE PROTEIN,Homo sapiens,P51817,1,mapped,True,ChEMBL
+CHEMBL5969,Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha,SINGLE PROTEIN,Homo sapiens,Q99755,1,mapped,True,ChEMBL
+CHEMBL6162,Cyclin-dependent kinase 14,SINGLE PROTEIN,Homo sapiens,O94921,1,mapped,True,ChEMBL
+CHEMBL5667,Phosphatidylinositol 5-phosphate 4-kinase type-2 beta,SINGLE PROTEIN,Homo sapiens,P78356,1,mapped,True,ChEMBL
+CHEMBL5790,Cyclin-dependent kinase 17,SINGLE PROTEIN,Homo sapiens,Q00537,1,mapped,True,ChEMBL
+CHEMBL1981,Insulin receptor,SINGLE PROTEIN,Homo sapiens,P06213,1,mapped,True,ChEMBL
+CHEMBL1957,Insulin-like growth factor 1 receptor,SINGLE PROTEIN,Homo sapiens,P08069,1,mapped,True,ChEMBL
+CHEMBL3629,Casein kinase II subunit alpha,SINGLE PROTEIN,Homo sapiens,P68400,1,mapped,True,ChEMBL
+CHEMBL2468,Death-associated protein kinase 3,SINGLE PROTEIN,Homo sapiens,O43293,1,mapped,True,ChEMBL
+CHEMBL3438,Protein kinase C zeta type,SINGLE PROTEIN,Homo sapiens,Q05513,1,mapped,True,ChEMBL
+CHEMBL2109,Dual specificity mitogen-activated protein kinase kinase 3,SINGLE PROTEIN,Homo sapiens,P46734,1,mapped,True,ChEMBL
+CHEMBL2431,RAC-beta serine/threonine-protein kinase,SINGLE PROTEIN,Homo sapiens,P31751,1,mapped,True,ChEMBL
+CHEMBL3123,Death-associated protein kinase 2,SINGLE PROTEIN,Homo sapiens,Q9UIK4,1,mapped,True,ChEMBL
+CHEMBL2147,Serine/threonine-protein kinase pim-1,SINGLE PROTEIN,Homo sapiens,P11309,1,mapped,True,ChEMBL
+CHEMBL3863,Serine/threonine-protein kinase D1,SINGLE PROTEIN,Homo sapiens,Q15139,1,mapped,True,ChEMBL
+CHEMBL2850,Glycogen synthase kinase-3 alpha,SINGLE PROTEIN,Homo sapiens,P49840,1,mapped,True,ChEMBL
+CHEMBL2964,Dual specificity mitogen-activated protein kinase kinase 2,SINGLE PROTEIN,Homo sapiens,P36507,1,mapped,True,ChEMBL
+CHEMBL3587,Dual specificity mitogen-activated protein kinase kinase 1,SINGLE PROTEIN,Homo sapiens,Q02750,1,mapped,True,ChEMBL
+CHEMBL299,Protein kinase C alpha type,SINGLE PROTEIN,Homo sapiens,P17252,1,mapped,True,ChEMBL
+CHEMBL3385,Mitogen-activated protein kinase 3,SINGLE PROTEIN,Homo sapiens,P27361,1,mapped,True,ChEMBL
+CHEMBL3234,Tyrosine-protein kinase HCK,SINGLE PROTEIN,Homo sapiens,P08631,1,mapped,True,ChEMBL
+CHEMBL4101,cAMP-dependent protein kinase catalytic subunit alpha,SINGLE PROTEIN,Homo sapiens,P17612,1,mapped,True,ChEMBL
+CHEMBL2276,Mitogen-activated protein kinase 8,SINGLE PROTEIN,Homo sapiens,P45983,1,mapped,True,ChEMBL
+CHEMBL4282,RAC-alpha serine/threonine-protein kinase,SINGLE PROTEIN,Homo sapiens,P31749,1,mapped,True,ChEMBL
+CHEMBL3553,Non-receptor tyrosine-protein kinase TYK2,SINGLE PROTEIN,Homo sapiens,P29597,1,mapped,True,ChEMBL
+CHEMBL4070,Casein kinase II subunit alpha',SINGLE PROTEIN,Homo sapiens,P19784,1,mapped,True,ChEMBL
+CHEMBL3529,Inhibitor of nuclear factor kappa-B kinase subunit epsilon,SINGLE PROTEIN,Homo sapiens,Q14164,1,mapped,True,ChEMBL
+CHEMBL3830,AP2-associated protein kinase 1,SINGLE PROTEIN,Homo sapiens,Q2M2I8,1,mapped,True,ChEMBL
+CHEMBL3980,Serine/threonine-protein kinase 17B,SINGLE PROTEIN,Homo sapiens,O94768,1,mapped,True,ChEMBL
+CHEMBL3983,Dual specificity protein kinase TTK,SINGLE PROTEIN,Homo sapiens,P33981,1,mapped,True,ChEMBL
+CHEMBL4599,Activated CDC42 kinase 1,SINGLE PROTEIN,Homo sapiens,Q07912,1,mapped,True,ChEMBL
+CHEMBL4598,Serine/threonine-protein kinase 4,SINGLE PROTEIN,Homo sapiens,Q13043,1,mapped,True,ChEMBL
+CHEMBL4311,Serine/threonine-protein kinase PAK 6,SINGLE PROTEIN,Homo sapiens,Q9NQU5,1,mapped,True,ChEMBL
+CHEMBL4523,Serine/threonine-protein kinase pim-2,SINGLE PROTEIN,Homo sapiens,Q9P1W9,1,mapped,True,ChEMBL
+CHEMBL4524,Serine/threonine-protein kinase PAK 5,SINGLE PROTEIN,Homo sapiens,Q9P286,1,mapped,True,ChEMBL
+CHEMBL4527,TRAF2 and NCK-interacting protein kinase,SINGLE PROTEIN,Homo sapiens,Q9UKE5,1,mapped,True,ChEMBL
+CHEMBL5600,MAP/microtubule affinity-regulating kinase 3,SINGLE PROTEIN,Homo sapiens,P27448,1,mapped,True,ChEMBL
+CHEMBL4898,BDNF/NT-3 growth factors receptor,SINGLE PROTEIN,Homo sapiens,Q16620,1,mapped,True,ChEMBL
+CHEMBL4367,Tyrosine-protein kinase TXK,SINGLE PROTEIN,Homo sapiens,P42681,1,mapped,True,ChEMBL
+CHEMBL4375,SRSF protein kinase 1,SINGLE PROTEIN,Homo sapiens,Q96SB4,1,mapped,True,ChEMBL
+CHEMBL4718,MAP kinase-interacting serine/threonine-protein kinase 1,SINGLE PROTEIN,Homo sapiens,Q9BUB5,1,mapped,True,ChEMBL
+CHEMBL4849,Serine/threonine-protein kinase Nek7,SINGLE PROTEIN,Homo sapiens,Q8TDX7,1,mapped,True,ChEMBL
+CHEMBL4578,Maternal embryonic leucine zipper kinase,SINGLE PROTEIN,Homo sapiens,Q14680,1,mapped,True,ChEMBL
+CHEMBL5407,Serine/threonine-protein kinase pim-3,SINGLE PROTEIN,Homo sapiens,Q86V86,1,mapped,True,ChEMBL
+CHEMBL5358,eIF-2-alpha kinase GCN2,SINGLE PROTEIN,Homo sapiens,Q9P2K8,1,mapped,True,ChEMBL
+CHEMBL5364,Serine/threonine-protein kinase NLK,SINGLE PROTEIN,Homo sapiens,Q9UBE8,1,mapped,True,ChEMBL
+CHEMBL5388,Serine/threonine-protein kinase tousled-like 1,SINGLE PROTEIN,Homo sapiens,Q9UKI8,1,mapped,True,ChEMBL
+CHEMBL5543,Dual specificity tyrosine-phosphorylation-regulated kinase 1B,SINGLE PROTEIN,Homo sapiens,Q9Y463,1,mapped,True,ChEMBL
+CHEMBL5606,Serine/threonine-protein kinase STK11,SINGLE PROTEIN,Homo sapiens,Q15831,1,mapped,True,ChEMBL
+CHEMBL5608,NT-3 growth factor receptor,SINGLE PROTEIN,Homo sapiens,Q16288,1,mapped,True,ChEMBL
+CHEMBL5084,Casein kinase I isoform gamma-3,SINGLE PROTEIN,Homo sapiens,Q9Y6M4,1,mapped,True,ChEMBL
+CHEMBL5404,Serine/threonine-protein kinase tousled-like 2,SINGLE PROTEIN,Homo sapiens,Q86UE8,1,mapped,True,ChEMBL
+CHEMBL5483,Insulin receptor-related protein,SINGLE PROTEIN,Homo sapiens,P14616,1,mapped,True,ChEMBL
+CHEMBL5932,LIM domain kinase 2,SINGLE PROTEIN,Homo sapiens,P53671,1,mapped,True,ChEMBL
+CHEMBL5941,Serine/threonine-protein kinase 26,SINGLE PROTEIN,Homo sapiens,Q9P289,1,mapped,True,ChEMBL
+CHEMBL2428,"Myosin light chain kinase, smooth muscle",SINGLE PROTEIN,Homo sapiens,Q15746,1,mapped,True,ChEMBL
+CHEMBL2116,5'-AMP-activated protein kinase catalytic subunit alpha-2,SINGLE PROTEIN,Homo sapiens,P54646,1,mapped,True,ChEMBL
+CHEMBL4816,RAC-gamma serine/threonine-protein kinase,SINGLE PROTEIN,Homo sapiens,Q9Y243,1,mapped,True,ChEMBL
+CHEMBL2185,Aurora kinase B,SINGLE PROTEIN,Homo sapiens,Q96GD4,1,mapped,True,ChEMBL
+CHEMBL2148,Tyrosine-protein kinase JAK3,SINGLE PROTEIN,Homo sapiens,P52333,1,mapped,True,ChEMBL
+CHEMBL2959,Tyrosine-protein kinase ITK/TSK,SINGLE PROTEIN,Homo sapiens,Q08881,1,mapped,True,ChEMBL
+CHEMBL2835,Tyrosine-protein kinase JAK1,SINGLE PROTEIN,Homo sapiens,P23458,1,mapped,True,ChEMBL
+CHEMBL2971,Tyrosine-protein kinase JAK2,SINGLE PROTEIN,Homo sapiens,O60674,1,mapped,True,ChEMBL
+CHEMBL2493,Calcium/calmodulin-dependent protein kinase type 1,SINGLE PROTEIN,Homo sapiens,Q14012,1,mapped,True,ChEMBL
+CHEMBL4045,5'-AMP-activated protein kinase catalytic subunit alpha-1,SINGLE PROTEIN,Homo sapiens,Q13131,1,mapped,True,ChEMBL
+CHEMBL2637,Mitogen-activated protein kinase 10,SINGLE PROTEIN,Homo sapiens,P53779,1,mapped,True,ChEMBL
+CHEMBL1841,Tyrosine-protein kinase Fyn,SINGLE PROTEIN,Homo sapiens,P06241,1,mapped,True,ChEMBL
+CHEMBL3905,Tyrosine-protein kinase Lyn,SINGLE PROTEIN,Homo sapiens,P07948,1,mapped,True,ChEMBL
+CHEMBL2343,Serine/threonine-protein kinase Sgk1,SINGLE PROTEIN,Homo sapiens,O00141,1,mapped,True,ChEMBL
+CHEMBL2345,Ribosomal protein S6 kinase alpha-3,SINGLE PROTEIN,Homo sapiens,P51812,1,mapped,True,ChEMBL
+CHEMBL4501,Ribosomal protein S6 kinase beta-1,SINGLE PROTEIN,Homo sapiens,P23443,1,mapped,True,ChEMBL
+CHEMBL3655,Proto-oncogene tyrosine-protein kinase Src,SINGLE PROTEIN,Gallus gallus,P00523,1,mapped,False,ChEMBL
+CHEMBL4355,Cyclin-G-associated kinase,SINGLE PROTEIN,Homo sapiens,O14976,1,mapped,True,ChEMBL
+CHEMBL3935,Aurora kinase C,SINGLE PROTEIN,Homo sapiens,Q9UQB9,1,mapped,True,ChEMBL
+CHEMBL4597,Cyclin-dependent kinase 16,SINGLE PROTEIN,Homo sapiens,Q00536,1,mapped,True,ChEMBL
+CHEMBL5285,Mitogen-activated protein kinase kinase kinase 5,SINGLE PROTEIN,Homo sapiens,Q99683,1,mapped,True,ChEMBL
+CHEMBL4525,Serine/threonine-protein kinase 17A,SINGLE PROTEIN,Homo sapiens,Q9UEE5,1,mapped,True,ChEMBL
+CHEMBL4853,Mitogen-activated protein kinase kinase kinase 4,SINGLE PROTEIN,Homo sapiens,Q9Y6R4,1,mapped,True,ChEMBL
+CHEMBL4247,ALK tyrosine kinase receptor,SINGLE PROTEIN,Homo sapiens,Q9UM73,1,mapped,True,ChEMBL
+CHEMBL4574,Serine/threonine-protein kinase BRSK2,SINGLE PROTEIN,Homo sapiens,Q8IWQ3,1,mapped,True,ChEMBL
+CHEMBL5310,Activin receptor type-1B,SINGLE PROTEIN,Homo sapiens,P36896,1,mapped,True,ChEMBL
+CHEMBL5311,Activin receptor type-1-like,SINGLE PROTEIN,Homo sapiens,P37023,1,mapped,True,ChEMBL
+CHEMBL5319,Epithelial discoidin domain-containing receptor 1,SINGLE PROTEIN,Homo sapiens,Q08345,1,mapped,True,ChEMBL
+CHEMBL5320,Myotonin-protein kinase,SINGLE PROTEIN,Homo sapiens,Q09013,1,mapped,True,ChEMBL
+CHEMBL5334,Non-receptor tyrosine-protein kinase TNK1,SINGLE PROTEIN,Homo sapiens,Q13470,1,mapped,True,ChEMBL
+CHEMBL5466,Activin receptor type-2B,SINGLE PROTEIN,Homo sapiens,Q13705,1,mapped,True,ChEMBL
+CHEMBL5615,Serine/threonine-protein kinase MRCK gamma,SINGLE PROTEIN,Homo sapiens,Q6DT37,1,mapped,True,ChEMBL
+CHEMBL5081,Interleukin-1 receptor-associated kinase 3,SINGLE PROTEIN,Homo sapiens,Q9Y616,1,mapped,True,ChEMBL
+CHEMBL5122,Discoidin domain-containing receptor 2,SINGLE PROTEIN,Homo sapiens,Q16832,1,mapped,True,ChEMBL
+CHEMBL5260,Serine/threonine-protein kinase TNNI3K,SINGLE PROTEIN,Homo sapiens,Q59H18,1,mapped,True,ChEMBL
+CHEMBL5547,Ankyrin repeat and protein kinase domain-containing protein 1,SINGLE PROTEIN,Homo sapiens,Q8NFD2,1,mapped,True,ChEMBL
+CHEMBL5550,"Atypical kinase COQ8A, mitochondrial",SINGLE PROTEIN,Homo sapiens,Q8NI60,1,mapped,True,ChEMBL
+CHEMBL5659,Serine/threonine-protein kinase RIO3,SINGLE PROTEIN,Homo sapiens,O14730,1,mapped,True,ChEMBL
+CHEMBL5784,NUAK family SNF1-like kinase 1,SINGLE PROTEIN,Homo sapiens,O60285,1,mapped,True,ChEMBL
+CHEMBL5975,Serine/threonine-protein kinase RIO1,SINGLE PROTEIN,Homo sapiens,Q9BRS2,1,mapped,True,ChEMBL
+CHEMBL6003,Testis-specific serine/threonine-protein kinase 1,SINGLE PROTEIN,Homo sapiens,Q9BXA7,1,mapped,True,ChEMBL
+CHEMBL6005,Serine/threonine-protein kinase 33,SINGLE PROTEIN,Homo sapiens,Q9BYT3,1,mapped,True,ChEMBL
+CHEMBL6167,Serine/threonine-protein kinase LATS1,SINGLE PROTEIN,Homo sapiens,O95835,1,mapped,True,ChEMBL
+CHEMBL5616,Activin receptor type-2A,SINGLE PROTEIN,Homo sapiens,P27037,1,mapped,True,ChEMBL
+CHEMBL5627,Leukocyte tyrosine kinase receptor,SINGLE PROTEIN,Homo sapiens,P29376,1,mapped,True,ChEMBL
+CHEMBL5668,SRSF protein kinase 2,SINGLE PROTEIN,Homo sapiens,P78362,1,mapped,True,ChEMBL
+CHEMBL5699,Serine/threonine-protein kinase SIK2,SINGLE PROTEIN,Homo sapiens,Q9H0K1,1,mapped,True,ChEMBL
+CHEMBL5903,Activin receptor type-1,SINGLE PROTEIN,Homo sapiens,Q04771,1,mapped,True,ChEMBL
+CHEMBL5907,Serine/threonine-protein kinase LATS2,SINGLE PROTEIN,Homo sapiens,Q9NRM7,1,mapped,True,ChEMBL
+CHEMBL5912,Serine/threonine-protein kinase 32B,SINGLE PROTEIN,Homo sapiens,Q9NY57,1,mapped,True,ChEMBL
+CHEMBL2171,Dual specificity mitogen-activated protein kinase kinase 6,SINGLE PROTEIN,Homo sapiens,P52564,1,mapped,True,ChEMBL
+CHEMBL4708,Serine/threonine-protein kinase 3,SINGLE PROTEIN,Homo sapiens,Q13188,1,mapped,True,ChEMBL
+CHEMBL4121,Calcium/calmodulin-dependent protein kinase type II subunit beta,SINGLE PROTEIN,Homo sapiens,Q13554,1,mapped,True,ChEMBL
+CHEMBL2527,Serine/threonine-protein kinase Chk2,SINGLE PROTEIN,Homo sapiens,O96017,1,mapped,True,ChEMBL
+CHEMBL3062,"Myosin light chain kinase, smooth muscle",SINGLE PROTEIN,Gallus gallus,P11799,1,mapped,False,ChEMBL
+CHEMBL2494,Calcium/calmodulin-dependent protein kinase type IV,SINGLE PROTEIN,Homo sapiens,Q16566,1,mapped,True,ChEMBL
+CHEMBL2897,Dual specificity mitogen-activated protein kinase kinase 4,SINGLE PROTEIN,Homo sapiens,P45985,1,mapped,True,ChEMBL
+CHEMBL2208,MAP kinase-activated protein kinase 2,SINGLE PROTEIN,Homo sapiens,P49137,1,mapped,True,ChEMBL
+CHEMBL3094,MAP kinase-activated protein kinase 5,SINGLE PROTEIN,Homo sapiens,Q8IW41,1,mapped,True,ChEMBL
+CHEMBL3717,Hepatocyte growth factor receptor,SINGLE PROTEIN,Homo sapiens,P08581,1,mapped,True,ChEMBL
+CHEMBL2801,Calcium/calmodulin-dependent protein kinase type II subunit delta,SINGLE PROTEIN,Homo sapiens,Q13557,1,mapped,True,ChEMBL
+CHEMBL2250,Tyrosine-protein kinase Blk,SINGLE PROTEIN,Homo sapiens,P51451,1,mapped,True,ChEMBL
+CHEMBL2708,Mitogen-activated protein kinase kinase kinase 11,SINGLE PROTEIN,Homo sapiens,Q16584,1,mapped,True,ChEMBL
+CHEMBL2873,Mitogen-activated protein kinase kinase kinase 10,SINGLE PROTEIN,Homo sapiens,Q02779,1,mapped,True,ChEMBL
+CHEMBL2872,Mitogen-activated protein kinase kinase kinase 9,SINGLE PROTEIN,Homo sapiens,P80192,1,mapped,True,ChEMBL
+CHEMBL2292,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,SINGLE PROTEIN,Homo sapiens,Q13627,1,mapped,True,ChEMBL
+CHEMBL4147,Calcium/calmodulin-dependent protein kinase type II subunit alpha,SINGLE PROTEIN,Homo sapiens,Q9UQM7,1,mapped,True,ChEMBL
+CHEMBL2007,Platelet-derived growth factor receptor alpha,SINGLE PROTEIN,Homo sapiens,P16234,1,mapped,True,ChEMBL
+CHEMBL2349,"Phosphorylase b kinase gamma catalytic chain, liver/testis isoform",SINGLE PROTEIN,Homo sapiens,P15735,1,mapped,True,ChEMBL
+CHEMBL4630,Serine/threonine-protein kinase Chk1,SINGLE PROTEIN,Homo sapiens,O14757,1,mapped,True,ChEMBL
+CHEMBL4722,Aurora kinase A,SINGLE PROTEIN,Homo sapiens,O14965,1,mapped,True,ChEMBL
+CHEMBL5026,Eukaryotic elongation factor 2 kinase,SINGLE PROTEIN,Homo sapiens,O00418,1,mapped,True,ChEMBL
+CHEMBL3831,Serine/threonine-protein kinase MARK2,SINGLE PROTEIN,Homo sapiens,Q7KZI7,1,mapped,True,ChEMBL
+CHEMBL3829,Calcium/calmodulin-dependent protein kinase type II subunit gamma,SINGLE PROTEIN,Homo sapiens,Q13555,1,mapped,True,ChEMBL
+CHEMBL5073,Calcium/calmodulin-dependent protein kinase type 1D,SINGLE PROTEIN,Homo sapiens,Q8IU85,1,mapped,True,ChEMBL
+CHEMBL5256,Calcium/calmodulin-dependent protein kinase kinase 1,SINGLE PROTEIN,Homo sapiens,Q8N5S9,1,mapped,True,ChEMBL
+CHEMBL5258,Calcium/calmodulin-dependent protein kinase type 1G,SINGLE PROTEIN,Homo sapiens,Q96NX5,1,mapped,True,ChEMBL
+CHEMBL5284,Calcium/calmodulin-dependent protein kinase kinase 2,SINGLE PROTEIN,Homo sapiens,Q96RR4,1,mapped,True,ChEMBL
+CHEMBL4522,BMP-2-inducible protein kinase,SINGLE PROTEIN,Homo sapiens,Q9NSY1,1,mapped,True,ChEMBL
+CHEMBL4895,Tyrosine-protein kinase receptor UFO,SINGLE PROTEIN,Homo sapiens,P30530,1,mapped,True,ChEMBL
+CHEMBL4376,Dual specificity tyrosine-phosphorylation-regulated kinase 2,SINGLE PROTEIN,Homo sapiens,Q92630,1,mapped,True,ChEMBL
+CHEMBL5198,Mitogen-activated protein kinase 15,SINGLE PROTEIN,Homo sapiens,Q8TD08,1,mapped,True,ChEMBL
+CHEMBL4516,Serine/threonine-protein kinase MRCK alpha,SINGLE PROTEIN,Homo sapiens,Q5VT25,1,mapped,True,ChEMBL
+CHEMBL4575,Dual specificity tyrosine-phosphorylation-regulated kinase 3,SINGLE PROTEIN,Homo sapiens,O43781,1,mapped,True,ChEMBL
+CHEMBL5275,Bone morphogenetic protein receptor type-1A,SINGLE PROTEIN,Homo sapiens,P36894,1,mapped,True,ChEMBL
+CHEMBL5331,Tyrosine-protein kinase Mer,SINGLE PROTEIN,Homo sapiens,Q12866,1,mapped,True,ChEMBL
+CHEMBL5416,Cyclin-dependent kinase 11A,SINGLE PROTEIN,Homo sapiens,Q9UQ88,1,mapped,True,ChEMBL
+CHEMBL5467,Bone morphogenetic protein receptor type-2,SINGLE PROTEIN,Homo sapiens,Q13873,1,mapped,True,ChEMBL
+CHEMBL5052,Serine/threonine-protein kinase MRCK beta,SINGLE PROTEIN,Homo sapiens,Q9Y5S2,1,mapped,True,ChEMBL
+CHEMBL5082,Serine/threonine-protein kinase 24,SINGLE PROTEIN,Homo sapiens,Q9Y6E0,1,mapped,True,ChEMBL
+CHEMBL5432,Mitogen-activated protein kinase kinase kinase kinase 3,SINGLE PROTEIN,Homo sapiens,Q8IVH8,1,mapped,True,ChEMBL
+CHEMBL5650,Serine/threonine-protein kinase BRSK1,SINGLE PROTEIN,Homo sapiens,Q8TDC3,1,mapped,True,ChEMBL
+CHEMBL5684,"Muscle, skeletal receptor tyrosine-protein kinase",SINGLE PROTEIN,Homo sapiens,O15146,1,mapped,True,ChEMBL
+CHEMBL5719,Cyclin-dependent kinase 8,SINGLE PROTEIN,Homo sapiens,P49336,1,mapped,True,ChEMBL
+CHEMBL5749,Mitogen-activated protein kinase kinase kinase kinase 1,SINGLE PROTEIN,Homo sapiens,Q92918,1,mapped,True,ChEMBL
+CHEMBL5754,MAP/microtubule affinity-regulating kinase 4,SINGLE PROTEIN,Homo sapiens,Q96L34,1,mapped,True,ChEMBL
+CHEMBL5808,Cyclin-dependent kinase 11B,SINGLE PROTEIN,Homo sapiens,P21127,1,mapped,True,ChEMBL
+CHEMBL6002,Cyclin-dependent kinase 19,SINGLE PROTEIN,Homo sapiens,Q9BWU1,1,mapped,True,ChEMBL
+CHEMBL6166,Mitogen-activated protein kinase kinase kinase kinase 4,SINGLE PROTEIN,Homo sapiens,O95819,1,mapped,True,ChEMBL
+CHEMBL5940,Serine/threonine-protein kinase MARK1,SINGLE PROTEIN,Homo sapiens,Q9P0L2,1,mapped,True,ChEMBL
+CHEMBL2426,Casein kinase I isoform gamma-1,SINGLE PROTEIN,Homo sapiens,Q9HCP0,1,mapped,True,ChEMBL
+CHEMBL2480,Proto-oncogene tyrosine-protein kinase LCK,SINGLE PROTEIN,Mus musculus,P06240,1,mapped,False,ChEMBL
+CHEMBL267,Proto-oncogene tyrosine-protein kinase Src,SINGLE PROTEIN,Homo sapiens,P12931,1,mapped,True,ChEMBL
+CHEMBL1991,Inhibitor of nuclear factor kappa-B kinase subunit beta,SINGLE PROTEIN,Homo sapiens,O14920,1,mapped,True,ChEMBL
+CHEMBL3032,Serine/threonine-protein kinase N2,SINGLE PROTEIN,Homo sapiens,Q16513,1,mapped,True,ChEMBL
+CHEMBL3582,Protein kinase C epsilon type,SINGLE PROTEIN,Homo sapiens,Q02156,1,mapped,True,ChEMBL
+CHEMBL2599,Tyrosine-protein kinase SYK,SINGLE PROTEIN,Homo sapiens,P43405,1,mapped,True,ChEMBL
+CHEMBL3024,Serine/threonine-protein kinase PLK1,SINGLE PROTEIN,Homo sapiens,P53350,1,mapped,True,ChEMBL
+CHEMBL2558,Death-associated protein kinase 1,SINGLE PROTEIN,Homo sapiens,P53355,1,mapped,True,ChEMBL
+CHEMBL3616,Protein kinase C eta type,SINGLE PROTEIN,Homo sapiens,P24723,1,mapped,True,ChEMBL
+CHEMBL3116,Cyclin-dependent kinase 9,SINGLE PROTEIN,Homo sapiens,P50750,1,mapped,True,ChEMBL
+CHEMBL3384,Serine/threonine-protein kinase N1,SINGLE PROTEIN,Homo sapiens,Q16512,1,mapped,True,ChEMBL
+CHEMBL301,Cyclin-dependent kinase 2,SINGLE PROTEIN,Homo sapiens,P24941,1,mapped,True,ChEMBL
+CHEMBL2996,Protein kinase C delta type,SINGLE PROTEIN,Homo sapiens,Q05655,1,mapped,True,ChEMBL
+CHEMBL3920,Protein kinase C theta type,SINGLE PROTEIN,Homo sapiens,Q04759,1,mapped,True,ChEMBL
+CHEMBL4442,Cyclin-dependent kinase 3,SINGLE PROTEIN,Homo sapiens,Q00526,1,mapped,True,ChEMBL
+CHEMBL3055,Cyclin-dependent kinase 7,SINGLE PROTEIN,Homo sapiens,P50613,1,mapped,True,ChEMBL
+CHEMBL4439,TGF-beta receptor type-1,SINGLE PROTEIN,Homo sapiens,P36897,1,mapped,True,ChEMBL
+CHEMBL3938,Serine/threonine-protein kinase 16,SINGLE PROTEIN,Homo sapiens,O75716,1,mapped,True,ChEMBL
+CHEMBL4225,Dual specificity protein kinase CLK2,SINGLE PROTEIN,Homo sapiens,P49760,1,mapped,True,ChEMBL
+CHEMBL3834,Cytoplasmic tyrosine-protein kinase BMX,SINGLE PROTEIN,Homo sapiens,P51813,1,mapped,True,ChEMBL
+CHEMBL3835,Serine/threonine-protein kinase Nek2,SINGLE PROTEIN,Homo sapiens,P51955,1,mapped,True,ChEMBL
+CHEMBL4600,Serine/threonine-protein kinase PAK 1,SINGLE PROTEIN,Homo sapiens,Q13153,1,mapped,True,ChEMBL
+CHEMBL5257,Serine/threonine-protein kinase Nek9,SINGLE PROTEIN,Homo sapiens,Q8TD19,1,mapped,True,ChEMBL
+CHEMBL3984,Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase,SINGLE PROTEIN,Homo sapiens,Q99640,1,mapped,True,ChEMBL
+CHEMBL4203,Dual specificity protein kinase CLK4,SINGLE PROTEIN,Homo sapiens,Q9HAZ1,1,mapped,True,ChEMBL
+CHEMBL4309,Serine/threonine-protein kinase Nek6,SINGLE PROTEIN,Homo sapiens,Q9HC98,1,mapped,True,ChEMBL
+CHEMBL4851,Serine/threonine-protein kinase 38-like,SINGLE PROTEIN,Homo sapiens,Q9Y2H1,1,mapped,True,ChEMBL
+CHEMBL4487,Serine/threonine-protein kinase PAK 2,SINGLE PROTEIN,Homo sapiens,Q13177,1,mapped,True,ChEMBL
+CHEMBL4267,TGF-beta receptor type-2,SINGLE PROTEIN,Homo sapiens,P37173,1,mapped,True,ChEMBL
+CHEMBL5251,Tyrosine-protein kinase BTK,SINGLE PROTEIN,Homo sapiens,Q06187,1,mapped,True,ChEMBL
+CHEMBL4897,Serine/threonine-protein kinase PLK3,SINGLE PROTEIN,Homo sapiens,Q9H4B4,1,mapped,True,ChEMBL
+CHEMBL4246,Tyrosine-protein kinase Tec,SINGLE PROTEIN,Homo sapiens,P42680,1,mapped,True,ChEMBL
+CHEMBL4670,MAP kinase-activated protein kinase 3,SINGLE PROTEIN,Homo sapiens,Q16644,1,mapped,True,ChEMBL
+CHEMBL4576,Homeodomain-interacting protein kinase 2,SINGLE PROTEIN,Homo sapiens,Q9H2X6,1,mapped,True,ChEMBL
+CHEMBL4577,Homeodomain-interacting protein kinase 3,SINGLE PROTEIN,Homo sapiens,Q9H422,1,mapped,True,ChEMBL
+CHEMBL5604,Dual specificity testis-specific protein kinase 1,SINGLE PROTEIN,Homo sapiens,Q15569,1,mapped,True,ChEMBL
+CHEMBL5044,Serine/threonine-protein kinase Nek5,SINGLE PROTEIN,Homo sapiens,Q6P3R8,1,mapped,True,ChEMBL
+CHEMBL5519,Serine/threonine-protein kinase DCLK2,SINGLE PROTEIN,Homo sapiens,Q8N568,1,mapped,True,ChEMBL
+CHEMBL5546,Myosin-IIIa,SINGLE PROTEIN,Homo sapiens,Q8NEV4,1,mapped,True,ChEMBL
+CHEMBL5579,Citron Rho-interacting kinase,SINGLE PROTEIN,Homo sapiens,O14578,1,mapped,True,ChEMBL
+CHEMBL5654,Myosin-IIIb,SINGLE PROTEIN,Homo sapiens,Q8WXR4,1,mapped,True,ChEMBL
+CHEMBL5683,Serine/threonine-protein kinase DCLK1,SINGLE PROTEIN,Homo sapiens,O15075,1,mapped,True,ChEMBL
+CHEMBL5753,"Atypical kinase COQ8B, mitochondrial",SINGLE PROTEIN,Homo sapiens,Q96D53,1,mapped,True,ChEMBL
+CHEMBL5810,Ephrin type-A receptor 1,SINGLE PROTEIN,Homo sapiens,P21709,1,mapped,True,ChEMBL
+CHEMBL5855,Serine/threonine-protein kinase Nek1,SINGLE PROTEIN,Homo sapiens,Q96PY6,1,mapped,True,ChEMBL
+CHEMBL6082,Serine/threonine-protein kinase SIK1,SINGLE PROTEIN,Homo sapiens,P57059,1,mapped,True,ChEMBL
+CHEMBL6123,Serine/threonine-protein kinase DCLK3,SINGLE PROTEIN,Homo sapiens,Q9C098,1,mapped,True,ChEMBL
+CHEMBL5698,NUAK family SNF1-like kinase 2,SINGLE PROTEIN,Homo sapiens,Q9H093,1,mapped,True,ChEMBL
+CHEMBL5703,Tyrosine-protein kinase Srms,SINGLE PROTEIN,Homo sapiens,Q9H3Y6,1,mapped,True,ChEMBL
+CHEMBL3142,DNA-dependent protein kinase catalytic subunit,SINGLE PROTEIN,Homo sapiens,P78527,1,mapped,True,ChEMBL
+CHEMBL4142,Fibroblast growth factor receptor 2,SINGLE PROTEIN,Homo sapiens,P21802,1,mapped,True,ChEMBL
+CHEMBL3476,Inhibitor of nuclear factor kappa-B kinase subunit alpha,SINGLE PROTEIN,Homo sapiens,O15111,1,mapped,True,ChEMBL
+CHEMBL3125,Ribosomal protein S6 kinase alpha-4,SINGLE PROTEIN,Homo sapiens,O75676,1,mapped,True,ChEMBL
+CHEMBL2595,Serine/threonine-protein kinase D3,SINGLE PROTEIN,Homo sapiens,O94806,1,mapped,True,ChEMBL
+CHEMBL1868,Vascular endothelial growth factor receptor 1,SINGLE PROTEIN,Homo sapiens,P17948,1,mapped,True,ChEMBL
+CHEMBL2896,cGMP-dependent protein kinase 2,SINGLE PROTEIN,Homo sapiens,Q13237,1,mapped,True,ChEMBL
+CHEMBL4273,cGMP-dependent protein kinase 1,SINGLE PROTEIN,Homo sapiens,Q13976,1,mapped,True,ChEMBL
+CHEMBL3290,Ephrin type-B receptor 2,SINGLE PROTEIN,Homo sapiens,P29323,1,mapped,True,ChEMBL
+CHEMBL2793,Casein kinase I isoform alpha,SINGLE PROTEIN,Homo sapiens,P48729,1,mapped,True,ChEMBL
+CHEMBL3099,Tyrosine-protein kinase ABL1,SINGLE PROTEIN,Mus musculus,P00520,1,mapped,False,ChEMBL
+CHEMBL3906,Ribosomal protein S6 kinase alpha-2,SINGLE PROTEIN,Homo sapiens,Q15349,1,mapped,True,ChEMBL
+CHEMBL4175,Megakaryocyte-associated tyrosine-protein kinase,SINGLE PROTEIN,Homo sapiens,P42679,1,mapped,True,ChEMBL
+CHEMBL3973,Fibroblast growth factor receptor 4,SINGLE PROTEIN,Homo sapiens,P22455,1,mapped,True,ChEMBL
+CHEMBL2742,Fibroblast growth factor receptor 3,SINGLE PROTEIN,Homo sapiens,P22607,1,mapped,True,ChEMBL
+CHEMBL3009,Receptor tyrosine-protein kinase erbB-4,SINGLE PROTEIN,Homo sapiens,Q15303,1,mapped,True,ChEMBL
+CHEMBL3357,Interleukin-1 receptor-associated kinase 1,SINGLE PROTEIN,Homo sapiens,P51617,1,mapped,True,ChEMBL
+CHEMBL3982,Tyrosine-protein kinase Fer,SINGLE PROTEIN,Homo sapiens,P16591,1,mapped,True,ChEMBL
+CHEMBL4601,Protein-tyrosine kinase 6,SINGLE PROTEIN,Homo sapiens,Q13882,1,mapped,True,ChEMBL
+CHEMBL5455,Tyrosine-protein kinase Fes/Fps,SINGLE PROTEIN,Homo sapiens,P07332,1,mapped,True,ChEMBL
+CHEMBL4454,Tyrosine-protein kinase Fgr,SINGLE PROTEIN,Homo sapiens,P09769,1,mapped,True,ChEMBL
+CHEMBL4900,Serine/threonine-protein kinase D2,SINGLE PROTEIN,Homo sapiens,Q9BZL6,1,mapped,True,ChEMBL
+CHEMBL4901,Ephrin type-B receptor 3,SINGLE PROTEIN,Homo sapiens,P54753,1,mapped,True,ChEMBL
+CHEMBL5332,Mitogen-activated protein kinase 7,SINGLE PROTEIN,Homo sapiens,Q13164,1,mapped,True,ChEMBL
+CHEMBL5464,Receptor-interacting serine/threonine-protein kinase 1,SINGLE PROTEIN,Homo sapiens,Q13546,1,mapped,True,ChEMBL
+CHEMBL5568,Proto-oncogene tyrosine-protein kinase ROS,SINGLE PROTEIN,Homo sapiens,P08922,1,mapped,True,ChEMBL
+CHEMBL5607,Rhodopsin kinase GRK1,SINGLE PROTEIN,Homo sapiens,Q15835,1,mapped,True,ChEMBL
+CHEMBL5121,Mitogen-activated protein kinase 6,SINGLE PROTEIN,Homo sapiens,Q16659,1,mapped,True,ChEMBL
+CHEMBL5261,Serine/threonine-protein kinase TAO1,SINGLE PROTEIN,Homo sapiens,Q7L7X3,1,mapped,True,ChEMBL
+CHEMBL5427,Homeodomain-interacting protein kinase 1,SINGLE PROTEIN,Homo sapiens,Q86Z02,1,mapped,True,ChEMBL
+CHEMBL5728,Cyclin-dependent kinase-like 2,SINGLE PROTEIN,Homo sapiens,Q92772,1,mapped,True,ChEMBL
+CHEMBL5776,Mitogen-activated protein kinase kinase kinase 7,SINGLE PROTEIN,Homo sapiens,O43318,1,mapped,True,ChEMBL
+CHEMBL5785,"Interferon-induced, double-stranded RNA-activated protein kinase",SINGLE PROTEIN,Homo sapiens,P19525,1,mapped,True,ChEMBL
+CHEMBL5856,Cyclin-dependent kinase 15,SINGLE PROTEIN,Homo sapiens,Q96Q40,1,mapped,True,ChEMBL
+CHEMBL5671,Protein delta homolog 1,SINGLE PROTEIN,Homo sapiens,P80370,1,mapped,True,ChEMBL
+CHEMBL5701,Serine/threonine-protein kinase TAO3,SINGLE PROTEIN,Homo sapiens,Q9H2K8,1,mapped,True,ChEMBL
+CHEMBL5759,Mitogen-activated protein kinase 4,SINGLE PROTEIN,Homo sapiens,P31152,1,mapped,True,ChEMBL
+CHEMBL5861,G protein-coupled receptor kinase 4,SINGLE PROTEIN,Homo sapiens,P32298,1,mapped,True,ChEMBL
+CHEMBL5836,Ephrin type-B receptor 6,SINGLE PROTEIN,Homo sapiens,O15197,1,mapped,True,ChEMBL
+CHEMBL5838,Receptor tyrosine-protein kinase erbB-3,SINGLE PROTEIN,Homo sapiens,P21860,1,mapped,True,ChEMBL
+CHEMBL6191,Mitogen-activated protein kinase kinase kinase 19,SINGLE PROTEIN,Homo sapiens,Q56UN5,1,mapped,True,ChEMBL
+CHEMBL1075133,Rhodopsin kinase GRK7,SINGLE PROTEIN,Homo sapiens,Q8WTQ7,1,mapped,True,ChEMBL
+CHEMBL1075167,Homeodomain-interacting protein kinase 4,SINGLE PROTEIN,Homo sapiens,Q8NE63,1,mapped,True,ChEMBL
+CHEMBL1163101,Serine/threonine-protein kinase/endoribonuclease IRE1,SINGLE PROTEIN,Homo sapiens,O75460,1,mapped,True,ChEMBL
+CHEMBL1163106,Serine/threonine-protein kinase MAK,SINGLE PROTEIN,Homo sapiens,P20794,1,mapped,True,ChEMBL
+CHEMBL1163112,Cyclin-dependent kinase-like 5,SINGLE PROTEIN,Homo sapiens,O76039,1,mapped,True,ChEMBL
+CHEMBL1163117,Cyclin-dependent kinase-like 3,SINGLE PROTEIN,Homo sapiens,Q8IVW4,1,mapped,True,ChEMBL
+CHEMBL1163124,Mitogen-activated protein kinase kinase kinase 13,SINGLE PROTEIN,Homo sapiens,O43283,1,mapped,True,ChEMBL
+CHEMBL1163126,Serine/threonine-protein kinase ICK,SINGLE PROTEIN,Homo sapiens,Q9UPZ9,1,mapped,True,ChEMBL
+CHEMBL1795165,Hormonally up-regulated neu tumor-associated kinase,SINGLE PROTEIN,Homo sapiens,P57058,1,mapped,True,ChEMBL
+CHEMBL3231,Rho-associated protein kinase 1,SINGLE PROTEIN,Homo sapiens,Q13464,1,mapped,True,ChEMBL
+CHEMBL2598,Protein kinase C iota type,SINGLE PROTEIN,Homo sapiens,P41743,1,mapped,True,ChEMBL
+CHEMBL2689,Macrophage-stimulating protein receptor,SINGLE PROTEIN,Homo sapiens,Q04912,1,mapped,True,ChEMBL
+CHEMBL3268,Phosphatidylinositol 4-kinase beta,SINGLE PROTEIN,Homo sapiens,Q9UBF8,1,mapped,True,ChEMBL
+CHEMBL3956,Mitogen-activated protein kinase kinase kinase 1,SINGLE PROTEIN,Homo sapiens,Q13233,1,mapped,True,ChEMBL
+CHEMBL331,Cyclin-dependent kinase 4,SINGLE PROTEIN,Homo sapiens,P11802,1,mapped,True,ChEMBL
+CHEMBL3778,Interleukin-1 receptor-associated kinase 4,SINGLE PROTEIN,Homo sapiens,Q9NWZ3,1,mapped,True,ChEMBL
+CHEMBL3542,Serine/threonine-protein kinase NIM1,SINGLE PROTEIN,Homo sapiens,Q8IY84,1,mapped,True,ChEMBL
+CHEMBL5408,Serine/threonine-protein kinase TBK1,SINGLE PROTEIN,Homo sapiens,Q9UHD2,1,mapped,True,ChEMBL
+CHEMBL5330,Mitogen-activated protein kinase kinase kinase kinase 2,SINGLE PROTEIN,Homo sapiens,Q12851,1,mapped,True,ChEMBL
+CHEMBL5415,SRSF protein kinase 3,SINGLE PROTEIN,Homo sapiens,Q9UPE1,1,mapped,True,ChEMBL
+CHEMBL5047,Serine/threonine-protein kinase ULK3,SINGLE PROTEIN,Homo sapiens,Q6PHR2,1,mapped,True,ChEMBL
+CHEMBL5095,Wee1-like protein kinase 2,SINGLE PROTEIN,Homo sapiens,P0C1S8,1,mapped,True,ChEMBL
+CHEMBL5116,Uncharacterized serine/threonine-protein kinase SBK3,SINGLE PROTEIN,Homo sapiens,P0C264,1,mapped,True,ChEMBL
+CHEMBL5435,Serine/threonine-protein kinase ULK2,SINGLE PROTEIN,Homo sapiens,Q8IYT8,1,mapped,True,ChEMBL
+CHEMBL5476,Bone morphogenetic protein receptor type-1B,SINGLE PROTEIN,Homo sapiens,O00238,1,mapped,True,ChEMBL
+CHEMBL5518,Misshapen-like kinase 1,SINGLE PROTEIN,Homo sapiens,Q8N4C8,1,mapped,True,ChEMBL
+CHEMBL5554,Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta,SINGLE PROTEIN,Homo sapiens,O00750,1,mapped,True,ChEMBL
+CHEMBL5651,Serine/threonine-protein kinase 35,SINGLE PROTEIN,Homo sapiens,Q8TDR2,1,mapped,True,ChEMBL
+CHEMBL5819,Serine/threonine-protein kinase Nek4,SINGLE PROTEIN,Homo sapiens,P51957,1,mapped,True,ChEMBL
+CHEMBL5970,Mitogen-activated protein kinase kinase kinase 3,SINGLE PROTEIN,Homo sapiens,Q99759,1,mapped,True,ChEMBL
+CHEMBL6000,Serine/threonine-protein kinase RIO2,SINGLE PROTEIN,Homo sapiens,Q9BVS4,1,mapped,True,ChEMBL
+CHEMBL6006,Serine/threonine-protein kinase ULK1,SINGLE PROTEIN,Homo sapiens,O75385,1,mapped,True,ChEMBL
+CHEMBL6083,Receptor-interacting serine/threonine-protein kinase 4,SINGLE PROTEIN,Homo sapiens,P57078,1,mapped,True,ChEMBL
+CHEMBL5789,Cyclin-dependent kinase-like 1,SINGLE PROTEIN,Homo sapiens,Q00532,1,mapped,True,ChEMBL
+CHEMBL5938,Serine/threonine-protein kinase PLK2,SINGLE PROTEIN,Homo sapiens,Q9NYY3,1,mapped,True,ChEMBL
+CHEMBL5679,Serine/threonine-protein kinase Nek3,SINGLE PROTEIN,Homo sapiens,P51956,1,mapped,True,ChEMBL
+CHEMBL6186,Serine/threonine-protein kinase Sgk3,SINGLE PROTEIN,Homo sapiens,Q96BR1,1,mapped,True,ChEMBL
+CHEMBL6029,Eukaryotic translation initiation factor 2-alpha kinase 1,SINGLE PROTEIN,Homo sapiens,Q9BQI3,1,mapped,True,ChEMBL
+CHEMBL5914,Mitogen-activated protein kinase kinase kinase 2,SINGLE PROTEIN,Homo sapiens,Q9Y2U5,1,mapped,True,ChEMBL
+CHEMBL6149,Serine/threonine-protein kinase SIK3,SINGLE PROTEIN,Homo sapiens,Q9Y2K2,1,mapped,True,ChEMBL
+CHEMBL6150,Serine/threonine-protein kinase 32A,SINGLE PROTEIN,Homo sapiens,Q8WU08,1,mapped,True,ChEMBL
+CHEMBL6154,Poly [ADP-ribose] polymerase tankyrase-2,SINGLE PROTEIN,Homo sapiens,Q9H2K2,1,mapped,True,ChEMBL
+CHEMBL1075155,Serine/threonine-protein kinase 38,SINGLE PROTEIN,Homo sapiens,Q15208,1,mapped,True,ChEMBL
+CHEMBL1075195,Serine/threonine-protein kinase TAO2,SINGLE PROTEIN,Homo sapiens,Q9UL54,1,mapped,True,ChEMBL
+CHEMBL1163104,Serine/threonine-protein kinase OSR1,SINGLE PROTEIN,Homo sapiens,O95747,1,mapped,True,ChEMBL
+CHEMBL1163108,STE20/SPS1-related proline-alanine-rich protein kinase,SINGLE PROTEIN,Homo sapiens,Q9UEW8,1,mapped,True,ChEMBL
+CHEMBL1163120,Phosphatidylinositol 3-kinase C2 domain-containing subunit gamma,SINGLE PROTEIN,Homo sapiens,O75747,1,mapped,True,ChEMBL
+CHEMBL1163123,Mitogen-activated protein kinase kinase kinase 6,SINGLE PROTEIN,Homo sapiens,O95382,1,mapped,True,ChEMBL
+CHEMBL1163127,Mitogen-activated protein kinase kinase kinase 15,SINGLE PROTEIN,Homo sapiens,Q6ZN16,1,mapped,True,ChEMBL
+CHEMBL1163128,Microtubule-associated serine/threonine-protein kinase 1,SINGLE PROTEIN,Homo sapiens,Q9Y2H9,1,mapped,True,ChEMBL
+CHEMBL1163129,Serine/threonine-protein kinase SBK1,SINGLE PROTEIN,Homo sapiens,Q52WX2,1,mapped,True,ChEMBL
+CHEMBL1628470,Transient receptor potential cation channel subfamily M member 6,SINGLE PROTEIN,Homo sapiens,Q9BX84,1,mapped,True,ChEMBL
+CHEMBL1649059,Serine/threonine-protein kinase VRK2,SINGLE PROTEIN,Homo sapiens,Q86Y07,1,mapped,True,ChEMBL
+CHEMBL1795192,Cyclin-dependent kinase 13,SINGLE PROTEIN,Homo sapiens,Q14004,1,mapped,True,ChEMBL
+CHEMBL1908381,Peripheral plasma membrane protein CASK,SINGLE PROTEIN,Homo sapiens,O14936,1,mapped,True,ChEMBL
+CHEMBL1908382,Serine/threonine-protein kinase PRP4 homolog,SINGLE PROTEIN,Homo sapiens,Q13523,1,mapped,True,ChEMBL
+CHEMBL1908383,Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma,SINGLE PROTEIN,Homo sapiens,O60331,1,mapped,True,ChEMBL
+CHEMBL1908384,SNF-related serine/threonine-protein kinase,SINGLE PROTEIN,Homo sapiens,Q9NRH2,1,mapped,True,ChEMBL
+CHEMBL1908389,Mitogen-activated protein kinase kinase kinase 12,SINGLE PROTEIN,Homo sapiens,Q12852,1,mapped,True,ChEMBL
+CHEMBL2447,Deoxycytidine kinase,SINGLE PROTEIN,Homo sapiens,P27707,1,mapped,True,ChEMBL
+CHEMBL3589,Adenosine kinase,SINGLE PROTEIN,Homo sapiens,P55263,1,mapped,True,ChEMBL
+CHEMBL4938,"Adenylate kinase 2, mitochondrial",SINGLE PROTEIN,Homo sapiens,P54819,1,mapped,True,ChEMBL
+CHEMBL4948,Dual specificity mitogen-activated protein kinase kinase 5,SINGLE PROTEIN,Homo sapiens,Q13163,1,mapped,True,ChEMBL
+CHEMBL2508,Cyclin-dependent kinase 6,SINGLE PROTEIN,Homo sapiens,Q00534,1,mapped,True,ChEMBL
+CHEMBL2749,Platelet-derived growth factor receptor beta,SINGLE PROTEIN,Mus musculus,P05622,1,mapped,False,ChEMBL
+CHEMBL4079,Beta-adrenergic receptor kinase 1,SINGLE PROTEIN,Homo sapiens,P25098,1,mapped,True,ChEMBL
+CHEMBL2938,Protein kinase C gamma type,SINGLE PROTEIN,Homo sapiens,P05129,1,mapped,True,ChEMBL
+CHEMBL308,Cyclin-dependent kinase 1,SINGLE PROTEIN,Homo sapiens,P06493,1,mapped,True,ChEMBL
+CHEMBL3530,Dual specificity mitogen-activated protein kinase kinase 7,SINGLE PROTEIN,Homo sapiens,O14733,1,mapped,True,ChEMBL
+CHEMBL4627,Myosin light chain kinase,SINGLE PROTEIN,Homo sapiens,Q32MK0,1,mapped,True,ChEMBL
+CHEMBL5024,Serine/threonine-protein kinase ATR,SINGLE PROTEIN,Homo sapiens,Q13535,1,mapped,True,ChEMBL
+CHEMBL5443,Cell division cycle 7-related protein kinase,SINGLE PROTEIN,Homo sapiens,O00311,1,mapped,True,ChEMBL
+CHEMBL5146,Breakpoint cluster region protein,SINGLE PROTEIN,Homo sapiens,P11274,1,mapped,True,ChEMBL
+CHEMBL4896,Lymphokine-activated killer T-cell-originated protein kinase,SINGLE PROTEIN,Homo sapiens,Q96KB5,1,mapped,True,ChEMBL
+CHEMBL5553,ATP-dependent RNA helicase DDX3X,SINGLE PROTEIN,Homo sapiens,O00571,1,mapped,True,ChEMBL
+CHEMBL6090,Actin-related protein 2,SINGLE PROTEIN,Homo sapiens,P61160,1,mapped,True,ChEMBL
+CHEMBL5794,Serine/threonine-protein kinase Sgk2,SINGLE PROTEIN,Homo sapiens,Q9HBY8,1,mapped,True,ChEMBL
+CHEMBL6014,Testis-specific serine/threonine-protein kinase 2,SINGLE PROTEIN,Homo sapiens,Q96PF2,1,mapped,True,ChEMBL
+CHEMBL6054,PAS domain-containing serine/threonine-protein kinase,SINGLE PROTEIN,Homo sapiens,Q96RG2,1,mapped,True,ChEMBL
+CHEMBL5678,G protein-coupled receptor kinase 5,SINGLE PROTEIN,Homo sapiens,P34947,1,mapped,True,ChEMBL
+CHEMBL5638,Serine/threonine-protein kinase Nek11,SINGLE PROTEIN,Homo sapiens,Q8NG66,1,mapped,True,ChEMBL
+CHEMBL1075104,Leucine-rich repeat serine/threonine-protein kinase 2,SINGLE PROTEIN,Homo sapiens,Q5S007,1,mapped,True,ChEMBL
+CHEMBL1169596,Serine/threonine-protein kinase A-Raf,SINGLE PROTEIN,Homo sapiens,P10398,1,mapped,True,ChEMBL
+CHEMBL1770034,Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma,SINGLE PROTEIN,Homo sapiens,Q8TBX8,1,mapped,True,ChEMBL
+CHEMBL1772932,Mitotic checkpoint serine/threonine-protein kinase BUB1,SINGLE PROTEIN,Homo sapiens,O43683,1,mapped,True,ChEMBL
+CHEMBL1908385,Serine/threonine-protein kinase PknB,SINGLE PROTEIN,Mycobacterium tuberculosis,P9WI81,1,mapped,False,ChEMBL
+CHEMBL1908386,Dual serine/threonine and tyrosine protein kinase,SINGLE PROTEIN,Homo sapiens,Q6XUX3,1,mapped,True,ChEMBL
+CHEMBL1908387,Calcium-dependent protein kinase 1,SINGLE PROTEIN,Plasmodium falciparum,P62344,1,mapped,False,ChEMBL
+CHEMBL1908388,Cyclin-dependent kinase 2 homolog,SINGLE PROTEIN,Plasmodium falciparum (isolate 3D7),P61075,1,mapped,False,ChEMBL
+CHEMBL2010634,ATP-dependent RNA helicase DDX1,SINGLE PROTEIN,Homo sapiens,Q92499,1,mapped,True,ChEMBL
+CHEMBL2189122,DnaJ homolog subfamily A member 1,SINGLE PROTEIN,Homo sapiens,P31689,1,mapped,True,ChEMBL
+CHEMBL2331049,Vascular endothelial growth factor receptor 2,SINGLE PROTEIN,Danio rerio,Q5GIT4,1,mapped,False,ChEMBL
+CHEMBL2331059,Delta(24)-sterol reductase,SINGLE PROTEIN,Homo sapiens,Q15392,1,mapped,True,ChEMBL
+CHEMBL3559692,Cyclin-dependent kinase 12,SINGLE PROTEIN,Homo sapiens,Q9NYV4,1,mapped,True,ChEMBL
+CHEMBL3769292,dCTP pyrophosphatase 1,SINGLE PROTEIN,Homo sapiens,Q9H773,1,mapped,True,ChEMBL
+CHEMBL4105707,Acyl-CoA dehydrogenase family member 11,SINGLE PROTEIN,Homo sapiens,Q709F0,1,mapped,True,ChEMBL
+CHEMBL4105742,Chromodomain-helicase-DNA-binding protein 4,SINGLE PROTEIN,Homo sapiens,Q14839,1,mapped,True,ChEMBL
+CHEMBL4105748,Peroxisomal acyl-coenzyme A oxidase 1,SINGLE PROTEIN,Homo sapiens,Q15067,1,mapped,True,ChEMBL
+CHEMBL4105783,Probable ATP-dependent RNA helicase DDX6,SINGLE PROTEIN,Homo sapiens,P26196,1,mapped,True,ChEMBL
+CHEMBL4105814,ATP-dependent RNA helicase DHX30,SINGLE PROTEIN,Homo sapiens,Q7L2E3,1,mapped,True,ChEMBL
+CHEMBL4105816,Acyl-CoA dehydrogenase family member 10,SINGLE PROTEIN,Homo sapiens,Q6JQN1,1,mapped,True,ChEMBL
+CHEMBL4105817,Peroxisomal acyl-coenzyme A oxidase 3,SINGLE PROTEIN,Homo sapiens,O15254,1,mapped,True,ChEMBL
+CHEMBL4105818,Long-chain-fatty-acid--CoA ligase 5,SINGLE PROTEIN,Homo sapiens,Q9ULC5,1,mapped,True,ChEMBL
+CHEMBL4105819,Adenine phosphoribosyltransferase,SINGLE PROTEIN,Homo sapiens,P07741,1,mapped,True,ChEMBL
+CHEMBL4105857,Actin-related protein 3,SINGLE PROTEIN,Homo sapiens,P61158,1,mapped,True,ChEMBL
+CHEMBL4105885,AarF domain-containing protein kinase 1,SINGLE PROTEIN,Homo sapiens,Q86TW2,1,mapped,True,ChEMBL
+CHEMBL4105892,"Very long-chain specific acyl-CoA dehydrogenase, mitochondrial",SINGLE PROTEIN,Homo sapiens,P49748,1,mapped,True,ChEMBL
+CHEMBL4105937,"Cysteine--tRNA ligase, cytoplasmic",SINGLE PROTEIN,Homo sapiens,P49589,1,mapped,True,ChEMBL
+CHEMBL4105975,"Cytochrome c1, heme protein, mitochondrial",SINGLE PROTEIN,Homo sapiens,P08574,1,mapped,True,ChEMBL
+CHEMBL2002,Inosine-5'-monophosphate dehydrogenase 2,SINGLE PROTEIN,Homo sapiens,P12268,1,mapped,True,ChEMBL
+CHEMBL3959,Ribosyldihydronicotinamide dehydrogenase [quinone],SINGLE PROTEIN,Homo sapiens,P16083,1,mapped,True,ChEMBL
+CHEMBL2393,5'-AMP-activated protein kinase subunit gamma-1,SINGLE PROTEIN,Homo sapiens,P54619,1,mapped,True,ChEMBL
+CHEMBL2453,5'-AMP-activated protein kinase subunit gamma-2,SINGLE PROTEIN,Homo sapiens,Q9UGJ0,1,mapped,True,ChEMBL
+CHEMBL3856,"Glycogen phosphorylase, brain form",SINGLE PROTEIN,Homo sapiens,P11216,1,mapped,True,ChEMBL
+CHEMBL2972,"ATP-dependent 6-phosphofructokinase, platelet type",SINGLE PROTEIN,Homo sapiens,Q01813,1,mapped,True,ChEMBL
+CHEMBL2546,Heme oxygenase 2,SINGLE PROTEIN,Homo sapiens,P30519,1,mapped,True,ChEMBL
+CHEMBL2568,"Glycogen phosphorylase, liver form",SINGLE PROTEIN,Homo sapiens,P06737,1,mapped,True,ChEMBL
+CHEMBL2221,cAMP-dependent protein kinase type II-alpha regulatory subunit,SINGLE PROTEIN,Homo sapiens,P13861,1,mapped,True,ChEMBL
+CHEMBL3045,Protein kinase C beta type,SINGLE PROTEIN,Homo sapiens,P05771,1,mapped,True,ChEMBL
+CHEMBL2743,cAMP-dependent protein kinase catalytic subunit gamma,SINGLE PROTEIN,Homo sapiens,P22612,1,mapped,True,ChEMBL
+CHEMBL5247,Scaffold protein ILK,SINGLE PROTEIN,Homo sapiens,Q13418,1,mapped,True,ChEMBL
+CHEMBL5922,Bifunctional phosphoribosylaminoimidazole carboxylase/phosphoribosylaminoimidazole succinocarboxamide synthetase,SINGLE PROTEIN,Homo sapiens,P22234,1,mapped,True,ChEMBL
+CHEMBL6144,G protein-coupled receptor kinase 6,SINGLE PROTEIN,Homo sapiens,P43250,1,mapped,True,ChEMBL
+CHEMBL1075181,Pyridoxal kinase,SINGLE PROTEIN,Homo sapiens,O00764,1,mapped,True,ChEMBL
+CHEMBL1741190,GTP-binding nuclear protein Ran,SINGLE PROTEIN,Homo sapiens,P62826,1,mapped,True,ChEMBL
+CHEMBL1795194,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha,SINGLE PROTEIN,Homo sapiens,P48426,1,mapped,True,ChEMBL
+CHEMBL1795199,Receptor-interacting serine/threonine-protein kinase 3,SINGLE PROTEIN,Homo sapiens,Q9Y572,1,mapped,True,ChEMBL
+CHEMBL3313835,S-adenosylmethionine synthase isoform type-2,SINGLE PROTEIN,Homo sapiens,P31153,1,mapped,True,ChEMBL
+CHEMBL3627581,Serine/threonine-protein kinase N3,SINGLE PROTEIN,Homo sapiens,Q6P5Z2,1,mapped,True,ChEMBL
+CHEMBL3709670,ADP/ATP translocase 2,SINGLE PROTEIN,Homo sapiens,P05141,1,mapped,True,ChEMBL
+CHEMBL3831205,26S proteasome regulatory subunit 6B,SINGLE PROTEIN,Homo sapiens,P43686,1,mapped,True,ChEMBL
+CHEMBL3879831,"Ferrochelatase, mitochondrial",SINGLE PROTEIN,Homo sapiens,P22830,1,mapped,True,ChEMBL
+CHEMBL4105702,Ras-related protein Rab-27A,SINGLE PROTEIN,Homo sapiens,P51159,1,mapped,True,ChEMBL
+CHEMBL4105703,Ras-related protein Rab-6A,SINGLE PROTEIN,Homo sapiens,P20340,1,mapped,True,ChEMBL
+CHEMBL4105704,Obg-like ATPase 1,SINGLE PROTEIN,Homo sapiens,Q9NTK5,1,mapped,True,ChEMBL
+CHEMBL4105705,"Dynamin-like GTPase OPA1, mitochondrial",SINGLE PROTEIN,Homo sapiens,O60313,1,mapped,True,ChEMBL
+CHEMBL4105706,Membrane-associated progesterone receptor component 1,SINGLE PROTEIN,Homo sapiens,O00264,1,mapped,True,ChEMBL
+CHEMBL4105743,General transcription and DNA repair factor IIH helicase subunit XPD,SINGLE PROTEIN,Homo sapiens,P18074,1,mapped,True,ChEMBL
+CHEMBL4105744,Electron transfer flavoprotein subunit beta,SINGLE PROTEIN,Homo sapiens,P38117,1,mapped,True,ChEMBL
+CHEMBL4105745,DNA replication licensing factor MCM4,SINGLE PROTEIN,Homo sapiens,P33991,1,mapped,True,ChEMBL
+CHEMBL4105746,Myosin-10,SINGLE PROTEIN,Homo sapiens,P35580,1,mapped,True,ChEMBL
+CHEMBL4105747,Structural maintenance of chromosomes protein 1A,SINGLE PROTEIN,Homo sapiens,Q14683,1,mapped,True,ChEMBL
+CHEMBL4105779,Midasin,SINGLE PROTEIN,Homo sapiens,Q9NU22,1,mapped,True,ChEMBL
+CHEMBL4105780,GTP-binding protein 4,SINGLE PROTEIN,Homo sapiens,Q9BZE4,1,mapped,True,ChEMBL
+CHEMBL4105781,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13,SINGLE PROTEIN,Homo sapiens,Q9P0J0,1,mapped,True,ChEMBL
+CHEMBL4105815,Glycine--tRNA ligase,SINGLE PROTEIN,Homo sapiens,P41250,1,mapped,True,ChEMBL
+CHEMBL4105821,"Isoleucine--tRNA ligase, mitochondrial",SINGLE PROTEIN,Homo sapiens,Q9NSE4,1,mapped,True,ChEMBL
+CHEMBL4105853,Rab-like protein 3,SINGLE PROTEIN,Homo sapiens,Q5HYI8,1,mapped,True,ChEMBL
+CHEMBL4105854,ADP/ATP translocase 3,SINGLE PROTEIN,Homo sapiens,P12236,1,mapped,True,ChEMBL
+CHEMBL4105858,Putative heat shock protein HSP 90-beta 2,SINGLE PROTEIN,Homo sapiens,Q58FF8,1,mapped,True,ChEMBL
+CHEMBL4105888,Myosin-14,SINGLE PROTEIN,Homo sapiens,Q7Z406,1,mapped,True,ChEMBL
+CHEMBL4105889,Exosome RNA helicase MTR4,SINGLE PROTEIN,Homo sapiens,P42285,1,mapped,True,ChEMBL
+CHEMBL4105890,Structural maintenance of chromosomes protein 2,SINGLE PROTEIN,Homo sapiens,O95347,1,mapped,True,ChEMBL
+CHEMBL4105891,Septin-9,SINGLE PROTEIN,Homo sapiens,Q9UHD8,1,mapped,True,ChEMBL
+CHEMBL4105933,Uncharacterized protein FLJ45252,SINGLE PROTEIN,Homo sapiens,Q6ZSR9,1,mapped,True,ChEMBL
+CHEMBL4105935,RNA cytidine acetyltransferase,SINGLE PROTEIN,Homo sapiens,Q9H0A0,1,mapped,True,ChEMBL
+CHEMBL4105969,Phenylalanine--tRNA ligase beta subunit,SINGLE PROTEIN,Homo sapiens,Q9NSD9,1,mapped,True,ChEMBL
+CHEMBL4105971,Ras-related protein Rab-10,SINGLE PROTEIN,Homo sapiens,P61026,1,mapped,True,ChEMBL
+CHEMBL4105972,U5 small nuclear ribonucleoprotein 200 kDa helicase,SINGLE PROTEIN,Homo sapiens,O75643,1,mapped,True,ChEMBL
+CHEMBL1806,DNA topoisomerase 2-alpha,SINGLE PROTEIN,Homo sapiens,P11388,1,mapped,True,ChEMBL
+CHEMBL2039,Amine oxidase [flavin-containing] B,SINGLE PROTEIN,Homo sapiens,P27338,1,mapped,True,ChEMBL
+CHEMBL1783,"Vascular endothelial growth factor A, long form",SINGLE PROTEIN,Homo sapiens,P15692,1,mapped,True,ChEMBL
+CHEMBL5136,Platelet-activating factor receptor,SINGLE PROTEIN,Cavia porcellus,P21556,1,mapped,False,ChEMBL
+CHEMBL3860,"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta",SINGLE PROTEIN,Homo sapiens,O43924,1,mapped,True,ChEMBL
+CHEMBL3238,"Carnitine O-palmitoyltransferase 2, mitochondrial",SINGLE PROTEIN,Homo sapiens,P23786,1,mapped,True,ChEMBL
+CHEMBL4552,Translocator protein,SINGLE PROTEIN,Rattus norvegicus,P16257,1,mapped,False,ChEMBL
+CHEMBL4869,Major prion protein,SINGLE PROTEIN,Homo sapiens,P04156,1,mapped,True,ChEMBL
+CHEMBL2128,Peroxisome proliferator-activated receptor alpha,SINGLE PROTEIN,Mus musculus,P23204,1,mapped,False,ChEMBL
+CHEMBL2459,Peroxisome proliferator-activated receptor gamma,SINGLE PROTEIN,Mus musculus,P37238,1,mapped,False,ChEMBL
+CHEMBL2472,Gamma-aminobutyric acid receptor subunit alpha-4,SINGLE PROTEIN,Homo sapiens,P48169,1,mapped,True,ChEMBL
+CHEMBL5112,Gamma-aminobutyric acid receptor subunit alpha-5,SINGLE PROTEIN,Homo sapiens,P31644,1,mapped,True,ChEMBL
+CHEMBL3179,"Tyrosine--tRNA ligase, cytoplasmic",SINGLE PROTEIN,Homo sapiens,P54577,1,mapped,True,ChEMBL
+CHEMBL300,Gamma-aminobutyric acid receptor subunit alpha-5,SINGLE PROTEIN,Rattus norvegicus,P19969,1,mapped,False,ChEMBL
+CHEMBL3608,Epidermal growth factor receptor,SINGLE PROTEIN,Mus musculus,Q01279,1,mapped,False,ChEMBL
+CHEMBL3396,DNA topoisomerase 2-beta,SINGLE PROTEIN,Homo sapiens,Q02880,1,mapped,True,ChEMBL
+CHEMBL3337,Vascular endothelial growth factor receptor 2,SINGLE PROTEIN,Mus musculus,P35918,1,mapped,False,ChEMBL
+CHEMBL321,Matrix metalloproteinase-9,SINGLE PROTEIN,Homo sapiens,P14780,1,mapped,True,ChEMBL
+CHEMBL3026,Gamma-aminobutyric acid receptor subunit alpha-3,SINGLE PROTEIN,Homo sapiens,P34903,1,mapped,True,ChEMBL
+CHEMBL328,Gamma-aminobutyric acid receptor subunit alpha-3,SINGLE PROTEIN,Rattus norvegicus,P20236,1,mapped,False,ChEMBL
+CHEMBL4956,Gamma-aminobutyric acid receptor subunit alpha-2,SINGLE PROTEIN,Homo sapiens,P47869,1,mapped,True,ChEMBL
+CHEMBL329,Type-1 angiotensin II receptor A,SINGLE PROTEIN,Rattus norvegicus,P25095,1,mapped,False,ChEMBL
+CHEMBL2871,Cholecystokinin receptor type A,SINGLE PROTEIN,Rattus norvegicus,P30551,1,mapped,False,ChEMBL
+CHEMBL4037,"Carnitine O-palmitoyltransferase 2, mitochondrial",SINGLE PROTEIN,Rattus norvegicus,P18886,1,mapped,False,ChEMBL
+CHEMBL335,Tyrosine-protein phosphatase non-receptor type 1,SINGLE PROTEIN,Homo sapiens,P18031,1,mapped,True,ChEMBL
+CHEMBL341,Gamma-aminobutyric acid receptor subunit alpha-2,SINGLE PROTEIN,Rattus norvegicus,P23576,1,mapped,False,ChEMBL
+CHEMBL5287,Hepatic sodium/bile acid cotransporter,SINGLE PROTEIN,Homo sapiens,Q14973,1,mapped,True,ChEMBL
+CHEMBL4422,Free fatty acid receptor 1,SINGLE PROTEIN,Homo sapiens,O14842,1,mapped,True,ChEMBL
+CHEMBL4506,NAD-dependent protein deacetylase sirtuin-1,SINGLE PROTEIN,Homo sapiens,Q96EB6,1,mapped,True,ChEMBL
+CHEMBL3986,GABA receptor subunit,SINGLE PROTEIN,Musca domestica,Q75NA5,1,mapped,False,ChEMBL
+CHEMBL6136,Lysine-specific histone demethylase 1A,SINGLE PROTEIN,Homo sapiens,O60341,1,mapped,True,ChEMBL
+CHEMBL5917,"Malate dehydrogenase, mitochondrial",SINGLE PROTEIN,Homo sapiens,P40926,1,mapped,True,ChEMBL
+CHEMBL1075146,Elastase,SINGLE PROTEIN,Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG12228),P14756,1,mapped,False,ChEMBL
+CHEMBL1293194,"Carnitine O-palmitoyltransferase 1, liver isoform",SINGLE PROTEIN,Homo sapiens,P50416,1,mapped,True,ChEMBL
+CHEMBL1697658,Pleiotropic ABC efflux transporter of multiple drugs,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,P33302,1,mapped,False,ChEMBL
+CHEMBL1795168,CDGSH iron-sulfur domain-containing protein 1,SINGLE PROTEIN,Homo sapiens,Q9NZ45,1,mapped,True,ChEMBL
+CHEMBL1795198,STE20-related kinase adapter protein alpha,SINGLE PROTEIN,Homo sapiens,Q7RTN6,1,mapped,True,ChEMBL
+CHEMBL1938223,EKC/KEOPS complex subunit TP53RK,SINGLE PROTEIN,Homo sapiens,Q96S44,1,mapped,True,ChEMBL
+CHEMBL2062349,RuvB-like 2,SINGLE PROTEIN,Homo sapiens,Q9Y230,1,mapped,True,ChEMBL
+CHEMBL2069163,Dual specificity testis-specific protein kinase 2,SINGLE PROTEIN,Homo sapiens,Q96S53,1,mapped,True,ChEMBL
+CHEMBL2216739,"Carnitine O-palmitoyltransferase 1, muscle isoform",SINGLE PROTEIN,Homo sapiens,Q92523,1,mapped,True,ChEMBL
+CHEMBL2331061,Serine/threonine-protein kinase B-raf,SINGLE PROTEIN,Mus musculus,P28028,1,mapped,False,ChEMBL
+CHEMBL3259467,RuvB-like 1,SINGLE PROTEIN,Homo sapiens,Q9Y265,1,mapped,True,ChEMBL
+CHEMBL3308979,CDGSH iron-sulfur domain-containing protein 1,SINGLE PROTEIN,Rattus norvegicus,B0K020,1,mapped,False,ChEMBL
+CHEMBL3632452,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,SINGLE PROTEIN,Homo sapiens,Q9UDY8,1,mapped,True,ChEMBL
+CHEMBL4105820,Thyroid hormone receptor-associated protein 3,SINGLE PROTEIN,Homo sapiens,Q9Y2W1,1,mapped,True,ChEMBL
+CHEMBL4105970,"Elongation factor Tu, mitochondrial",SINGLE PROTEIN,Homo sapiens,P49411,1,mapped,True,ChEMBL
+CHEMBL4105973,"Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial",SINGLE PROTEIN,Homo sapiens,Q9P2R7,1,mapped,True,ChEMBL
+CHEMBL4295626,Anthranilate--CoA ligase,SINGLE PROTEIN,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 /JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),Q9I4X3,1,mapped,False,ChEMBL
+CHEMBL4523399,CDGSH iron-sulfur domain-containing protein 2,SINGLE PROTEIN,Homo sapiens,Q8N5K1,1,mapped,True,ChEMBL
+CHEMBL1798,Cysteinyl leukotriene receptor 1,SINGLE PROTEIN,Homo sapiens,Q9Y271,1,mapped,True,ChEMBL
+CHEMBL1949,Peptidyl-prolyl cis-trans isomerase A,SINGLE PROTEIN,Homo sapiens,P62937,1,mapped,True,ChEMBL
+CHEMBL1837,Trypanothione reductase,SINGLE PROTEIN,Trypanosoma brucei brucei,P39051,1,mapped,False,ChEMBL
+CHEMBL4330,Cysteinyl leukotriene receptor 2,SINGLE PROTEIN,Homo sapiens,Q9NS75,1,mapped,True,ChEMBL
+CHEMBL4835,L-lactate dehydrogenase A chain,SINGLE PROTEIN,Homo sapiens,P00338,1,mapped,True,ChEMBL
+CHEMBL4878,Cytochrome P450 1B1,SINGLE PROTEIN,Homo sapiens,Q16678,1,mapped,True,ChEMBL
+CHEMBL4940,L-lactate dehydrogenase B chain,SINGLE PROTEIN,Homo sapiens,P07195,1,mapped,True,ChEMBL
+CHEMBL5373,Cannabinoid receptor 2,SINGLE PROTEIN,Mus musculus,P47936,1,mapped,False,ChEMBL
+CHEMBL3037,Cannabinoid receptor 1,SINGLE PROTEIN,Mus musculus,P47746,1,mapped,False,ChEMBL
+CHEMBL3571,Cannabinoid receptor 1,SINGLE PROTEIN,Rattus norvegicus,P20272,1,mapped,False,ChEMBL
+CHEMBL277,Muscarinic acetylcholine receptor M5,SINGLE PROTEIN,Rattus norvegicus,P08911,1,mapped,False,ChEMBL
+CHEMBL2524,Alpha-galactosidase A,SINGLE PROTEIN,Homo sapiens,P06280,1,mapped,True,ChEMBL
+CHEMBL2799,Sodium-dependent dopamine transporter,SINGLE PROTEIN,Mus musculus,Q61327,1,mapped,False,ChEMBL
+CHEMBL4158,Fatty acid synthase,SINGLE PROTEIN,Homo sapiens,P49327,1,mapped,True,ChEMBL
+CHEMBL3006,5-hydroxytryptamine receptor 2C,SINGLE PROTEIN,Mus musculus,P34968,1,mapped,False,ChEMBL
+CHEMBL2370,Sodium-dependent noradrenaline transporter,SINGLE PROTEIN,Mus musculus,O55192,1,mapped,False,ChEMBL
+CHEMBL3455,Fatty-acid amide hydrolase 1,SINGLE PROTEIN,Mus musculus,O08914,1,mapped,False,ChEMBL
+CHEMBL4642,Sodium-dependent serotonin transporter,SINGLE PROTEIN,Mus musculus,Q60857,1,mapped,False,ChEMBL
+CHEMBL2731,Galanin receptor type 3,SINGLE PROTEIN,Homo sapiens,O60755,1,mapped,True,ChEMBL
+CHEMBL3561,Gamma-aminobutyric acid receptor subunit rho-1,SINGLE PROTEIN,Homo sapiens,P24046,1,mapped,True,ChEMBL
+CHEMBL4361,Induced myeloid leukemia cell differentiation protein Mcl-1,SINGLE PROTEIN,Homo sapiens,Q07820,1,mapped,True,ChEMBL
+CHEMBL3691,Autotaxin,SINGLE PROTEIN,Homo sapiens,Q13822,1,mapped,True,ChEMBL
+CHEMBL5172,Cytosolic endo-beta-N-acetylglucosaminidase,SINGLE PROTEIN,Homo sapiens,Q8NFI3,1,mapped,True,ChEMBL
+CHEMBL5542,DNA polymerase eta,SINGLE PROTEIN,Homo sapiens,Q9Y253,1,mapped,True,ChEMBL
+CHEMBL5160,Transient receptor potential cation channel subfamily A member 1,SINGLE PROTEIN,Rattus norvegicus,Q6RI86,1,mapped,False,ChEMBL
+CHEMBL5516,Lysophosphatidylserine lipase ABHD12,SINGLE PROTEIN,Homo sapiens,Q8N2K0,1,mapped,True,ChEMBL
+CHEMBL6007,Transient receptor potential cation channel subfamily A member 1,SINGLE PROTEIN,Homo sapiens,O75762,1,mapped,True,ChEMBL
+CHEMBL6036,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",SINGLE PROTEIN,Homo sapiens,O94760,1,mapped,True,ChEMBL
+CHEMBL5645,Cysteinyl leukotriene receptor 1,SINGLE PROTEIN,Cavia porcellus,Q2NNR5,1,mapped,False,ChEMBL
+CHEMBL6113,Phosphoethanolamine/phosphocholine phosphatase,SINGLE PROTEIN,Homo sapiens,Q8TCT1,1,mapped,True,ChEMBL
+CHEMBL1075294,"Indoleamine 2,3-dioxygenase 1",SINGLE PROTEIN,Mus musculus,P28776,1,mapped,False,ChEMBL
+CHEMBL1075307,"Tryptophan 2,3-dioxygenase",SINGLE PROTEIN,Mus musculus,P48776,1,mapped,False,ChEMBL
+CHEMBL1075319,Transient receptor potential cation channel subfamily M member 8,SINGLE PROTEIN,Homo sapiens,Q7Z2W7,1,mapped,True,ChEMBL
+CHEMBL1075322,G-protein coupled receptor 55,SINGLE PROTEIN,Homo sapiens,Q9Y2T6,1,mapped,True,ChEMBL
+CHEMBL1293275,Protein phosphatase EYA2,SINGLE PROTEIN,Homo sapiens,O00167,1,mapped,True,ChEMBL
+CHEMBL1293277,NPC intracellular cholesterol transporter 1,SINGLE PROTEIN,Homo sapiens,O15118,1,mapped,True,ChEMBL
+CHEMBL1293287,Insulin-degrading enzyme,SINGLE PROTEIN,Homo sapiens,P14735,1,mapped,True,ChEMBL
+CHEMBL1743183,Leukotriene C4 synthase,SINGLE PROTEIN,Homo sapiens,Q16873,1,mapped,True,ChEMBL
+CHEMBL2073667,Solute carrier family 22 member 4,SINGLE PROTEIN,Rattus norvegicus,Q9R141,1,mapped,False,ChEMBL
+CHEMBL2073670,Solute carrier family 22 member 1,SINGLE PROTEIN,Rattus norvegicus,Q63089,1,mapped,False,ChEMBL
+CHEMBL2189127,Monoacylglycerol lipase ABHD6,SINGLE PROTEIN,Homo sapiens,Q9BV23,1,mapped,True,ChEMBL
+CHEMBL2321617,Voltage-gated potassium channel KCNC1,SINGLE PROTEIN,Rattus norvegicus,P25122,1,mapped,False,ChEMBL
+CHEMBL2384898,N-arachidonyl glycine receptor,SINGLE PROTEIN,Homo sapiens,Q14330,1,mapped,True,ChEMBL
+CHEMBL3259470,G-protein coupled receptor 183,SINGLE PROTEIN,Homo sapiens,P32249,1,mapped,True,ChEMBL
+CHEMBL3879870,N-acetyltransferase Eis,SINGLE PROTEIN,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),P9WFK7,1,mapped,False,ChEMBL
+CHEMBL4105829,Envelope glycoprotein,SINGLE PROTEIN,Zaire ebolavirus (strain Mayinga-76) (ZEBOV) (Zaire Ebola virus),Q05320,1,mapped,False,ChEMBL
+CHEMBL4105864,Sigma intracellular receptor 2,SINGLE PROTEIN,Rattus norvegicus,Q5U3Y7,1,mapped,False,ChEMBL
+CHEMBL4295557,Replicase polyprotein 1ab,SINGLE PROTEIN,Middle East respiratory syndrome-related coronavirus (isolate UnitedKingdom/H123990006/2012) (Betacoronavirus England 1) (Humancoronavirus EMC),K9N7C7,1,mapped,False,ChEMBL
+CHEMBL5305023,Aminopeptidase,SINGLE PROTEIN,Trypanosoma cruzi Dm28c,V5BWE3,1,mapped,False,ChEMBL
+CHEMBL6066225,N-arachidonyl glycine receptor,SINGLE PROTEIN,Mus musculus,Q8K1Z6,1,mapped,False,ChEMBL
+CHEMBL2052,Matrix protein 2,SINGLE PROTEIN,Influenza A virus (A/Udorn/307/1972(H3N2)),P0DOF8,1,mapped,False,ChEMBL
+CHEMBL243,Human immunodeficiency virus type 1 protease,SINGLE PROTEIN,Human immunodeficiency virus 1,Q72874,1,mapped,False,ChEMBL
+CHEMBL1904,"Glutamate receptor ionotropic, NMDA 2B",SINGLE PROTEIN,Homo sapiens,Q13224,1,mapped,True,ChEMBL
+CHEMBL4883,Urokinase plasminogen activator surface receptor,SINGLE PROTEIN,Homo sapiens,Q03405,1,mapped,True,ChEMBL
+CHEMBL2104,P2X purinoceptor 4,SINGLE PROTEIN,Homo sapiens,Q99571,1,mapped,True,ChEMBL
+CHEMBL2439,Myeloperoxidase,SINGLE PROTEIN,Homo sapiens,P05164,1,mapped,True,ChEMBL
+CHEMBL2490,5-hydroxytryptamine receptor 2A,SINGLE PROTEIN,Sus scrofa,P50129,1,mapped,False,ChEMBL
+CHEMBL4744,Alpha-2A adrenergic receptor,SINGLE PROTEIN,Bos taurus,Q28838,1,mapped,False,ChEMBL
+CHEMBL2632,"HLA class I histocompatibility antigen, A alpha chain",SINGLE PROTEIN,Homo sapiens,P04439,1,mapped,True,ChEMBL
+CHEMBL2536,Phospholipase D1,SINGLE PROTEIN,Homo sapiens,Q13393,1,mapped,True,ChEMBL
+CHEMBL2125,Vesicular acetylcholine transporter,SINGLE PROTEIN,Rattus norvegicus,Q62666,1,mapped,False,ChEMBL
+CHEMBL2462,Tyrosine 3-monooxygenase,SINGLE PROTEIN,Rattus norvegicus,P04177,1,mapped,False,ChEMBL
+CHEMBL4608,Melanocortin receptor 5,SINGLE PROTEIN,Homo sapiens,P33032,1,mapped,True,ChEMBL
+CHEMBL3071,D(1A) dopamine receptor,SINGLE PROTEIN,Mus musculus,Q61616,1,mapped,False,ChEMBL
+CHEMBL3331,Prostaglandin G/H synthase 2,SINGLE PROTEIN,Bos taurus,O62698,1,mapped,False,ChEMBL
+CHEMBL3687,Polyunsaturated fatty acid lipoxygenase ALOX12,SINGLE PROTEIN,Homo sapiens,P18054,1,mapped,True,ChEMBL
+CHEMBL3414,DNA polymerase catalytic subunit,SINGLE PROTEIN,Human cytomegalovirus (strain AD169) (HHV-5) (Human herpesvirus 5),P08546,1,mapped,False,ChEMBL
+CHEMBL1964,A-type voltage-gated potassium channel KCND3,SINGLE PROTEIN,Homo sapiens,Q9UK17,1,mapped,True,ChEMBL
+CHEMBL4124,Histamine H3 receptor,SINGLE PROTEIN,Rattus norvegicus,Q9QYN8,1,mapped,False,ChEMBL
+CHEMBL4133,Prostaglandin G/H synthase 1,SINGLE PROTEIN,Canis lupus familiaris,Q8HZR1,1,mapped,False,ChEMBL
+CHEMBL4033,Cyclooxygenase-2,SINGLE PROTEIN,Canis lupus familiaris,Q8SPQ9,1,mapped,False,ChEMBL
+CHEMBL2758,Mannose-6-phosphate isomerase,SINGLE PROTEIN,Homo sapiens,P34949,1,mapped,True,ChEMBL
+CHEMBL2734,Phospholipase D2,SINGLE PROTEIN,Homo sapiens,O14939,1,mapped,True,ChEMBL
+CHEMBL5102,Transient receptor potential cation channel subfamily V member 1,SINGLE PROTEIN,Rattus norvegicus,O35433,1,mapped,False,ChEMBL
+CHEMBL3021,Estrogen receptor beta,SINGLE PROTEIN,Rattus norvegicus,Q62986,1,mapped,False,ChEMBL
+CHEMBL2857,Human rhinovirus A protease,SINGLE PROTEIN,Human rhinovirus sp.,Q4U254,1,mapped,False,ChEMBL
+CHEMBL2916,Telomerase reverse transcriptase,SINGLE PROTEIN,Homo sapiens,O14746,1,mapped,True,ChEMBL
+CHEMBL2724,Estrogen receptor,SINGLE PROTEIN,Rattus norvegicus,P06211,1,mapped,False,ChEMBL
+CHEMBL3442,"Glutamate receptor ionotropic, NMDA 2B",SINGLE PROTEIN,Mus musculus,Q01097,1,mapped,False,ChEMBL
+CHEMBL3999,Cell division protein FtsZ,SINGLE PROTEIN,Escherichia coli K-12,P0A9A6,1,mapped,False,ChEMBL
+CHEMBL3097,Acetylcholine receptor subunit alpha,SINGLE PROTEIN,Torpedo californica,P02710,1,mapped,False,ChEMBL
+CHEMBL3698,Major prion protein,SINGLE PROTEIN,Mus musculus,P04925,1,mapped,False,ChEMBL
+CHEMBL4685,"Indoleamine 2,3-dioxygenase 1",SINGLE PROTEIN,Homo sapiens,P14902,1,mapped,True,ChEMBL
+CHEMBL4693,Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,SINGLE PROTEIN,Oryctolagus cuniculus,P04191,1,mapped,False,ChEMBL
+CHEMBL1169598,Polymerase acidic protein,SINGLE PROTEIN,Influenza A virus (A/Puerto Rico/8/1934(H1N1)),P03433,1,mapped,False,ChEMBL
+CHEMBL1250404,Cytochrome c oxidase subunit 2,SINGLE PROTEIN,Ovis aries,O78750,1,mapped,False,ChEMBL
+CHEMBL1287628,NADPH oxidase 1,SINGLE PROTEIN,Homo sapiens,Q9Y5S8,1,mapped,True,ChEMBL
+CHEMBL1641354,Aldehyde oxidase 1,SINGLE PROTEIN,Mus musculus,O54754,1,mapped,False,ChEMBL
+CHEMBL1641356,Aldehyde oxidase 1,SINGLE PROTEIN,Oryctolagus cuniculus,P80456,1,mapped,False,ChEMBL
+CHEMBL1641357,Aldehyde oxidase 1,SINGLE PROTEIN,Macaca fascicularis,Q5FB27,1,mapped,False,ChEMBL
+CHEMBL1697667,AP-2 complex subunit sigma,SINGLE PROTEIN,Rattus norvegicus,P62744,1,mapped,False,ChEMBL
+CHEMBL1932894,Matrix protein 2,SINGLE PROTEIN,Influenza A virus,P06821,1,mapped,False,ChEMBL
+CHEMBL2364163,Complement C5,SINGLE PROTEIN,Homo sapiens,P01031,1,mapped,True,ChEMBL
+CHEMBL3308939,Phospholipase D1,SINGLE PROTEIN,Rattus norvegicus,P70496,1,mapped,False,ChEMBL
+CHEMBL4105757,Zinc finger protein 664,SINGLE PROTEIN,Cavia porcellus,Q60493,1,mapped,False,ChEMBL
+CHEMBL4105787,Diacylglycerol kinase alpha,SINGLE PROTEIN,Homo sapiens,P23743,1,mapped,True,ChEMBL
+CHEMBL4105825,Cys-loop ligand-gated ion channel,SINGLE PROTEIN,Dickeya chrysanthemi,P0C7B7,1,mapped,False,ChEMBL
+CHEMBL4295747,"Serine hydroxymethyltransferase, mitochondrial",SINGLE PROTEIN,Homo sapiens,P34897,1,mapped,True,ChEMBL
+CHEMBL4523253,Taste receptor type 2 member 46,SINGLE PROTEIN,Homo sapiens,P59540,1,mapped,True,ChEMBL
+CHEMBL6196142,Phenazine biosynthesis protein PhzB 2,SINGLE PROTEIN,Pseudomonas aeruginosa,Q02L47,1,mapped,False,ChEMBL
+CHEMBL1809,Dihydrofolate reductase,SINGLE PROTEIN,Escherichia coli,P0ABQ4,1,mapped,False,ChEMBL
+CHEMBL2051,Neuraminidase,SINGLE PROTEIN,Influenza A virus (A/Puerto Rico/8/1934(H1N1)),P03468,1,mapped,False,ChEMBL
+CHEMBL1858,DNA gyrase subunit A,SINGLE PROTEIN,Escherichia coli K-12,P0AES4,1,mapped,False,ChEMBL
+CHEMBL1828,DNA polymerase alpha catalytic subunit,SINGLE PROTEIN,Homo sapiens,P09884,1,mapped,True,ChEMBL
+CHEMBL1845,Sodium channel protein type 1 subunit alpha,SINGLE PROTEIN,Homo sapiens,P35498,1,mapped,True,ChEMBL
+CHEMBL1895,DNA topoisomerase 4 subunit A,SINGLE PROTEIN,Escherichia coli K-12,P0AFI2,1,mapped,False,ChEMBL
+CHEMBL2334,Caspase-3,SINGLE PROTEIN,Homo sapiens,P42574,1,mapped,True,ChEMBL
+CHEMBL3816,Cytosolic phospholipase A2,SINGLE PROTEIN,Homo sapiens,P47712,1,mapped,True,ChEMBL
+CHEMBL3200,Sialidase-2,SINGLE PROTEIN,Homo sapiens,Q9Y3R4,1,mapped,True,ChEMBL
+CHEMBL3377,Neuraminidase,SINGLE PROTEIN,Influenza B virus (strain B/Lee/1940),P03474,1,mapped,False,ChEMBL
+CHEMBL3046,Sialidase-3,SINGLE PROTEIN,Homo sapiens,Q9UQ49,1,mapped,True,ChEMBL
+CHEMBL4174,Sialidase-4,SINGLE PROTEIN,Homo sapiens,Q8WWR8,1,mapped,True,ChEMBL
+CHEMBL2735,DNA polymerase delta catalytic subunit,SINGLE PROTEIN,Homo sapiens,P28340,1,mapped,True,ChEMBL
+CHEMBL3471,Human immunodeficiency virus type 1 integrase,SINGLE PROTEIN,Human immunodeficiency virus 1,Q7ZJM1,1,mapped,False,ChEMBL
+CHEMBL2726,Sialidase-1,SINGLE PROTEIN,Homo sapiens,Q99519,1,mapped,True,ChEMBL
+CHEMBL2728,Beta-glucuronidase,SINGLE PROTEIN,Homo sapiens,P08236,1,mapped,True,ChEMBL
+CHEMBL5202,Sodium channel protein type 8 subunit alpha,SINGLE PROTEIN,Homo sapiens,Q9UQD0,1,mapped,True,ChEMBL
+CHEMBL4088,DNA topoisomerase 4 subunit A,SINGLE PROTEIN,Staphylococcus aureus,P0C1U9,1,mapped,False,ChEMBL
+CHEMBL3832,Serine/threonine-protein kinase ULK3,SINGLE PROTEIN,Mus musculus,Q3U3Q1,1,mapped,False,ChEMBL
+CHEMBL4859,DNA polymerase catalytic subunit,SINGLE PROTEIN,Varicella-zoster virus (strain Dumas) (HHV-3) (Human herpesvirus 3),P09252,1,mapped,False,ChEMBL
+CHEMBL5445,Sodium- and chloride-dependent GABA transporter 1,SINGLE PROTEIN,Mus musculus,P31648,1,mapped,False,ChEMBL
+CHEMBL5205,GABA transporter 3,SINGLE PROTEIN,Mus musculus,P31649,1,mapped,False,ChEMBL
+CHEMBL3699,GABA transporter 4,SINGLE PROTEIN,Mus musculus,P31650,1,mapped,False,ChEMBL
+CHEMBL4228,GABA transporter 2,SINGLE PROTEIN,Mus musculus,P31651,1,mapped,False,ChEMBL
+CHEMBL5314,Tyrosine-protein kinase receptor TYRO3,SINGLE PROTEIN,Homo sapiens,Q06418,1,mapped,True,ChEMBL
+CHEMBL5661,Exportin-1,SINGLE PROTEIN,Homo sapiens,O14980,1,mapped,True,ChEMBL
+CHEMBL6173,Cytochrome c oxidase subunit 1,SINGLE PROTEIN,Homo sapiens,P00395,1,mapped,True,ChEMBL
+CHEMBL6135,Neuraminidase,SINGLE PROTEIN,Influenza A virus,B4URF0,1,mapped,False,ChEMBL
+CHEMBL1075115,Dual specificity tyrosine-phosphorylation-regulated kinase 4,SINGLE PROTEIN,Homo sapiens,Q9NR20,1,mapped,True,ChEMBL
+CHEMBL1287607,Neuraminidase,SINGLE PROTEIN,Influenza A virus (A/Aichi/2/1968(H3N2)),Q75VQ4,1,mapped,False,ChEMBL
+CHEMBL1287610,Neuraminidase,SINGLE PROTEIN,Influenza A virus (strain A/Wilson-Smith/1933 H1N1) (Influenza A virus(strain A/WS/1933 H1N1)),P03470,1,mapped,False,ChEMBL
+CHEMBL1293228,Streptokinase A,SINGLE PROTEIN,Streptococcus pyogenes serotype M1,P10520,1,mapped,False,ChEMBL
+CHEMBL1667683,Neuraminidase,SINGLE PROTEIN,Influenza A virus,Q6Q793,1,mapped,False,ChEMBL
+CHEMBL1667684,Neuraminidase,SINGLE PROTEIN,Influenza A virus,A5Z252,1,mapped,False,ChEMBL
+CHEMBL1667685,Neuraminidase,SINGLE PROTEIN,Influenza A virus,Q2LFS1,1,mapped,False,ChEMBL
+CHEMBL1667686,Neuraminidase,SINGLE PROTEIN,Influenza A virus,C4LRQ6,1,mapped,False,ChEMBL
+CHEMBL1681613,Multidrug resistance protein MdtK,SINGLE PROTEIN,Escherichia coli (strain K12),P37340,1,mapped,False,ChEMBL
+CHEMBL1921666,DNA gyrase subunit B,SINGLE PROTEIN,Staphylococcus aureus,P0A0K8,1,mapped,False,ChEMBL
+CHEMBL2046263,Neuraminidase,SINGLE PROTEIN,Influenza A virus (strain A/Udorn/307/1972 H3N2),P0DOF9,1,mapped,False,ChEMBL
+CHEMBL2150841,DNA topoisomerase 4 subunit B,SINGLE PROTEIN,Staphylococcus aureus,P0C1S7,1,mapped,False,ChEMBL
+CHEMBL2311234,Receptor tyrosine-protein kinase erbB-2,SINGLE PROTEIN,Mus musculus,P70424,1,mapped,False,ChEMBL
+CHEMBL2331044,Myelin transcription factor 1,SINGLE PROTEIN,Homo sapiens,Q01538,1,mapped,True,ChEMBL
+CHEMBL2424506,DNA gyrase subunit A,SINGLE PROTEIN,Staphylococcus aureus,P20831,1,mapped,False,ChEMBL
+CHEMBL3769299,Sodium-dependent phosphate transport protein 2A,SINGLE PROTEIN,Homo sapiens,Q06495,1,mapped,True,ChEMBL
+CHEMBL4105852,Eukaryotic translation initiation factor 5B,SINGLE PROTEIN,Homo sapiens,O60841,1,mapped,True,ChEMBL
+CHEMBL4105855,Choline-phosphate cytidylyltransferase A,SINGLE PROTEIN,Homo sapiens,P49585,1,mapped,True,ChEMBL
+CHEMBL4105856,Phosphatidylethanolamine-binding protein 1,SINGLE PROTEIN,Homo sapiens,P30086,1,mapped,True,ChEMBL
+CHEMBL4105886,Uncharacterized aarF domain-containing protein kinase 5,SINGLE PROTEIN,Homo sapiens,Q3MIX3,1,mapped,True,ChEMBL
+CHEMBL4105887,Guanine nucleotide-binding protein G(i) subunit alpha-2,SINGLE PROTEIN,Homo sapiens,P04899,1,mapped,True,ChEMBL
+CHEMBL4105932,Serine/threonine-protein kinase/endoribonuclease IRE2,SINGLE PROTEIN,Homo sapiens,Q76MJ5,1,mapped,True,ChEMBL
+CHEMBL402,3-hydroxy-3-methylglutaryl-coenzyme A reductase,SINGLE PROTEIN,Homo sapiens,P04035,1,mapped,True,ChEMBL
+CHEMBL1875,5-hydroxytryptamine receptor 4,SINGLE PROTEIN,Homo sapiens,Q13639,1,mapped,True,ChEMBL
+CHEMBL4317,5-hydroxytryptamine receptor 4,SINGLE PROTEIN,Rattus norvegicus,Q62758,1,mapped,False,ChEMBL
+CHEMBL5444,Tubulin beta-5 chain,SINGLE PROTEIN,Homo sapiens,P07437,1,mapped,True,ChEMBL
+CHEMBL2596,Progesterone receptor,SINGLE PROTEIN,Rattus norvegicus,Q63449,1,mapped,False,ChEMBL
+CHEMBL2146,NADH-cytochrome b5 reductase,SINGLE PROTEIN,Homo sapiens,P00387,1,mapped,True,ChEMBL
+CHEMBL4029,C-X-C chemokine receptor type 1,SINGLE PROTEIN,Homo sapiens,P25024,1,mapped,True,ChEMBL
+CHEMBL3921,Heparanase,SINGLE PROTEIN,Homo sapiens,Q9Y251,1,mapped,True,ChEMBL
+CHEMBL3923,Nischarin,SINGLE PROTEIN,Homo sapiens,Q9Y2I1,1,mapped,True,ChEMBL
+CHEMBL3394,Tubulin beta chain,SINGLE PROTEIN,Bos taurus,Q6B856,1,mapped,False,ChEMBL
+CHEMBL2411,5-hydroxytryptamine receptor 3A,SINGLE PROTEIN,Rattus norvegicus,P35563,1,mapped,False,ChEMBL
+CHEMBL3368,Glucocorticoid receptor,SINGLE PROTEIN,Rattus norvegicus,P06536,1,mapped,False,ChEMBL
+CHEMBL2756,Amine oxidase [flavin-containing] B,SINGLE PROTEIN,Bos taurus,P56560,1,mapped,False,ChEMBL
+CHEMBL3216,"Carnitine O-palmitoyltransferase 1, muscle isoform",SINGLE PROTEIN,Rattus norvegicus,Q63704,1,mapped,False,ChEMBL
+CHEMBL4822,Beta-secretase 1,SINGLE PROTEIN,Homo sapiens,P56817,1,mapped,True,ChEMBL
+CHEMBL2359,Calcium/calmodulin-dependent protein kinase type II subunit alpha,SINGLE PROTEIN,Rattus norvegicus,P11275,1,mapped,False,ChEMBL
+CHEMBL2289,Beta-2 adrenergic receptor,SINGLE PROTEIN,Canis lupus familiaris,P54833,1,mapped,False,ChEMBL
+CHEMBL3658,Tubulin alpha chain,SINGLE PROTEIN,Sus scrofa,P02550,1,mapped,False,ChEMBL
+CHEMBL4592,Amine oxidase [copper-containing] 3,SINGLE PROTEIN,Rattus norvegicus,O08590,1,mapped,False,ChEMBL
+CHEMBL3186,Beta tubulin,SINGLE PROTEIN,Leishmania donovani,Q25270,1,mapped,False,ChEMBL
+CHEMBL5558,Voltage-dependent T-type calcium channel subunit alpha-1I,SINGLE PROTEIN,Homo sapiens,Q9P0X4,1,mapped,True,ChEMBL
+CHEMBL3492,Proteasome Macropain subunit,SINGLE PROTEIN,Homo sapiens,P49721,1,mapped,True,ChEMBL
+CHEMBL4662,Proteasome Macropain subunit MB1,SINGLE PROTEIN,Homo sapiens,P28074,1,mapped,True,ChEMBL
+CHEMBL4208,Proteasome component C5,SINGLE PROTEIN,Homo sapiens,P20618,1,mapped,True,ChEMBL
+CHEMBL5192,Botulinum neurotoxin type A,SINGLE PROTEIN,Clostridium botulinum,P0DPI0,1,mapped,False,ChEMBL
+CHEMBL5221,Nischarin,SINGLE PROTEIN,Rattus norvegicus,Q4G017,1,mapped,False,ChEMBL
+CHEMBL5472,Aromatic peroxygenase,SINGLE PROTEIN,Cyclocybe aegerita,B9W4V6,1,mapped,False,ChEMBL
+CHEMBL5758,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",SINGLE PROTEIN,Homo sapiens,P31040,1,mapped,True,ChEMBL
+CHEMBL5646,N-formyl peptide receptor 3,SINGLE PROTEIN,Homo sapiens,P25089,1,mapped,True,ChEMBL
+CHEMBL6015,Neuraminidase,SINGLE PROTEIN,Influenza A virus (A/Memphis/1/1971(H3N2)),P03471,1,mapped,False,ChEMBL
+CHEMBL1075051,Dihydrofolate reductase,SINGLE PROTEIN,Bos taurus,P00376,1,mapped,False,ChEMBL
+CHEMBL5983,Aldo-keto reductase family 1 member B10,SINGLE PROTEIN,Homo sapiens,O60218,1,mapped,True,ChEMBL
+CHEMBL1075189,Pyruvate kinase PKM,SINGLE PROTEIN,Homo sapiens,P14618,1,mapped,True,ChEMBL
+CHEMBL1163116,Cholesteryl ester transfer protein,SINGLE PROTEIN,Oryctolagus cuniculus,P22687,1,mapped,False,ChEMBL
+CHEMBL1628478,Chloride channel protein 2,SINGLE PROTEIN,Homo sapiens,P51788,1,mapped,True,ChEMBL
+CHEMBL1944489,Riboflavin-binding protein,SINGLE PROTEIN,Gallus gallus,P02752,1,mapped,False,ChEMBL
+CHEMBL1961788,Nuclear receptor subfamily 2 group E member 1,SINGLE PROTEIN,Homo sapiens,Q9Y466,1,mapped,True,ChEMBL
+CHEMBL2052030,Phosphoethanolamine N-methyltransferase,SINGLE PROTEIN,Plasmodium falciparum,Q8IDQ9,1,mapped,False,ChEMBL
+CHEMBL2073668,Solute carrier family 22 member 4,SINGLE PROTEIN,Homo sapiens,Q9H015,1,mapped,True,ChEMBL
+CHEMBL2073676,ATP-binding cassette sub-family C member 2,SINGLE PROTEIN,Rattus norvegicus,Q63120,1,mapped,False,ChEMBL
+CHEMBL2073684,Solute carrier family 22 member 3,SINGLE PROTEIN,Mus musculus,Q9WTW5,1,mapped,False,ChEMBL
+CHEMBL2146310,Aberrant vpr protein,SINGLE PROTEIN,Human immunodeficiency virus 1,Q77YF9,1,mapped,False,ChEMBL
+CHEMBL2146316,Putative uncharacterized protein,SINGLE PROTEIN,Trypanosoma brucei,Q57TT1,1,mapped,False,ChEMBL
+CHEMBL3232678,Neuraminidase,SINGLE PROTEIN,Influenza A virus,Q194T1,1,mapped,False,ChEMBL
+CHEMBL4105941,2-amino-3-carboxymuconate-6-semialdehyde decarboxylase,SINGLE PROTEIN,Homo sapiens,Q8TDX5,1,mapped,True,ChEMBL
+CHEMBL4295592,Neuraminidase,SINGLE PROTEIN,Influenza A virus (strain A/Duck/Ukraine/1/1963 H3N8),Q07599,1,mapped,False,ChEMBL
+CHEMBL4295612,Neuraminidase,SINGLE PROTEIN,Influenza A virus (strain A/Budgerigar/Hokkaido/1/1977 H4N6),Q6XV28,1,mapped,False,ChEMBL
+CHEMBL4295840,Neuraminidase,SINGLE PROTEIN,Influenza B virus,Q3S340,1,mapped,False,ChEMBL
+CHEMBL4523332,Frizzled-8,SINGLE PROTEIN,Mus musculus,Q61091,1,mapped,False,ChEMBL
+CHEMBL5169127,Calmodulin-like protein 3,SINGLE PROTEIN,Homo sapiens,P27482,1,mapped,True,ChEMBL
+CHEMBL1978,Aromatase,SINGLE PROTEIN,Homo sapiens,P11511,1,mapped,True,ChEMBL
+CHEMBL1805,5-hydroxytryptamine receptor 1F,SINGLE PROTEIN,Homo sapiens,P30939,1,mapped,True,ChEMBL
+CHEMBL3429,Steroid hormone receptor ERR1,SINGLE PROTEIN,Homo sapiens,P11474,1,mapped,True,ChEMBL
+CHEMBL2107,C-X-C chemokine receptor type 4,SINGLE PROTEIN,Homo sapiens,P61073,1,mapped,True,ChEMBL
+CHEMBL5450,5-hydroxytryptamine receptor 1D,SINGLE PROTEIN,Rattus norvegicus,P28565,1,mapped,False,ChEMBL
+CHEMBL2492,Neuronal acetylcholine receptor subunit alpha-7,SINGLE PROTEIN,Homo sapiens,P36544,1,mapped,True,ChEMBL
+CHEMBL3069,Nuclear receptor subfamily 1 group I member 3,SINGLE PROTEIN,Mus musculus,O35627,1,mapped,False,ChEMBL
+CHEMBL4245,Estrogen-related receptor gamma,SINGLE PROTEIN,Homo sapiens,P62508,1,mapped,True,ChEMBL
+CHEMBL3559,Steryl-sulfatase,SINGLE PROTEIN,Homo sapiens,P08842,1,mapped,True,ChEMBL
+CHEMBL3573,Histamine H1 receptor,SINGLE PROTEIN,Bos taurus,P30546,1,mapped,False,ChEMBL
+CHEMBL4185,Xaa-Pro dipeptidase,SINGLE PROTEIN,Homo sapiens,P12955,1,mapped,True,ChEMBL
+CHEMBL296,Gamma-aminobutyric acid receptor subunit gamma-1,SINGLE PROTEIN,Rattus norvegicus,P23574,1,mapped,False,ChEMBL
+CHEMBL3181,17-beta-hydroxysteroid dehydrogenase type 1,SINGLE PROTEIN,Homo sapiens,P14061,1,mapped,True,ChEMBL
+CHEMBL3736,Angiotensin-converting enzyme 2,SINGLE PROTEIN,Homo sapiens,Q9BYF1,1,mapped,True,ChEMBL
+CHEMBL3202,Prolyl endopeptidase,SINGLE PROTEIN,Homo sapiens,P48147,1,mapped,True,ChEMBL
+CHEMBL307,Neuronal acetylcholine receptor subunit alpha-4,SINGLE PROTEIN,Rattus norvegicus,P09483,1,mapped,False,ChEMBL
+CHEMBL311,"Glutamate receptor ionotropic, NMDA 2B",SINGLE PROTEIN,Rattus norvegicus,Q00960,1,mapped,False,ChEMBL
+CHEMBL3247,3-hydroxy-3-methylglutaryl-coenzyme A reductase,SINGLE PROTEIN,Rattus norvegicus,P51639,1,mapped,False,ChEMBL
+CHEMBL4445,Protein phosphatase 3 catalytic subunit alpha,SINGLE PROTEIN,Homo sapiens,Q08209,1,mapped,True,ChEMBL
+CHEMBL4499,NADH-ubiquinone oxidoreductase chain 4,SINGLE PROTEIN,Homo sapiens,P03905,1,mapped,True,ChEMBL
+CHEMBL333,72 kDa type IV collagenase,SINGLE PROTEIN,Homo sapiens,P08253,1,mapped,True,ChEMBL
+CHEMBL3852,Human immunodeficiency virus type 1 REV,SINGLE PROTEIN,Human immunodeficiency virus 1,Q77Y21,1,mapped,False,ChEMBL
+CHEMBL4105,5-hydroxytryptamine receptor 1D,SINGLE PROTEIN,Sus scrofa,P79400,1,mapped,False,ChEMBL
+CHEMBL4218,Tegument protein VP16,SINGLE PROTEIN,Herpes simplex virus (type 1 / strain 17),P06492,1,mapped,False,ChEMBL
+CHEMBL4695,Fructose-bisphosphate aldolase A,SINGLE PROTEIN,Oryctolagus cuniculus,P00883,1,mapped,False,ChEMBL
+CHEMBL4374,Photoreceptor-specific nuclear receptor,SINGLE PROTEIN,Homo sapiens,Q9Y5X4,1,mapped,True,ChEMBL
+CHEMBL5149,Pyruvate kinase,SINGLE PROTEIN,Leishmania mexicana,Q27686,1,mapped,False,ChEMBL
+CHEMBL5351,Transcriptional activator protein LuxR,SINGLE PROTEIN,Aliivibrio fischeri,P12746,1,mapped,False,ChEMBL
+CHEMBL5002,Nuclear receptor subfamily 4 group A member 2,SINGLE PROTEIN,Homo sapiens,P43354,1,mapped,True,ChEMBL
+CHEMBL5755,Adenylate cyclase,SINGLE PROTEIN,Arthrospira platensis,O32393,1,mapped,False,ChEMBL
+CHEMBL6089,Ubiquitin-conjugating enzyme E2 N,SINGLE PROTEIN,Homo sapiens,P61088,1,mapped,True,ChEMBL
+CHEMBL5990,Breast cancer type 1 susceptibility protein,SINGLE PROTEIN,Homo sapiens,P38398,1,mapped,True,ChEMBL
+CHEMBL5998,Very-long-chain 3-oxoacyl-CoA reductase,SINGLE PROTEIN,Homo sapiens,Q53GQ0,1,mapped,True,ChEMBL
+CHEMBL1075216,Catalase,SINGLE PROTEIN,Rattus norvegicus,P04762,1,mapped,False,ChEMBL
+CHEMBL1163121,3-hydroxy-3-methylglutaryl-coenzyme A reductase,SINGLE PROTEIN,Schizosaccharomyces pombe 972h-,Q10283,1,mapped,False,ChEMBL
+CHEMBL1293263,Aspartyl aminopeptidase,SINGLE PROTEIN,Plasmodium falciparum 3D7,Q8I2J3,1,mapped,False,ChEMBL
+CHEMBL1293311,Envelope glycoprotein gp160,SINGLE PROTEIN,Human immunodeficiency virus 1,Q6QLK5,1,mapped,False,ChEMBL
+CHEMBL1293319,Zinc finger protein mex-5,SINGLE PROTEIN,Caenorhabditis elegans,Q9XUB2,1,mapped,False,ChEMBL
+CHEMBL1741167,"Phosphoglycerate kinase, glycosomal",SINGLE PROTEIN,Trypanosoma brucei brucei,P07378,1,mapped,False,ChEMBL
+CHEMBL1741217,DNA dC->dU-editing enzyme APOBEC-3G,SINGLE PROTEIN,Homo sapiens,Q9HC16,1,mapped,True,ChEMBL
+CHEMBL2304408,5-hydroxytryptamine receptor 1B,SINGLE PROTEIN,Gorilla gorilla,Q9N2B7,1,mapped,False,ChEMBL
+CHEMBL2311238,Emopamil-binding protein-like,SINGLE PROTEIN,Homo sapiens,Q9BY08,1,mapped,True,ChEMBL
+CHEMBL3232680,Insulin-degrading enzyme,SINGLE PROTEIN,Mus musculus,Q9JHR7,1,mapped,False,ChEMBL
+CHEMBL3638336,5-hydroxytryptamine 1D receptor,SINGLE PROTEIN,Bos taurus,Q8MI13,1,mapped,False,ChEMBL
+CHEMBL3779755,"NACHT, LRR and PYD domains-containing protein 3",SINGLE PROTEIN,Mus musculus,Q8R4B8,1,mapped,False,ChEMBL
+CHEMBL3879838,Transient receptor potential cation channel subfamily V member 3,SINGLE PROTEIN,Mus musculus,Q8K424,1,mapped,False,ChEMBL
+CHEMBL4295581,Undecaprenyl-diphosphatase,SINGLE PROTEIN,Escherichia coli (strain K12),P60932,1,mapped,False,ChEMBL
+CHEMBL4523185,Beta-glucuronidase,SINGLE PROTEIN,Mus musculus,P12265,1,mapped,False,ChEMBL
+CHEMBL4662936,Spike glycoprotein,SINGLE PROTEIN,Severe acute respiratory syndrome coronavirus 2,P0DTC2,1,mapped,False,ChEMBL
+CHEMBL6066152,Methionine--tRNA ligase,SINGLE PROTEIN,Staphylococcus aureus (strain Mu50 / ATCC 700699),P67578,1,mapped,False,ChEMBL
+CHEMBL4618,Leukotriene A-4 hydrolase,SINGLE PROTEIN,Homo sapiens,P09960,1,mapped,True,ChEMBL
+CHEMBL2004,Retinoic acid receptor RXR-gamma,SINGLE PROTEIN,Homo sapiens,P48443,1,mapped,True,ChEMBL
+CHEMBL1870,Retinoic acid receptor RXR-beta,SINGLE PROTEIN,Homo sapiens,P28702,1,mapped,True,ChEMBL
+CHEMBL2079,Cellular retinoic acid-binding protein 1,SINGLE PROTEIN,Homo sapiens,P29762,1,mapped,True,ChEMBL
+CHEMBL3266,Retinoic acid receptor beta,SINGLE PROTEIN,Mus musculus,P22605,1,mapped,False,ChEMBL
+CHEMBL2105,Peroxisomal N(1)-acetyl-spermine/spermidine oxidase,SINGLE PROTEIN,Homo sapiens,Q6QHF9,1,mapped,True,ChEMBL
+CHEMBL4945,Cellular retinoic acid-binding protein 1,SINGLE PROTEIN,Gallus gallus,P40220,1,mapped,False,ChEMBL
+CHEMBL3769,Serine protease 1,SINGLE PROTEIN,Bos taurus,P00760,1,mapped,False,ChEMBL
+CHEMBL3837,Procathepsin L,SINGLE PROTEIN,Homo sapiens,P07711,1,mapped,True,ChEMBL
+CHEMBL3911,Leukotriene B4 receptor 1,SINGLE PROTEIN,Homo sapiens,Q15722,1,mapped,True,ChEMBL
+CHEMBL4633,Potassium voltage-gated channel subfamily A member 3,SINGLE PROTEIN,Homo sapiens,P22001,1,mapped,True,ChEMBL
+CHEMBL3474,"Phospholipase A2, membrane associated",SINGLE PROTEIN,Homo sapiens,P14555,1,mapped,True,ChEMBL
+CHEMBL2249,Protein-lysine 6-oxidase,SINGLE PROTEIN,Homo sapiens,P28300,1,mapped,True,ChEMBL
+CHEMBL4028,Thromboxane-A synthase,SINGLE PROTEIN,Rattus norvegicus,P49430,1,mapped,False,ChEMBL
+CHEMBL4177,Retinoic acid receptor gamma,SINGLE PROTEIN,Mus musculus,P18911,1,mapped,False,ChEMBL
+CHEMBL2840,Ornithine decarboxylase,SINGLE PROTEIN,Mus musculus,P00860,1,mapped,False,ChEMBL
+CHEMBL3084,Retinoic acid receptor RXR-alpha,SINGLE PROTEIN,Mus musculus,P28700,1,mapped,False,ChEMBL
+CHEMBL4047,Retinoic acid receptor RXR-beta,SINGLE PROTEIN,Mus musculus,P28704,1,mapped,False,ChEMBL
+CHEMBL2792,Retinoic acid receptor alpha,SINGLE PROTEIN,Mus musculus,P11416,1,mapped,False,ChEMBL
+CHEMBL4172,Cellular retinoic acid-binding protein 2,SINGLE PROTEIN,Mus musculus,P22935,1,mapped,False,ChEMBL
+CHEMBL3738,Leukotriene A-4 hydrolase,SINGLE PROTEIN,Mus musculus,P24527,1,mapped,False,ChEMBL
+CHEMBL2818,P2X purinoceptor 4,SINGLE PROTEIN,Rattus norvegicus,P51577,1,mapped,False,ChEMBL
+CHEMBL2738,Acrosin,SINGLE PROTEIN,Homo sapiens,P10323,1,mapped,True,ChEMBL
+CHEMBL320,Muscarinic acetylcholine receptor M3,SINGLE PROTEIN,Rattus norvegicus,P08483,1,mapped,False,ChEMBL
+CHEMBL3019,Cytochrome P450 3A5,SINGLE PROTEIN,Homo sapiens,P20815,1,mapped,True,ChEMBL
+CHEMBL4402,Retinoic acid receptor RXR-gamma,SINGLE PROTEIN,Mus musculus,P28705,1,mapped,False,ChEMBL
+CHEMBL3208,Cellular retinoic acid-binding protein 1,SINGLE PROTEIN,Mus musculus,P62965,1,mapped,False,ChEMBL
+CHEMBL3144,Glucocorticoid receptor,SINGLE PROTEIN,Mus musculus,P06537,1,mapped,False,ChEMBL
+CHEMBL5211,Polyunsaturated fatty acid 5-lipoxygenase,SINGLE PROTEIN,Mus musculus,P48999,1,mapped,False,ChEMBL
+CHEMBL2672,Muscarinic acetylcholine receptor M1,SINGLE PROTEIN,Bos taurus,Q8WMX0,1,mapped,False,ChEMBL
+CHEMBL5023,E3 ubiquitin-protein ligase Mdm2,SINGLE PROTEIN,Homo sapiens,Q00987,1,mapped,True,ChEMBL
+CHEMBL3318,Tyrosinase,SINGLE PROTEIN,Agaricus bisporus,O42713,1,mapped,False,ChEMBL
+CHEMBL5868,Nuclear receptor ROR-alpha,SINGLE PROTEIN,Homo sapiens,P35398,1,mapped,True,ChEMBL
+CHEMBL1075257,Large T antigen,SINGLE PROTEIN,Simian virus 40,P03070,1,mapped,False,ChEMBL
+CHEMBL1287622,Lethal(3)malignant brain tumor-like protein 1,SINGLE PROTEIN,Homo sapiens,Q9Y468,1,mapped,True,ChEMBL
+CHEMBL1293304,RNA-binding protein pos-1,SINGLE PROTEIN,Caenorhabditis elegans,G5EF15,1,mapped,False,ChEMBL
+CHEMBL1938208,Lysine-specific histone demethylase 2,SINGLE PROTEIN,Homo sapiens,Q8NB78,1,mapped,True,ChEMBL
+CHEMBL2146309,ATP-dependent Clp protease proteolytic subunit,SINGLE PROTEIN,Bacillus subtilis (strain 168),P80244,1,mapped,False,ChEMBL
+CHEMBL2176769,Spermine oxidase,SINGLE PROTEIN,Homo sapiens,Q9NWM0,1,mapped,True,ChEMBL
+CHEMBL3091268,Nuclear receptor ROR-beta,SINGLE PROTEIN,Homo sapiens,Q92753,1,mapped,True,ChEMBL
+CHEMBL3542436,Cytochrome P450 2A13,SINGLE PROTEIN,Homo sapiens,Q16696,1,mapped,True,ChEMBL
+CHEMBL3596084,Tumor necrosis factor ligand superfamily member 11,SINGLE PROTEIN,Mus musculus,O35235,1,mapped,False,ChEMBL
+CHEMBL3706559,Mitochondrial amidoxime-reducing component 1,SINGLE PROTEIN,Homo sapiens,Q5VT66,1,mapped,True,ChEMBL
+CHEMBL3711550,Beta-adrenergic receptor kinase 1,SINGLE PROTEIN,Bos taurus,P21146,1,mapped,False,ChEMBL
+CHEMBL3714029,Lysyl oxidase homolog 2,SINGLE PROTEIN,Homo sapiens,Q9Y4K0,1,mapped,True,ChEMBL
+CHEMBL3879830,G protein-coupled receptor kinase 5,SINGLE PROTEIN,Bos taurus,P43249,1,mapped,False,ChEMBL
+CHEMBL3879860,Rhodopsin kinase GRK1,SINGLE PROTEIN,Bos taurus,P28327,1,mapped,False,ChEMBL
+CHEMBL4523423,Mitochondrial amidoxime reducing component 2,SINGLE PROTEIN,Homo sapiens,Q969Z3,1,mapped,True,ChEMBL
+CHEMBL4523494,7-alpha-hydroxycholest-4-en-3-one 12-alpha-hydroxylase,SINGLE PROTEIN,Homo sapiens,Q9UNU6,1,mapped,True,ChEMBL
+CHEMBL4879491,Lysine-specific histone demethylase 1B,SINGLE PROTEIN,Mus musculus,Q8CIG3,1,mapped,False,ChEMBL
+CHEMBL2065,Beta-lactamase TEM,SINGLE PROTEIN,Escherichia coli,P62593,1,mapped,False,ChEMBL
+CHEMBL2001,P2Y purinoceptor 12,SINGLE PROTEIN,Homo sapiens,Q9H244,1,mapped,True,ChEMBL
+CHEMBL2626,Dipeptidase 1,SINGLE PROTEIN,Sus scrofa,P22412,1,mapped,False,ChEMBL
+CHEMBL280,Collagenase 3,SINGLE PROTEIN,Homo sapiens,P45452,1,mapped,True,ChEMBL
+CHEMBL283,Stromelysin-1,SINGLE PROTEIN,Homo sapiens,P08254,1,mapped,True,ChEMBL
+CHEMBL4588,Neutrophil collagenase,SINGLE PROTEIN,Homo sapiens,P22894,1,mapped,True,ChEMBL
+CHEMBL3172,Dihydropyrimidine dehydrogenase [NADP(+)],SINGLE PROTEIN,Homo sapiens,Q12882,1,mapped,True,ChEMBL
+CHEMBL4785,Multidrug transporter MdfA,SINGLE PROTEIN,Escherichia coli K-12,P0AEY8,1,mapped,False,ChEMBL
+CHEMBL2219,Tyrosine-protein phosphatase non-receptor type 7,SINGLE PROTEIN,Homo sapiens,P35236,1,mapped,True,ChEMBL
+CHEMBL2725,Beta-lactamase,SINGLE PROTEIN,Enterobacter cloacae,P05364,1,mapped,False,ChEMBL
+CHEMBL5031,Beta-lactamase,SINGLE PROTEIN,Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG12228),P24735,1,mapped,False,ChEMBL
+CHEMBL5094,Beta-lactamase SHV-1,SINGLE PROTEIN,Klebsiella pneumoniae,P0AD64,1,mapped,False,ChEMBL
+CHEMBL5157,Carbapenem-hydrolyzing beta-lactamase SME-3,SINGLE PROTEIN,Serratia marcescens,Q6PRG8,1,mapped,False,ChEMBL
+CHEMBL5482,Beta-lactamase OXA-10,SINGLE PROTEIN,Pseudomonas aeruginosa,P14489,1,mapped,False,ChEMBL
+CHEMBL6131,Beta-lactamase CTX-M,SINGLE PROTEIN,Escherichia coli,Q9EXV5,1,mapped,False,ChEMBL
+CHEMBL6132,Carbapenem-hydrolyzing beta-lactamase KPC,SINGLE PROTEIN,Klebsiella pneumoniae,Q9F663,1,mapped,False,ChEMBL
+CHEMBL5798,Beta-lactamase VIM-2,SINGLE PROTEIN,Pseudomonas aeruginosa,Q9K2N0,1,mapped,False,ChEMBL
+CHEMBL6187,MecA,SINGLE PROTEIN,Staphylococcus aureus,Q7DHH4,1,mapped,False,ChEMBL
+CHEMBL6111,Protein-arginine deiminase type-4,SINGLE PROTEIN,Homo sapiens,Q9UM07,1,mapped,True,ChEMBL
+CHEMBL1667695,Metallo-beta-lactamase type 2,SINGLE PROTEIN,Klebsiella pneumoniae,C7C422,1,mapped,False,ChEMBL
+CHEMBL1667697,Metallo-beta-lactamase,SINGLE PROTEIN,Klebsiella pneumoniae,Q5GN09,1,mapped,False,ChEMBL
+CHEMBL2034804,Taste receptor type 2 member 31,SINGLE PROTEIN,Homo sapiens,P59538,1,mapped,True,ChEMBL
+CHEMBL2259246,Superoxide dismutase [Cu-Zn],SINGLE PROTEIN,Allium sativum,D2Y1A6,1,mapped,False,ChEMBL
+CHEMBL3309105,Taste receptor type 2 member 14,SINGLE PROTEIN,Homo sapiens,Q9NYV8,1,mapped,True,ChEMBL
+CHEMBL3309106,Taste receptor type 2 member 16,SINGLE PROTEIN,Homo sapiens,Q9NYV7,1,mapped,True,ChEMBL
+CHEMBL3309107,Taste receptor type 2 member 4,SINGLE PROTEIN,Homo sapiens,Q9NYW5,1,mapped,True,ChEMBL
+CHEMBL3309108,Taste receptor type 2 member 41,SINGLE PROTEIN,Homo sapiens,P59536,1,mapped,True,ChEMBL
+CHEMBL3309109,Taste receptor type 2 member 60,SINGLE PROTEIN,Homo sapiens,P59551,1,mapped,True,ChEMBL
+CHEMBL3309110,Taste receptor type 2 member 9,SINGLE PROTEIN,Homo sapiens,Q9NYW1,1,mapped,True,ChEMBL
+CHEMBL3559704,Taste receptor type 2 member 10,SINGLE PROTEIN,Homo sapiens,Q9NYW0,1,mapped,True,ChEMBL
+CHEMBL3559705,Taste receptor type 2 member 20,SINGLE PROTEIN,Homo sapiens,P59543,1,mapped,True,ChEMBL
+CHEMBL3559706,Taste receptor type 2 member 50,SINGLE PROTEIN,Homo sapiens,P59544,1,mapped,True,ChEMBL
+CHEMBL3562178,Beta-lactamase IMP-1,SINGLE PROTEIN,Pseudomonas aeruginosa,Q8G9Q0,1,mapped,False,ChEMBL
+CHEMBL3885665,Beta-lactamase,SINGLE PROTEIN,Escherichia coli,Q53TY8,1,mapped,False,ChEMBL
+CHEMBL3885669,Beta-lactamase OXA-23,SINGLE PROTEIN,Acinetobacter baumannii,Q9L4P2,1,mapped,False,ChEMBL
+CHEMBL3988599,Taste receptor type 2 member 8,SINGLE PROTEIN,Homo sapiens,Q9NYW2,1,mapped,True,ChEMBL
+CHEMBL4295835,Thiosulfate sulfurtransferase,SINGLE PROTEIN,Homo sapiens,Q16762,1,mapped,True,ChEMBL
+CHEMBL4296299,Chaperonin GroEL,SINGLE PROTEIN,Escherichia coli (strain K12),P0A6F5,1,mapped,False,ChEMBL
+CHEMBL4523248,Taste receptor type 2 member 38,SINGLE PROTEIN,Homo sapiens,P59533,1,mapped,True,ChEMBL
+CHEMBL4523249,Taste receptor type 2 member 39,SINGLE PROTEIN,Homo sapiens,P59534,1,mapped,True,ChEMBL
+CHEMBL4523250,Taste receptor type 2 member 40,SINGLE PROTEIN,Homo sapiens,P59535,1,mapped,True,ChEMBL
+CHEMBL4523251,Taste receptor type 2 member 43,SINGLE PROTEIN,Homo sapiens,P59537,1,mapped,True,ChEMBL
+CHEMBL4523252,Taste receptor type 2 member 45,SINGLE PROTEIN,Homo sapiens,P59539,1,mapped,True,ChEMBL
+CHEMBL4523254,Taste receptor type 2 member 30,SINGLE PROTEIN,Homo sapiens,P59541,1,mapped,True,ChEMBL
+CHEMBL4523255,Taste receptor type 2 member 19,SINGLE PROTEIN,Homo sapiens,P59542,1,mapped,True,ChEMBL
+CHEMBL4523360,Taste receptor type 2 member 42,SINGLE PROTEIN,Homo sapiens,Q7RTR8,1,mapped,True,ChEMBL
+CHEMBL4523471,Taste receptor type 2 member 13,SINGLE PROTEIN,Homo sapiens,Q9NYV9,1,mapped,True,ChEMBL
+CHEMBL4523472,Taste receptor type 2 member 7,SINGLE PROTEIN,Homo sapiens,Q9NYW3,1,mapped,True,ChEMBL
+CHEMBL4523473,Taste receptor type 2 member 5,SINGLE PROTEIN,Homo sapiens,Q9NYW4,1,mapped,True,ChEMBL
+CHEMBL4523474,Taste receptor type 2 member 3,SINGLE PROTEIN,Homo sapiens,Q9NYW6,1,mapped,True,ChEMBL
+CHEMBL1872,DNA polymerase catalytic subunit,SINGLE PROTEIN,Herpes simplex virus (type 1 / strain 17),P04293,1,mapped,False,ChEMBL
+CHEMBL3373,Beta-2 adrenergic receptor,SINGLE PROTEIN,Bos taurus,Q28044,1,mapped,False,ChEMBL
+CHEMBL2883,"Thymidine kinase, cytosolic",SINGLE PROTEIN,Homo sapiens,P04183,1,mapped,True,ChEMBL
+CHEMBL3421,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",SINGLE PROTEIN,Homo sapiens,P54750,1,mapped,True,ChEMBL
+CHEMBL2216,Carbonic anhydrase 7,SINGLE PROTEIN,Mus musculus,Q9ERQ8,1,mapped,False,ChEMBL
+CHEMBL3478,"cGMP-specific 3',5'-cyclic phosphodiesterase",SINGLE PROTEIN,Bos taurus,Q28156,1,mapped,False,ChEMBL
+CHEMBL3741,"Rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha",SINGLE PROTEIN,Bos taurus,P11541,1,mapped,False,ChEMBL
+CHEMBL3977,"Cone cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha'",SINGLE PROTEIN,Homo sapiens,P51160,1,mapped,True,ChEMBL
+CHEMBL290,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3B",SINGLE PROTEIN,Homo sapiens,Q13370,1,mapped,True,ChEMBL
+CHEMBL2812,"Aldehyde dehydrogenase, mitochondrial",SINGLE PROTEIN,Rattus norvegicus,P11884,1,mapped,False,ChEMBL
+CHEMBL4051,Cystic fibrosis transmembrane conductance regulator,SINGLE PROTEIN,Homo sapiens,P13569,1,mapped,True,ChEMBL
+CHEMBL4331,Hemoglobin subunit beta,SINGLE PROTEIN,Homo sapiens,P68871,1,mapped,True,ChEMBL
+CHEMBL3415,Thymidine kinase,SINGLE PROTEIN,Human herpesvirus 2,Q6L709,1,mapped,False,ChEMBL
+CHEMBL2717,"Dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11A",SINGLE PROTEIN,Homo sapiens,Q9HCR9,1,mapped,True,ChEMBL
+CHEMBL4567,"cGMP-specific 3',5'-cyclic phosphodiesterase",SINGLE PROTEIN,Rattus norvegicus,O54735,1,mapped,False,ChEMBL
+CHEMBL4338,Purine nucleoside phosphorylase,SINGLE PROTEIN,Homo sapiens,P00491,1,mapped,True,ChEMBL
+CHEMBL3148,"4-aminobutyrate aminotransferase, mitochondrial",SINGLE PROTEIN,Rattus norvegicus,P50554,1,mapped,False,ChEMBL
+CHEMBL2283,Carbonic anhydrase 2,SINGLE PROTEIN,Bos taurus,P00921,1,mapped,False,ChEMBL
+CHEMBL2420,Carbonic anhydrase-related protein 11,SINGLE PROTEIN,Homo sapiens,O75493,1,mapped,True,ChEMBL
+CHEMBL3535,"High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A",SINGLE PROTEIN,Homo sapiens,O76083,1,mapped,True,ChEMBL
+CHEMBL3437,Amine oxidase [copper-containing] 3,SINGLE PROTEIN,Homo sapiens,Q16853,1,mapped,True,ChEMBL
+CHEMBL4640,"High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8A",SINGLE PROTEIN,Homo sapiens,O60658,1,mapped,True,ChEMBL
+CHEMBL4409,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",SINGLE PROTEIN,Homo sapiens,Q9Y233,1,mapped,True,ChEMBL
+CHEMBL4586,Seed linoleate 13S-lipoxygenase-1,SINGLE PROTEIN,Glycine max,P08170,1,mapped,False,ChEMBL
+CHEMBL5523,Histone-lysine N-methyltransferase SETD7,SINGLE PROTEIN,Homo sapiens,Q8WTS6,1,mapped,True,ChEMBL
+CHEMBL5347,Glucose-6-phosphate 1-dehydrogenase,SINGLE PROTEIN,Homo sapiens,P11413,1,mapped,True,ChEMBL
+CHEMBL5582,Hormone-sensitive lipase,SINGLE PROTEIN,Rattus norvegicus,P15304,1,mapped,False,ChEMBL
+CHEMBL1075062,Thymidine kinase,SINGLE PROTEIN,Macacine herpesvirus 1,A3RLP8,1,mapped,False,ChEMBL
+CHEMBL1169594,Purine nucleoside phosphorylase,SINGLE PROTEIN,Mycobacterium tuberculosis,P9WP01,1,mapped,False,ChEMBL
+CHEMBL1293195,Endochitinase,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,P29029,1,mapped,False,ChEMBL
+CHEMBL1293196,Endochitinase A1,SINGLE PROTEIN,Aspergillus fumigatus,Q873Y0,1,mapped,False,ChEMBL
+CHEMBL1293197,Acidic mammalian chitinase,SINGLE PROTEIN,Homo sapiens,Q9BZP6,1,mapped,True,ChEMBL
+CHEMBL1293230,Polypyrimidine tract-binding protein 1,SINGLE PROTEIN,Homo sapiens,P26599,1,mapped,True,ChEMBL
+CHEMBL1293239,Bcl-2-related protein A1,SINGLE PROTEIN,Mus musculus,Q07440,1,mapped,False,ChEMBL
+CHEMBL1293286,Polyadenylate-binding protein 1,SINGLE PROTEIN,Homo sapiens,P11940,1,mapped,True,ChEMBL
+CHEMBL1293297,Bifunctional protein GlmU,SINGLE PROTEIN,Mycobacterium tuberculosis,P9WMN3,1,mapped,False,ChEMBL
+CHEMBL1741212,Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase,SINGLE PROTEIN,Plasmodium berghei,Q9BHT9,1,mapped,False,ChEMBL
+CHEMBL1795125,Carbonic anhydrase,SINGLE PROTEIN,Dicentrarchus labrax,Q2PCB5,1,mapped,False,ChEMBL
+CHEMBL1795127,Thymidine kinase,SINGLE PROTEIN,Human alphaherpesvirus 1,Q9QNF7,1,mapped,False,ChEMBL
+CHEMBL1944498,Carbonic anhydrase 3,SINGLE PROTEIN,Bos taurus,Q3SZX4,1,mapped,False,ChEMBL
+CHEMBL2010636,Class 1 phosphodiesterase PDEB1,SINGLE PROTEIN,Trypanosoma brucei,Q8WQX9,1,mapped,False,ChEMBL
+CHEMBL2331045,"Carbonic anhydrase 2, isoform A",SINGLE PROTEIN,Drosophila melanogaster,Q9VTU8,1,mapped,False,ChEMBL
+CHEMBL2331046,Carbonic anhydrase 1,SINGLE PROTEIN,Drosophila melanogaster,Q9V396,1,mapped,False,ChEMBL
+CHEMBL2401609,Carbonic anhydrase,SINGLE PROTEIN,Flaveria bidentis,P46510,1,mapped,False,ChEMBL
+CHEMBL3596083,Carbonic anhydrase,SINGLE PROTEIN,Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG12228),Q9HVB9,1,mapped,False,ChEMBL
+CHEMBL4295711,"Dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11A",SINGLE PROTEIN,Mus musculus,P0C1Q2,1,mapped,False,ChEMBL
+CHEMBL4523210,Aquaporin-1,SINGLE PROTEIN,Homo sapiens,P29972,1,mapped,True,ChEMBL
+CHEMBL4523475,Taste receptor type 2 member 1,SINGLE PROTEIN,Homo sapiens,Q9NYW7,1,mapped,True,ChEMBL
+CHEMBL5209635,Sodium/potassium/calcium exchanger 2,SINGLE PROTEIN,Homo sapiens,Q9UI40,1,mapped,True,ChEMBL
+CHEMBL5209636,Sodium/potassium/calcium exchanger 4,SINGLE PROTEIN,Homo sapiens,Q8NFF2,1,mapped,True,ChEMBL
+CHEMBL1935,"Aldehyde dehydrogenase, mitochondrial",SINGLE PROTEIN,Homo sapiens,P05091,1,mapped,True,ChEMBL
+CHEMBL1902,Peptidyl-prolyl cis-trans isomerase FKBP1A,SINGLE PROTEIN,Homo sapiens,P62942,1,mapped,True,ChEMBL
+CHEMBL1825,Tumor necrosis factor,SINGLE PROTEIN,Homo sapiens,P01375,1,mapped,True,ChEMBL
+CHEMBL2430,Peptidyl-prolyl cis-trans isomerase FKBP1B,SINGLE PROTEIN,Homo sapiens,P68106,1,mapped,True,ChEMBL
+CHEMBL3465,Sigma non-opioid intracellular receptor 1,SINGLE PROTEIN,Mus musculus,O55242,1,mapped,False,ChEMBL
+CHEMBL2414,C-C chemokine receptor type 4,SINGLE PROTEIN,Homo sapiens,P51679,1,mapped,True,ChEMBL
+CHEMBL274,C-C chemokine receptor type 5,SINGLE PROTEIN,Homo sapiens,P51681,1,mapped,True,ChEMBL
+CHEMBL4814,Beta-glucuronidase,SINGLE PROTEIN,Rattus norvegicus,P06760,1,mapped,False,ChEMBL
+CHEMBL3201,Aryl hydrocarbon receptor,SINGLE PROTEIN,Homo sapiens,P35869,1,mapped,True,ChEMBL
+CHEMBL2434,C-X-C chemokine receptor type 2,SINGLE PROTEIN,Homo sapiens,P25025,1,mapped,True,ChEMBL
+CHEMBL2419,Translocator protein,SINGLE PROTEIN,Bos taurus,P30535,1,mapped,False,ChEMBL
+CHEMBL3880,Heat shock protein HSP 90-alpha,SINGLE PROTEIN,Homo sapiens,P07900,1,mapped,True,ChEMBL
+CHEMBL3975,"Fructose-1,6-bisphosphatase 1",SINGLE PROTEIN,Homo sapiens,P09467,1,mapped,True,ChEMBL
+CHEMBL3706,Disintegrin and metalloproteinase domain-containing protein 17,SINGLE PROTEIN,Homo sapiens,P78536,1,mapped,True,ChEMBL
+CHEMBL4015,C-C chemokine receptor type 2,SINGLE PROTEIN,Homo sapiens,P41597,1,mapped,True,ChEMBL
+CHEMBL4612,Glutamine synthetase,SINGLE PROTEIN,Homo sapiens,P15104,1,mapped,True,ChEMBL
+CHEMBL2297,Lysozyme C,SINGLE PROTEIN,Rattus norvegicus,P00697,1,mapped,False,ChEMBL
+CHEMBL4031,Beta-3 adrenergic receptor,SINGLE PROTEIN,Rattus norvegicus,P26255,1,mapped,False,ChEMBL
+CHEMBL4285,Alpha-1-acid glycoprotein 1,SINGLE PROTEIN,Homo sapiens,P02763,1,mapped,True,ChEMBL
+CHEMBL4766,"[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial",SINGLE PROTEIN,Homo sapiens,Q15118,1,mapped,True,ChEMBL
+CHEMBL3359,fMet-Leu-Phe receptor,SINGLE PROTEIN,Homo sapiens,P21462,1,mapped,True,ChEMBL
+CHEMBL3501,Cholecystokinin receptor type A,SINGLE PROTEIN,Cavia porcellus,Q63931,1,mapped,False,ChEMBL
+CHEMBL5490,Rho-associated protein kinase 2,SINGLE PROTEIN,Rattus norvegicus,Q62868,1,mapped,False,ChEMBL
+CHEMBL4843,CX3C chemokine receptor 1,SINGLE PROTEIN,Homo sapiens,P49238,1,mapped,True,ChEMBL
+CHEMBL4848,Eukaryotic translation initiation factor 4E,SINGLE PROTEIN,Homo sapiens,P06730,1,mapped,True,ChEMBL
+CHEMBL4227,N-formyl peptide receptor 2,SINGLE PROTEIN,Homo sapiens,P25090,1,mapped,True,ChEMBL
+CHEMBL5150,Luciferin 4-monooxygenase,SINGLE PROTEIN,Photuris pensylvanica,Q27757,1,mapped,False,ChEMBL
+CHEMBL5652,Glucose-dependent insulinotropic receptor,SINGLE PROTEIN,Homo sapiens,Q8TDV5,1,mapped,True,ChEMBL
+CHEMBL5681,UMP-CMP kinase,SINGLE PROTEIN,Homo sapiens,P30085,1,mapped,True,ChEMBL
+CHEMBL6031,Histone-lysine N-methyltransferase EHMT1,SINGLE PROTEIN,Homo sapiens,Q9H9B1,1,mapped,True,ChEMBL
+CHEMBL1293264,Beta-galactosidase,SINGLE PROTEIN,Escherichia coli,Q8VNN2,1,mapped,False,ChEMBL
+CHEMBL1293269,NS3,SINGLE PROTEIN,Hepatitis C virus,A3EZJ3,1,mapped,False,ChEMBL
+CHEMBL1628481,Apelin receptor,SINGLE PROTEIN,Homo sapiens,P35414,1,mapped,True,ChEMBL
+CHEMBL1781868,Programmed cell death protein 4,SINGLE PROTEIN,Homo sapiens,Q53EL6,1,mapped,True,ChEMBL
+CHEMBL1781870,"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 1",SINGLE PROTEIN,Homo sapiens,Q92835,1,mapped,True,ChEMBL
+CHEMBL1795086,HSP90,SINGLE PROTEIN,Plasmodium falciparum 3D7,Q8IL32,1,mapped,False,ChEMBL
+CHEMBL1795129,Interleukin-6,SINGLE PROTEIN,Homo sapiens,P05231,1,mapped,True,ChEMBL
+CHEMBL2052031,Peptidyl-prolyl cis-trans isomerase FKBP5,SINGLE PROTEIN,Homo sapiens,Q13451,1,mapped,True,ChEMBL
+CHEMBL2146305,Glycoprotein hormones alpha chain,SINGLE PROTEIN,Homo sapiens,P01215,1,mapped,True,ChEMBL
+CHEMBL2169725,Calcium-dependent protein kinase 4,SINGLE PROTEIN,Plasmodium falciparum (isolate 3D7),Q8IBS5,1,mapped,False,ChEMBL
+CHEMBL2311243,D-3-phosphoglycerate dehydrogenase,SINGLE PROTEIN,Homo sapiens,O43175,1,mapped,True,ChEMBL
+CHEMBL2331064,"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2",SINGLE PROTEIN,Homo sapiens,O15357,1,mapped,True,ChEMBL
+CHEMBL2362978,DNA repair protein RAD52 homolog,SINGLE PROTEIN,Homo sapiens,P43351,1,mapped,True,ChEMBL
+CHEMBL2424504,Lysine-specific demethylase 5A,SINGLE PROTEIN,Homo sapiens,P29375,1,mapped,True,ChEMBL
+CHEMBL4105989,Lysyl oxidase homolog 3,SINGLE PROTEIN,Homo sapiens,P58215,1,mapped,True,ChEMBL
+CHEMBL4295926,Lysyl oxidase homolog 4,SINGLE PROTEIN,Homo sapiens,Q96JB6,1,mapped,True,ChEMBL
+CHEMBL4523247,Gasdermin-D,SINGLE PROTEIN,Homo sapiens,P57764,1,mapped,True,ChEMBL
+CHEMBL4523446,Gasdermin-D,SINGLE PROTEIN,Mus musculus,Q9D8T2,1,mapped,False,ChEMBL
+CHEMBL4802003,Carbamate kinase,SINGLE PROTEIN,Giardia intestinalis,O97438,1,mapped,False,ChEMBL
+CHEMBL5465386,Metallo-beta-lactamase type 2,SINGLE PROTEIN,Bacteria,C7C422,1,mapped,False,ChEMBL
+CHEMBL1903,Sodium- and chloride-dependent GABA transporter 1,SINGLE PROTEIN,Homo sapiens,P30531,1,mapped,True,ChEMBL
+CHEMBL1987,Prostaglandin F2-alpha receptor,SINGLE PROTEIN,Homo sapiens,P43088,1,mapped,True,ChEMBL
+CHEMBL1881,Prostaglandin E2 receptor EP2 subtype,SINGLE PROTEIN,Homo sapiens,P43116,1,mapped,True,ChEMBL
+CHEMBL1995,Prostacyclin receptor,SINGLE PROTEIN,Homo sapiens,P43119,1,mapped,True,ChEMBL
+CHEMBL1811,Prostaglandin E2 receptor EP1 subtype,SINGLE PROTEIN,Homo sapiens,P34995,1,mapped,True,ChEMBL
+CHEMBL1836,Prostaglandin E2 receptor EP4 subtype,SINGLE PROTEIN,Homo sapiens,P35408,1,mapped,True,ChEMBL
+CHEMBL3710,Prostaglandin E2 receptor EP3 subtype,SINGLE PROTEIN,Homo sapiens,P43115,1,mapped,True,ChEMBL
+CHEMBL4553,Thyrotropin-releasing hormone receptor,SINGLE PROTEIN,Rattus norvegicus,Q01717,1,mapped,False,ChEMBL
+CHEMBL2126,Leukotriene B4 receptor 1,SINGLE PROTEIN,Rattus norvegicus,Q9R0Q2,1,mapped,False,ChEMBL
+CHEMBL5208,Sodium- and chloride-dependent GABA transporter 3,SINGLE PROTEIN,Homo sapiens,P48066,1,mapped,True,ChEMBL
+CHEMBL2535,"Solute carrier family 2, facilitated glucose transporter member 1",SINGLE PROTEIN,Homo sapiens,P11166,1,mapped,True,ChEMBL
+CHEMBL3715,Sodium- and chloride-dependent betaine transporter,SINGLE PROTEIN,Homo sapiens,P48065,1,mapped,True,ChEMBL
+CHEMBL3365,Neuronal acetylcholine receptor subunit alpha-7,SINGLE PROTEIN,Mus musculus,P49582,1,mapped,False,ChEMBL
+CHEMBL4050,Peptidyl-prolyl cis-trans isomerase FKBP4,SINGLE PROTEIN,Homo sapiens,Q02790,1,mapped,True,ChEMBL
+CHEMBL3050,Amine oxidase [flavin-containing] B,SINGLE PROTEIN,Mus musculus,Q8BW75,1,mapped,False,ChEMBL
+CHEMBL4980,Neuronal acetylcholine receptor subunit alpha-7,SINGLE PROTEIN,Rattus norvegicus,Q05941,1,mapped,False,ChEMBL
+CHEMBL2307,Phospholipase A1 member A,SINGLE PROTEIN,Rattus norvegicus,P97535,1,mapped,False,ChEMBL
+CHEMBL4889,Sodium- and chloride-dependent GABA transporter 2,SINGLE PROTEIN,Rattus norvegicus,P31646,1,mapped,False,ChEMBL
+CHEMBL2619,5-hydroxytryptamine receptor 5B,SINGLE PROTEIN,Rattus norvegicus,P35365,1,mapped,False,ChEMBL
+CHEMBL3508,Gastrin/cholecystokinin type B receptor,SINGLE PROTEIN,Rattus norvegicus,P30553,1,mapped,False,ChEMBL
+CHEMBL4054,Sodium- and chloride-dependent GABA transporter 1,SINGLE PROTEIN,Rattus norvegicus,P23978,1,mapped,False,ChEMBL
+CHEMBL2986,Sodium-dependent dopamine transporter,SINGLE PROTEIN,Bos taurus,P27922,1,mapped,False,ChEMBL
+CHEMBL3500,Glycine receptor subunit alpha-4,SINGLE PROTEIN,Mus musculus,Q61603,1,mapped,False,ChEMBL
+CHEMBL4289,Interleukin-6 receptor subunit alpha,SINGLE PROTEIN,Rattus norvegicus,P22273,1,mapped,False,ChEMBL
+CHEMBL5061,Glutathione reductase,SINGLE PROTEIN,Plasmodium falciparum 3D7,O15770,1,mapped,False,ChEMBL
+CHEMBL4086,Prostaglandin E2 receptor EP4 subtype,SINGLE PROTEIN,Rattus norvegicus,P43114,1,mapped,False,ChEMBL
+CHEMBL401,"Glutamate receptor ionotropic, NMDA 2C",SINGLE PROTEIN,Rattus norvegicus,Q00961,1,mapped,False,ChEMBL
+CHEMBL5032,Sodium-dependent dopamine transporter,SINGLE PROTEIN,Macaca fascicularis,Q9GJT6,1,mapped,False,ChEMBL
+CHEMBL4909,Prostaglandin E2 receptor EP2 subtype,SINGLE PROTEIN,Rattus norvegicus,Q62928,1,mapped,False,ChEMBL
+CHEMBL4697,Hexose transporter 1,SINGLE PROTEIN,Plasmodium falciparum,O97467,1,mapped,False,ChEMBL
+CHEMBL5313,Heat shock factor protein 1,SINGLE PROTEIN,Mus musculus,P38532,1,mapped,False,ChEMBL
+CHEMBL5269,Solute carrier family 22 member 20,SINGLE PROTEIN,Mus musculus,Q80UJ1,1,mapped,False,ChEMBL
+CHEMBL5401,Signal transducer and activator of transcription 6,SINGLE PROTEIN,Homo sapiens,P42226,1,mapped,True,ChEMBL
+CHEMBL5653,Solute carrier family 22 member 6,SINGLE PROTEIN,Mus musculus,Q8VC69,1,mapped,False,ChEMBL
+CHEMBL5696,Glutathione hydrolase 1 proenzyme,SINGLE PROTEIN,Homo sapiens,P19440,1,mapped,True,ChEMBL
+CHEMBL1255165,Serine/threonine-protein kinase mTOR,SINGLE PROTEIN,Mus musculus,Q9JLN9,1,mapped,False,ChEMBL
+CHEMBL1293309,Os06g0676700 protein,SINGLE PROTEIN,Oryza sativa Japonica Group,Q653V4,1,mapped,False,ChEMBL
+CHEMBL1681610,Amine oxidase [flavin-containing],SINGLE PROTEIN,Danio rerio,Q6NSN2,1,mapped,False,ChEMBL
+CHEMBL1741171,Protein RecA,SINGLE PROTEIN,Mycobacterium tuberculosis,P9WHJ3,1,mapped,False,ChEMBL
+CHEMBL1741192,Replicative DNA helicase DnaB,SINGLE PROTEIN,Mycobacterium tuberculosis,P9WMR3,1,mapped,False,ChEMBL
+CHEMBL1741208,"NACHT, LRR and PYD domains-containing protein 3",SINGLE PROTEIN,Homo sapiens,Q96P20,1,mapped,True,ChEMBL
+CHEMBL1955711,Solute carrier family 22 member 7,SINGLE PROTEIN,Homo sapiens,Q9Y694,1,mapped,True,ChEMBL
+CHEMBL2046258,ATP-binding cassette sub-family C member 5,SINGLE PROTEIN,Homo sapiens,O15440,1,mapped,True,ChEMBL
+CHEMBL2311236,High mobility group protein B1,SINGLE PROTEIN,Homo sapiens,P09429,1,mapped,True,ChEMBL
+CHEMBL3108645,Histone-lysine N-methyltransferase NSD2,SINGLE PROTEIN,Homo sapiens,O96028,1,mapped,True,ChEMBL
+CHEMBL3431938,Glucose transporter,SINGLE PROTEIN,Leishmania mexicana,O61059,1,mapped,False,ChEMBL
+CHEMBL3879846,Thioredoxin reductase,SINGLE PROTEIN,Entamoeba histolytica,C4LW95,1,mapped,False,ChEMBL
+CHEMBL4105934,Signal recognition particle receptor subunit alpha,SINGLE PROTEIN,Homo sapiens,P08240,1,mapped,True,ChEMBL
+CHEMBL4295736,Peptidyl-prolyl cis-trans isomerase FKBP1A,SINGLE PROTEIN,Mus musculus,P26883,1,mapped,False,ChEMBL
+CHEMBL4523872,Adhesion G-protein coupled receptor F1,SINGLE PROTEIN,Homo sapiens,Q5T601,1,mapped,True,ChEMBL
+CHEMBL1852,DNA-directed RNA polymerase subunit beta,SINGLE PROTEIN,Escherichia coli K-12,P0A8V2,1,mapped,False,ChEMBL
+CHEMBL1808,Angiotensin-converting enzyme,SINGLE PROTEIN,Homo sapiens,P12821,1,mapped,True,ChEMBL
+CHEMBL1919,Voltage-dependent calcium channel subunit alpha-2/delta-1,SINGLE PROTEIN,Homo sapiens,P54289,1,mapped,True,ChEMBL
+CHEMBL1878,Extracellular calcium-sensing receptor,SINGLE PROTEIN,Homo sapiens,P41180,1,mapped,True,ChEMBL
+CHEMBL2006,DNA-directed RNA polymerase subunit beta,SINGLE PROTEIN,Mycobacterium tuberculosis,P9WGY9,1,mapped,False,ChEMBL
+CHEMBL4716,"3',5'-cyclic-AMP phosphodiesterase 7B",SINGLE PROTEIN,Homo sapiens,Q9NP56,1,mapped,True,ChEMBL
+CHEMBL4137,"Glyceraldehyde-3-phosphate dehydrogenase, cytosolic",SINGLE PROTEIN,Leishmania mexicana,Q01558,1,mapped,False,ChEMBL
+CHEMBL4615,NH(3)-dependent NAD(+) synthetase,SINGLE PROTEIN,Bacillus subtilis (strain 168),P08164,1,mapped,False,ChEMBL
+CHEMBL263,Type-1 angiotensin II receptor B,SINGLE PROTEIN,Rattus norvegicus,P29089,1,mapped,False,ChEMBL
+CHEMBL4605,Solute carrier family 15 member 1,SINGLE PROTEIN,Homo sapiens,P46059,1,mapped,True,ChEMBL
+CHEMBL4961,Acetylcholine receptor subunit epsilon,SINGLE PROTEIN,Rattus norvegicus,P09660,1,mapped,False,ChEMBL
+CHEMBL2458,Peroxisome proliferator-activated receptor delta,SINGLE PROTEIN,Mus musculus,P35396,1,mapped,False,ChEMBL
+CHEMBL1945,Melatonin receptor type 1A,SINGLE PROTEIN,Homo sapiens,P48039,1,mapped,True,ChEMBL
+CHEMBL1946,Melatonin receptor type 1B,SINGLE PROTEIN,Homo sapiens,P49286,1,mapped,True,ChEMBL
+CHEMBL4929,Serum amyloid P-component,SINGLE PROTEIN,Homo sapiens,P02743,1,mapped,True,ChEMBL
+CHEMBL3422,3-oxo-5-alpha-steroid 4-dehydrogenase 1,SINGLE PROTEIN,Rattus norvegicus,P24008,1,mapped,False,ChEMBL
+CHEMBL3061,Phosphodiesterase 3A,SINGLE PROTEIN,Sus scrofa,Q9XSW7,1,mapped,False,ChEMBL
+CHEMBL4801,Caspase-1,SINGLE PROTEIN,Homo sapiens,P29466,1,mapped,True,ChEMBL
+CHEMBL3308,Caspase-6,SINGLE PROTEIN,Homo sapiens,P55212,1,mapped,True,ChEMBL
+CHEMBL3468,Caspase-7,SINGLE PROTEIN,Homo sapiens,P55210,1,mapped,True,ChEMBL
+CHEMBL3420,Voltage-dependent calcium channel subunit alpha-2/delta-1,SINGLE PROTEIN,Rattus norvegicus,P54290,1,mapped,False,ChEMBL
+CHEMBL3681,Amine oxidase [flavin-containing] A,SINGLE PROTEIN,Mus musculus,Q64133,1,mapped,False,ChEMBL
+CHEMBL3333,Phosphodiesterase 4A,SINGLE PROTEIN,Sus scrofa,O77823,1,mapped,False,ChEMBL
+CHEMBL3335,Cytochrome P450 2B1,SINGLE PROTEIN,Rattus norvegicus,P00176,1,mapped,False,ChEMBL
+CHEMBL3797,Serine-protein kinase ATM,SINGLE PROTEIN,Homo sapiens,Q13315,1,mapped,True,ChEMBL
+CHEMBL4676,Voltage-dependent calcium channel subunit alpha-2/delta-1,SINGLE PROTEIN,Mus musculus,O08532,1,mapped,False,ChEMBL
+CHEMBL3985,Voltage-dependent calcium channel alpha2delta subunit,SINGLE PROTEIN,Sus scrofa,O77773,1,mapped,False,ChEMBL
+CHEMBL5498,Muscarinic acetylcholine receptor M3,SINGLE PROTEIN,Cavia porcellus,Q8VH26,1,mapped,False,ChEMBL
+CHEMBL1075061,Muscarinic receptor 2,SINGLE PROTEIN,Cavia porcellus,Q8VH27,1,mapped,False,ChEMBL
+CHEMBL1287600,Class B carbapenemase VIM-13,SINGLE PROTEIN,Pseudomonas aeruginosa,Q2HY42,1,mapped,False,ChEMBL
+CHEMBL1287601,Beta-lactamase VIM-1,SINGLE PROTEIN,Pseudomonas aeruginosa,Q9XAY4,1,mapped,False,ChEMBL
+CHEMBL1293244,Beta-lactamase,SINGLE PROTEIN,Pseudomonas aeruginosa,Q79MP6,1,mapped,False,ChEMBL
+CHEMBL1741163,ORF 73,SINGLE PROTEIN,Human herpesvirus 8,O40947,1,mapped,False,ChEMBL
+CHEMBL1741202,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",SINGLE PROTEIN,Leishmania major,Q4Q090,1,mapped,False,ChEMBL
+CHEMBL1743123,Solute carrier organic anion transporter family member 1A2,SINGLE PROTEIN,Homo sapiens,P46721,1,mapped,True,ChEMBL
+CHEMBL1743291,Sulfotransferase 1A1,SINGLE PROTEIN,Homo sapiens,P50225,1,mapped,True,ChEMBL
+CHEMBL1909490,Interleukin-1 beta,SINGLE PROTEIN,Homo sapiens,P01584,1,mapped,True,ChEMBL
+CHEMBL2007626,DNA dC->dU-editing enzyme APOBEC-3F,SINGLE PROTEIN,Homo sapiens,Q8IUX4,1,mapped,True,ChEMBL
+CHEMBL2073687,ATP-binding cassette sub-family C member 10,SINGLE PROTEIN,Homo sapiens,Q5T3U5,1,mapped,True,ChEMBL
+CHEMBL2079847,Beta-lactamase II,SINGLE PROTEIN,Bacillus anthracis,Q93T40,1,mapped,False,ChEMBL
+CHEMBL2079850,Exopolyphosphatase PRUNE1,SINGLE PROTEIN,Homo sapiens,Q86TP1,1,mapped,True,ChEMBL
+CHEMBL2366442,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",SINGLE PROTEIN,Crotalus adamanteus,J3SE37,1,mapped,False,ChEMBL
+CHEMBL3227914,Acetylcholinesterase,SINGLE PROTEIN,Gallus gallus,P36196,1,mapped,False,ChEMBL
+CHEMBL3763007,Cereblon isoform 4,SINGLE PROTEIN,Magnetospirillum gryphiswaldense,A4TVL0,1,mapped,False,ChEMBL
+CHEMBL3763008,Protein cereblon,SINGLE PROTEIN,Homo sapiens,Q96SW2,1,mapped,True,ChEMBL
+CHEMBL4296294,DNA-directed RNA polymerase subunit beta,SINGLE PROTEIN,Escherichia coli O127:H6 (strain E2348/69 / EPEC),B7UPE2,1,mapped,False,ChEMBL
+CHEMBL4523454,Olfactory receptor 51E2,SINGLE PROTEIN,Homo sapiens,Q9H255,1,mapped,True,ChEMBL
+CHEMBL4630814,Cholinesterase,SINGLE PROTEIN,Canis lupus familiaris,P32750,1,mapped,False,ChEMBL
+CHEMBL4739707,Zinc finger protein Aiolos,SINGLE PROTEIN,Homo sapiens,Q9UKT9,1,mapped,True,ChEMBL
+CHEMBL6067463,Sal-like protein 4,SINGLE PROTEIN,Homo sapiens,Q9UJQ4,1,mapped,True,ChEMBL
+CHEMBL1859,Voltage-dependent T-type calcium channel subunit alpha-1H,SINGLE PROTEIN,Homo sapiens,O95180,1,mapped,True,ChEMBL
+CHEMBL1849,Enoyl-[acyl-carrier-protein] reductase [NADH],SINGLE PROTEIN,Mycobacterium tuberculosis,P9WGR1,1,mapped,False,ChEMBL
+CHEMBL250,Platelet-activating factor receptor,SINGLE PROTEIN,Homo sapiens,P25105,1,mapped,True,ChEMBL
+CHEMBL4466,Melatonin receptor type 1B,SINGLE PROTEIN,Gallus gallus,P51050,1,mapped,False,ChEMBL
+CHEMBL2366,Trypsin,SINGLE PROTEIN,Sus scrofa,P00761,1,mapped,False,ChEMBL
+CHEMBL2597,Tubulin beta-3 chain,SINGLE PROTEIN,Homo sapiens,Q13509,1,mapped,True,ChEMBL
+CHEMBL4719,Nitric oxide synthase 1,SINGLE PROTEIN,Mus musculus,Q9Z0J4,1,mapped,False,ChEMBL
+CHEMBL3813,Dipeptidyl peptidase 4,SINGLE PROTEIN,Sus scrofa,P22411,1,mapped,False,ChEMBL
+CHEMBL3174,Glutathione S-transferase omega-1,SINGLE PROTEIN,Homo sapiens,P78417,1,mapped,True,ChEMBL
+CHEMBL3411,CAAX prenyl protease 2,SINGLE PROTEIN,Homo sapiens,Q9Y256,1,mapped,True,ChEMBL
+CHEMBL2579,Gamma-aminobutyric acid receptor subunit alpha-6,SINGLE PROTEIN,Homo sapiens,Q16445,1,mapped,True,ChEMBL
+CHEMBL3864,Tyrosine-protein phosphatase non-receptor type 11,SINGLE PROTEIN,Homo sapiens,Q06124,1,mapped,True,ChEMBL
+CHEMBL3676,C-C chemokine receptor type 5,SINGLE PROTEIN,Mus musculus,P51682,1,mapped,False,ChEMBL
+CHEMBL4641,Voltage-dependent T-type calcium channel subunit alpha-1G,SINGLE PROTEIN,Homo sapiens,O43497,1,mapped,True,ChEMBL
+CHEMBL4381,Synaptic vesicle glycoprotein 2A,SINGLE PROTEIN,Rattus norvegicus,Q02563,1,mapped,False,ChEMBL
+CHEMBL4165,DNA gyrase subunit A,SINGLE PROTEIN,Mycobacterium tuberculosis,P9WG47,1,mapped,False,ChEMBL
+CHEMBL5495,Melatonin receptor type 1C,SINGLE PROTEIN,Xenopus laevis,P49219,1,mapped,False,ChEMBL
+CHEMBL5508,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,SINGLE PROTEIN,Rattus norvegicus,Q63470,1,mapped,False,ChEMBL
+CHEMBL5270,Dihydrofolate reductase,SINGLE PROTEIN,Bacillus anthracis,Q81R22,1,mapped,False,ChEMBL
+CHEMBL5757,Acid-sensing ion channel 3,SINGLE PROTEIN,Rattus norvegicus,O35240,1,mapped,False,ChEMBL
+CHEMBL1075220,Dehydrogenase/reductase SDR family member 9,SINGLE PROTEIN,Rattus norvegicus,Q8VD48,1,mapped,False,ChEMBL
+CHEMBL1163111,Interleukin-5,SINGLE PROTEIN,Mus musculus,P04401,1,mapped,False,ChEMBL
+CHEMBL1169600,Interleukin-5,SINGLE PROTEIN,Homo sapiens,P05113,1,mapped,True,ChEMBL
+CHEMBL1250413,CAAX prenyl protease 2,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,Q03530,1,mapped,False,ChEMBL
+CHEMBL1287623,Lethal(3)malignant brain tumor-like protein 3,SINGLE PROTEIN,Homo sapiens,Q96JM7,1,mapped,True,ChEMBL
+CHEMBL1287624,Lethal(3)malignant brain tumor-like protein 4,SINGLE PROTEIN,Homo sapiens,Q8NA19,1,mapped,True,ChEMBL
+CHEMBL1287625,MBT domain-containing protein 1,SINGLE PROTEIN,Homo sapiens,Q05BQ5,1,mapped,True,ChEMBL
+CHEMBL1287627,NADPH oxidase 2,SINGLE PROTEIN,Homo sapiens,P04839,1,mapped,True,ChEMBL
+CHEMBL1293246,Beta Lactamase,SINGLE PROTEIN,Pseudomonas aeruginosa,Q932Y6,1,mapped,False,ChEMBL
+CHEMBL1293266,Nucleotide-binding oligomerization domain-containing protein 2,SINGLE PROTEIN,Homo sapiens,Q9HC29,1,mapped,True,ChEMBL
+CHEMBL1741176,X-box-binding protein 1,SINGLE PROTEIN,Homo sapiens,P17861,1,mapped,True,ChEMBL
+CHEMBL1741185,CAAX prenyl protease 1,SINGLE PROTEIN,Saccharomyces cerevisiae S288c,P47154,1,mapped,False,ChEMBL
+CHEMBL1795083,T-complex protein 1 subunit beta,SINGLE PROTEIN,Macaca fascicularis,Q4R6F8,1,mapped,False,ChEMBL
+CHEMBL1795182,Chloroquine resistance transporter,SINGLE PROTEIN,Plasmodium falciparum,Q9N623,1,mapped,False,ChEMBL
+CHEMBL2146304,DNA damage-inducible transcript 3 protein,SINGLE PROTEIN,Mus musculus,P35639,1,mapped,False,ChEMBL
+CHEMBL2146306,Rac GTPase-activating protein 1,SINGLE PROTEIN,Homo sapiens,Q9H0H5,1,mapped,True,ChEMBL
+CHEMBL2146312,Bifunctional 3'-5' exonuclease/ATP-dependent helicase WRN,SINGLE PROTEIN,Homo sapiens,Q14191,1,mapped,True,ChEMBL
+CHEMBL2157850,Ubiquitin carboxyl-terminal hydrolase 7,SINGLE PROTEIN,Homo sapiens,Q93009,1,mapped,True,ChEMBL
+CHEMBL2163182,NAD-dependent protein deacylase sirtuin-6,SINGLE PROTEIN,Homo sapiens,Q8N6T7,1,mapped,True,ChEMBL
+CHEMBL2295561,Lactoperoxidase,SINGLE PROTEIN,Bos taurus,P80025,1,mapped,False,ChEMBL
+CHEMBL3509584,Arylacetamide deacetylase,SINGLE PROTEIN,Homo sapiens,P22760,1,mapped,True,ChEMBL
+CHEMBL3562170,Acid-sensing ion channel 1,SINGLE PROTEIN,Rattus norvegicus,P55926,1,mapped,False,ChEMBL
+CHEMBL3593154,3-hydroxy-3-methylglutaryl-coenzyme A reductase,SINGLE PROTEIN,Sus scrofa,Q1W675,1,mapped,False,ChEMBL
+CHEMBL3804751,Decaprenylphosphoryl-beta-D-ribose oxidase,SINGLE PROTEIN,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),P9WJF1,1,mapped,False,ChEMBL
+CHEMBL4295707,Tubulin beta-4 chain,SINGLE PROTEIN,Gallus gallus,P09652,1,mapped,False,ChEMBL
+CHEMBL4523198,Interleukin-5 receptor subunit alpha,SINGLE PROTEIN,Mus musculus,P21183,1,mapped,False,ChEMBL
+CHEMBL4523218,N-acetylgalactosamine-6-sulfatase,SINGLE PROTEIN,Homo sapiens,P34059,1,mapped,True,ChEMBL
+CHEMBL4523954,Nonstructural protein 3,SINGLE PROTEIN,Zika virus,A0A024AXB9,1,mapped,False,ChEMBL
+CHEMBL5465545,Rho-related GTP-binding protein RhoC,SINGLE PROTEIN,Homo sapiens,P08134,1,mapped,True,ChEMBL
+CHEMBL6066829,"L-2,3-diaminopropanoate--citrate ligase",SINGLE PROTEIN,Staphylococcus aureus (strain NCTC 8325 / PS 47),Q2G1M9,1,mapped,False,ChEMBL
+CHEMBL1781,DNA topoisomerase 1,SINGLE PROTEIN,Homo sapiens,P11387,1,mapped,True,ChEMBL
+CHEMBL1973,Tyrosinase,SINGLE PROTEIN,Homo sapiens,P14679,1,mapped,True,ChEMBL
+CHEMBL2024,Follicle-stimulating hormone receptor,SINGLE PROTEIN,Homo sapiens,P23945,1,mapped,True,ChEMBL
+CHEMBL2049,Oxytocin receptor,SINGLE PROTEIN,Homo sapiens,P30559,1,mapped,True,ChEMBL
+CHEMBL1993,DNA (cytosine-5)-methyltransferase 1,SINGLE PROTEIN,Homo sapiens,P26358,1,mapped,True,ChEMBL
+CHEMBL4977,Transcription factor Jun,SINGLE PROTEIN,Homo sapiens,P05412,1,mapped,True,ChEMBL
+CHEMBL4114,Beta-lactamase,SINGLE PROTEIN,Staphylococcus aureus,P00807,1,mapped,False,ChEMBL
+CHEMBL3775,M-phase inducer phosphatase 1,SINGLE PROTEIN,Homo sapiens,P30304,1,mapped,True,ChEMBL
+CHEMBL3473,C-C chemokine receptor type 3,SINGLE PROTEIN,Homo sapiens,P51677,1,mapped,True,ChEMBL
+CHEMBL5377,5-hydroxytryptamine receptor 2A,SINGLE PROTEIN,Mus musculus,P35363,1,mapped,False,ChEMBL
+CHEMBL3575,2-5A-dependent ribonuclease,SINGLE PROTEIN,Homo sapiens,Q05823,1,mapped,True,ChEMBL
+CHEMBL2331,Phenylethanolamine N-methyltransferase,SINGLE PROTEIN,Bos taurus,P10938,1,mapped,False,ChEMBL
+CHEMBL2350,Alpha-2A adrenergic receptor,SINGLE PROTEIN,Sus scrofa,P18871,1,mapped,False,ChEMBL
+CHEMBL4792,Orexin receptor type 2,SINGLE PROTEIN,Homo sapiens,O43614,1,mapped,True,ChEMBL
+CHEMBL4310,Serine/threonine-protein kinase 3,SINGLE PROTEIN,Mus musculus,Q9JI10,1,mapped,False,ChEMBL
+CHEMBL4459,Large neutral amino acids transporter small subunit 1,SINGLE PROTEIN,Homo sapiens,Q01650,1,mapped,True,ChEMBL
+CHEMBL4596,C-C chemokine receptor type 8,SINGLE PROTEIN,Homo sapiens,P51685,1,mapped,True,ChEMBL
+CHEMBL4461,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial",SINGLE PROTEIN,Homo sapiens,Q9NTG7,1,mapped,True,ChEMBL
+CHEMBL4462,NAD-dependent protein deacetylase sirtuin-2,SINGLE PROTEIN,Homo sapiens,Q8IXJ6,1,mapped,True,ChEMBL
+CHEMBL3325,Solute carrier family 15 member 2,SINGLE PROTEIN,Rattus norvegicus,Q63424,1,mapped,False,ChEMBL
+CHEMBL5539,Penicillin-binding protein 2,SINGLE PROTEIN,Pseudomonas aeruginosa,Q9X6V3,1,mapped,False,ChEMBL
+CHEMBL5540,Penicillin-binding protein 1B,SINGLE PROTEIN,Pseudomonas aeruginosa,Q9X6W0,1,mapped,False,ChEMBL
+CHEMBL5570,Macrophage colony-stimulating factor 1 receptor,SINGLE PROTEIN,Mus musculus,P09581,1,mapped,False,ChEMBL
+CHEMBL5225,Penicillin-binding protein 3,SINGLE PROTEIN,Pseudomonas aeruginosa,Q51504,1,mapped,False,ChEMBL
+CHEMBL5303,PER-2 beta-lactamase,SINGLE PROTEIN,Citrobacter freundii,A2RP81,1,mapped,False,ChEMBL
+CHEMBL5437,Class A carbapenemase KPC-2,SINGLE PROTEIN,Escherichia coli,A8DS27,1,mapped,False,ChEMBL
+CHEMBL5012,Beta-lactamase,SINGLE PROTEIN,Klebsiella oxytoca,Q8RT60,1,mapped,False,ChEMBL
+CHEMBL5693,Beta-lactamase,SINGLE PROTEIN,Serratia marcescens,P18539,1,mapped,False,ChEMBL
+CHEMBL5857,Trace amine-associated receptor 1,SINGLE PROTEIN,Homo sapiens,Q96RJ0,1,mapped,True,ChEMBL
+CHEMBL5895,Beta-lactamase,SINGLE PROTEIN,Providencia stuartii,O69773,1,mapped,False,ChEMBL
+CHEMBL5764,Beta-lactamase,SINGLE PROTEIN,Morganella morganii,P94958,1,mapped,False,ChEMBL
+CHEMBL5772,Polycystin-1,SINGLE PROTEIN,Homo sapiens,P98161,1,mapped,True,ChEMBL
+CHEMBL5902,Transcription factor p65,SINGLE PROTEIN,Mus musculus,Q04207,1,mapped,False,ChEMBL
+CHEMBL6095,DNA (cytosine-5)-methyltransferase 3B,SINGLE PROTEIN,Homo sapiens,Q9UBC3,1,mapped,True,ChEMBL
+CHEMBL6116,Peroxisome proliferator-activated receptor gamma coactivator 1-alpha,SINGLE PROTEIN,Homo sapiens,Q9UBK2,1,mapped,True,ChEMBL
+CHEMBL1075238,Organic cation/carnitine transporter 2,SINGLE PROTEIN,Rattus norvegicus,O70594,1,mapped,False,ChEMBL
+CHEMBL1681611,Prolactin-releasing peptide receptor,SINGLE PROTEIN,Homo sapiens,P49683,1,mapped,True,ChEMBL
+CHEMBL1743125,Solute carrier family 15 member 2,SINGLE PROTEIN,Homo sapiens,Q16348,1,mapped,True,ChEMBL
+CHEMBL1795191,Cyclin-dependent kinase 10,SINGLE PROTEIN,Homo sapiens,Q15131,1,mapped,True,ChEMBL
+CHEMBL2073717,Monocarboxylate transporter 10,SINGLE PROTEIN,Rattus norvegicus,Q91Y77,1,mapped,False,ChEMBL
+CHEMBL2189139,"Aspartate aminotransferase, cytoplasmic",SINGLE PROTEIN,Homo sapiens,P17174,1,mapped,True,ChEMBL
+CHEMBL3085622,Bromodomain-containing protein 7,SINGLE PROTEIN,Homo sapiens,Q9NPI1,1,mapped,True,ChEMBL
+CHEMBL3108640,Bromodomain-containing protein 9,SINGLE PROTEIN,Homo sapiens,Q9H8M2,1,mapped,True,ChEMBL
+CHEMBL3309036,Cell shape peptidoglycan synthetase penicillin-binding protein 2,SINGLE PROTEIN,Escherichia coli,Q2TL65,1,mapped,False,ChEMBL
+CHEMBL3562161,Amino acid transporter,SINGLE PROTEIN,Rattus norvegicus,Q9Z1J7,1,mapped,False,ChEMBL
+CHEMBL3721301,N-terminal kinase-like protein,SINGLE PROTEIN,Mus musculus,Q9EQC5,1,mapped,False,ChEMBL
+CHEMBL3721302,G protein-coupled receptor kinase 5,SINGLE PROTEIN,Mus musculus,Q8VEB1,1,mapped,False,ChEMBL
+CHEMBL3832957,Metallo beta-lactamase,SINGLE PROTEIN,Pseudomonas aeruginosa,Q6TUJ4,1,mapped,False,ChEMBL
+CHEMBL4105782,ATP-dependent RNA helicase DDX42,SINGLE PROTEIN,Homo sapiens,Q86XP3,1,mapped,True,ChEMBL
+CHEMBL5725151,"Pyruvate carboxylase, mitochondrial",SINGLE PROTEIN,Homo sapiens,P11498,1,mapped,True,ChEMBL
+CHEMBL1857,Enoyl-[acyl-carrier-protein] reductase [NADH] FabI,SINGLE PROTEIN,Escherichia coli K-12,P0AEK4,1,mapped,False,ChEMBL
+CHEMBL1893,Synaptic vesicular amine transporter,SINGLE PROTEIN,Homo sapiens,Q05940,1,mapped,True,ChEMBL
+CHEMBL1838,Chromaffin granule amine transporter,SINGLE PROTEIN,Homo sapiens,P54219,1,mapped,True,ChEMBL
+CHEMBL3994,Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI,SINGLE PROTEIN,Staphylococcus aureus,Q6GI75,1,mapped,False,ChEMBL
+CHEMBL2098,RISC-loading complex subunit TARBP2,SINGLE PROTEIN,Homo sapiens,Q15633,1,mapped,True,ChEMBL
+CHEMBL3372,5-hydroxytryptamine receptor 6,SINGLE PROTEIN,Rattus norvegicus,P31388,1,mapped,False,ChEMBL
+CHEMBL3028,Prolyl hydroxylase EGLN2,SINGLE PROTEIN,Homo sapiens,Q96KS0,1,mapped,True,ChEMBL
+CHEMBL4271,Synaptic vesicular amine transporter,SINGLE PROTEIN,Bos taurus,Q27963,1,mapped,False,ChEMBL
+CHEMBL291,"3',5'-cyclic-AMP phosphodiesterase 4C",SINGLE PROTEIN,Homo sapiens,Q08493,1,mapped,True,ChEMBL
+CHEMBL3013,High affinity choline transporter 1,SINGLE PROTEIN,Mus musculus,Q8BGY9,1,mapped,False,ChEMBL
+CHEMBL3649,Xanthine dehydrogenase/oxidase,SINGLE PROTEIN,Bos taurus,P80457,1,mapped,False,ChEMBL
+CHEMBL317,Muscarinic acetylcholine receptor M4,SINGLE PROTEIN,Rattus norvegicus,P08485,1,mapped,False,ChEMBL
+CHEMBL2309,Potassium voltage-gated channel subfamily A member 1,SINGLE PROTEIN,Homo sapiens,Q09470,1,mapped,True,ChEMBL
+CHEMBL4497,NADH-ubiquinone oxidoreductase chain 1,SINGLE PROTEIN,Bos taurus,P03887,1,mapped,False,ChEMBL
+CHEMBL332,Interstitial collagenase,SINGLE PROTEIN,Homo sapiens,P03956,1,mapped,True,ChEMBL
+CHEMBL5276,3-dehydroquinate dehydratase,SINGLE PROTEIN,Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145),P15474,1,mapped,False,ChEMBL
+CHEMBL3345,3-dehydroquinate dehydratase,SINGLE PROTEIN,Mycobacterium tuberculosis,P9WPX7,1,mapped,False,ChEMBL
+CHEMBL5206,Endolysin,SINGLE PROTEIN,Enterobacteria phage T4,P00720,1,mapped,False,ChEMBL
+CHEMBL5019,Flavin reductase (NADPH),SINGLE PROTEIN,Homo sapiens,P30043,1,mapped,True,ChEMBL
+CHEMBL3833,Trace amine-associated receptor 1,SINGLE PROTEIN,Rattus norvegicus,Q923Y9,1,mapped,False,ChEMBL
+CHEMBL4908,Trace amine-associated receptor 1,SINGLE PROTEIN,Mus musculus,Q923Y8,1,mapped,False,ChEMBL
+CHEMBL4150,Enoyl-acyl-carrier protein reductase,SINGLE PROTEIN,Plasmodium falciparum,Q965D5,1,mapped,False,ChEMBL
+CHEMBL4680,3-dehydroquinate dehydratase,SINGLE PROTEIN,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori),Q48255,1,mapped,False,ChEMBL
+CHEMBL5398,Hepatocyte nuclear factor 4-alpha,SINGLE PROTEIN,Homo sapiens,P41235,1,mapped,True,ChEMBL
+CHEMBL5586,Carbonyl reductase [NADPH] 1,SINGLE PROTEIN,Homo sapiens,P16152,1,mapped,True,ChEMBL
+CHEMBL5697,Egl nine homolog 1,SINGLE PROTEIN,Homo sapiens,Q9GZT9,1,mapped,True,ChEMBL
+CHEMBL5705,Prolyl hydroxylase EGLN3,SINGLE PROTEIN,Homo sapiens,Q9H6Z9,1,mapped,True,ChEMBL
+CHEMBL5909,Hypoxia-inducible factor 1-alpha inhibitor,SINGLE PROTEIN,Homo sapiens,Q9NWT6,1,mapped,True,ChEMBL
+CHEMBL5633,Beta-lactamase,SINGLE PROTEIN,Bacillus licheniformis,P00808,1,mapped,False,ChEMBL
+CHEMBL1075044,Enoyl-[acyl-carrier-protein] reductase [NADH] FabI,SINGLE PROTEIN,Bacillus subtilis (strain 168),P54616,1,mapped,False,ChEMBL
+CHEMBL1075060,Arginase-1,SINGLE PROTEIN,Bos taurus,Q2KJ64,1,mapped,False,ChEMBL
+CHEMBL6194,Pteridine reductase 1,SINGLE PROTEIN,Leishmania major,Q01782,1,mapped,False,ChEMBL
+CHEMBL1075246,Xanthine dehydrogenase/oxidase,SINGLE PROTEIN,Rattus norvegicus,P22985,1,mapped,False,ChEMBL
+CHEMBL1075024,Enoyl-(Acyl-carrier-protein) reductase,SINGLE PROTEIN,Streptococcus pneumoniae,Q9FBC5,1,mapped,False,ChEMBL
+CHEMBL1250368,Enoyl-acyl carrier reductase,SINGLE PROTEIN,Toxoplasma gondii,Q6UCJ9,1,mapped,False,ChEMBL
+CHEMBL1741164,Perilipin-1,SINGLE PROTEIN,Homo sapiens,O60240,1,mapped,True,ChEMBL
+CHEMBL1741219,Short transient receptor potential channel 4,SINGLE PROTEIN,Mus musculus,Q9QUQ5,1,mapped,False,ChEMBL
+CHEMBL1795135,3-oxoacyl-[acyl-carrier-protein] synthase 3,SINGLE PROTEIN,Escherichia coli,C3TDZ2,1,mapped,False,ChEMBL
+CHEMBL1926495,Trace amine-associated receptor 1,SINGLE PROTEIN,Macaca mulatta,Q8HZ64,1,mapped,False,ChEMBL
+CHEMBL2073715,Solute carrier family 22 member 21,SINGLE PROTEIN,Mus musculus,Q9WTN6,1,mapped,False,ChEMBL
+CHEMBL2073722,Solute carrier family 22 member 16,SINGLE PROTEIN,Homo sapiens,Q86VW1,1,mapped,True,ChEMBL
+CHEMBL2150835,Enoyl-[acyl-carrier-protein] reductase [NADH],SINGLE PROTEIN,Francisella tularensis subsp. tularensis (strain SCHU S4 / Schu 4),Q5NGQ3,1,mapped,False,ChEMBL
+CHEMBL2176846,Advanced glycosylation end product-specific receptor,SINGLE PROTEIN,Homo sapiens,Q15109,1,mapped,True,ChEMBL
+CHEMBL2366519,G-protein coupled receptor,SINGLE PROTEIN,Apis mellifera,Q9NG02,1,mapped,False,ChEMBL
+CHEMBL3108632,Transient receptor potential cation channel subfamily M member 8,SINGLE PROTEIN,Mus musculus,Q8R4D5,1,mapped,False,ChEMBL
+CHEMBL3621037,RNA demethylase ALKBH5,SINGLE PROTEIN,Homo sapiens,Q6P6C2,1,mapped,True,ChEMBL
+CHEMBL3774295,Lysine-specific demethylase 5B,SINGLE PROTEIN,Homo sapiens,Q9UGL1,1,mapped,True,ChEMBL
+CHEMBL4105974,Eukaryotic peptide chain release factor GTP-binding subunit ERF3B,SINGLE PROTEIN,Homo sapiens,Q8IYD1,1,mapped,True,ChEMBL
+CHEMBL4523368,Prolyl 4-hydroxylase,SINGLE PROTEIN,Paramecium bursaria Chlorella virus 1,Q84406,1,mapped,False,ChEMBL
+CHEMBL5169149,Serine/arginine-rich splicing factor 6,SINGLE PROTEIN,Homo sapiens,Q13247,1,mapped,True,ChEMBL
+CHEMBL1966,"Dihydroorotate dehydrogenase (quinone), mitochondrial",SINGLE PROTEIN,Homo sapiens,Q02127,1,mapped,True,ChEMBL
+CHEMBL3167,Serum paraoxonase/arylesterase 1,SINGLE PROTEIN,Homo sapiens,P27169,1,mapped,True,ChEMBL
+CHEMBL4820,Prostaglandin F2-alpha receptor,SINGLE PROTEIN,Bos taurus,P37289,1,mapped,False,ChEMBL
+CHEMBL3974,Proteinase-activated receptor 1,SINGLE PROTEIN,Homo sapiens,P25116,1,mapped,True,ChEMBL
+CHEMBL3230,Sphingosine 1-phosphate receptor 4,SINGLE PROTEIN,Homo sapiens,O95977,1,mapped,True,ChEMBL
+CHEMBL3892,Sphingosine 1-phosphate receptor 3,SINGLE PROTEIN,Homo sapiens,Q99500,1,mapped,True,ChEMBL
+CHEMBL2955,Sphingosine 1-phosphate receptor 2,SINGLE PROTEIN,Homo sapiens,O95136,1,mapped,True,ChEMBL
+CHEMBL2991,"Dihydroorotate dehydrogenase (quinone), mitochondrial",SINGLE PROTEIN,Mus musculus,O35435,1,mapped,False,ChEMBL
+CHEMBL4333,Sphingosine 1-phosphate receptor 1,SINGLE PROTEIN,Homo sapiens,P21453,1,mapped,True,ChEMBL
+CHEMBL2274,Sphingosine 1-phosphate receptor 5,SINGLE PROTEIN,Homo sapiens,Q9H228,1,mapped,True,ChEMBL
+CHEMBL2383,"Dihydroorotate dehydrogenase (quinone), mitochondrial",SINGLE PROTEIN,Rattus norvegicus,Q63707,1,mapped,False,ChEMBL
+CHEMBL4427,Prostaglandin D2 receptor,SINGLE PROTEIN,Homo sapiens,Q13258,1,mapped,True,ChEMBL
+CHEMBL2280,Acyl-protein thioesterase 1,SINGLE PROTEIN,Rattus norvegicus,P70470,1,mapped,False,ChEMBL
+CHEMBL3585,Sodium channel protein type 7 subunit alpha,SINGLE PROTEIN,Homo sapiens,Q01118,1,mapped,True,ChEMBL
+CHEMBL3798,Calcitonin gene-related peptide type 1 receptor,SINGLE PROTEIN,Homo sapiens,Q16602,1,mapped,True,ChEMBL
+CHEMBL4625,Bcl-2-like protein 1,SINGLE PROTEIN,Homo sapiens,Q07817,1,mapped,True,ChEMBL
+CHEMBL4860,Apoptosis regulator Bcl-2,SINGLE PROTEIN,Homo sapiens,P10415,1,mapped,True,ChEMBL
+CHEMBL4907,Cyclic nucleotide-gated channel alpha-1,SINGLE PROTEIN,Bos taurus,Q00194,1,mapped,False,ChEMBL
+CHEMBL3486,Dihydroorotate dehydrogenase,SINGLE PROTEIN,Plasmodium falciparum,Q54A96,1,mapped,False,ChEMBL
+CHEMBL4914,Beta-ketoacyl-[acyl-carrier-protein] synthase III,SINGLE PROTEIN,Escherichia coli K-12,P0A6R0,1,mapped,False,ChEMBL
+CHEMBL5000,Prostaglandin F2-alpha receptor,SINGLE PROTEIN,Mus musculus,P43117,1,mapped,False,ChEMBL
+CHEMBL1075071,Muscarinic receptor 4,SINGLE PROTEIN,Cavia porcellus,Q8VH25,1,mapped,False,ChEMBL
+CHEMBL5957,5'-nucleotidase,SINGLE PROTEIN,Homo sapiens,P21589,1,mapped,True,ChEMBL
+CHEMBL1075214,5'-nucleotidase,SINGLE PROTEIN,Rattus norvegicus,P21588,1,mapped,False,ChEMBL
+CHEMBL2062356,Pro-adrenomedullin,SINGLE PROTEIN,Homo sapiens,P35318,1,mapped,True,ChEMBL
+CHEMBL2073680,Solute carrier organic anion transporter family member 2A1,SINGLE PROTEIN,Rattus norvegicus,Q00910,1,mapped,False,ChEMBL
+CHEMBL2073685,Solute carrier organic anion transporter family member 3A1,SINGLE PROTEIN,Homo sapiens,Q9UIG8,1,mapped,True,ChEMBL
+CHEMBL2073691,Solute carrier family 15 member 1,SINGLE PROTEIN,Rattus norvegicus,P51574,1,mapped,False,ChEMBL
+CHEMBL2073698,Solute carrier organic anion transporter family member 2B1,SINGLE PROTEIN,Rattus norvegicus,Q9JHI3,1,mapped,False,ChEMBL
+CHEMBL2073699,Solute carrier organic anion transporter family member 2A1,SINGLE PROTEIN,Mus musculus,Q9EPT5,1,mapped,False,ChEMBL
+CHEMBL2073703,Solute carrier organic anion transporter family member 2A1,SINGLE PROTEIN,Homo sapiens,Q92959,1,mapped,True,ChEMBL
+CHEMBL3085621,Nucleosome-remodeling factor subunit BPTF,SINGLE PROTEIN,Homo sapiens,Q12830,1,mapped,True,ChEMBL
+CHEMBL3259476,Polyunsaturated fatty acid lipoxygenase ALOX15,SINGLE PROTEIN,Mus musculus,P39654,1,mapped,False,ChEMBL
+CHEMBL3334416,Transcriptional enhancer factor TEF-1,SINGLE PROTEIN,Homo sapiens,P28347,1,mapped,True,ChEMBL
+CHEMBL3580522,Programmed cell death 1 ligand 1,SINGLE PROTEIN,Homo sapiens,Q9NZQ7,1,mapped,True,ChEMBL
+CHEMBL3886125,Free fatty acid receptor 3,SINGLE PROTEIN,Rattus norvegicus,B2GV46,1,mapped,False,ChEMBL
+CHEMBL4295738,Gap junction beta-2 protein,SINGLE PROTEIN,Homo sapiens,P29033,1,mapped,True,ChEMBL
+CHEMBL4295828,Transcriptional enhancer factor TEF-3,SINGLE PROTEIN,Homo sapiens,Q15561,1,mapped,True,ChEMBL
+CHEMBL4523301,Transcriptional enhancer factor TEF-4,SINGLE PROTEIN,Homo sapiens,Q15562,1,mapped,True,ChEMBL
+CHEMBL4523435,Transcriptional enhancer factor TEF-5,SINGLE PROTEIN,Homo sapiens,Q99594,1,mapped,True,ChEMBL
+CHEMBL4523950,"Dihydroorotate dehydrogenase (quinone), mitochondrial",SINGLE PROTEIN,Schistosoma mansoni,G4VFD7,1,mapped,False,ChEMBL
+CHEMBL4680024,Gap junction alpha-1 protein,SINGLE PROTEIN,Homo sapiens,P17302,1,mapped,True,ChEMBL
