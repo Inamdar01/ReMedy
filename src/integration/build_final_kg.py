@@ -1,12 +1,14 @@
 from pathlib import Path
 import hashlib
+
 import pandas as pd
+
 
 ROOT = Path(__file__).resolve().parents[2]
 
-# ---------------------------------------------------------
+# =========================================================
 # INPUT FILES
-# ---------------------------------------------------------
+# =========================================================
 
 DRUG_DISEASE_FILE = (
     ROOT / "data/interim/drug_disease_relations_canonical.csv"
@@ -14,6 +16,10 @@ DRUG_DISEASE_FILE = (
 
 DRUG_PROTEIN_FILE = (
     ROOT / "data/interim/drug_protein_relations_canonical.csv"
+)
+
+PRIMEKG_DRUG_PROTEIN_FILE = (
+    ROOT / "data/interim/primekg_drug_protein_relations_canonical.csv"
 )
 
 DISEASE_PROTEIN_FILE = (
@@ -32,35 +38,26 @@ CHEMBL_MAPPING_FILE = (
     ROOT / "data/interim/chembl_target_uniprot_mapping_extended.csv"
 )
 
-# ---------------------------------------------------------
+# =========================================================
 # OUTPUT FILES
-# ---------------------------------------------------------
+# =========================================================
 
 PROCESSED_DIR = ROOT / "data/processed"
 
-NODES_FILE = (
-    PROCESSED_DIR / "nodes.parquet"
-)
-
-EDGES_FILE = (
-    PROCESSED_DIR / "edges.parquet"
-)
-
-EVIDENCE_FILE = (
-    PROCESSED_DIR / "evidence.parquet"
-)
+NODES_FILE = PROCESSED_DIR / "nodes.parquet"
+EDGES_FILE = PROCESSED_DIR / "edges.parquet"
+EVIDENCE_FILE = PROCESSED_DIR / "evidence.parquet"
 
 REPORT_FILE = (
     ROOT / "reports/final_kg_build_report.md"
 )
 
 
-# ---------------------------------------------------------
+# =========================================================
 # HELPERS
-# ---------------------------------------------------------
+# =========================================================
 
 def clean_string(value):
-    """Normalize a value to a clean string."""
     if pd.isna(value):
         return ""
 
@@ -68,8 +65,9 @@ def clean_string(value):
 
 
 def first_nonempty(*values):
-    """Return the first non-empty value."""
+
     for value in values:
+
         value = clean_string(value)
 
         if value:
@@ -79,9 +77,7 @@ def first_nonempty(*values):
 
 
 def join_unique(values):
-    """
-    Join unique non-empty values using '|'.
-    """
+
     cleaned = sorted(
         {
             clean_string(value)
@@ -93,12 +89,16 @@ def join_unique(values):
     return " | ".join(cleaned)
 
 
-def make_edge_id(source_id, relation, target_id):
-    """
-    Generate a stable edge ID from canonical endpoints.
-    """
+def make_edge_id(
+    source_id,
+    relation,
+    target_id,
+):
+
     key = (
-        f"{source_id}|{relation}|{target_id}"
+        f"{source_id}|"
+        f"{relation}|"
+        f"{target_id}"
     )
 
     digest = hashlib.sha1(
@@ -108,23 +108,23 @@ def make_edge_id(source_id, relation, target_id):
     return f"E_{digest}"
 
 
-# ---------------------------------------------------------
-# NODE REGISTRY
-# ---------------------------------------------------------
+# =========================================================
+# NODE BUILDER
+# =========================================================
 
-def add_node_records(
+def add_nodes(
     records,
-    ids,
+    node_ids,
     node_type,
     labels,
     source_database,
     priority=1,
 ):
-    """
-    Add candidate node records to the registry.
-    """
 
-    for node_id, label in zip(ids, labels):
+    for node_id, label in zip(
+        node_ids,
+        labels,
+    ):
 
         node_id = clean_string(node_id)
         label = clean_string(label)
@@ -146,6 +146,7 @@ def add_node_records(
 def build_nodes(
     drug_disease,
     drug_protein,
+    primekg_drug_protein,
     disease_protein,
     protein_pathway,
 ):
@@ -156,118 +157,123 @@ def build_nodes(
     # Drugs
     # -----------------------------------------------------
 
-    add_node_records(
+    add_nodes(
         records,
         drug_disease["chembl_id"],
         "drug",
         drug_disease["chembl_pref_name"],
         "ChEMBL|PrimeKG",
-        priority=1,
+        1,
     )
 
-    add_node_records(
+    add_nodes(
         records,
         drug_protein["chembl_id"],
         "drug",
         drug_protein["drug_name"],
         "ChEMBL",
-        priority=2,
+        2,
+    )
+
+    add_nodes(
+        records,
+        primekg_drug_protein["chembl_id"],
+        "drug",
+        primekg_drug_protein["chembl_pref_name"],
+        "ChEMBL|PrimeKG",
+        1,
     )
 
     # -----------------------------------------------------
     # Diseases
     # -----------------------------------------------------
 
-    add_node_records(
+    add_nodes(
         records,
         drug_disease["mondo_id"],
         "disease",
         drug_disease["mondo_name"],
         "MONDO|PrimeKG",
-        priority=1,
+        1,
     )
 
-    add_node_records(
+    add_nodes(
         records,
         disease_protein["mondo_id"],
         "disease",
         disease_protein["mondo_name"],
         "MONDO|PrimeKG",
-        priority=1,
+        1,
     )
 
     # -----------------------------------------------------
     # Proteins
     # -----------------------------------------------------
 
-    add_node_records(
+    add_nodes(
         records,
         disease_protein["uniprot_accession"],
         "protein",
         disease_protein["hgnc_symbol"],
         "UniProt|HGNC|PrimeKG",
-        priority=1,
+        1,
     )
 
-    add_node_records(
+    add_nodes(
         records,
         disease_protein["uniprot_accession"],
         "protein",
         disease_protein["hgnc_name"],
         "UniProt|HGNC|PrimeKG",
-        priority=2,
+        2,
     )
 
-    add_node_records(
+    add_nodes(
         records,
         drug_protein["uniprot_accession"],
         "protein",
         drug_protein["target_name"],
         "UniProt|ChEMBL",
-        priority=2,
+        2,
     )
 
-    add_node_records(
+    add_nodes(
         records,
-        drug_protein["uniprot_accession"],
+        primekg_drug_protein["uniprot_accession"],
         "protein",
-        drug_protein["uniprot_accession"],
-        "UniProt|ChEMBL",
-        priority=3,
+        primekg_drug_protein["hgnc_symbol"],
+        "UniProt|HGNC|PrimeKG",
+        1,
     )
 
-    add_node_records(
+    add_nodes(
         records,
         protein_pathway["uniprot_accession"],
         "protein",
-        protein_pathway["uniprot_accession"],
+        protein_pathway["pathway_name"],
         "UniProt|Reactome",
-        priority=3,
+        3,
     )
 
     # -----------------------------------------------------
     # Pathways
     # -----------------------------------------------------
 
-    add_node_records(
+    add_nodes(
         records,
         protein_pathway["reactome_pathway_id"],
         "pathway",
         protein_pathway["pathway_name"],
         "Reactome",
-        priority=1,
+        1,
     )
 
     nodes_raw = pd.DataFrame(records)
 
     if nodes_raw.empty:
         raise ValueError(
-            "No nodes were generated."
+            "No nodes generated."
         )
-
-    # -----------------------------------------------------
-    # Choose best label by priority
-    # -----------------------------------------------------
 
     nodes_raw = nodes_raw.sort_values(
         [
@@ -277,52 +283,38 @@ def build_nodes(
         ]
     )
 
-    labels = (
-        nodes_raw[
-            nodes_raw["label"].str.strip() != ""
-        ]
-        .groupby("node_id")["label"]
-        .first()
-    )
-
-    sources = (
+    # One canonical node per ID.
+    # Node IDs are globally unique across node types because
+    # the identifier namespaces are distinct.
+    nodes = (
         nodes_raw
-        .groupby("node_id")[
-            "source_database"
-        ]
-        .apply(join_unique)
+        .groupby(
+            "node_id",
+            as_index=False,
+        )
+        .agg(
+            node_type=(
+                "node_type",
+                "first",
+            ),
+            label=(
+                "label",
+                lambda s: next(
+                    (
+                        x
+                        for x in s
+                        if clean_string(x)
+                    ),
+                    "",
+                ),
+            ),
+            source_database=(
+                "source_database",
+                join_unique,
+            ),
+        )
     )
 
-    types = (
-        nodes_raw
-        .groupby("node_id")[
-            "node_type"
-        ]
-        .first()
-    )
-
-    nodes = pd.DataFrame(
-        {
-            "node_id": types.index,
-            "node_type": types.values,
-            "label": [
-                labels.get(
-                    node_id,
-                    node_id,
-                )
-                for node_id in types.index
-            ],
-            "source_database": [
-                sources.get(
-                    node_id,
-                    "unknown",
-                )
-                for node_id in types.index
-            ],
-        }
-    )
-
-    # Ensure exact schema
     nodes = nodes[
         [
             "node_id",
@@ -335,18 +327,19 @@ def build_nodes(
     return nodes
 
 
-# ---------------------------------------------------------
+# =========================================================
 # EDGE BUILDER
-# ---------------------------------------------------------
+# =========================================================
 
 def build_edges(
     drug_disease,
     drug_protein,
+    primekg_drug_protein,
     disease_protein,
     protein_pathway,
 ):
 
-    edge_frames = []
+    frames = []
 
     # -----------------------------------------------------
     # Drug → Disease
@@ -354,86 +347,79 @@ def build_edges(
 
     dd = pd.DataFrame(
         {
-            "source_id": drug_disease["chembl_id"],
-            "relation": drug_disease["relation"],
-            "target_id": drug_disease["mondo_id"],
-            "direction": "forward",
+            "source_id": drug_disease[
+                "chembl_id"
+            ],
+            "relation": drug_disease[
+                "relation"
+            ],
+            "target_id": drug_disease[
+                "mondo_id"
+            ],
         }
     )
 
-    dd["_key"] = (
-        dd["source_id"]
-        + "|"
-        + dd["relation"]
-        + "|"
-        + dd["target_id"]
-    )
-
-    dd["_evidence_type"] = "drug_disease"
-
-    edge_frames.append(dd)
+    frames.append(dd)
 
     # -----------------------------------------------------
-    # Drug → Protein
+    # Drug → Protein from ChEMBL
     # -----------------------------------------------------
 
-    dp = pd.DataFrame(
+    dp_chembl = pd.DataFrame(
         {
-            "source_id": drug_protein["chembl_id"],
+            "source_id": drug_protein[
+                "chembl_id"
+            ],
             "relation": "targets",
-            "target_id": drug_protein["uniprot_accession"],
-            "direction": "forward",
+            "target_id": drug_protein[
+                "uniprot_accession"
+            ],
         }
     )
 
-    dp["_key"] = (
-        dp["source_id"]
-        + "|"
-        + dp["relation"]
-        + "|"
-        + dp["target_id"]
+    frames.append(dp_chembl)
+
+    # -----------------------------------------------------
+    # Drug → Protein from PrimeKG
+    # -----------------------------------------------------
+
+    dp_primekg = pd.DataFrame(
+        {
+            "source_id": primekg_drug_protein[
+                "chembl_id"
+            ],
+            "relation": "targets",
+            "target_id": primekg_drug_protein[
+                "uniprot_accession"
+            ],
+        }
     )
 
-    dp["_evidence_type"] = "drug_protein"
-
-    edge_frames.append(dp)
+    frames.append(dp_primekg)
 
     # -----------------------------------------------------
     # Disease → Protein
-    #
-    # Generic association relation is used because the
-    # source table represents disease-associated proteins.
-    # We do not infer a more specific mechanism.
     # -----------------------------------------------------
 
-    dpp = pd.DataFrame(
+    disease_prot = pd.DataFrame(
         {
-            "source_id": disease_protein["mondo_id"],
+            "source_id": disease_protein[
+                "mondo_id"
+            ],
             "relation": "associated_with",
             "target_id": disease_protein[
                 "uniprot_accession"
             ],
-            "direction": "forward",
         }
     )
 
-    dpp["_key"] = (
-        dpp["source_id"]
-        + "|"
-        + dpp["relation"]
-        + "|"
-        + dpp["target_id"]
-    )
-
-    dpp["_evidence_type"] = "disease_protein"
-
-    edge_frames.append(dpp)
+    frames.append(disease_prot)
 
     # -----------------------------------------------------
     # Protein → Pathway
     # -----------------------------------------------------
 
-    pp = pd.DataFrame(
+    prot_path = pd.DataFrame(
         {
             "source_id": protein_pathway[
                 "uniprot_accession"
@@ -442,29 +428,24 @@ def build_edges(
             "target_id": protein_pathway[
                 "reactome_pathway_id"
             ],
-            "direction": "forward",
         }
     )
 
-    pp["_key"] = (
-        pp["source_id"]
-        + "|"
-        + pp["relation"]
-        + "|"
-        + pp["target_id"]
-    )
-
-    pp["_evidence_type"] = "protein_pathway"
-
-    edge_frames.append(pp)
+    frames.append(prot_path)
 
     all_edges = pd.concat(
-        edge_frames,
+        frames,
         ignore_index=True,
     )
 
     # -----------------------------------------------------
-    # Remove any accidental duplicate canonical edges
+    # Remove duplicate canonical edges.
+    #
+    # This is crucial for ChEMBL + PrimeKG overlap:
+    #
+    # Drug → Protein
+    #      one canonical edge
+    #      multiple evidence sources
     # -----------------------------------------------------
 
     all_edges = (
@@ -479,7 +460,10 @@ def build_edges(
         .copy()
     )
 
-    # Stable edge IDs
+    all_edges["direction"] = (
+        "forward"
+    )
+
     all_edges["edge_id"] = [
         make_edge_id(
             source_id,
@@ -497,13 +481,14 @@ def build_edges(
     return all_edges
 
 
-# ---------------------------------------------------------
+# =========================================================
 # EVIDENCE BUILDER
-# ---------------------------------------------------------
+# =========================================================
 
 def build_evidence(
     edges,
     drug_disease,
+    primekg_drug_protein,
     disease_protein,
     protein_pathway,
     chembl_evidence,
@@ -512,63 +497,43 @@ def build_evidence(
 
     evidence_frames = []
 
-    edge_lookup = (
-        edges[
-            [
-                "edge_id",
-                "source_id",
-                "relation",
-                "target_id",
-            ]
-        ]
-        .copy()
+    edge_keys = (
+        edges["source_id"]
+        + "|"
+        + edges["relation"]
+        + "|"
+        + edges["target_id"]
     )
 
-    edge_lookup["key"] = (
-        edge_lookup["source_id"]
-        + "|"
-        + edge_lookup["relation"]
-        + "|"
-        + edge_lookup["target_id"]
-    )
-
-    key_to_edge_id = dict(
+    edge_lookup = dict(
         zip(
-            edge_lookup["key"],
-            edge_lookup["edge_id"],
+            edge_keys,
+            edges["edge_id"],
         )
     )
 
     # =====================================================
-    # 1. Drug → Disease evidence
+    # 1. Drug → Disease : PrimeKG
     # =====================================================
 
-    dd_rows = []
+    rows = []
 
     for _, row in drug_disease.iterrows():
 
-        edge_key = (
+        key = (
             f"{row['chembl_id']}|"
             f"{row['relation']}|"
             f"{row['mondo_id']}"
         )
 
-        edge_id = key_to_edge_id.get(
-            edge_key
+        edge_id = edge_lookup.get(
+            key
         )
 
         if not edge_id:
             continue
 
-        context_parts = [
-            f"drugbank_id={row['drugbank_id']}",
-            f"primekg_disease_id={row['primekg_disease_id']}",
-            f"disease_source={row['disease_source']}",
-            f"mapping_status={row['mapping_status']}",
-            f"mapping_reason={row['mapping_reason']}",
-        ]
-
-        dd_rows.append(
+        rows.append(
             {
                 "edge_id": edge_id,
                 "source": "PrimeKG",
@@ -578,48 +543,94 @@ def build_evidence(
                 "cell_line": "unknown",
                 "activity_value": "unknown",
                 "context": "; ".join(
-                    context_parts
+                    [
+                        f"drugbank_id={row['drugbank_id']}",
+                        f"primekg_disease_id={row['primekg_disease_id']}",
+                        f"disease_source={row['disease_source']}",
+                        f"mapping_status={row['mapping_status']}",
+                        f"mapping_reason={row['mapping_reason']}",
+                    ]
                 ),
             }
         )
 
-    if dd_rows:
+    if rows:
         evidence_frames.append(
-            pd.DataFrame(dd_rows)
+            pd.DataFrame(rows)
         )
 
     # =====================================================
-    # 2. Disease → Protein evidence
+    # 2. Drug → Protein : PrimeKG
     # =====================================================
 
-    dpr_rows = []
+    rows = []
+
+    for _, row in primekg_drug_protein.iterrows():
+
+        key = (
+            f"{row['chembl_id']}|"
+            f"targets|"
+            f"{row['uniprot_accession']}"
+        )
+
+        edge_id = edge_lookup.get(
+            key
+        )
+
+        if not edge_id:
+            continue
+
+        rows.append(
+            {
+                "edge_id": edge_id,
+                "source": "PrimeKG",
+                "publication": "unknown",
+                "assay": "unknown",
+                "organism": "unknown",
+                "cell_line": "unknown",
+                "activity_value": "unknown",
+                "context": "; ".join(
+                    [
+                        f"drugbank_id={row['drugbank_id']}",
+                        f"entrez_id={row['entrez_id']}",
+                        f"protein_gene_symbol={row['protein_gene_symbol']}",
+                        f"hgnc_id={row['hgnc_id']}",
+                        f"hgnc_symbol={row['hgnc_symbol']}",
+                        f"hgnc_name={row['hgnc_name']}",
+                        f"drug_source={row['drug_source']}",
+                        f"protein_source={row['protein_source']}",
+                    ]
+                ),
+            }
+        )
+
+    if rows:
+        evidence_frames.append(
+            pd.DataFrame(rows)
+        )
+
+    # =====================================================
+    # 3. Disease → Protein : PrimeKG
+    # =====================================================
+
+    rows = []
 
     for _, row in disease_protein.iterrows():
 
-        edge_key = (
+        key = (
             f"{row['mondo_id']}|"
             f"associated_with|"
             f"{row['uniprot_accession']}"
         )
 
-        edge_id = key_to_edge_id.get(
-            edge_key
+        edge_id = edge_lookup.get(
+            key
         )
 
         if not edge_id:
             continue
 
-        context_parts = [
-            f"disease_primekg_id={row['disease_primekg_id']}",
-            f"disease_source={row['disease_source']}",
-            f"protein_entrez_id={row['protein_entrez_id']}",
-            f"protein_gene_symbol={row['protein_gene_symbol']}",
-            f"protein_source={row['protein_source']}",
-            f"hgnc_id={row['hgnc_id']}",
-            f"hgnc_symbol={row['hgnc_symbol']}",
-        ]
-
-        dpr_rows.append(
+        rows.append(
             {
                 "edge_id": edge_id,
                 "source": "PrimeKG",
@@ -629,44 +640,46 @@ def build_evidence(
                 "cell_line": "unknown",
                 "activity_value": "unknown",
                 "context": "; ".join(
-                    context_parts
+                    [
+                        f"disease_primekg_id={row['disease_primekg_id']}",
+                        f"disease_source={row['disease_source']}",
+                        f"protein_entrez_id={row['protein_entrez_id']}",
+                        f"protein_gene_symbol={row['protein_gene_symbol']}",
+                        f"protein_source={row['protein_source']}",
+                        f"hgnc_id={row['hgnc_id']}",
+                        f"hgnc_symbol={row['hgnc_symbol']}",
+                    ]
                 ),
             }
         )
 
-    if dpr_rows:
+    if rows:
         evidence_frames.append(
-            pd.DataFrame(dpr_rows)
+            pd.DataFrame(rows)
         )
 
     # =====================================================
-    # 3. Protein → Pathway evidence
+    # 4. Protein → Pathway : Reactome
     # =====================================================
 
-    pp_rows = []
+    rows = []
 
     for _, row in protein_pathway.iterrows():
 
-        edge_key = (
+        key = (
             f"{row['uniprot_accession']}|"
             f"participates_in|"
             f"{row['reactome_pathway_id']}"
         )
 
-        edge_id = key_to_edge_id.get(
-            edge_key
+        edge_id = edge_lookup.get(
+            key
         )
 
         if not edge_id:
             continue
 
-        context_parts = [
-            f"pathway_name={row['pathway_name']}",
-            f"evidence_count={row['evidence_count']}",
-            f"evidence_codes={row['evidence_codes']}",
-        ]
-
-        pp_rows.append(
+        rows.append(
             {
                 "edge_id": edge_id,
                 "source": "Reactome",
@@ -676,23 +689,26 @@ def build_evidence(
                 "cell_line": "unknown",
                 "activity_value": "unknown",
                 "context": "; ".join(
-                    context_parts
+                    [
+                        f"pathway_name={row['pathway_name']}",
+                        f"evidence_count={row['evidence_count']}",
+                        f"evidence_codes={row['evidence_codes']}",
+                    ]
                 ),
             }
         )
 
-    if pp_rows:
+    if rows:
         evidence_frames.append(
-            pd.DataFrame(pp_rows)
+            pd.DataFrame(rows)
         )
 
     # =====================================================
-    # 4. Drug → Protein ChEMBL evidence
+    # 5. Drug → Protein : ChEMBL assay evidence
     # =====================================================
 
     print(
-        "\nMapping ChEMBL evidence to canonical "
-        "Drug → Protein edges..."
+        "\nMapping ChEMBL evidence..."
     )
 
     mapping = chembl_mapping.copy()
@@ -718,15 +734,7 @@ def build_evidence(
         ]
     ].drop_duplicates()
 
-    chembl_ev = chembl_evidence.copy()
-
-    chembl_ev["target_id"] = (
-        chembl_ev["target_id"]
-        .astype(str)
-        .str.strip()
-    )
-
-    mapped_ev = chembl_ev.merge(
+    mapped_ev = chembl_evidence.merge(
         mapping,
         on="target_id",
         how="inner",
@@ -734,7 +742,7 @@ def build_evidence(
 
     print(
         f"ChEMBL evidence rows before mapping: "
-        f"{len(chembl_ev):,}"
+        f"{len(chembl_evidence):,}"
     )
 
     print(
@@ -742,19 +750,12 @@ def build_evidence(
         f"{len(mapped_ev):,}"
     )
 
-    # Avoid exact repeated evidence for the same
-    # activity → protein mapping.
     mapped_ev = mapped_ev.drop_duplicates(
         subset=[
             "activity_id",
             "uniprot_accession",
         ]
     )
-
-    # -----------------------------------------------------
-    # Match only edges that actually exist in the
-    # canonical human Drug → Protein layer.
-    # -----------------------------------------------------
 
     mapped_ev["edge_key"] = (
         mapped_ev["chembl_id"]
@@ -764,20 +765,20 @@ def build_evidence(
 
     mapped_ev = mapped_ev[
         mapped_ev["edge_key"].isin(
-            key_to_edge_id
+            set(edge_lookup.keys())
         )
     ].copy()
 
     print(
-        f"ChEMBL evidence rows linked to final edges: "
+        f"ChEMBL evidence linked to final edges: "
         f"{len(mapped_ev):,}"
     )
 
-    chembl_rows = []
+    rows = []
 
     for _, row in mapped_ev.iterrows():
 
-        edge_id = key_to_edge_id.get(
+        edge_id = edge_lookup.get(
             row["edge_key"]
         )
 
@@ -798,9 +799,7 @@ def build_evidence(
             ),
             (
                 f"Document:{row['document_id']}"
-                if clean_string(
-                    row["document_id"]
-                )
+                if clean_string(row["document_id"])
                 else ""
             ),
             "unknown",
@@ -809,9 +808,7 @@ def build_evidence(
         assay = first_nonempty(
             (
                 f"Assay:{row['assay_id']}"
-                if clean_string(
-                    row["assay_id"]
-                )
+                if clean_string(row["assay_id"])
                 else ""
             ),
             "unknown",
@@ -827,51 +824,40 @@ def build_evidence(
             "unknown",
         )
 
-        activity_value = "unknown"
-
-        if clean_string(
-            row["standard_value"]
-        ):
-
-            activity_parts = [
-                clean_string(
-                    row["standard_type"]
-                ),
-                clean_string(
-                    row["standard_relation"]
-                ),
-                clean_string(
-                    row["standard_value"]
-                ),
-                clean_string(
-                    row["standard_units"]
-                ),
-            ]
-
-            activity_value = " ".join(
+        activity_value = first_nonempty(
+            " ".join(
                 x
-                for x in activity_parts
+                for x in [
+                    clean_string(row["standard_type"]),
+                    clean_string(row["standard_relation"]),
+                    clean_string(row["standard_value"]),
+                    clean_string(row["standard_units"]),
+                ]
                 if x
-            )
+            ),
+            "unknown",
+        )
 
-        context_parts = [
-            f"activity_id={row['activity_id']}",
-            f"target_id={row['target_id']}",
-            f"target_name={row['target_name']}",
-            f"target_type={row['target_type']}",
-            f"activity_type_raw={row['activity_type_raw']}",
-            f"assay_type={row['assay_type']}",
-            f"assay_description={row['assay_description']}",
-            f"organism_class={row['organism_class']}",
-            f"assay_organism_class={row['assay_organism_class']}",
-            f"pchembl_value={row['pchembl_value']}",
-            f"data_validity_comment={row['data_validity_comment']}",
-            f"value_quality={row['value_quality']}",
-            f"target_organism={row['target_organism']}",
-            f"organism_source={row['organism_source']}",
-        ]
+        context = "; ".join(
+            [
+                f"activity_id={row['activity_id']}",
+                f"target_id={row['target_id']}",
+                f"target_name={row['target_name']}",
+                f"target_type={row['target_type']}",
+                f"activity_type_raw={row['activity_type_raw']}",
+                f"assay_type={row['assay_type']}",
+                f"assay_description={row['assay_description']}",
+                f"organism_class={row['organism_class']}",
+                f"assay_organism_class={row['assay_organism_class']}",
+                f"pchembl_value={row['pchembl_value']}",
+                f"data_validity_comment={row['data_validity_comment']}",
+                f"value_quality={row['value_quality']}",
+                f"target_organism={row['target_organism']}",
+                f"organism_source={row['organism_source']}",
+            ]
+        )
 
-        chembl_rows.append(
+        rows.append(
             {
                 "edge_id": edge_id,
                 "source": "ChEMBL",
@@ -880,19 +866,17 @@ def build_evidence(
                 "organism": organism,
                 "cell_line": cell_line,
                 "activity_value": activity_value,
-                "context": "; ".join(
-                    context_parts
-                ),
+                "context": context,
             }
         )
 
-    if chembl_rows:
+    if rows:
         evidence_frames.append(
-            pd.DataFrame(chembl_rows)
+            pd.DataFrame(rows)
         )
 
     # =====================================================
-    # Combine evidence
+    # Combine all evidence
     # =====================================================
 
     if evidence_frames:
@@ -916,10 +900,6 @@ def build_evidence(
                 "context",
             ]
         )
-
-    # -----------------------------------------------------
-    # Final evidence cleanup
-    # -----------------------------------------------------
 
     for column in [
         "source",
@@ -959,9 +939,9 @@ def build_evidence(
     return evidence
 
 
-# ---------------------------------------------------------
+# =========================================================
 # MAIN
-# ---------------------------------------------------------
+# =========================================================
 
 def main():
 
@@ -970,10 +950,12 @@ def main():
     print("=" * 70)
 
     # -----------------------------------------------------
-    # Load canonical relation tables
+    # Load
     # -----------------------------------------------------
 
-    print("\nLoading canonical relation tables...")
+    print(
+        "\nLoading canonical relation tables..."
+    )
 
     drug_disease = pd.read_csv(
         DRUG_DISEASE_FILE,
@@ -982,6 +964,11 @@ def main():
 
     drug_protein = pd.read_csv(
         DRUG_PROTEIN_FILE,
+        dtype=str,
+    ).fillna("")
+
+    primekg_drug_protein = pd.read_csv(
+        PRIMEKG_DRUG_PROTEIN_FILE,
         dtype=str,
     ).fillna("")
 
@@ -1006,68 +993,89 @@ def main():
     ).fillna("")
 
     print(
-        f"Drug-Disease: {len(drug_disease):,}"
+        f"Drug-Disease: "
+        f"{len(drug_disease):,}"
     )
 
     print(
-        f"Drug-Protein: {len(drug_protein):,}"
+        f"ChEMBL Drug-Protein: "
+        f"{len(drug_protein):,}"
     )
 
     print(
-        f"Disease-Protein: {len(disease_protein):,}"
+        f"PrimeKG Drug-Protein: "
+        f"{len(primekg_drug_protein):,}"
     )
 
     print(
-        f"Protein-Pathway: {len(protein_pathway):,}"
+        f"Disease-Protein: "
+        f"{len(disease_protein):,}"
     )
 
     print(
-        f"ChEMBL evidence: {len(chembl_evidence):,}"
+        f"Protein-Pathway: "
+        f"{len(protein_pathway):,}"
+    )
+
+    print(
+        f"ChEMBL evidence: "
+        f"{len(chembl_evidence):,}"
     )
 
     # -----------------------------------------------------
-    # Build nodes
+    # Nodes
     # -----------------------------------------------------
 
-    print("\nBuilding nodes...")
+    print(
+        "\nBuilding nodes..."
+    )
 
     nodes = build_nodes(
         drug_disease,
         drug_protein,
+        primekg_drug_protein,
         disease_protein,
         protein_pathway,
     )
 
     print(
-        f"Unique nodes: {len(nodes):,}"
+        f"Unique nodes: "
+        f"{len(nodes):,}"
     )
 
     # -----------------------------------------------------
-    # Build edges
+    # Edges
     # -----------------------------------------------------
 
-    print("\nBuilding edges...")
+    print(
+        "\nBuilding edges..."
+    )
 
     edges = build_edges(
         drug_disease,
         drug_protein,
+        primekg_drug_protein,
         disease_protein,
         protein_pathway,
     )
 
     print(
-        f"Unique canonical edges: {len(edges):,}"
+        f"Unique canonical edges: "
+        f"{len(edges):,}"
     )
 
     # -----------------------------------------------------
-    # Build evidence
+    # Evidence
     # -----------------------------------------------------
 
-    print("\nBuilding evidence...")
+    print(
+        "\nBuilding evidence..."
+    )
 
     evidence = build_evidence(
         edges,
         drug_disease,
+        primekg_drug_protein,
         disease_protein,
         protein_pathway,
         chembl_evidence,
@@ -1075,11 +1083,12 @@ def main():
     )
 
     print(
-        f"Evidence rows: {len(evidence):,}"
+        f"Evidence rows: "
+        f"{len(evidence):,}"
     )
 
     # -----------------------------------------------------
-    # Calculate edge evidence counts
+    # Edge evidence counts
     # -----------------------------------------------------
 
     evidence_counts = (
@@ -1108,7 +1117,7 @@ def main():
     ]
 
     # -----------------------------------------------------
-    # Final deterministic sorting
+    # Deterministic sorting
     # -----------------------------------------------------
 
     nodes = nodes.sort_values(
@@ -1131,17 +1140,13 @@ def main():
     ).reset_index(drop=True)
 
     # -----------------------------------------------------
-    # Ensure output directory
+    # Save
     # -----------------------------------------------------
 
     PROCESSED_DIR.mkdir(
         parents=True,
         exist_ok=True,
     )
-
-    # -----------------------------------------------------
-    # Save Parquet files
-    # -----------------------------------------------------
 
     nodes.to_parquet(
         NODES_FILE,
@@ -1174,20 +1179,69 @@ def main():
         .sort_index()
     )
 
-    evidence_source_counts = (
+    evidence_sources = (
         evidence["source"]
         .value_counts()
         .sort_index()
     )
 
-    edges_with_evidence = int(
-        (edges["evidence_count"] > 0)
-        .sum()
+    # Distinct source count per edge.
+    edge_source_counts = (
+        evidence
+        .groupby("edge_id")["source"]
+        .nunique()
     )
 
-    edges_without_evidence = int(
-        (edges["evidence_count"] == 0)
-        .sum()
+    multi_source_edges = int(
+        (
+            edge_source_counts
+            >= 2
+        ).sum()
+    )
+
+    single_source_edges = int(
+        (
+            edge_source_counts
+            == 1
+        ).sum()
+    )
+
+    edges_with_evidence = int(
+        (
+            edges["evidence_count"]
+            > 0
+        ).sum()
+    )
+
+    # Specifically Drug → Protein multi-source coverage.
+    dp_edge_ids = set(
+        edges.loc[
+            edges["relation"] == "targets",
+            "edge_id",
+        ]
+    )
+
+    dp_source_counts = (
+        evidence[
+            evidence["edge_id"]
+            .isin(dp_edge_ids)
+        ]
+        .groupby("edge_id")["source"]
+        .nunique()
+    )
+
+    dp_multi_source = int(
+        (
+            dp_source_counts
+            >= 2
+        ).sum()
+    )
+
+    dp_single_source = int(
+        (
+            dp_source_counts
+            == 1
+        ).sum()
     )
 
     # -----------------------------------------------------
@@ -1222,14 +1276,30 @@ def main():
 ## Evidence
 
 - Total evidence rows: {len(evidence):,}
-- Edges with >=1 evidence row: {edges_with_evidence:,}
-- Edges with 0 evidence rows: {edges_without_evidence:,}
+- Edges with >=1 evidence record: {edges_with_evidence:,}
+- Edges without evidence: {len(edges) - edges_with_evidence:,}
 
 ### Evidence source distribution
 
-{evidence_source_counts.to_frame("evidence_rows").to_markdown()}
+{evidence_sources.to_frame("evidence_rows").to_markdown()}
 
-## Canonical identifier policy
+## Multi-source coverage
+
+- Single-source edges: {single_source_edges:,}
+- Multi-source edges: {multi_source_edges:,}
+
+### Drug → Protein specifically
+
+- Drug → Protein edges: {len(dp_edge_ids):,}
+- Single-source Drug → Protein edges: {dp_single_source:,}
+- Multi-source Drug → Protein edges: {dp_multi_source:,}
+- Multi-source Drug → Protein coverage: {
+    (dp_multi_source / len(dp_edge_ids) * 100)
+    if len(dp_edge_ids)
+    else 0
+:.2f}%
+
+## Canonical identifiers
 
 - Drug: ChEMBL ID
 - Disease: MONDO ID
@@ -1238,41 +1308,50 @@ def main():
 
 ## Relation semantics
 
-- Drug → Disease relations remain separate:
+- Drug → Disease:
   - indication
   - off-label use
   - contraindication
-- Drug → Protein uses the generic `targets` relation.
-- Disease → Protein uses the generic `associated_with` relation.
-- Protein → Pathway uses `participates_in`.
+- Drug → Protein:
+  - targets
+- Disease → Protein:
+  - associated_with
+- Protein → Pathway:
+  - participates_in
 
-Mechanistic relations such as `inhibits` or `activates`
-were not inferred from activity types.
+Mechanistic `inhibits` or `activates` relations are not inferred
+from activity values.
+
+## Multi-source Drug → Protein policy
+
+ChEMBL and PrimeKG records that refer to the same canonical
+ChEMBL → UniProt edge are represented as one edge with
+multiple evidence sources.
+
+Different source records are retained in `evidence.parquet`.
 
 ## Evidence policy
 
-- ChEMBL assay-level evidence is linked to canonical
-  human ChEMBL-target → UniProt edges.
+- ChEMBL assay-level evidence is preserved.
+- PrimeKG provenance is preserved.
+- Reactome provenance and evidence codes are preserved.
 - Assay organism is preserved as recorded.
 - Missing context is represented as `unknown`.
-- PrimeKG provenance is retained in the evidence context.
-- Reactome evidence codes are retained in the evidence context.
 - Non-human assay evidence is not relabeled as human evidence.
 
-## Important scope note
+## Scope note
 
 No separate gene relation layer is constructed because the
-current canonical disease-protein source combines gene/protein
-information. Gene edges are not inferred from protein records.
+current canonical disease-protein layer combines gene/protein
+information. Gene edges are not inferred.
 
 ## Integrity
 
-The final edge table uses stable deterministic edge IDs
-generated from:
+Edge IDs are deterministic hashes of:
 
 `source_id | relation | target_id`
 
-The final evidence table references these edge IDs.
+The evidence table references those edge IDs.
 """
 
     REPORT_FILE.parent.mkdir(
@@ -1286,12 +1365,12 @@ The final evidence table references these edge IDs.
     )
 
     # -----------------------------------------------------
-    # Terminal summary
+    # Terminal
     # -----------------------------------------------------
 
     print()
     print("=" * 70)
-    print("FINAL RE MEDY KG BUILD COMPLETE")
+    print("FINAL REMEDY KG BUILD COMPLETE")
     print("=" * 70)
 
     print(
@@ -1312,15 +1391,31 @@ The final evidence table references these edge IDs.
     )
 
     print(
-        f"Edges without evidence: "
-        f"{edges_without_evidence:,}"
+        f"Multi-source edges: "
+        f"{multi_source_edges:,}"
+    )
+
+    print(
+        f"Multi-source Drug → Protein edges: "
+        f"{dp_multi_source:,}"
     )
 
     print()
-    print(f"Saved: {NODES_FILE}")
-    print(f"Saved: {EDGES_FILE}")
-    print(f"Saved: {EVIDENCE_FILE}")
-    print(f"Saved: {REPORT_FILE}")
+    print(
+        f"Saved: {NODES_FILE}"
+    )
+
+    print(
+        f"Saved: {EDGES_FILE}"
+    )
+
+    print(
+        f"Saved: {EVIDENCE_FILE}"
+    )
+
+    print(
+        f"Saved: {REPORT_FILE}"
+    )
 
     print("=" * 70)
 

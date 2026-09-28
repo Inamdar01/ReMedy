@@ -8,16 +8,16 @@
 
 ## Nodes
 
-- Total nodes: 5,113
+- Total nodes: 5,401
 - Drugs: 568
 - Diseases: 12
-- Proteins: 2,464
+- Proteins: 2,752
 - Pathways: 2,069
 - Genes: 0
 
 ## Edges
 
-- Total canonical edges: 52,371
+- Total canonical edges: 56,208
 
 ### Relation distribution
 
@@ -28,23 +28,35 @@
 | indication       |          249 |
 | off-label use    |           47 |
 | participates_in  |        18088 |
-| targets          |        30516 |
+| targets          |        34353 |
 
 ## Evidence
 
-- Total evidence rows: 84,024
-- Edges with >=1 evidence row: 52,371
-- Edges with 0 evidence rows: 0
+- Total evidence rows: 89,853
+- Edges with >=1 evidence record: 56,208
+- Edges without evidence: 0
 
 ### Evidence source distribution
 
 | source   |   evidence_rows |
 |:---------|----------------:|
 | ChEMBL   |           62169 |
-| PrimeKG  |            3767 |
+| PrimeKG  |            9596 |
 | Reactome |           18088 |
 
-## Canonical identifier policy
+## Multi-source coverage
+
+- Single-source edges: 54,216
+- Multi-source edges: 1,992
+
+### Drug → Protein specifically
+
+- Drug → Protein edges: 34,353
+- Single-source Drug → Protein edges: 32,361
+- Multi-source Drug → Protein edges: 1,992
+- Multi-source Drug → Protein coverage: 5.80%
+
+## Canonical identifiers
 
 - Drug: ChEMBL ID
 - Disease: MONDO ID
@@ -53,38 +65,47 @@
 
 ## Relation semantics
 
-- Drug → Disease relations remain separate:
+- Drug → Disease:
   - indication
   - off-label use
   - contraindication
-- Drug → Protein uses the generic `targets` relation.
-- Disease → Protein uses the generic `associated_with` relation.
-- Protein → Pathway uses `participates_in`.
+- Drug → Protein:
+  - targets
+- Disease → Protein:
+  - associated_with
+- Protein → Pathway:
+  - participates_in
 
-Mechanistic relations such as `inhibits` or `activates`
-were not inferred from activity types.
+Mechanistic `inhibits` or `activates` relations are not inferred
+from activity values.
+
+## Multi-source Drug → Protein policy
+
+ChEMBL and PrimeKG records that refer to the same canonical
+ChEMBL → UniProt edge are represented as one edge with
+multiple evidence sources.
+
+Different source records are retained in `evidence.parquet`.
 
 ## Evidence policy
 
-- ChEMBL assay-level evidence is linked to canonical
-  human ChEMBL-target → UniProt edges.
+- ChEMBL assay-level evidence is preserved.
+- PrimeKG provenance is preserved.
+- Reactome provenance and evidence codes are preserved.
 - Assay organism is preserved as recorded.
 - Missing context is represented as `unknown`.
-- PrimeKG provenance is retained in the evidence context.
-- Reactome evidence codes are retained in the evidence context.
 - Non-human assay evidence is not relabeled as human evidence.
 
-## Important scope note
+## Scope note
 
 No separate gene relation layer is constructed because the
-current canonical disease-protein source combines gene/protein
-information. Gene edges are not inferred from protein records.
+current canonical disease-protein layer combines gene/protein
+information. Gene edges are not inferred.
 
 ## Integrity
 
-The final edge table uses stable deterministic edge IDs
-generated from:
+Edge IDs are deterministic hashes of:
 
 `source_id | relation | target_id`
 
-The final evidence table references these edge IDs.
+The evidence table references those edge IDs.

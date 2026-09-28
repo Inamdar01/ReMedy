@@ -10,10 +10,10 @@ Validation performed directly against the final Parquet KG files.
 
 ## 2. Counts
 
-- Nodes: 5,113
-- Edges: 52,371
-- Evidence records: 84,024
-- Edges with evidence: 52,371
+- Nodes: 5,401
+- Edges: 56,208
+- Evidence records: 89,853
+- Edges with evidence: 56,208
 - Evidence coverage: 100.00%
 
 ## 3. Node types
@@ -23,7 +23,7 @@ Validation performed directly against the final Parquet KG files.
 | disease | 12 |
 | drug | 568 |
 | pathway | 2,069 |
-| protein | 2,464 |
+| protein | 2,752 |
 
 ## 4. Relations
 
@@ -34,14 +34,14 @@ Validation performed directly against the final Parquet KG files.
 | indication | 249 |
 | off-label use | 47 |
 | participates_in | 18,088 |
-| targets | 30,516 |
+| targets | 34,353 |
 
 ## 5. Evidence sources
 
 | Source | Records |
 |---|---:|
 | ChEMBL | 62,169 |
-| PrimeKG | 3,767 |
+| PrimeKG | 9,596 |
 | Reactome | 18,088 |
 
 ## 6. Integrity checks

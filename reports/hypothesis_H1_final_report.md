@@ -17,8 +17,8 @@ connectivity than non-known Drug-Disease pairs.
 
 ## Final KG used
 
-- Nodes: 5,113
-- Edges: 52,371
+- Nodes: 5,401
+- Edges: 56,208
 - Unique drugs: 568
 - Unique diseases: 12
 - Known Drug-Disease pairs: 1,086
@@ -47,16 +47,16 @@ One-sided Mann-Whitney U test:
 | Metric | Known | Non-known |
 |---|---:|---:|
 | Number of pairs | 1,086 | 5,730 |
-| Median connectivity | 126.0000 | 58.0000 |
-| Non-zero connectivity | 85.08% | 83.44% |
+| Median connectivity | 131.0000 | 68.0000 |
+| Non-zero connectivity | 96.69% | 95.17% |
 
 ### Statistical result
 
-- U statistic: 3,660,544.50
-- p-value: 1.0546e-20
-- Rank-biserial effect size: 0.1765
-- Median difference: 68.0000
-- 95% bootstrap CI: [59.5000, 74.0000]
+- U statistic: 3,785,590.00
+- p-value: 4.13466e-30
+- Rank-biserial effect size: 0.2167
+- Median difference: 63.0000
+- 95% bootstrap CI: [54.0000, 71.0000]
 
 ## Interpretation
 
