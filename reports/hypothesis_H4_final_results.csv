@@ -1,0 +1,8 @@
+metric,matched,mismatched
+rows,3623.0,1596.0
+mean_informativeness,1.8625448523323214,1.8546365914786966
+median_informativeness,2.0,2.0
+observed_difference,0.007908260853624727,
+bootstrap_ci_low,-0.02315459069285128,
+bootstrap_ci_high,0.03955174560054579,
+permutation_p_value,0.3421315736852629,
