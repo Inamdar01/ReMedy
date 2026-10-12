@@ -1,0 +1,5 @@
+branch,source,relation,target
+Drug → Protein → Pathway,CHEMBL717,targets,P21397
+Drug → Protein → Pathway,P21397,participates_in,R-HSA-112310
+Drug → Disease → Protein,CHEMBL2105760,indication,MONDO:0005090
+Drug → Disease → Protein,MONDO:0005090,associated_with,Q8TE12
