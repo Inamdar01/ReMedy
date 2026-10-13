@@ -1,0 +1,48 @@
+======================================================================
+REMEDY EXPLAINABLE CANDIDATE REPORT AUDIT
+======================================================================
+Report rows: 20
+Unique drugs: 9
+Unique diseases: 6
+
+[PASS] Candidate drug-disease pairs are unique
+       Duplicate pairs: 0
+[PASS] Report contains 20 candidates
+       Rows found: 20
+[PASS] All R-GCN scores are numeric
+       Missing/non-numeric scores: 0
+[PASS] Candidates are sorted by descending score
+       Score range: 0.486281 to 0.487865
+[PASS] Scores are within the sigmoid output range
+       This range check does not establish calibration.
+[PASS] Shared protein IDs match reported counts
+       Mismatches: 0
+[PASS] Shared pathway IDs match reported counts
+       Mismatches: 0
+[PASS] Candidate assay counts match the direct evidence file
+       Mismatches: 0
+[PASS] Repeated assays across diseases are identified
+       Drug/activity combinations reused across diseases: 15. This can be expected; it is not automatically an error.
+[PASS] Candidates without ChEMBL records are clearly countable
+       No ChEMBL records in this export: 8
+[PASS] Candidates with no shared proteins are identified
+       No shared proteins: 3
+[PASS] Candidates with no shared pathways are identified
+       No shared pathways: 0
+
+ASSAY COUNT MISMATCH DETAILS
+----------------------------------------------------------------------
+None
+
+PROTEIN COUNT MISMATCH DETAILS
+----------------------------------------------------------------------
+None
+
+PATHWAY COUNT MISMATCH DETAILS
+----------------------------------------------------------------------
+None
+
+INTERPRETATION
+----------------------------------------------------------------------
+This audit checks report consistency, not biological validity.
+A passing audit does not prove candidate efficacy or model accuracy.

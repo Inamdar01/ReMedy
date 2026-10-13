@@ -1,0 +1,15 @@
+drug_id,disease_id,treatment_relations,contraindication_present,exclusion_reason
+CHEMBL1059,MONDO:0005618,indication,True,conflicting treatment/contraindication labels
+CHEMBL12,MONDO:0005618,off-label use,True,conflicting treatment/contraindication labels
+CHEMBL1508,MONDO:0004985,off-label use,True,conflicting treatment/contraindication labels
+CHEMBL41,MONDO:0004985,indication,True,conflicting treatment/contraindication labels
+CHEMBL451,MONDO:0005618,off-label use,True,conflicting treatment/contraindication labels
+CHEMBL452,MONDO:0005618,indication,True,conflicting treatment/contraindication labels
+CHEMBL490,MONDO:0004985,off-label use,True,conflicting treatment/contraindication labels
+CHEMBL549,MONDO:0004985,off-label use,True,conflicting treatment/contraindication labels
+CHEMBL580,MONDO:0005618,indication,True,conflicting treatment/contraindication labels
+CHEMBL661,MONDO:0005618,indication,True,conflicting treatment/contraindication labels
+CHEMBL715,MONDO:0004985,indication,True,conflicting treatment/contraindication labels
+CHEMBL809,MONDO:0004985,off-label use,True,conflicting treatment/contraindication labels
+CHEMBL814,MONDO:0004985,off-label use,True,conflicting treatment/contraindication labels
+CHEMBL894,MONDO:0005618,indication,True,conflicting treatment/contraindication labels

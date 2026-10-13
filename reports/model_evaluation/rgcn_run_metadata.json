@@ -1,0 +1,32 @@
+{
+  "model": "R-GCN",
+  "dataset_version": "ReMedy-KG v1.0",
+  "seed": 42,
+  "device": "cpu",
+  "hidden_dimension": 64,
+  "dropout": 0.2,
+  "learning_rate": 0.005,
+  "weight_decay": 0.001,
+  "best_epoch": 2,
+  "best_validation_auprc": 0.6828303791245842,
+  "support_relations": [
+    "targets",
+    "participates_in",
+    "associated_with"
+  ],
+  "inverse_relations_added": true,
+  "treatment_relations_used_in_message_passing": false,
+  "contraindications_used_in_message_passing": false,
+  "validation_metrics": {
+    "roc_auc": 0.6381249999999999,
+    "auprc_average_precision": 0.6828303791245842,
+    "precision_at_10": 0.8,
+    "recall_at_10": 0.2
+  },
+  "test_metrics": {
+    "roc_auc": 0.6222486615110053,
+    "auprc_average_precision": 0.6128459611288837,
+    "precision_at_10": 0.7,
+    "recall_at_10": 0.17073170731707318
+  }
+}

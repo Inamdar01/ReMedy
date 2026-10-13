@@ -1,0 +1,81 @@
+drug_id,disease_id,label,label_source,split
+CHEMBL109,MONDO:0004985,1,off-label use,validation
+CHEMBL20,MONDO:0005027,1,off-label use,validation
+CHEMBL1508,MONDO:0005618,1,indication;off-label use,validation
+CHEMBL827,MONDO:0007743,1,indication,validation
+CHEMBL396778,MONDO:0005180,1,indication,validation
+CHEMBL2311030,MONDO:0001627,1,indication,validation
+CHEMBL1508,MONDO:0002009,1,indication,validation
+CHEMBL895,MONDO:0007743,0,sampled_unobserved_pair,validation
+CHEMBL2220442,MONDO:0005098,1,off-label use,validation
+CHEMBL1324,MONDO:0005180,1,indication,validation
+CHEMBL1175,MONDO:0005277,0,sampled_unobserved_pair,validation
+CHEMBL405,MONDO:0007743,1,indication,validation
+CHEMBL1027,MONDO:0005277,0,sampled_unobserved_pair,validation
+CHEMBL93047,MONDO:0005027,1,indication,validation
+CHEMBL32350,MONDO:0005098,0,sampled_unobserved_pair,validation
+CHEMBL301265,MONDO:0001627,0,sampled_unobserved_pair,validation
+CHEMBL521606,MONDO:0001627,0,sampled_unobserved_pair,validation
+CHEMBL248594,MONDO:0005618,0,sampled_unobserved_pair,validation
+CHEMBL654,MONDO:0005090,0,sampled_unobserved_pair,validation
+CHEMBL18116,MONDO:0005180,0,sampled_unobserved_pair,validation
+CHEMBL660,MONDO:0005180,1,indication,validation
+CHEMBL33986,MONDO:0005180,0,sampled_unobserved_pair,validation
+CHEMBL796,MONDO:0005618,1,off-label use,validation
+CHEMBL384467,MONDO:0005098,0,sampled_unobserved_pair,validation
+CHEMBL1697766,MONDO:0005090,1,indication,validation
+CHEMBL1093,MONDO:0005301,0,sampled_unobserved_pair,validation
+CHEMBL1370,MONDO:0004985,0,sampled_unobserved_pair,validation
+CHEMBL493982,MONDO:0004975,0,sampled_unobserved_pair,validation
+CHEMBL502,MONDO:0004975,1,indication,validation
+CHEMBL1118,MONDO:0005618,1,indication;off-label use,validation
+CHEMBL1095777,MONDO:0005180,0,sampled_unobserved_pair,validation
+CHEMBL54976,MONDO:0005180,0,sampled_unobserved_pair,validation
+CHEMBL113,MONDO:0005277,1,indication,validation
+CHEMBL374975,MONDO:0005301,0,sampled_unobserved_pair,validation
+CHEMBL1201168,MONDO:0005098,0,sampled_unobserved_pair,validation
+CHEMBL18116,MONDO:0005618,1,indication,validation
+CHEMBL32350,MONDO:0004975,0,sampled_unobserved_pair,validation
+CHEMBL2028019,MONDO:0005090,1,indication,validation
+CHEMBL1120,MONDO:0004975,0,sampled_unobserved_pair,validation
+CHEMBL448,MONDO:0005027,1,indication,validation
+CHEMBL668,MONDO:0005180,0,sampled_unobserved_pair,validation
+CHEMBL439849,MONDO:0002009,1,indication,validation
+CHEMBL1237021,MONDO:0004985,1,indication,validation
+CHEMBL2103738,MONDO:0004985,1,indication;off-label use,validation
+CHEMBL1328898,MONDO:0005180,1,indication,validation
+CHEMBL40,MONDO:0005090,0,sampled_unobserved_pair,validation
+CHEMBL72,MONDO:0007743,1,off-label use,validation
+CHEMBL178803,MONDO:0005090,1,indication,validation
+CHEMBL1412,MONDO:0005618,0,sampled_unobserved_pair,validation
+CHEMBL1200973,MONDO:0004985,0,sampled_unobserved_pair,validation
+CHEMBL861,MONDO:0005277,0,sampled_unobserved_pair,validation
+CHEMBL1222251,MONDO:0004985,0,sampled_unobserved_pair,validation
+CHEMBL1100,MONDO:0005027,1,indication,validation
+CHEMBL3707328,MONDO:0005277,1,indication,validation
+CHEMBL135400,MONDO:0001627,0,sampled_unobserved_pair,validation
+CHEMBL1185,MONDO:0005277,1,indication,validation
+CHEMBL659,MONDO:0005090,0,sampled_unobserved_pair,validation
+CHEMBL1112,MONDO:0005090,1,indication,validation
+CHEMBL61006,MONDO:0005301,0,sampled_unobserved_pair,validation
+CHEMBL568,MONDO:0001627,0,sampled_unobserved_pair,validation
+CHEMBL689,MONDO:0007743,0,sampled_unobserved_pair,validation
+CHEMBL623,MONDO:0004985,1,off-label use,validation
+CHEMBL1487,MONDO:0005098,1,indication,validation
+CHEMBL3989887,MONDO:0005618,0,sampled_unobserved_pair,validation
+CHEMBL86304,MONDO:0004985,0,sampled_unobserved_pair,validation
+CHEMBL154,MONDO:0007743,0,sampled_unobserved_pair,validation
+CHEMBL811,MONDO:0004975,0,sampled_unobserved_pair,validation
+CHEMBL112,MONDO:0005277,1,indication,validation
+CHEMBL549,MONDO:0002009,1,indication,validation
+CHEMBL1201222,MONDO:0007743,1,indication,validation
+CHEMBL918,MONDO:0005618,0,sampled_unobserved_pair,validation
+CHEMBL4297756,MONDO:0005277,1,indication,validation
+CHEMBL1909283,MONDO:0005618,1,indication,validation
+CHEMBL3833320,MONDO:0005277,1,indication,validation
+CHEMBL43708,MONDO:0007743,0,sampled_unobserved_pair,validation
+CHEMBL418995,MONDO:0005618,1,indication,validation
+CHEMBL696,MONDO:0004985,0,sampled_unobserved_pair,validation
+CHEMBL742,MONDO:0005277,0,sampled_unobserved_pair,validation
+CHEMBL71,MONDO:0005090,1,indication,validation
+CHEMBL728,MONDO:0007743,0,sampled_unobserved_pair,validation

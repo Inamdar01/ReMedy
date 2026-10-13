@@ -1,0 +1,9 @@
+{
+  "dataset_version": "ReMedy-KG v1.0",
+  "checkpoint": "models/rgcn_baseline.pt",
+  "score_interpretation": "Sigmoid-transformed R-GCN ranking score; not a calibrated probability or clinical efficacy estimate.",
+  "candidate_definition": "Drug-disease pairs with no indication, off-label use, or contraindication edge in the frozen KG.",
+  "candidate_count": 5730,
+  "model_selected_epoch": 2,
+  "best_validation_auprc": 0.6828303791245842
+}

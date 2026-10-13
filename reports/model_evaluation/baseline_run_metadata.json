@@ -1,0 +1,25 @@
+{
+  "dataset_version": "ReMedy-KG v1.0",
+  "random_seed": 42,
+  "features": [
+    "shared_protein_count",
+    "shared_protein_jaccard",
+    "shared_pathway_count",
+    "shared_pathway_jaccard",
+    "drug_target_count",
+    "disease_protein_count",
+    "drug_pathway_count",
+    "disease_pathway_count"
+  ],
+  "logistic_regression_selected_C": 1.0,
+  "best_validation_auprc": 0.6945006593386115,
+  "training_positive_count": 189,
+  "validation_positive_count": 40,
+  "test_positive_count": 41,
+  "feature_relations_used": {
+    "targets": 34353,
+    "participates_in": 18088,
+    "associated_with": 2655
+  },
+  "treatment_labels_used_as_features": false
+}

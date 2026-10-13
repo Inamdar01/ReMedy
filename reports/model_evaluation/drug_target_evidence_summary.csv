@@ -1,0 +1,31 @@
+drug_name,target_name,target_organism,candidate_diseases,assay_records,assay_types,activity_values,publications
+DEXMETHYLPHENIDATE,SLC6A3,Homo sapiens,schizophrenia,4,"IC50, Ki","IC50 = 156.0 nM, IC50 = 88.0 nM, Ki = 16.0 nM, Ki = 25.0 nM","Document:CHEMBL1136769, Document:CHEMBL1641574, Document:CHEMBL2062423"
+FROVATRIPTAN,HDAC6,Homo sapiens,"Parkinson disease, anxiety disorder, major depressive disorder, schizophrenia",2,inhibition,"Inhibition = -10.95 %, Inhibition = 9.03 %",Document:CHEMBL4808148
+FROVATRIPTAN,HTR1A,Homo sapiens,"Parkinson disease, anxiety disorder, major depressive disorder, schizophrenia",1,Ki,Ki = 62.0 nM,Document:CHEMBL1132575
+FROVATRIPTAN,HTR1B,Homo sapiens,"Parkinson disease, anxiety disorder, major depressive disorder, schizophrenia",2,Ki,"Ki = 10.3 nM, Ki = 4.4 nM","Document:CHEMBL1132575, Document:CHEMBL5344475"
+FROVATRIPTAN,HTR1D,Homo sapiens,"Parkinson disease, anxiety disorder, major depressive disorder, schizophrenia",2,Ki,Ki = 4.4 nM,"Document:CHEMBL1132575, Document:CHEMBL5344475"
+GEPIRONE,DRD2,Homo sapiens,"Parkinson disease, epilepsy, migraine disorder, schizophrenia",2,Ki,"Ki = 4320.0 nM, Ki = 58.0 nM","Document:CHEMBL1147799, Document:CHEMBL4033775"
+GEPIRONE,HTR1A,Homo sapiens,"Parkinson disease, epilepsy, migraine disorder, schizophrenia",5,"Activity, EC50, IC50, Ki, pKd","Activity = 80.0 %, EC50 = 288.0 nM, IC50 = 114.0 nM, Kd = 79.43 nM, Ki = 13.0 nM","Document:CHEMBL1147799, Document:CHEMBL1148245, Document:CHEMBL1155229"
+GEPIRONE,HTR2A,Homo sapiens,"Parkinson disease, epilepsy, migraine disorder, schizophrenia",1,Ki,Ki = 3630.0 nM,Document:CHEMBL4033775
+METHYLPHENIDATE,SLC6A2,Homo sapiens,schizophrenia,3,"IC50, Ki","IC50 = 61.0 nM, Ki = 340.0 nM, Ki = 660.0 nM","Document:CHEMBL1139231, Document:CHEMBL3351632"
+METHYLPHENIDATE,SLC6A3,Homo sapiens,schizophrenia,4,"IC50, Ki","IC50 = 17.0 nM, IC50 = 79.0 nM, Ki = 110.0 nM, Ki = 34.0 nM","Document:CHEMBL1136769, Document:CHEMBL1139231, Document:CHEMBL3351632"
+METHYLPHENIDATE,SLC6A4,Homo sapiens,schizophrenia,3,"IC50, Ki","IC50 = 5100.0 nM, Ki = 65000.0 nM, Ki > 10000.0 nM","Document:CHEMBL1139231, Document:CHEMBL3351632"
+PHENYLTOLOXAMINE,DRD1,Homo sapiens,schizophrenia,1,Ki,Ki = 343.0 nM,Document:CHEMBL1138672
+PHENYLTOLOXAMINE,DRD2,Homo sapiens,schizophrenia,1,Ki,Ki = 2740.0 nM,Document:CHEMBL1138672
+PHENYLTOLOXAMINE,DRD3,Homo sapiens,schizophrenia,1,Ki,Ki > 10000.0 nM,Document:CHEMBL1138672
+PHENYLTOLOXAMINE,DRD4,Homo sapiens,schizophrenia,1,Ki,Ki = 2765.0 nM,Document:CHEMBL1138672
+PHENYLTOLOXAMINE,DRD5,Homo sapiens,schizophrenia,1,Ki,Ki = 414.0 nM,Document:CHEMBL1138672
+VILAZODONE,AGER,Homo sapiens,schizophrenia,1,IC50,IC50 > 200000.0 nM,Document:CHEMBL5154874
+VILAZODONE,CYP1A2,Homo sapiens,schizophrenia,1,INH,Inhibition = 14.4 %,Document:CHEMBL5154874
+VILAZODONE,CYP2C19,Homo sapiens,schizophrenia,1,INH,Inhibition = 51.3 %,Document:CHEMBL5154874
+VILAZODONE,CYP2C9,Homo sapiens,schizophrenia,1,INH,Inhibition = 49.2 %,Document:CHEMBL5154874
+VILAZODONE,CYP3A4,Homo sapiens,schizophrenia,1,INH,Inhibition = 29.0 %,Document:CHEMBL5154874
+VILAZODONE,DRD2,Homo sapiens,schizophrenia,1,Ki,Ki = 666.0 nM,Document:CHEMBL2034919
+VILAZODONE,HDAC6,Homo sapiens,schizophrenia,2,inhibition,"Inhibition = -11.2 %, Inhibition = -2.01 %",Document:CHEMBL4808148
+VILAZODONE,HTR1A,Homo sapiens,schizophrenia,5,EC50,"EC50 = 0.12 nM, EC50 = 0.3 nM, EC50 = 0.79 nM, EC50 = 1.02 nM","Document:CHEMBL4118156, Document:CHEMBL4342404, Document:CHEMBL5046241, Document:CHEMBL5614373"
+VILAZODONE,HTR1B,Homo sapiens,schizophrenia,1,EC50,EC50 > 30000.0 nM,Document:CHEMBL5046241
+VILAZODONE,HTR7,Homo sapiens,schizophrenia,1,Ki,Ki = 3900.0 nM,Document:CHEMBL4406867
+VILAZODONE,KCNH2,Homo sapiens,schizophrenia,2,IC50,"IC50 = 5550.0 nM, IC50 = 5600.0 nM","Document:CHEMBL5046241, Document:CHEMBL5154874"
+VILAZODONE,SLC6A2,Homo sapiens,schizophrenia,1,IC50,IC50 = 158.1 nM,Document:CHEMBL5046241
+VILAZODONE,SLC6A3,Homo sapiens,schizophrenia,1,IC50,IC50 = 295.0 nM,Document:CHEMBL5046241
+VILAZODONE,SLC6A4,Homo sapiens,schizophrenia,5,IC50,"IC50 = 0.4 nM, IC50 = 0.48 nM, IC50 = 0.67 nM","Document:CHEMBL4118156, Document:CHEMBL5046241, Document:CHEMBL5154874, Document:CHEMBL5316302, Document:CHEMBL5614373"

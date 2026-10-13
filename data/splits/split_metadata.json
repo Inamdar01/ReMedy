@@ -1,0 +1,40 @@
+{
+  "dataset_version": "ReMedy-KG v1.0",
+  "random_seed": 42,
+  "positive_definition": "indication or off-label use, excluding pairs that also have a contraindication",
+  "negative_definition": "sampled pairs with no treatment-use and no contraindication relationship in the frozen KG; these are unobserved candidates, not proven negatives",
+  "split_method": "random pair-level split",
+  "positive_split_counts": {
+    "train": 189,
+    "validation": 40,
+    "test": 41
+  },
+  "split_sizes": {
+    "train": {
+      "positive": 189,
+      "negative": 189,
+      "total": 378
+    },
+    "validation": {
+      "positive": 40,
+      "negative": 40,
+      "total": 80
+    },
+    "test": {
+      "positive": 41,
+      "negative": 41,
+      "total": 82
+    }
+  },
+  "indication_unique_pairs": 249,
+  "off_label_unique_pairs": 47,
+  "unique_treatment_pairs_before_conflict_exclusion": 284,
+  "conflicting_pairs_excluded": 14,
+  "unambiguous_positive_pairs": 270,
+  "contraindication_only_pairs": 802,
+  "available_unobserved_negative_pool": 5730,
+  "training_graph_edge_count": 56094,
+  "training_graph_evidence_rows": 89739,
+  "training_graph_edges_without_evidence": 0,
+  "heldout_treatment_edges_leakage": 0
+}

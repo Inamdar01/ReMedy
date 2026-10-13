@@ -1,0 +1,3 @@
+model,split,roc_auc,auprc_average_precision,precision_at_10,recall_at_10
+R-GCN,validation,0.6381249999999999,0.6828303791245842,0.8,0.2
+R-GCN,test,0.6222486615110053,0.6128459611288837,0.7,0.17073170731707318
